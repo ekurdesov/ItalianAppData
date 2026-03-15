@@ -1,0 +1,119 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-4",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: Ha il ragazzo?",
+      "Grammatica: verbo avere",
+      "Lessico: i numeri da 10 a 100",
+      "Attività comunicativa: Quanti anni hai?"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Present tense of avere",
+      "description": "The verb 'avere' is used to express possession and age.",
+      "conjugations": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "category": "Grammar",
+      "rule": "Essere vs avere",
+      "description": "Italian uses 'essere' for identity and description, and 'avere' for possession and age.",
+      "examples": [
+        { "it": "Carla è bella.", "en": "Carla is beautiful." },
+        { "it": "Carla ha 27 anni.", "en": "Carla is 27 years old." },
+        { "it": "Ho vent'anni.", "en": "I am twenty years old." }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking and saying age: formal vs informal",
+      "description": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking age.",
+      "examples": [
+        { "context": "informal", "it": "Quanti anni hai?", "en": "How old are you?" },
+        { "context": "informal", "it": "E tu?", "en": "And you?" },
+        { "context": "formal", "it": "Quanti anni ha?", "en": "How old are you? (formal)" },
+        { "context": "formal", "it": "E Lei?", "en": "And you? (formal)" },
+        { "context": "answer", "it": "Ho ... anni.", "en": "I am ... years old." },
+        { "context": "answer", "it": "Ne ho ...", "en": "I am ... years old." }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Talking about same age and age groups",
+      "description": "Italian has common expressions for being the same age and describing age.",
+      "examples": [
+        { "it": "coetaneo / coetanea", "en": "peer; person of the same age" },
+        { "it": "Siamo coetanei.", "en": "We are the same age." },
+        { "it": "Abbiamo la stessa età.", "en": "We are the same age." },
+        { "it": "giovane / anziano", "en": "young / elderly" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "term": "avere", "definition": "to have", "type": "verb" },
+    { "term": "ho", "definition": "I have", "type": "verb form" },
+    { "term": "hai", "definition": "you have", "type": "verb form" },
+    { "term": "ha", "definition": "he/she has; you have (formal)", "type": "verb form" },
+    { "term": "abbiamo", "definition": "we have", "type": "verb form" },
+    { "term": "avete", "definition": "you all have", "type": "verb form" },
+    { "term": "hanno", "definition": "they have", "type": "verb form" },
+    { "term": "quanti anni hai?", "definition": "how old are you?", "type": "phrase" },
+    { "term": "quanti anni ha?", "definition": "how old are you? (formal)", "type": "phrase" },
+    { "term": "ho ... anni", "definition": "I am ... years old", "type": "phrase" },
+    { "term": "ne ho ...", "definition": "I am ... years old", "type": "phrase" },
+    { "term": "coetaneo", "definition": "peer; same-age person", "type": "vocabulary" },
+    { "term": "la stessa età", "definition": "the same age", "type": "phrase" },
+    { "term": "giovane", "definition": "young", "type": "adjective" },
+    { "term": "anziano", "definition": "elderly", "type": "adjective" },
+    { "term": "ragazzo", "definition": "boy; boyfriend", "type": "noun" },
+    { "term": "bella", "definition": "beautiful", "type": "adjective" },
+    { "term": "carina", "definition": "cute; pretty", "type": "adjective" },
+    { "term": "età", "definition": "age", "type": "vocabulary" },
+    { "term": "dieci", "definition": "ten", "type": "number" },
+    { "term": "undici", "definition": "eleven", "type": "number" },
+    { "term": "dodici", "definition": "twelve", "type": "number" },
+    { "term": "tredici", "definition": "thirteen", "type": "number" },
+    { "term": "quattordici", "definition": "fourteen", "type": "number" },
+    { "term": "quindici", "definition": "fifteen", "type": "number" },
+    { "term": "sedici", "definition": "sixteen", "type": "number" },
+    { "term": "diciassette", "definition": "seventeen", "type": "number" },
+    { "term": "diciotto", "definition": "eighteen", "type": "number" },
+    { "term": "diciannove", "definition": "nineteen", "type": "number" },
+    { "term": "venti", "definition": "twenty", "type": "number" },
+    { "term": "vent'anni", "definition": "twenty years old", "type": "phrase" },
+    { "term": "ventun anni", "definition": "twenty-one years old", "type": "phrase" },
+    { "term": "ventott'anni", "definition": "twenty-eight years old", "type": "phrase" },
+    { "term": "sono contento(a) di vederti", "definition": "I am happy to see you", "type": "phrase" },
+    { "term": "anch'io", "definition": "me too", "type": "phrase" },
+    { "term": "altrettanto", "definition": "likewise", "type": "phrase" },
+    { "term": "non c'è male", "definition": "not bad", "type": "phrase" },
+    { "term": "così così", "definition": "so-so", "type": "phrase" },
+    { "term": "insomma", "definition": "so-so; all in all", "type": "adverb" },
+    { "term": "week end", "definition": "weekend", "type": "vocabulary" },
+    { "term": "fine settimana", "definition": "weekend", "type": "vocabulary" }
+  ],
+  "classroom_instructions": [
+    { "it": "Chiudete il libro e ascoltate il dialogo.", "en": "Close the book and listen to the dialogue." },
+    { "it": "Rispondete.", "en": "Answer." },
+    { "it": "Di chi parlano i due ragazzi?", "en": "Who are the two boys talking about?" },
+    { "it": "Quali aggettivi usano per descrivere questa persona?", "en": "Which adjectives do they use to describe this person?" },
+    { "it": "Abbinate.", "en": "Match." },
+    { "it": "Leggete e verificate.", "en": "Read and check." },
+    { "it": "Completate.", "en": "Complete." },
+    { "it": "Completate con avere.", "en": "Complete with 'avere'." },
+    { "it": "Completate con essere.", "en": "Complete with 'essere'." },
+    { "it": "Rimettete in ordine.", "en": "Put in order." },
+    { "it": "Cancellate i numeri sulle schede.", "en": "Cross out the numbers on the cards." },
+    { "it": "Dove si completa una riga?", "en": "Where do you complete a row?" }
+  ]
+}

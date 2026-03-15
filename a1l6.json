@@ -1,0 +1,192 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-6",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale",
+      "Numeri da 0 a 10",
+      "Il sostantivo",
+      "L'aggettivo",
+      "Presentarsi",
+      "Salutare",
+      "Fonetica: lettere D/T"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Noun gender by common endings",
+      "description": "Some Italian noun endings strongly suggest grammatical gender.",
+      "sub_rules": [
+        {
+          "pattern": "-ore, -ale, -ile, -iere, -tore",
+          "gender": "masculine",
+          "examples": [
+            { "it": "il cameriere", "en": "the waiter" },
+            { "it": "il ventilatore", "en": "the fan" }
+          ]
+        },
+        {
+          "pattern": "-sione, -zione, -gione, -trice",
+          "gender": "feminine",
+          "examples": [
+            { "it": "la colazione", "en": "breakfast" },
+            { "it": "la direttrice", "en": "the female director" }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Noun pluralization",
+      "description": "Italian nouns usually change their final vowel in the plural.",
+      "sub_rules": [
+        {
+          "singular": "-o",
+          "plural": "-i",
+          "examples": [
+            { "it": "ragazzo -> ragazzi", "en": "boy -> boys" },
+            { "it": "libro -> libri", "en": "book -> books" }
+          ]
+        },
+        {
+          "singular": "-a",
+          "plural": "-e",
+          "examples": [
+            { "it": "ragazza -> ragazze", "en": "girl -> girls" },
+            { "it": "strada -> strade", "en": "street -> streets" }
+          ]
+        },
+        {
+          "singular": "-e",
+          "plural": "-i",
+          "examples": [
+            { "it": "signore -> signori", "en": "man/gentleman -> men/gentlemen" },
+            { "it": "quartiere -> quartieri", "en": "neighborhood -> neighborhoods" }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Adjectives in -o agree in gender and number",
+      "description": "Adjectives ending in -o change to match the noun: masculine singular -o, feminine singular -a, masculine plural -i, feminine plural -e.",
+      "examples": [
+        { "it": "un bambino piccolo", "en": "a small boy" },
+        { "it": "una ragazza educata", "en": "a polite girl" },
+        { "it": "due ragazzi educati", "en": "two polite boys" },
+        { "it": "due ragazze carine", "en": "two pretty girls" }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Present tense of essere",
+      "description": "Used for identity and descriptions.",
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "category": "Grammar",
+      "rule": "Present tense of chiamarsi",
+      "description": "Used to ask and say names.",
+      "conjugations": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      }
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Introducing yourself and asking names",
+      "description": "Italian uses different forms for informal (tu) and formal (Lei) introductions.",
+      "examples": [
+        { "context": "informal", "it": "Come ti chiami?", "en": "What is your name?" },
+        { "context": "formal", "it": "Come si chiama?", "en": "What is your name?" },
+        { "context": "statement", "it": "Mi chiamo Paolo.", "en": "My name is Paolo." },
+        { "context": "statement", "it": "Il mio cognome è...", "en": "My surname is..." }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Greeting and leave-taking: formal vs informal",
+      "description": "Greeting formulas depend on time of day and level of formality.",
+      "examples": [
+        { "context": "arrival", "it": "Ciao!", "en": "Hi/bye!" },
+        { "context": "arrival", "it": "Buongiorno!", "en": "Good morning / good day" },
+        { "context": "arrival", "it": "Buonasera!", "en": "Good evening" },
+        { "context": "departure", "it": "Arrivederci!", "en": "Goodbye" },
+        { "context": "departure", "it": "Arrivederla!", "en": "Goodbye (formal)" },
+        { "context": "departure", "it": "A presto!", "en": "See you soon" }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Letters D and T",
+      "description": "Students practice distinguishing and pronouncing words with /d/ and /t/.",
+      "examples": [
+        { "it": "dì / ti", "en": "say! / you" },
+        { "it": "divano / tardi", "en": "sofa / late" },
+        { "it": "dito / tema", "en": "finger / theme" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "term": "zero", "definition": "zero", "type": "number" },
+    { "term": "uno", "definition": "one", "type": "number" },
+    { "term": "due", "definition": "two", "type": "number" },
+    { "term": "tre", "definition": "three", "type": "number" },
+    { "term": "quattro", "definition": "four", "type": "number" },
+    { "term": "cinque", "definition": "five", "type": "number" },
+    { "term": "sei", "definition": "six", "type": "number" },
+    { "term": "sette", "definition": "seven", "type": "number" },
+    { "term": "otto", "definition": "eight", "type": "number" },
+    { "term": "nove", "definition": "nine", "type": "number" },
+    { "term": "dieci", "definition": "ten", "type": "number" },
+    { "term": "nome", "definition": "first name", "type": "vocabulary" },
+    { "term": "cognome", "definition": "surname, last name", "type": "vocabulary" },
+    { "term": "piacere", "definition": "pleased to meet you", "type": "phrase" },
+    { "term": "piacere mio", "definition": "the pleasure is mine", "type": "phrase" },
+    { "term": "altrettanto", "definition": "likewise", "type": "phrase" },
+    { "term": "buongiorno", "definition": "good morning / good day", "type": "greeting" },
+    { "term": "buonasera", "definition": "good evening", "type": "greeting" },
+    { "term": "salve", "definition": "hello", "type": "greeting" },
+    { "term": "arrivederci", "definition": "goodbye", "type": "greeting" },
+    { "term": "arrivederla", "definition": "goodbye (formal)", "type": "greeting" },
+    { "term": "buona notte", "definition": "good night", "type": "greeting" },
+    { "term": "a presto", "definition": "see you soon", "type": "greeting" },
+    { "term": "a dopo", "definition": "see you later", "type": "greeting" },
+    { "term": "ci vediamo", "definition": "see you", "type": "greeting" },
+    { "term": "cameriere", "definition": "waiter", "type": "noun" },
+    { "term": "ventilatore", "definition": "fan", "type": "noun" },
+    { "term": "colazione", "definition": "breakfast", "type": "noun" },
+    { "term": "direttrice", "definition": "female director", "type": "noun" },
+    { "term": "bello", "definition": "beautiful, nice", "type": "adjective" },
+    { "term": "simpatico", "definition": "nice, likeable", "type": "adjective" },
+    { "term": "contento", "definition": "happy", "type": "adjective" },
+    { "term": "nuovo", "definition": "new", "type": "adjective" },
+    { "term": "carino", "definition": "cute, nice", "type": "adjective" }
+  ],
+  "classroom_instructions": [
+    { "it": "Abbinate.", "en": "Match." },
+    { "it": "Completate.", "en": "Complete." },
+    { "it": "Fate frasi.", "en": "Make sentences." },
+    { "it": "Trasformate al plurale.", "en": "Change to the plural." },
+    { "it": "Ascoltate e cerchiate.", "en": "Listen and circle." },
+    { "it": "Riascoltiamo?", "en": "Shall we listen again?" },
+    { "it": "Che numeri sentite?", "en": "Which numbers do you hear?" },
+    { "it": "Che numeri non sentite?", "en": "Which numbers do you not hear?" },
+    { "it": "Scrivete la somma.", "en": "Write the sum." },
+    { "it": "Quanto fa...?", "en": "What does ... equal?" },
+    { "it": "Leggete le parole.", "en": "Read the words." }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-1",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Fare conoscenza",
+      "Parole e lettere",
+      "Fonetica: le vocali"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Phonetics",
+      "rule": "Italian vowel contrast",
+      "description": "Italian vowels must be pronounced clearly because small vowel changes can change meaning or even gender.",
+      "examples": [
+        { "it": "colore / calore", "en": "color / heat" },
+        { "it": "Paolo / Paola", "en": "male name / female name" }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Stressed final vowels with accents",
+      "description": "Some Italian words carry a written accent on the final vowel, which signals the stressed syllable.",
+      "examples": [
+        { "it": "caffè", "en": "coffee" },
+        { "it": "città", "en": "city" }
+      ]
+    },
+    {
+      "category": "Orthography",
+      "rule": "Italian spelling names letters and double consonants explicitly",
+      "description": "When spelling aloud, Italian uses letter names and marks double consonants with 'doppia' plus the consonant name.",
+      "examples": [
+        { "it": "cappuccino", "en": "cappuccino", "spelling": "ci - a - doppia pi - u - doppia ci - i - enne - o" },
+        { "it": "Bologna", "en": "Bologna", "note": "letter-by-letter spelling practice" }
+      ]
+    },
+    {
+      "category": "Orthography",
+      "rule": "The sound of 'ci' in number words",
+      "description": "In words like 'cinque', 'dieci', 'undici' and 'dodici', 'ci' is pronounced with the [tʃ] sound.",
+      "examples": [
+        { "it": "cinque", "en": "five" },
+        { "it": "dieci", "en": "ten" },
+        { "it": "undici", "en": "eleven" },
+        { "it": "dodici", "en": "twelve" }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "term": "uno", "definition": "one", "type": "number" },
+    { "term": "due", "definition": "two", "type": "number" },
+    { "term": "tre", "definition": "three", "type": "number" },
+    { "term": "quattro", "definition": "four", "type": "number" },
+    { "term": "cinque", "definition": "five", "type": "number" },
+    { "term": "sei", "definition": "six", "type": "number" },
+    { "term": "sette", "definition": "seven", "type": "number" },
+    { "term": "otto", "definition": "eight", "type": "number" },
+    { "term": "nove", "definition": "nine", "type": "number" },
+    { "term": "dieci", "definition": "ten", "type": "number" },
+    { "term": "undici", "definition": "eleven", "type": "number" },
+    { "term": "dodici", "definition": "twelve", "type": "number" },
+    { "term": "stazione", "definition": "station", "type": "vocabulary" },
+    { "term": "mare", "definition": "sea", "type": "vocabulary" },
+    { "term": "gelato", "definition": "ice cream", "type": "vocabulary" },
+    { "term": "museo", "definition": "museum", "type": "vocabulary" },
+    { "term": "pasta", "definition": "pasta", "type": "vocabulary" },
+    { "term": "albergo", "definition": "hotel", "type": "vocabulary" },
+    { "term": "piazza", "definition": "square", "type": "vocabulary" },
+    { "term": "vino", "definition": "wine", "type": "vocabulary" },
+    { "term": "mercato", "definition": "market", "type": "vocabulary" },
+    { "term": "macchina", "definition": "car", "type": "vocabulary" },
+    { "term": "opera", "definition": "opera", "type": "culture" },
+    { "term": "treno", "definition": "train", "type": "vocabulary" },
+    { "term": "studente", "definition": "student", "type": "people" },
+    { "term": "insegnante", "definition": "teacher", "type": "people" },
+    { "term": "leggere", "definition": "to read", "type": "verb" },
+    { "term": "parlare", "definition": "to speak", "type": "verb" },
+    { "term": "ascoltare", "definition": "to listen", "type": "verb" },
+    { "term": "scrivere", "definition": "to write", "type": "verb" },
+    { "term": "guardare", "definition": "to watch, to look at", "type": "verb" },
+    { "term": "abbinare", "definition": "to match", "type": "verb" },
+    { "term": "completare", "definition": "to complete", "type": "verb" },
+    { "term": "sottolineare", "definition": "to underline", "type": "verb" },
+    { "term": "pagina", "definition": "page", "type": "classroom vocabulary" },
+    { "term": "esercizio", "definition": "exercise", "type": "classroom vocabulary" }
+  ],
+  "classroom_instructions": [
+    { "it": "Associate le parole alle immagini.", "en": "Match the words to the pictures." },
+    { "it": "Verificate i risultati.", "en": "Check the results." },
+    { "it": "Ordinate.", "en": "Put in order." },
+    { "it": "Ascoltate e ripetete.", "en": "Listen and repeat." },
+    { "it": "Leggete queste sigle in italiano.", "en": "Read these abbreviations in Italian." },
+    { "it": "Lavorate in coppia.", "en": "Work in pairs." },
+    { "it": "Fate lo spelling.", "en": "Spell it out." },
+    { "it": "Seguite l'esempio.", "en": "Follow the example." },
+    { "it": "Leggete le parole.", "en": "Read the words." },
+    { "it": "Occhio alle vocali!", "en": "Watch the vowels!" },
+    { "it": "Leggete.", "en": "Read." },
+    { "it": "Abbinate le parole alle immagini.", "en": "Match the words to the pictures." }
+  ],
+  "acronym_practice": [
+    "sigle in italiano"
+  ]
+}

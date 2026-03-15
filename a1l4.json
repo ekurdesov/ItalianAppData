@@ -1,0 +1,206 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-4",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: essere e chiamarsi",
+      "Comprensione orale: 'Scusi, Lei come si chiama?'",
+      "Attività comunicativa: presentarsi",
+      "Fonetica: lettera G"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Present tense of essere",
+      "description": "The verb 'essere' is used to identify people and state who someone is.",
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "category": "Grammar",
+      "rule": "Present tense of chiamarsi",
+      "description": "The reflexive verb 'chiamarsi' is used to ask and say names.",
+      "conjugations": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      }
+    },
+    {
+      "category": "Grammar",
+      "rule": "Italian personal pronouns",
+      "description": "The lesson reviews the core subject pronouns used with 'essere' and 'chiamarsi'.",
+      "examples": [
+        { "it": "io", "en": "I" },
+        { "it": "tu", "en": "you (informal singular)" },
+        { "it": "lui / lei / Lei", "en": "he / she / you (formal)" },
+        { "it": "noi", "en": "we" },
+        { "it": "voi", "en": "you (plural)" },
+        { "it": "loro", "en": "they" }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking and giving names: formal vs informal",
+      "description": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking for someone's name and surname.",
+      "examples": [
+        { "context": "informal", "it": "Come ti chiami?", "en": "What is your name?" },
+        { "context": "formal", "it": "Come si chiama?", "en": "What is your name? (formal)" },
+        { "context": "informal", "it": "E di cognome?", "en": "And your surname?" },
+        { "context": "formal", "it": "E il Suo?", "en": "And yours? (formal)" },
+        { "context": "statement", "it": "Il mio nome è...", "en": "My name is..." },
+        { "context": "statement", "it": "Il mio cognome è...", "en": "My surname is..." }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Reacting during introductions",
+      "description": "Standard formulas are used when meeting someone for the first time.",
+      "examples": [
+        { "it": "Piacere di conoscerti.", "en": "Nice to meet you. (informal)" },
+        { "it": "Piacere di conoscerla.", "en": "Nice to meet you. (formal)" },
+        { "it": "Molto lieto/a.", "en": "Very pleased." },
+        { "it": "Piacere.", "en": "Pleasure." },
+        { "it": "Piacere mio.", "en": "The pleasure is mine." },
+        { "it": "Altrettanto.", "en": "Likewise." }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Formal vs informal greetings",
+      "description": "Greetings and leave-taking expressions vary by time of day and level of formality.",
+      "examples": [
+        { "context": "arrival informal", "it": "Ciao!", "en": "Hi!" },
+        { "context": "arrival formal", "it": "Buongiorno! / Buon dì!", "en": "Good morning / good day!" },
+        { "context": "arrival formal", "it": "Buonasera!", "en": "Good evening!" },
+        { "context": "arrival formal", "it": "Salve!", "en": "Hello!" },
+        { "context": "departure formal", "it": "ArrivederLa!", "en": "Goodbye (formal)" },
+        { "context": "departure", "it": "Arrivederci!", "en": "Goodbye" },
+        { "context": "departure", "it": "Buona giornata! / Buona serata!", "en": "Have a nice day / evening!" }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Pronunciation of letter G",
+      "description": "The sound of 'g' changes according to the letters that follow it.",
+      "sub_rules": [
+        {
+          "pattern": "g + a, o, u, consonant",
+          "sound": "[g]",
+          "examples": [
+            { "it": "gamba", "en": "leg" },
+            { "it": "gatto", "en": "cat" },
+            { "it": "gusto", "en": "taste" },
+            { "it": "grande", "en": "big" }
+          ]
+        },
+        {
+          "pattern": "g + e, i",
+          "sound": "[dʒ]",
+          "examples": [
+            { "it": "gente", "en": "people" },
+            { "it": "girare", "en": "to turn" },
+            { "it": "ginnastica", "en": "gymnastics" },
+            { "it": "Genova", "en": "Genoa" }
+          ]
+        },
+        {
+          "pattern": "gh + e, i",
+          "sound": "[g]",
+          "examples": [
+            { "it": "ghetto", "en": "ghetto" },
+            { "it": "laghi", "en": "lakes" },
+            { "it": "ghirlanda", "en": "garland" },
+            { "it": "ghiro", "en": "dormouse" }
+          ]
+        },
+        {
+          "pattern": "gi + a, o, u",
+          "sound": "[dʒ]",
+          "examples": [
+            { "it": "già", "en": "already" },
+            { "it": "giorno", "en": "day" },
+            { "it": "giusto", "en": "right, correct" },
+            { "it": "giocare", "en": "to play" }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    { "term": "sono", "definition": "I am; they are", "type": "verb form" },
+    { "term": "sei", "definition": "you are", "type": "verb form" },
+    { "term": "è", "definition": "he/she is; you are (formal)", "type": "verb form" },
+    { "term": "siamo", "definition": "we are", "type": "verb form" },
+    { "term": "siete", "definition": "you all are", "type": "verb form" },
+    { "term": "mi chiamo", "definition": "my name is", "type": "verb form" },
+    { "term": "ti chiami", "definition": "your name is; are you called", "type": "verb form" },
+    { "term": "si chiama", "definition": "his/her name is; your name is (formal)", "type": "verb form" },
+    { "term": "ci chiamiamo", "definition": "we are called", "type": "verb form" },
+    { "term": "vi chiamate", "definition": "you all are called", "type": "verb form" },
+    { "term": "si chiamano", "definition": "they are called", "type": "verb form" },
+    { "term": "io", "definition": "I", "type": "pronoun" },
+    { "term": "tu", "definition": "you (informal singular)", "type": "pronoun" },
+    { "term": "Lei", "definition": "you (formal)", "type": "pronoun" },
+    { "term": "lui", "definition": "he", "type": "pronoun" },
+    { "term": "lei", "definition": "she", "type": "pronoun" },
+    { "term": "noi", "definition": "we", "type": "pronoun" },
+    { "term": "voi", "definition": "you (plural)", "type": "pronoun" },
+    { "term": "loro", "definition": "they", "type": "pronoun" },
+    { "term": "come si chiama?", "definition": "what is your name? (formal)", "type": "phrase" },
+    { "term": "come ti chiami?", "definition": "what is your name?", "type": "phrase" },
+    { "term": "e di cognome?", "definition": "and your surname?", "type": "phrase" },
+    { "term": "il mio nome è...", "definition": "my name is...", "type": "phrase" },
+    { "term": "il mio cognome è...", "definition": "my surname is...", "type": "phrase" },
+    { "term": "e il suo?", "definition": "and yours? (formal)", "type": "phrase" },
+    { "term": "piacere di conoscerti", "definition": "nice to meet you (informal)", "type": "phrase" },
+    { "term": "piacere di conoscerla", "definition": "nice to meet you (formal)", "type": "phrase" },
+    { "term": "molto lieto/a", "definition": "very pleased", "type": "phrase" },
+    { "term": "piacere mio", "definition": "the pleasure is mine", "type": "phrase" },
+    { "term": "altrettanto", "definition": "likewise", "type": "phrase" },
+    { "term": "non lo so", "definition": "I don't know", "type": "classroom phrase" },
+    { "term": "cosa vuol dire?", "definition": "what does it mean?", "type": "classroom phrase" },
+    { "term": "come si traduce?", "definition": "how is it translated?", "type": "classroom phrase" },
+    { "term": "non ho capito", "definition": "I didn't understand", "type": "classroom phrase" },
+    { "term": "puoi ripetere, per favore?", "definition": "can you repeat, please?", "type": "classroom phrase" },
+    { "term": "novità?", "definition": "any news?", "type": "phrase" },
+    { "term": "niente di nuovo", "definition": "nothing new", "type": "phrase" },
+    { "term": "la solita vita", "definition": "the usual life", "type": "phrase" },
+    { "term": "ciao", "definition": "hi; bye", "type": "greeting" },
+    { "term": "buongiorno", "definition": "good morning; good day", "type": "greeting" },
+    { "term": "buonasera", "definition": "good evening", "type": "greeting" },
+    { "term": "arrivederci", "definition": "goodbye", "type": "greeting" }
+  ],
+  "classroom_instructions": [
+    { "it": "Completate con essere.", "en": "Complete with 'essere'." },
+    { "it": "Completate con chiamarsi.", "en": "Complete with 'chiamarsi'." },
+    { "it": "Completate con i pronomi.", "en": "Complete with the pronouns." },
+    { "it": "Ascoltate i dialoghi.", "en": "Listen to the dialogues." },
+    { "it": "È formale o informale?", "en": "Is it formal or informal?" },
+    { "it": "Come si chiamano?", "en": "What are their names?" },
+    { "it": "Come si scrive?", "en": "How is it spelled?" },
+    { "it": "Ripetete i dialoghi secondo il modello.", "en": "Repeat the dialogues following the model." },
+    { "it": "Non lo so!", "en": "I don't know!" },
+    { "it": "Cosa vuol dire?", "en": "What does it mean?" },
+    { "it": "Come si traduce?", "en": "How is it translated?" },
+    { "it": "Non ho capito!", "en": "I didn't understand!" },
+    { "it": "Come? Puoi ripetere, per favore?", "en": "Sorry? Can you repeat, please?" },
+    { "it": "Ascoltate e ripetete.", "en": "Listen and repeat." },
+    { "it": "Leggete le parole.", "en": "Read the words." },
+    { "it": "Trovate le parole per salutare.", "en": "Find the words used for greeting." },
+    { "it": "Ascoltate e abbinate.", "en": "Listen and match." },
+    { "it": "Ordinate le frasi.", "en": "Put the sentences in order." },
+    { "it": "Completate con essere o/e chiamarsi.", "en": "Complete with 'essere' and/or 'chiamarsi'." }
+  ]
+}

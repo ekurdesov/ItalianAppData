@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-14",
+  "lessons": [
+    {
+      "id": "A1-L1-1",
+      "title": "Piacere!",
+      "level": "A1",
+      "objectives": [
+        "Fare conoscenza",
+        "Parole e lettere",
+        "Fonetica: le vocali"
+      ],
+      "file": "a1l1.json",
+      "flashcard_count": 36,
+      "language_rule_count": 4
+    },
+    {
+      "id": "A1-L1-2",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: incontri",
+        "Presentare una persona",
+        "Verbo stare",
+        "Attività comunicativa: come va?",
+        "Fonetica: sc"
+      ],
+      "file": "a1l2.json",
+      "flashcard_count": 37,
+      "language_rule_count": 6
+    },
+    {
+      "id": "A1-L1-3",
+      "title": "Piacere!",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: salutare",
+        "Pronomi personali",
+        "Essere",
+        "Chiamarsi",
+        "Attività comunicativa: presentarsi",
+        "Fonetica: lettera C"
+      ],
+      "file": "a1l3.json",
+      "flashcard_count": 41,
+      "language_rule_count": 6
+    },
+    {
+      "id": "A1-L1-4",
+      "title": "Piacere!",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: essere e chiamarsi",
+        "Comprensione orale: 'Scusi, Lei come si chiama?'",
+        "Attività comunicativa: presentarsi",
+        "Fonetica: lettera G"
+      ],
+      "file": "a1l4.json",
+      "flashcard_count": 42,
+      "language_rule_count": 7
+    },
+    {
+      "id": "A1-L1-5",
+      "title": "Piacere!",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: 'Lei è Gianni'",
+        "Il sostantivo",
+        "Attività comunicativa: 'Sei la mia collega?'",
+        "Fonetica: lettere D/T"
+      ],
+      "file": "a1l5.json",
+      "flashcard_count": 49,
+      "language_rule_count": 6
+    },
+    {
+      "id": "A1-L1-6",
+      "title": "Piacere!",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale",
+        "Numeri da 0 a 10",
+        "Il sostantivo",
+        "L'aggettivo",
+        "Presentarsi",
+        "Salutare",
+        "Fonetica: lettere D/T"
+      ],
+      "file": "a1l6.json",
+      "flashcard_count": 34,
+      "language_rule_count": 8
+    },
+    {
+      "id": "A1-L1-7",
+      "title": "Piacere!",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: In giro per l'Italia",
+        "Le preposizioni",
+        "Attività comunicativa: Qual è il tuo numero?",
+        "Fonetica: lettera Q"
+      ],
+      "file": "a1l7.json",
+      "flashcard_count": 47,
+      "language_rule_count": 5
+    },
+    {
+      "id": "A1-L2-1",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: La classe di Carla",
+        "Aggettivi di nazionalità",
+        "Attività comunicativa: Di dove sei?",
+        "Fonetica: lettera S"
+      ],
+      "file": "a2l1.json",
+      "flashcard_count": 46,
+      "language_rule_count": 4
+    },
+    {
+      "id": "A1-L2-2",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: Ciao, io sono Alice",
+        "Aggettivi di nazionalità al plurale",
+        "Attività comunicativa: presentare",
+        "Fonetica: gli - gn, sc"
+      ],
+      "file": "a2l2.json",
+      "flashcard_count": 50,
+      "language_rule_count": 6
+    },
+    {
+      "id": "A1-L2-3",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: incontri",
+        "Presentare una persona",
+        "Verbo stare",
+        "Attività comunicativa: come va?",
+        "Fonetica: sc"
+      ],
+      "file": "a2l3.json",
+      "flashcard_count": 37,
+      "language_rule_count": 6
+    },
+    {
+      "id": "A1-L2-4",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: Ha il ragazzo?",
+        "Grammatica: verbo avere",
+        "Lessico: i numeri da 10 a 100",
+        "Attività comunicativa: Quanti anni hai?"
+      ],
+      "file": "a2l4.json",
+      "flashcard_count": 41,
+      "language_rule_count": 4
+    }
+  ]
+}
