@@ -173,6 +173,40 @@
       "flashcard_count": 56,
       "language_rule_count": 4,
       "dialogue_count": 3
+    },
+    {
+      "id": "A1-L2-5",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: i numeri da 10 a 100",
+        "Grammatica: verbi avere ed essere — ripasso e ampliamento",
+        "Lessico: avere + sensazioni fisiche ed emotive",
+        "Attività comunicativa: Come ti chiami? / Quanti anni hai? / Che numero hai?",
+        "Attività comunicativa: Quante domande!",
+        "Formale e informale: ripasso"
+      ],
+      "file": "a2l5.json",
+      "flashcard_count": 38,
+      "language_rule_count": 5,
+      "dialogue_count": 4
+    },
+    {
+      "id": "A1-L2-6",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: i numeri da 10 a 100",
+        "Ripasso: verbi avere ed essere",
+        "Ripasso e ampliamento: avere + sensazioni fisiche ed emotive",
+        "Attività comunicativa: Come ti chiami? — formale e informale",
+        "Attività comunicativa: Quante domande! — Qual è il tuo/Suo...?",
+        "Fonetica: lettera Z"
+      ],
+      "file": "a2l6.json",
+      "flashcard_count": 23,
+      "language_rule_count": 5,
+      "dialogue_count": 4
     }
   ]
 }
