@@ -1,0 +1,540 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-1",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: La classe di Carla",
+      "Aggettivi di nazionalità",
+      "Attività comunicativa: Di dove sei?",
+      "Fonetica: lettera S"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Вопрос о происхождении и ответ на него",
+      "description": "Итальянский язык различает неформальную форму 'tu' и официальную 'Lei' при вопросе о том, откуда человек.",
+      "examples": [
+        {
+          "context": "неформальный",
+          "it": "Di dove sei?",
+          "translation": "Откуда ты?"
+        },
+        {
+          "context": "неформальный",
+          "it": "E tu?",
+          "translation": "А ты?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Di dov'è?",
+          "translation": "Откуда вы? (официальный / формальный)"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "E Lei?",
+          "translation": "А вы? (официальный / формальный)"
+        },
+        {
+          "context": "ответ",
+          "it": "Sono di Milano.",
+          "translation": "Я из Милана."
+        },
+        {
+          "context": "ответ",
+          "it": "Sono italiano.",
+          "translation": "Я итальянец."
+        },
+        {
+          "context": "ответ",
+          "it": "Sono italiano, di Milano.",
+          "translation": "Я итальянец, из Милана."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Прилагательные национальности согласуются по роду",
+      "description": "Прилагательные национальности меняют окончания в соответствии с родом существительного — мужским или женским.",
+      "sub_rules": [
+        {
+          "pattern": "-o / -a",
+          "description": "Многие прилагательные национальности имеют форму мужского рода единственного числа на -o и женского рода на -a.",
+          "examples": [
+            {
+              "it": "americano / americana",
+              "translation": "американец / американка"
+            },
+            {
+              "it": "egiziano / egiziana",
+              "translation": "египтянин / египтянка"
+            },
+            {
+              "it": "austriaco / austriaca",
+              "translation": "австриец / австрийка"
+            }
+          ]
+        },
+        {
+          "pattern": "-e",
+          "description": "Некоторые прилагательные национальности имеют одинаковую форму единственного числа для мужского и женского рода.",
+          "examples": [
+            {
+              "it": "francese",
+              "translation": "француз / француженка"
+            },
+            {
+              "it": "inglese",
+              "translation": "англичанин / англичанка"
+            },
+            {
+              "it": "cinese",
+              "translation": "китаец / китаянка"
+            },
+            {
+              "it": "svedese",
+              "translation": "швед / шведка"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Происхождение из города с предлогом 'di'",
+      "description": "Для указания на то, откуда кто-то, в итальянском языке обычно используется 'essere di' с названием города или места.",
+      "examples": [
+        {
+          "it": "Juan è di Madrid.",
+          "translation": "Хуан из Мадрида."
+        },
+        {
+          "it": "John è di New York.",
+          "translation": "Джон из Нью-Йорка."
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Буква S может быть звонкой или глухой",
+      "description": "Итальянская 's' может произноситься как [z] или [s] в зависимости от слова.",
+      "sub_rules": [
+        {
+          "sound": "[z]",
+          "examples": [
+            {
+              "it": "caso",
+              "translation": "случай"
+            },
+            {
+              "it": "inglese",
+              "translation": "английский"
+            },
+            {
+              "it": "musica",
+              "translation": "музыка"
+            },
+            {
+              "it": "televisione",
+              "translation": "телевидение"
+            }
+          ]
+        },
+        {
+          "sound": "[s]",
+          "examples": [
+            {
+              "it": "sì",
+              "translation": "да"
+            },
+            {
+              "it": "sedia",
+              "translation": "стул"
+            },
+            {
+              "it": "salutare",
+              "translation": "приветствовать"
+            },
+            {
+              "it": "Sicilia",
+              "translation": "Сицилия"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "scuola",
+      "definition": "школа",
+      "type": "слово из класса"
+    },
+    {
+      "term": "aula",
+      "definition": "аудитория; класс",
+      "type": "слово из класса"
+    },
+    {
+      "term": "classe",
+      "definition": "класс; группа",
+      "type": "слово из класса"
+    },
+    {
+      "term": "lezione",
+      "definition": "урок; занятие",
+      "type": "слово из класса"
+    },
+    {
+      "term": "studente",
+      "definition": "студент",
+      "type": "люди"
+    },
+    {
+      "term": "professoressa",
+      "definition": "преподавательница; профессор (женщина)",
+      "type": "люди"
+    },
+    {
+      "term": "insegnante",
+      "definition": "учитель / учительница",
+      "type": "люди"
+    },
+    {
+      "term": "zaino",
+      "definition": "рюкзак",
+      "type": "слово из класса"
+    },
+    {
+      "term": "lavagna",
+      "definition": "доска",
+      "type": "слово из класса"
+    },
+    {
+      "term": "provenienza",
+      "definition": "происхождение; откуда родом",
+      "type": "грамматическая лексика"
+    },
+    {
+      "term": "nazionalità",
+      "definition": "национальность",
+      "type": "грамматическая лексика"
+    },
+    {
+      "term": "di dove sei?",
+      "definition": "откуда ты?",
+      "type": "фраза"
+    },
+    {
+      "term": "di dov'è?",
+      "definition": "откуда вы? (официальный / формальный)",
+      "type": "фраза"
+    },
+    {
+      "term": "sono di Milano",
+      "definition": "я из Милана",
+      "type": "фраза"
+    },
+    {
+      "term": "sono italiano",
+      "definition": "я итальянец",
+      "type": "фраза"
+    },
+    {
+      "term": "americano/a",
+      "definition": "американец / американка",
+      "type": "национальность"
+    },
+    {
+      "term": "australiano/a",
+      "definition": "австралиец / австралийка",
+      "type": "национальность"
+    },
+    {
+      "term": "argentino/a",
+      "definition": "аргентинец / аргентинка",
+      "type": "национальность"
+    },
+    {
+      "term": "austriaco/a",
+      "definition": "австриец / австрийка",
+      "type": "национальность"
+    },
+    {
+      "term": "brasiliano/a",
+      "definition": "бразилец / бразильянка",
+      "type": "национальность"
+    },
+    {
+      "term": "canadese",
+      "definition": "канадец / канадка",
+      "type": "национальность"
+    },
+    {
+      "term": "cinese",
+      "definition": "китаец / китаянка",
+      "type": "национальность"
+    },
+    {
+      "term": "coreano/a",
+      "definition": "кореец / кореянка",
+      "type": "национальность"
+    },
+    {
+      "term": "egiziano/a",
+      "definition": "египтянин / египтянка",
+      "type": "национальность"
+    },
+    {
+      "term": "francese",
+      "definition": "француз / француженка",
+      "type": "национальность"
+    },
+    {
+      "term": "giapponese",
+      "definition": "японец / японка",
+      "type": "национальность"
+    },
+    {
+      "term": "greco/a",
+      "definition": "грек / гречанка",
+      "type": "национальность"
+    },
+    {
+      "term": "indiano/a",
+      "definition": "индиец / индианка",
+      "type": "национальность"
+    },
+    {
+      "term": "inglese",
+      "definition": "англичанин / англичанка",
+      "type": "национальность"
+    },
+    {
+      "term": "messicano/a",
+      "definition": "мексиканец / мексиканка",
+      "type": "национальность"
+    },
+    {
+      "term": "norvegese",
+      "definition": "норвежец / норвежка",
+      "type": "национальность"
+    },
+    {
+      "term": "polacco/a",
+      "definition": "поляк / полька",
+      "type": "национальность"
+    },
+    {
+      "term": "russo/a",
+      "definition": "русский / русская",
+      "type": "национальность"
+    },
+    {
+      "term": "senegalese",
+      "definition": "сенегалец / сенегалка",
+      "type": "национальность"
+    },
+    {
+      "term": "spagnolo/a",
+      "definition": "испанец / испанка",
+      "type": "национальность"
+    },
+    {
+      "term": "svedese",
+      "definition": "швед / шведка",
+      "type": "национальность"
+    },
+    {
+      "term": "tedesco/a",
+      "definition": "немец / немка",
+      "type": "национальность"
+    },
+    {
+      "term": "tunisino/a",
+      "definition": "тунисец / тунисянка",
+      "type": "национальность"
+    },
+    {
+      "term": "bielorusso/a",
+      "definition": "белорус / белоруска",
+      "type": "национальность"
+    },
+    {
+      "term": "moldavo/a",
+      "definition": "молдаванин / молдаванка",
+      "type": "национальность"
+    },
+    {
+      "term": "svizzero/a",
+      "definition": "швейцарец / швейцарка",
+      "type": "национальность"
+    },
+    {
+      "term": "aver ragione",
+      "definition": "быть правым / правой",
+      "type": "фраза"
+    },
+    {
+      "term": "oppure",
+      "definition": "или",
+      "type": "союз"
+    },
+    {
+      "term": "sì",
+      "definition": "да",
+      "type": "фраза"
+    },
+    {
+      "term": "adesso",
+      "definition": "сейчас",
+      "type": "наречие"
+    },
+    {
+      "term": "sera",
+      "definition": "вечер",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "una pronta guarigione",
+      "definition": "скорейшего выздоровления",
+      "type": "фраза"
+    },
+    {
+      "term": "italiano/a",
+      "definition": "итальянец / итальянка",
+      "type": "национальность"
+    },
+    {
+      "term": "straniero/a",
+      "definition": "иностранец / иностранка; иностранный",
+      "type": "слово / лексика"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    },
+    {
+      "it": "Ascoltate e rispondete.",
+      "translation": "Послушайте и ответьте."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Прочитайте и проверьте."
+    },
+    {
+      "it": "Leggete e rispondete.",
+      "translation": "Прочитайте и ответьте."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Заполните."
+    },
+    {
+      "it": "Completate con -o, -a, -e.",
+      "translation": "Заполните, используя окончания -o, -a, -e."
+    },
+    {
+      "it": "Secondo me...",
+      "translation": "По-моему..."
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Прочитайте слова."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-1-01",
+      "title": "Di dove sei? (informal)",
+      "register": "неформальный / разговорный",
+      "context": "Двое студентов на уроке итальянского рассказывают друг другу о своём происхождении",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao! Mi chiamo Antonio. E tu?",
+          "translation": "Привет! Меня зовут Антонио. А тебя?"
+        },
+        {
+          "speaker": "B",
+          "it": "Io sono Yuki. Piacere!",
+          "translation": "Я Юки. Приятно познакомиться!"
+        },
+        {
+          "speaker": "A",
+          "it": "Di dove sei, Yuki?",
+          "translation": "Откуда ты, Юки?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono giapponese, di Tokyo. E tu?",
+          "translation": "Я японка, из Токио. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono di Pechino. Sono cinese.",
+          "translation": "Я из Пекина. Я китаец."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите, откуда человек (неформально)",
+          "expected_it": "Di dove sei?"
+        },
+        {
+          "cue": "Назовите свою национальность и город происхождения",
+          "expected_it": "Sono [nazionalità], di [città]."
+        },
+        {
+          "cue": "Спросите в ответ (неформально)",
+          "expected_it": "E tu?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-1-02",
+      "title": "Di dov'è? (formal)",
+      "register": "официальный / формальный",
+      "context": "Официальный разговор о национальности на профессиональном мероприятии",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno. Lei è straniero?",
+          "translation": "Доброе утро. Вы иностранец?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, sono americano, di New York. E Lei?",
+          "translation": "Да, я американец, из Нью-Йорка. А вы?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono italiano, di Roma.",
+          "translation": "Я итальянец, из Рима."
+        },
+        {
+          "speaker": "B",
+          "it": "Roma! È una città bellissima!",
+          "translation": "Рим! Это прекрасный город!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите, откуда человек (официально)",
+          "expected_it": "Di dov'è?"
+        },
+        {
+          "cue": "Скажите, что вы американец / американка из Нью-Йорка",
+          "expected_it": "Sono americano/a, di New York."
+        },
+        {
+          "cue": "Спросите в ответ (официально)",
+          "expected_it": "E Lei?"
+        }
+      ]
+    }
+  ]
+}

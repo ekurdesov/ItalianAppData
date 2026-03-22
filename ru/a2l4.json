@@ -1,0 +1,568 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-4",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: Ha il ragazzo?",
+      "Grammatica: verbo avere",
+      "Lessico: i numeri da 10 a 100",
+      "Attività comunicativa: Quanti anni hai?"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола avere",
+      "description": "Глагол «avere» используется для выражения обладания и возраста.",
+      "conjugations": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Essere и avere",
+      "description": "В итальянском языке «essere» используется для описания тождества и характеристик, а «avere» — для обладания и возраста.",
+      "examples": [
+        {
+          "it": "Carla è bella.",
+          "translation": "Карла красивая."
+        },
+        {
+          "it": "Carla ha 27 anni.",
+          "translation": "Карле 27 лет."
+        },
+        {
+          "it": "Ho vent'anni.",
+          "translation": "Мне двадцать лет."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Вопрос о возрасте и ответ на него: официально и неформально",
+      "description": "В итальянском языке различаются неформальное «tu» и официальное «Lei» при вопросе о возрасте.",
+      "examples": [
+        {
+          "context": "неформальный / разговорный",
+          "it": "Quanti anni hai?",
+          "translation": "Сколько тебе лет?"
+        },
+        {
+          "context": "неформальный / разговорный",
+          "it": "E tu?",
+          "translation": "А ты?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Quanti anni ha?",
+          "translation": "Сколько вам лет? (официально)"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "E Lei?",
+          "translation": "А вы? (официально)"
+        },
+        {
+          "context": "ответ",
+          "it": "Ho ... anni.",
+          "translation": "Мне ... лет."
+        },
+        {
+          "context": "ответ",
+          "it": "Ne ho ...",
+          "translation": "Мне ... лет."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Выражения об одном возрасте и возрастных группах",
+      "description": "В итальянском языке есть распространённые выражения для описания одинакового возраста и характеристики возраста.",
+      "examples": [
+        {
+          "it": "coetaneo / coetanea",
+          "translation": "ровесник / ровесница; человек одного возраста"
+        },
+        {
+          "it": "Siamo coetanei.",
+          "translation": "Мы ровесники."
+        },
+        {
+          "it": "Abbiamo la stessa età.",
+          "translation": "Мы одного возраста."
+        },
+        {
+          "it": "giovane / anziano",
+          "translation": "молодой / пожилой"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "avere",
+      "definition": "иметь",
+      "type": "глагол"
+    },
+    {
+      "term": "ho",
+      "definition": "я имею",
+      "type": "форма глагола"
+    },
+    {
+      "term": "hai",
+      "definition": "ты имеешь",
+      "type": "форма глагола"
+    },
+    {
+      "term": "ha",
+      "definition": "он/она имеет; вы имеете (официально)",
+      "type": "форма глагола"
+    },
+    {
+      "term": "abbiamo",
+      "definition": "мы имеем",
+      "type": "форма глагола"
+    },
+    {
+      "term": "avete",
+      "definition": "вы (все) имеете",
+      "type": "форма глагола"
+    },
+    {
+      "term": "hanno",
+      "definition": "они имеют",
+      "type": "форма глагола"
+    },
+    {
+      "term": "quanti anni hai?",
+      "definition": "сколько тебе лет?",
+      "type": "фраза"
+    },
+    {
+      "term": "quanti anni ha?",
+      "definition": "сколько вам лет? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "ho ... anni",
+      "definition": "мне ... лет",
+      "type": "фраза"
+    },
+    {
+      "term": "ne ho ...",
+      "definition": "мне ... лет",
+      "type": "фраза"
+    },
+    {
+      "term": "coetaneo",
+      "definition": "ровесник / человек одного возраста",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "la stessa età",
+      "definition": "одинаковый возраст",
+      "type": "фраза"
+    },
+    {
+      "term": "giovane",
+      "definition": "молодой",
+      "type": "прилагательное"
+    },
+    {
+      "term": "anziano",
+      "definition": "пожилой",
+      "type": "прилагательное"
+    },
+    {
+      "term": "ragazzo",
+      "definition": "мальчик; парень; молодой человек",
+      "type": "существительное"
+    },
+    {
+      "term": "bella",
+      "definition": "красивая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "carina",
+      "definition": "милая; симпатичная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "età",
+      "definition": "возраст",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "dieci",
+      "definition": "десять",
+      "type": "числительное"
+    },
+    {
+      "term": "undici",
+      "definition": "одиннадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "dodici",
+      "definition": "двенадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "tredici",
+      "definition": "тринадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "quattordici",
+      "definition": "четырнадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "quindici",
+      "definition": "пятнадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "sedici",
+      "definition": "шестнадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "diciassette",
+      "definition": "семнадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "diciotto",
+      "definition": "восемнадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "diciannove",
+      "definition": "девятнадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "venti",
+      "definition": "двадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "vent'anni",
+      "definition": "двадцать лет",
+      "type": "фраза"
+    },
+    {
+      "term": "ventun anni",
+      "definition": "двадцать один год",
+      "type": "фраза"
+    },
+    {
+      "term": "ventott'anni",
+      "definition": "двадцать восемь лет",
+      "type": "фраза"
+    },
+    {
+      "term": "sono contento(a) di vederti",
+      "definition": "я рад(а) тебя видеть",
+      "type": "фраза"
+    },
+    {
+      "term": "anch'io",
+      "definition": "я тоже",
+      "type": "фраза"
+    },
+    {
+      "term": "altrettanto",
+      "definition": "взаимно",
+      "type": "фраза"
+    },
+    {
+      "term": "non c'è male",
+      "definition": "неплохо",
+      "type": "фраза"
+    },
+    {
+      "term": "così così",
+      "definition": "так себе",
+      "type": "фраза"
+    },
+    {
+      "term": "insomma",
+      "definition": "так себе; в общем",
+      "type": "наречие"
+    },
+    {
+      "term": "week end",
+      "definition": "выходные",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "fine settimana",
+      "definition": "выходные",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "È quasi week end",
+      "definition": "Почти выходные",
+      "type": "фраза"
+    },
+    {
+      "term": "mah",
+      "definition": "хм; ну (выражает неуверенность)",
+      "type": "междометие"
+    },
+    {
+      "term": "boh",
+      "definition": "не знаю; понятия не имею",
+      "type": "междометие"
+    },
+    {
+      "term": "troppo",
+      "definition": "слишком; очень много",
+      "type": "наречие"
+    },
+    {
+      "term": "per",
+      "definition": "для; ради",
+      "type": "предлог"
+    },
+    {
+      "term": "ma",
+      "definition": "но",
+      "type": "союз"
+    },
+    {
+      "term": "ventidue",
+      "definition": "двадцать два",
+      "type": "числительное"
+    },
+    {
+      "term": "trenta",
+      "definition": "тридцать",
+      "type": "числительное"
+    },
+    {
+      "term": "quaranta",
+      "definition": "сорок",
+      "type": "числительное"
+    },
+    {
+      "term": "cinquanta",
+      "definition": "пятьдесят",
+      "type": "числительное"
+    },
+    {
+      "term": "sessanta",
+      "definition": "шестьдесят",
+      "type": "числительное"
+    },
+    {
+      "term": "settanta",
+      "definition": "семьдесят",
+      "type": "числительное"
+    },
+    {
+      "term": "ottanta",
+      "definition": "восемьдесят",
+      "type": "числительное"
+    },
+    {
+      "term": "novanta",
+      "definition": "девяносто",
+      "type": "числительное"
+    },
+    {
+      "term": "cento",
+      "definition": "сто",
+      "type": "числительное"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Chiudete il libro e ascoltate il dialogo.",
+      "translation": "Закройте книгу и послушайте диалог."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Отвечайте."
+    },
+    {
+      "it": "Di chi parlano i due ragazzi?",
+      "translation": "О ком говорят двое парней?"
+    },
+    {
+      "it": "Quali aggettivi usano per descrivere questa persona?",
+      "translation": "Какие прилагательные они используют для описания этого человека?"
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Прочитайте и проверьте."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Заполните / Дополните."
+    },
+    {
+      "it": "Completate con avere.",
+      "translation": "Заполните с помощью «avere»."
+    },
+    {
+      "it": "Completate con essere.",
+      "translation": "Заполните с помощью «essere»."
+    },
+    {
+      "it": "Rimettete in ordine.",
+      "translation": "Расставьте в правильном порядке."
+    },
+    {
+      "it": "Cancellate i numeri sulle schede.",
+      "translation": "Вычеркните числа на карточках."
+    },
+    {
+      "it": "Dove si completa una riga?",
+      "translation": "Где вы заполняете строку?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-4-01",
+      "title": "Quanti anni hai? (informal)",
+      "register": "неформальный / разговорный",
+      "context": "Два студента сравнивают возраст во время перерыва на уроке",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Quanti anni hai?",
+          "translation": "Сколько тебе лет?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho venticinque anni. E tu?",
+          "translation": "Мне двадцать пять. А тебе?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho ventisei anni. Siamo quasi coetanei!",
+          "translation": "Мне двадцать шесть. Мы почти ровесники!"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, abbiamo quasi la stessa età!",
+          "translation": "Да, мы почти одного возраста!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите, сколько кому-то лет (неформально)",
+          "expected_it": "Quanti anni hai?"
+        },
+        {
+          "cue": "Назовите свой возраст с помощью «ho»",
+          "expected_it": "Ho [numero] anni."
+        },
+        {
+          "cue": "Скажите, что вы (почти) ровесники",
+          "expected_it": "Siamo coetanei! / Abbiamo la stessa età."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-4-02",
+      "title": "Ha il ragazzo? — Carla",
+      "register": "неформальный / разговорный",
+      "context": "Двое друзей-мужчин разговаривают о Карле — диалог для аудирования из урока",
+      "turns": [
+        {
+          "speaker": "Gianni",
+          "it": "Bella Carla, no?",
+          "translation": "Карла красивая, правда?"
+        },
+        {
+          "speaker": "Bruno",
+          "it": "Sì, è molto bella e carina.",
+          "translation": "Да, она очень красивая и милая."
+        },
+        {
+          "speaker": "Gianni",
+          "it": "Quanti anni ha?",
+          "translation": "Сколько ей лет?"
+        },
+        {
+          "speaker": "Bruno",
+          "it": "Mah... 26-27. Boh, perché?",
+          "translation": "Хм... 26–27. Не знаю, а почему?"
+        },
+        {
+          "speaker": "Gianni",
+          "it": "Ha il ragazzo?",
+          "translation": "У неё есть парень?"
+        },
+        {
+          "speaker": "Bruno",
+          "it": "No. Ma è troppo bella per te!",
+          "translation": "Нет. Но она слишком красивая для тебя!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите, сколько лет третьему лицу",
+          "expected_it": "Quanti anni ha?"
+        },
+        {
+          "cue": "Спросите, есть ли у кого-то парень / девушка",
+          "expected_it": "Ha il ragazzo? / Ha la ragazza?"
+        },
+        {
+          "cue": "Скажите, что кому-то 27 лет",
+          "expected_it": "Ha 27 anni."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-4-03",
+      "title": "Quanti anni ha? (formale)",
+      "register": "официальный / формальный",
+      "context": "Официальный обмен репликами о возрасте",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Quanti anni ha, signora Rossi?",
+          "translation": "Сколько вам лет, госпожа Росси?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho quarantadue anni. E Lei?",
+          "translation": "Мне сорок два. А вам?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ne ho quarantacinque.",
+          "translation": "Мне сорок пять."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Официально спросите о возрасте, используя вежливое обращение",
+          "expected_it": "Quanti anni ha, signor/signora [cognome]?"
+        },
+        {
+          "cue": "Назовите свой возраст с помощью «ne ho»",
+          "expected_it": "Ne ho [numero]."
+        }
+      ]
+    }
+  ]
+}

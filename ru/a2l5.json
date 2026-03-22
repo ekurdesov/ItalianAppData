@@ -1,0 +1,628 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-5",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: i numeri da 10 a 100",
+      "Grammatica: verbi avere ed essere — ripasso e ampliamento",
+      "Lessico: avere + sensazioni fisiche ed emotive",
+      "Attività comunicativa: Come ti chiami? / Quanti anni hai? / Che numero hai?",
+      "Attività comunicativa: Quante domande!",
+      "Formale e informale: ripasso"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "avere + существительное для выражения физических и эмоциональных состояний",
+      "description": "В итальянском языке «avere» (иметь) + существительное используется для выражения физических ощущений и эмоций, которые в русском языке передаются глаголами состояния. Дословный перевод: «иметь голод», «иметь холод» и т. д.",
+      "examples": [
+        {
+          "it": "Ho fame.",
+          "translation": "Я хочу есть. (дословно: у меня голод)"
+        },
+        {
+          "it": "Hai sete?",
+          "translation": "Ты хочешь пить?"
+        },
+        {
+          "it": "Ha freddo?",
+          "translation": "Вам холодно? (официально)"
+        },
+        {
+          "it": "Ho fretta!",
+          "translation": "Я тороплюсь!"
+        },
+        {
+          "it": "Ha paura.",
+          "translation": "Она/он боится."
+        },
+        {
+          "it": "Ho sonno.",
+          "translation": "Я хочу спать."
+        },
+        {
+          "it": "Non ho tempo.",
+          "translation": "У меня нет времени."
+        }
+      ],
+      "notes": "Ключевой список: avere fame / sete / sonno / caldo / freddo / paura / fretta / tempo"
+    },
+    {
+      "category": "Грамматика",
+      "rule": "essere и avere для состояний — прилагательное и существительное",
+      "description": "«Essere» используется с прилагательными (sono stanco), а «avere» — с существительными для ощущений (ho fame). Оба выражают состояния, но структура различается.",
+      "examples": [
+        {
+          "it": "Sono stanco.",
+          "translation": "Я устал."
+        },
+        {
+          "it": "Sei arrabbiata?",
+          "translation": "Ты злишься?"
+        },
+        {
+          "it": "È annoiato.",
+          "translation": "Ему скучно."
+        },
+        {
+          "it": "Siete contenti?",
+          "translation": "Вы (все) довольны?"
+        },
+        {
+          "it": "Ho fame.",
+          "translation": "Я хочу есть. (дословно: у меня голод)"
+        },
+        {
+          "it": "Ha caldo.",
+          "translation": "Ему жарко. (дословно: у него жара)"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Притяжательные прилагательные — единственное число (il mio, il tuo, il suo)",
+      "description": "Притяжательные прилагательные в итальянском языке согласуются в роде и числе с существительным, которое они определяют, а не с владельцем. Перед ними ставится определённый артикль.",
+      "examples": [
+        {
+          "it": "il mio numero",
+          "translation": "мой номер"
+        },
+        {
+          "it": "il tuo cognome",
+          "translation": "твоя фамилия (неформально)"
+        },
+        {
+          "it": "il suo numero",
+          "translation": "его/её номер; ваш номер (официально)"
+        },
+        {
+          "it": "la mia classe",
+          "translation": "мой класс"
+        },
+        {
+          "it": "la tua professoressa",
+          "translation": "твоя преподавательница (неформально)"
+        },
+        {
+          "it": "la sua borsa",
+          "translation": "его/её сумка; ваша сумка (официально)"
+        }
+      ],
+      "notes": "В этом уроке: il mio / il tuo / il suo с numero di telefono и cognome"
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Vorrei — вежливое выражение желания",
+      "description": "«Vorrei» — форма условного наклонения глагола «volere» (хотеть), используемая для вежливого выражения желания. Соответствует русскому «Я бы хотел(а)».",
+      "examples": [
+        {
+          "it": "Vorrei una pizza.",
+          "translation": "Я бы хотел(а) пиццу."
+        },
+        {
+          "it": "Vorrei andare a letto.",
+          "translation": "Я бы хотел(а) лечь спать."
+        },
+        {
+          "it": "Vorrei un caffè caldo.",
+          "translation": "Я бы хотел(а) горячий кофе."
+        }
+      ],
+      "notes": "Используется в ответ на «Cosa desideri quando...?» — после «vorrei» следует существительное или инфинитив"
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Запрос личных данных — официально и неформально",
+      "description": "В итальянском языке используются разные формы вопроса в зависимости от регистра при запросе имени, возраста или номера телефона.",
+      "examples": [
+        {
+          "context": "неформальный / разговорный",
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Come si chiama?",
+          "translation": "Как вас зовут? (официально)"
+        },
+        {
+          "context": "неформальный / разговорный",
+          "it": "E di cognome?",
+          "translation": "А фамилия?"
+        },
+        {
+          "context": "неформальный / разговорный",
+          "it": "Che numero di cellulare hai?",
+          "translation": "Какой у тебя номер телефона?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Che numero di cellulare ha?",
+          "translation": "Какой у вас номер телефона? (официально)"
+        },
+        {
+          "context": "ответ",
+          "it": "Il mio numero è ...",
+          "translation": "Мой номер ..."
+        },
+        {
+          "context": "ответ (официально)",
+          "it": "Il suo numero è ...",
+          "translation": "Его/её/ваш номер ..."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "avere fame",
+      "definition": "быть голодным / хотеть есть (дословно: иметь голод)",
+      "type": "фраза"
+    },
+    {
+      "term": "avere sete",
+      "definition": "хотеть пить / испытывать жажду (дословно: иметь жажду)",
+      "type": "фраза"
+    },
+    {
+      "term": "avere sonno",
+      "definition": "хотеть спать (дословно: иметь сонливость)",
+      "type": "фраза"
+    },
+    {
+      "term": "avere caldo",
+      "definition": "быть жарко (дословно: иметь жару)",
+      "type": "фраза"
+    },
+    {
+      "term": "avere freddo",
+      "definition": "быть холодно (дословно: иметь холод)",
+      "type": "фраза"
+    },
+    {
+      "term": "avere paura",
+      "definition": "бояться (дословно: иметь страх)",
+      "type": "фраза"
+    },
+    {
+      "term": "avere fretta",
+      "definition": "торопиться / спешить (дословно: иметь спешку)",
+      "type": "фраза"
+    },
+    {
+      "term": "avere tempo",
+      "definition": "иметь время",
+      "type": "фраза"
+    },
+    {
+      "term": "fame",
+      "definition": "голод",
+      "type": "существительное"
+    },
+    {
+      "term": "sete",
+      "definition": "жажда",
+      "type": "существительное"
+    },
+    {
+      "term": "sonno",
+      "definition": "сонливость; сон",
+      "type": "существительное"
+    },
+    {
+      "term": "caldo",
+      "definition": "жара; тепло",
+      "type": "существительное"
+    },
+    {
+      "term": "freddo",
+      "definition": "холод",
+      "type": "существительное"
+    },
+    {
+      "term": "paura",
+      "definition": "страх",
+      "type": "существительное"
+    },
+    {
+      "term": "fretta",
+      "definition": "спешка; торопливость",
+      "type": "существительное"
+    },
+    {
+      "term": "tempo",
+      "definition": "время; погода",
+      "type": "существительное"
+    },
+    {
+      "term": "che cos'hai?",
+      "definition": "что случилось? / что с тобой?",
+      "type": "фраза"
+    },
+    {
+      "term": "che cosa ha?",
+      "definition": "что случилось? / что с ним/ней? (также официально: что с вами?)",
+      "type": "фраза"
+    },
+    {
+      "term": "vorrei",
+      "definition": "я бы хотел(а)",
+      "type": "форма глагола"
+    },
+    {
+      "term": "stanco / stanca",
+      "definition": "усталый / усталая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "arrabbiato / arrabbiata",
+      "definition": "злой / злая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "annoiato / annoiata",
+      "definition": "скучающий / скучающая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "contento / contenta",
+      "definition": "довольный / довольная; счастливый / счастливая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "il mio / la mia",
+      "definition": "мой / моя",
+      "type": "притяжательное местоимение"
+    },
+    {
+      "term": "il tuo / la tua",
+      "definition": "твой / твоя (неформально)",
+      "type": "притяжательное местоимение"
+    },
+    {
+      "term": "il suo / la sua",
+      "definition": "его / её / ваш (официально)",
+      "type": "притяжательное местоимение"
+    },
+    {
+      "term": "cognome",
+      "definition": "фамилия",
+      "type": "существительное"
+    },
+    {
+      "term": "il numero di telefono",
+      "definition": "номер телефона",
+      "type": "именное словосочетание"
+    },
+    {
+      "term": "il numero di cellulare",
+      "definition": "номер мобильного телефона",
+      "type": "именное словосочетание"
+    },
+    {
+      "term": "Che numero di cellulare hai?",
+      "definition": "Какой у тебя номер мобильного? (неформально)",
+      "type": "фраза"
+    },
+    {
+      "term": "Che numero di cellulare ha?",
+      "definition": "Какой у вас номер мобильного? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "Il mio numero è...",
+      "definition": "Мой номер...",
+      "type": "фраза"
+    },
+    {
+      "term": "Cosa desideri quando...?",
+      "definition": "Что ты хочешь, когда...?",
+      "type": "фраза"
+    },
+    {
+      "term": "voglia",
+      "definition": "желание; охота",
+      "type": "существительное"
+    },
+    {
+      "term": "non ho voglia di...",
+      "definition": "мне не хочется...",
+      "type": "фраза"
+    },
+    {
+      "term": "secondo me",
+      "definition": "по-моему; на мой взгляд",
+      "type": "фраза"
+    },
+    {
+      "term": "facile",
+      "definition": "лёгкий; простой",
+      "type": "прилагательное"
+    },
+    {
+      "term": "difficile",
+      "definition": "трудный; сложный",
+      "type": "прилагательное"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Работайте в парах."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Заполните / Дополните."
+    },
+    {
+      "it": "Cosa desideri quando...?",
+      "translation": "Что ты хочешь / что бы ты хотел(а), когда...?"
+    },
+    {
+      "it": "Secondo me...",
+      "translation": "По-моему..."
+    },
+    {
+      "it": "È facile o difficile?",
+      "translation": "Это легко или трудно?"
+    },
+    {
+      "it": "Completate con avere o essere.",
+      "translation": "Заполните с помощью «avere» или «essere»."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-5-01",
+      "title": "Come ti chiami? — dialogo 1 (informale)",
+      "register": "неформальный / разговорный",
+      "context": "Двое людей знакомятся и обмениваются личными данными — из парного задания урока",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Paolo.",
+          "translation": "Меня зовут Паоло."
+        },
+        {
+          "speaker": "A",
+          "it": "E di cognome?",
+          "translation": "А фамилия?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio cognome è Rossi.",
+          "translation": "Моя фамилия Росси."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti anni hai, Paolo?",
+          "translation": "Сколько тебе лет, Паоло?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho 15 anni.",
+          "translation": "Мне 15 лет."
+        },
+        {
+          "speaker": "A",
+          "it": "Che numero di cellulare hai?",
+          "translation": "Какой у тебя номер мобильного?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 351 634 8756.",
+          "translation": "Мой номер 351 634 8756."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите чьё-то имя (неформально)",
+          "expected_it": "Come ti chiami?"
+        },
+        {
+          "cue": "Назовите свою фамилию, используя притяжательное местоимение",
+          "expected_it": "Il mio cognome è [cognome]."
+        },
+        {
+          "cue": "Спросите номер мобильного (неформально)",
+          "expected_it": "Che numero di cellulare hai?"
+        },
+        {
+          "cue": "Назовите свой номер телефона",
+          "expected_it": "Il mio numero è [numero]."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-5-02",
+      "title": "Come si chiama? — dialogo 2 (terza persona / formale)",
+      "register": "официальный / формальный",
+      "context": "Вопрос о данных третьего лица, с использованием форм третьего лица — официальный вариант из задания урока",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come si chiama questo ragazzo?",
+          "translation": "Как зовут этого мальчика?"
+        },
+        {
+          "speaker": "B",
+          "it": "Si chiama Paolo.",
+          "translation": "Его зовут Паоло."
+        },
+        {
+          "speaker": "A",
+          "it": "E di cognome?",
+          "translation": "А фамилия?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il suo cognome è Rossi.",
+          "translation": "Его фамилия Росси."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti anni ha?",
+          "translation": "Сколько ему лет?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ha 15 anni.",
+          "translation": "Ему 15 лет."
+        },
+        {
+          "speaker": "A",
+          "it": "Che numero di cellulare ha?",
+          "translation": "Какой у него номер мобильного?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il suo numero è 351 634 8756.",
+          "translation": "Его номер 351 634 8756."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите чьё-то имя (третье лицо / официально)",
+          "expected_it": "Come si chiama?"
+        },
+        {
+          "cue": "Назовите чью-то фамилию, используя «il suo»",
+          "expected_it": "Il suo cognome è [cognome]."
+        },
+        {
+          "cue": "Спросите номер мобильного третьего лица",
+          "expected_it": "Che numero di cellulare ha?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-5-03",
+      "title": "Che cos'hai? — avere expressions",
+      "register": "неформальный / разговорный",
+      "context": "Короткие реплики с использованием «avere» для выражения физических и эмоциональных состояний — типичное задание на уроке",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Che cos'hai? Sei stanca?",
+          "translation": "Что с тобой? Ты устала?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, ho sonno e ho anche un po' di freddo.",
+          "translation": "Нет, я хочу спать и ещё немного холодно."
+        },
+        {
+          "speaker": "A",
+          "it": "Hai fame?",
+          "translation": "Ты хочешь есть?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì! E ho anche fretta — ho lezione tra dieci minuti!",
+          "translation": "Да! И ещё я тороплюсь — у меня занятие через десять минут!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Скажите, что вы хотите есть",
+          "expected_it": "Ho fame."
+        },
+        {
+          "cue": "Скажите, что вы торопитесь",
+          "expected_it": "Ho fretta."
+        },
+        {
+          "cue": "Спросите, что случилось с кем-то",
+          "expected_it": "Che cos'hai?"
+        },
+        {
+          "cue": "Скажите, что вы хотите спать и вам холодно",
+          "expected_it": "Ho sonno e ho freddo."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-5-04",
+      "title": "Vorrei... — cosa desideri quando?",
+      "register": "неформальный / разговорный",
+      "context": "Парная работа: выражение желаний в зависимости от физических состояний — задание урока, стр. 34",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Cosa desideri quando hai fame?",
+          "translation": "Что ты хочешь, когда голоден?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vorrei una pizza!",
+          "translation": "Я бы хотел(а) пиццу!"
+        },
+        {
+          "speaker": "A",
+          "it": "E quando hai sete?",
+          "translation": "А когда тебе хочется пить?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vorrei un'acqua minerale fresca.",
+          "translation": "Я бы хотел(а) свежей минеральной воды."
+        },
+        {
+          "speaker": "A",
+          "it": "E quando hai paura?",
+          "translation": "А когда тебе страшно?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vorrei parlare con gli amici!",
+          "translation": "Я бы хотел(а) поговорить с друзьями!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите, что кто-то хочет, когда хочет спать",
+          "expected_it": "Cosa desideri quando hai sonno?"
+        },
+        {
+          "cue": "Скажите, что хотели бы кофе",
+          "expected_it": "Vorrei un caffè."
+        },
+        {
+          "cue": "Скажите, что хотели бы лечь спать",
+          "expected_it": "Vorrei andare a letto."
+        }
+      ]
+    }
+  ]
+}

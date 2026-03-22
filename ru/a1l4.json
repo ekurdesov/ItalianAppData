@@ -1,0 +1,699 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-4",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: essere e chiamarsi",
+      "Comprensione orale: 'Scusi, Lei come si chiama?'",
+      "Attività comunicativa: presentarsi",
+      "Fonetica: lettera G"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола essere",
+      "description": "Глагол «essere» используется для идентификации людей и обозначения того, кем кто-либо является.",
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола chiamarsi",
+      "description": "Возвратный глагол «chiamarsi» используется для того, чтобы спросить и сказать имя.",
+      "conjugations": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      }
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Личные местоимения итальянского языка",
+      "description": "В уроке повторяются основные местоимения-подлежащие, используемые с глаголами «essere» и «chiamarsi».",
+      "examples": [
+        {
+          "it": "io",
+          "translation": "я"
+        },
+        {
+          "it": "tu",
+          "translation": "ты (разговорный, единственное число)"
+        },
+        {
+          "it": "lui / lei / Lei",
+          "translation": "он / она / Вы (официально)"
+        },
+        {
+          "it": "noi",
+          "translation": "мы"
+        },
+        {
+          "it": "voi",
+          "translation": "вы (множественное число)"
+        },
+        {
+          "it": "loro",
+          "translation": "они"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Вопрос об имени и фамилии: официальный и разговорный стиль",
+      "description": "В итальянском языке различаются разговорная форма «tu» и официальная «Lei» при вопросе об имени и фамилии.",
+      "examples": [
+        {
+          "context": "разговорный",
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "context": "официальный",
+          "it": "Come si chiama?",
+          "translation": "Как Вас зовут? (официально)"
+        },
+        {
+          "context": "разговорный",
+          "it": "E di cognome?",
+          "translation": "А фамилия?"
+        },
+        {
+          "context": "официальный",
+          "it": "E il Suo?",
+          "translation": "А Ваша? (официально)"
+        },
+        {
+          "context": "утверждение",
+          "it": "Il mio nome è...",
+          "translation": "Моё имя..."
+        },
+        {
+          "context": "утверждение",
+          "it": "Il mio cognome è...",
+          "translation": "Моя фамилия..."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Реакция во время знакомства",
+      "description": "Стандартные формулы используются при знакомстве с кем-либо впервые.",
+      "examples": [
+        {
+          "it": "Piacere di conoscerti.",
+          "translation": "Приятно познакомиться. (разговорный)"
+        },
+        {
+          "it": "Piacere di conoscerla.",
+          "translation": "Приятно познакомиться. (официально)"
+        },
+        {
+          "it": "Molto lieto/a.",
+          "translation": "Очень рад/рада."
+        },
+        {
+          "it": "Piacere.",
+          "translation": "Приятно."
+        },
+        {
+          "it": "Piacere mio.",
+          "translation": "Мне приятно."
+        },
+        {
+          "it": "Altrettanto.",
+          "translation": "Взаимно."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Официальные и разговорные приветствия",
+      "description": "Приветствия и прощания меняются в зависимости от времени суток и степени официальности.",
+      "examples": [
+        {
+          "context": "приход, разговорный",
+          "it": "Ciao!",
+          "translation": "Привет!"
+        },
+        {
+          "context": "приход, официальный",
+          "it": "Buongiorno! / Buon dì!",
+          "translation": "Доброе утро / добрый день!"
+        },
+        {
+          "context": "приход, официальный",
+          "it": "Buonasera!",
+          "translation": "Добрый вечер!"
+        },
+        {
+          "context": "приход, официальный",
+          "it": "Salve!",
+          "translation": "Здравствуйте!"
+        },
+        {
+          "context": "уход, официальный",
+          "it": "ArrivederLa!",
+          "translation": "До свидания (официально)"
+        },
+        {
+          "context": "уход",
+          "it": "Arrivederci!",
+          "translation": "До свидания"
+        },
+        {
+          "context": "уход",
+          "it": "Buona giornata! / Buona serata!",
+          "translation": "Хорошего дня / хорошего вечера!"
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Произношение буквы G",
+      "description": "Звучание буквы «g» меняется в зависимости от следующих за ней букв.",
+      "sub_rules": [
+        {
+          "pattern": "g + a, o, u, согласная",
+          "sound": "[g]",
+          "examples": [
+            {
+              "it": "gamba",
+              "translation": "нога"
+            },
+            {
+              "it": "gatto",
+              "translation": "кот"
+            },
+            {
+              "it": "gusto",
+              "translation": "вкус"
+            },
+            {
+              "it": "grande",
+              "translation": "большой"
+            }
+          ]
+        },
+        {
+          "pattern": "g + e, i",
+          "sound": "[dʒ]",
+          "examples": [
+            {
+              "it": "gente",
+              "translation": "люди"
+            },
+            {
+              "it": "girare",
+              "translation": "поворачивать"
+            },
+            {
+              "it": "ginnastica",
+              "translation": "гимнастика"
+            },
+            {
+              "it": "Genova",
+              "translation": "Генуя"
+            }
+          ]
+        },
+        {
+          "pattern": "gh + e, i",
+          "sound": "[g]",
+          "examples": [
+            {
+              "it": "ghetto",
+              "translation": "гетто"
+            },
+            {
+              "it": "laghi",
+              "translation": "озёра"
+            },
+            {
+              "it": "ghirlanda",
+              "translation": "гирлянда"
+            },
+            {
+              "it": "ghiro",
+              "translation": "соня (животное)"
+            }
+          ]
+        },
+        {
+          "pattern": "gi + a, o, u",
+          "sound": "[dʒ]",
+          "examples": [
+            {
+              "it": "già",
+              "translation": "уже"
+            },
+            {
+              "it": "giorno",
+              "translation": "день"
+            },
+            {
+              "it": "giusto",
+              "translation": "правильный, верный"
+            },
+            {
+              "it": "giocare",
+              "translation": "играть"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "sono",
+      "definition": "я есть; они есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "sei",
+      "definition": "ты есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "è",
+      "definition": "он/она есть; Вы есть (официально)",
+      "type": "форма глагола"
+    },
+    {
+      "term": "siamo",
+      "definition": "мы есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "siete",
+      "definition": "вы есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "mi chiamo",
+      "definition": "меня зовут",
+      "type": "форма глагола"
+    },
+    {
+      "term": "ti chiami",
+      "definition": "тебя зовут; как тебя зовут",
+      "type": "форма глагола"
+    },
+    {
+      "term": "si chiama",
+      "definition": "его/её зовут; Вас зовут (официально)",
+      "type": "форма глагола"
+    },
+    {
+      "term": "ci chiamiamo",
+      "definition": "нас зовут",
+      "type": "форма глагола"
+    },
+    {
+      "term": "vi chiamate",
+      "definition": "вас зовут",
+      "type": "форма глагола"
+    },
+    {
+      "term": "si chiamano",
+      "definition": "их зовут",
+      "type": "форма глагола"
+    },
+    {
+      "term": "io",
+      "definition": "я",
+      "type": "местоимение"
+    },
+    {
+      "term": "tu",
+      "definition": "ты (разговорный, единственное число)",
+      "type": "местоимение"
+    },
+    {
+      "term": "Lei",
+      "definition": "Вы (официально)",
+      "type": "местоимение"
+    },
+    {
+      "term": "lui",
+      "definition": "он",
+      "type": "местоимение"
+    },
+    {
+      "term": "lei",
+      "definition": "она",
+      "type": "местоимение"
+    },
+    {
+      "term": "noi",
+      "definition": "мы",
+      "type": "местоимение"
+    },
+    {
+      "term": "voi",
+      "definition": "вы (множественное число)",
+      "type": "местоимение"
+    },
+    {
+      "term": "loro",
+      "definition": "они",
+      "type": "местоимение"
+    },
+    {
+      "term": "come si chiama?",
+      "definition": "как Вас зовут? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "come ti chiami?",
+      "definition": "как тебя зовут?",
+      "type": "фраза"
+    },
+    {
+      "term": "e di cognome?",
+      "definition": "а фамилия?",
+      "type": "фраза"
+    },
+    {
+      "term": "il mio nome è...",
+      "definition": "моё имя...",
+      "type": "фраза"
+    },
+    {
+      "term": "il mio cognome è...",
+      "definition": "моя фамилия...",
+      "type": "фраза"
+    },
+    {
+      "term": "e il suo?",
+      "definition": "а Ваша? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "piacere di conoscerti",
+      "definition": "приятно познакомиться (разговорный)",
+      "type": "фраза"
+    },
+    {
+      "term": "piacere di conoscerla",
+      "definition": "приятно познакомиться (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "molto lieto/a",
+      "definition": "очень рад/рада",
+      "type": "фраза"
+    },
+    {
+      "term": "piacere mio",
+      "definition": "мне приятно",
+      "type": "фраза"
+    },
+    {
+      "term": "altrettanto",
+      "definition": "взаимно",
+      "type": "фраза"
+    },
+    {
+      "term": "non lo so",
+      "definition": "не знаю",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "cosa vuol dire?",
+      "definition": "что это значит?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "come si traduce?",
+      "definition": "как это переводится?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "non ho capito",
+      "definition": "я не понял/поняла",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "puoi ripetere, per favore?",
+      "definition": "можешь повторить, пожалуйста?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "novità?",
+      "definition": "есть новости?",
+      "type": "фраза"
+    },
+    {
+      "term": "niente di nuovo",
+      "definition": "ничего нового",
+      "type": "фраза"
+    },
+    {
+      "term": "la solita vita",
+      "definition": "всё та же жизнь",
+      "type": "фраза"
+    },
+    {
+      "term": "ciao",
+      "definition": "привет; пока",
+      "type": "приветствие"
+    },
+    {
+      "term": "buongiorno",
+      "definition": "доброе утро; добрый день",
+      "type": "приветствие"
+    },
+    {
+      "term": "buonasera",
+      "definition": "добрый вечер",
+      "type": "приветствие"
+    },
+    {
+      "term": "arrivederci",
+      "definition": "до свидания",
+      "type": "приветствие"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate con essere.",
+      "translation": "Дополните глаголом «essere»."
+    },
+    {
+      "it": "Completate con chiamarsi.",
+      "translation": "Дополните глаголом «chiamarsi»."
+    },
+    {
+      "it": "Completate con i pronomi.",
+      "translation": "Дополните местоимениями."
+    },
+    {
+      "it": "Ascoltate i dialoghi.",
+      "translation": "Слушайте диалоги."
+    },
+    {
+      "it": "È formale o informale?",
+      "translation": "Это официальный или разговорный стиль?"
+    },
+    {
+      "it": "Come si chiamano?",
+      "translation": "Как их зовут?"
+    },
+    {
+      "it": "Come si scrive?",
+      "translation": "Как это пишется?"
+    },
+    {
+      "it": "Ripetete i dialoghi secondo il modello.",
+      "translation": "Повторяйте диалоги по образцу."
+    },
+    {
+      "it": "Non lo so!",
+      "translation": "Не знаю!"
+    },
+    {
+      "it": "Cosa vuol dire?",
+      "translation": "Что это значит?"
+    },
+    {
+      "it": "Come si traduce?",
+      "translation": "Как это переводится?"
+    },
+    {
+      "it": "Non ho capito!",
+      "translation": "Я не понял/поняла!"
+    },
+    {
+      "it": "Come? Puoi ripetere, per favore?",
+      "translation": "Как? Можешь повторить, пожалуйста?"
+    },
+    {
+      "it": "Ascoltate e ripetete.",
+      "translation": "Слушайте и повторяйте."
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Читайте слова."
+    },
+    {
+      "it": "Trovate le parole per salutare.",
+      "translation": "Найдите слова для приветствия."
+    },
+    {
+      "it": "Ascoltate e abbinate.",
+      "translation": "Слушайте и сопоставьте."
+    },
+    {
+      "it": "Ordinate le frasi.",
+      "translation": "Упорядочьте предложения."
+    },
+    {
+      "it": "Completate con essere o/e chiamarsi.",
+      "translation": "Дополните глаголами «essere» и/или «chiamarsi»."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-4-01",
+      "title": "Prima volta: informale",
+      "register": "разговорный",
+      "context": "Двое людей знакомятся в неформальной обстановке",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao. Come ti chiami?",
+          "translation": "Привет. Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Paolo! E tu?",
+          "translation": "Паоло! А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Mi chiamo Carlo, piacere!",
+          "translation": "Меня зовут Карло, приятно познакомиться!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Поздоровайтесь и спросите имя (разговорный)",
+          "expected_it": "Ciao. Come ti chiami?"
+        },
+        {
+          "cue": "Назовите своё имя и спросите в ответ",
+          "expected_it": "[nome]! E tu?"
+        },
+        {
+          "cue": "Представьтесь и выразите удовольствие от знакомства",
+          "expected_it": "Mi chiamo [nome], piacere!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-4-02",
+      "title": "Prima volta: formale (sera)",
+      "register": "официальный",
+      "context": "Двое взрослых официально знакомятся вечером",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buonasera, io sono Clara Boni, e Lei?",
+          "translation": "Добрый вечер, я Клара Бони, а Вы?"
+        },
+        {
+          "speaker": "B",
+          "it": "Buonasera, mi chiamo Giovanni Gori.",
+          "translation": "Добрый вечер, меня зовут Джованни Гори."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Представьтесь официально вечером и спросите, кто собеседник",
+          "expected_it": "Buonasera, io sono [nome], e Lei?"
+        },
+        {
+          "cue": "Назовите своё имя официально",
+          "expected_it": "Buonasera, mi chiamo [nome]."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-4-03",
+      "title": "Conferma del nome (informale)",
+      "register": "разговорный",
+      "context": "Один человек уточняет имя другого",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Tu sei Marina?",
+          "translation": "Ты Марина?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì.",
+          "translation": "Да."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите, правда ли что кого-то зовут [имя] (разговорный)",
+          "expected_it": "Tu sei [nome]?"
+        },
+        {
+          "cue": "Подтвердите своё имя",
+          "expected_it": "Sì."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-4-04",
+      "title": "Conferma del nome (formale)",
+      "register": "официальный",
+      "context": "Официальная проверка личности — вопрос о том, тот ли это человек",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno, Lei è Barbara Raspetti?",
+          "translation": "Доброе утро, Вы Барбара Распетти?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì. E Lei?",
+          "translation": "Да. А Вы?"
+        },
+        {
+          "speaker": "A",
+          "it": "Mi chiamo Antonella Rosi.",
+          "translation": "Меня зовут Антонелла Рози."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите официально, правда ли что кого-то зовут [имя]",
+          "expected_it": "Buongiorno, Lei è [nome]?"
+        },
+        {
+          "cue": "Подтвердите и спросите, кто собеседник (официально)",
+          "expected_it": "Sì. E Lei?"
+        },
+        {
+          "cue": "Назовите полное имя и фамилию",
+          "expected_it": "Mi chiamo [nome e cognome]."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-6",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: i numeri da 10 a 100",
+      "Ripasso: verbi avere ed essere",
+      "Ripasso e ampliamento: avere + sensazioni fisiche ed emotive",
+      "Attività comunicativa: Come ti chiami? — formale e informale",
+      "Attività comunicativa: Quante domande! — Qual è il tuo/Suo...?",
+      "Fonetica: lettera Z"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "avere voglia di + инфинитив",
+      "description": "«Avere voglia di» означает «хотеть что-то делать; быть в настроении». После него следует инфинитив. Отрицательная форма «non avere voglia di» означает «не хотеть; не быть в настроении».",
+      "examples": [
+        {
+          "it": "Ho voglia di andare al mare.",
+          "translation": "Мне хочется пойти на море."
+        },
+        {
+          "it": "Hai voglia di ripassare?",
+          "translation": "Тебе хочется повторить материал?"
+        },
+        {
+          "it": "Non ha voglia di studiare.",
+          "translation": "Ему/ей не хочется учиться."
+        },
+        {
+          "it": "Non ho voglia di niente.",
+          "translation": "Мне ничего не хочется."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "avere paura di + существительное/инфинитив",
+      "description": "«Avere paura di» означает «бояться чего-то/кого-то». После него следует существительное (с предлогом di + артикль в слитной форме) или инфинитив.",
+      "examples": [
+        {
+          "it": "Ho paura di parlare in italiano.",
+          "translation": "Я боюсь говорить по-итальянски."
+        },
+        {
+          "it": "Ha paura della moglie.",
+          "translation": "Он боится своей жены."
+        },
+        {
+          "it": "Hai paura del professore?",
+          "translation": "Ты боишься преподавателя?"
+        }
+      ],
+      "notes": "di + определённый артикль образует слитные формы: di + la → della, di + il → del, di + l' → dell'"
+    },
+    {
+      "category": "Грамматика",
+      "rule": "avere mal di + часть тела",
+      "description": "«Avere mal di» используется для выражения конкретной боли. После него следует название части тела (в устойчивых выражениях артикль не нужен).",
+      "examples": [
+        {
+          "it": "Ho mal di testa.",
+          "translation": "У меня болит голова."
+        },
+        {
+          "it": "Ha mal di stomaco.",
+          "translation": "У него/неё болит живот."
+        },
+        {
+          "it": "Hai mal di gola?",
+          "translation": "У тебя болит горло?"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Qual è il tuo/Suo...? — запрос личных данных",
+      "description": "«Qual è» означает «что такое / какой» в вопросах об идентификации. Используется с притяжательными местоимениями для запроса имени, фамилии или номера телефона. «Tuo/tua» — неформально; «Suo/Sua» (с заглавной буквы) — официально.",
+      "examples": [
+        {
+          "context": "неформальный / разговорный",
+          "it": "Qual è il tuo nome?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "context": "неформальный / разговорный",
+          "it": "Qual è il tuo cognome?",
+          "translation": "Какая твоя фамилия?"
+        },
+        {
+          "context": "неформальный / разговорный",
+          "it": "Qual è il tuo numero di cellulare?",
+          "translation": "Какой у тебя номер мобильного?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Qual è il Suo nome?",
+          "translation": "Как вас зовут? (официально)"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Qual è il Suo cognome?",
+          "translation": "Какая ваша фамилия? (официально)"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Qual è il Suo numero di cellulare?",
+          "translation": "Какой у вас номер мобильного? (официально)"
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Буква Z — [dz] и [ts]",
+      "description": "Буква Z в итальянском языке может обозначать два звука: [dz] (звонкий) и [ts] (глухой). Звук зависит от слова и модели написания.",
+      "examples": [
+        {
+          "sound": "[dz]",
+          "pattern": "Z в начале слова; окончания -izzare",
+          "words": [
+            "zero",
+            "zona",
+            "zuppa",
+            "zucchero",
+            "zampa",
+            "zanzara",
+            "pranzo",
+            "mezzo",
+            "mezzogiorno",
+            "mezzanotte",
+            "azzurro",
+            "organizzare"
+          ]
+        },
+        {
+          "sound": "[ts]",
+          "pattern": "-ia/-io/-ie, -anza/-enza, -ezza, -izia, -zione, -zz- (после гласной), -ziare",
+          "words": [
+            "ragazzo",
+            "grazie",
+            "stazione",
+            "lezione",
+            "canzone",
+            "stanza",
+            "speranza",
+            "giovinezza",
+            "pulizia",
+            "polizia",
+            "tazza",
+            "pazzo",
+            "notizia",
+            "esercizio"
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "avere voglia di",
+      "definition": "хотеть (что-то делать); быть в настроении",
+      "type": "фраза"
+    },
+    {
+      "term": "ho voglia di...",
+      "definition": "мне хочется...",
+      "type": "фраза"
+    },
+    {
+      "term": "non ho voglia di...",
+      "definition": "мне не хочется...",
+      "type": "фраза"
+    },
+    {
+      "term": "avere paura di",
+      "definition": "бояться чего-то/кого-то",
+      "type": "фраза"
+    },
+    {
+      "term": "avere mal di testa",
+      "definition": "иметь головную боль",
+      "type": "фраза"
+    },
+    {
+      "term": "mal di testa",
+      "definition": "головная боль",
+      "type": "именное словосочетание"
+    },
+    {
+      "term": "mal di stomaco",
+      "definition": "боль в животе",
+      "type": "именное словосочетание"
+    },
+    {
+      "term": "mal di gola",
+      "definition": "боль в горле",
+      "type": "именное словосочетание"
+    },
+    {
+      "term": "la moglie",
+      "definition": "жена",
+      "type": "существительное"
+    },
+    {
+      "term": "mezzogiorno",
+      "definition": "полдень (12:00)",
+      "type": "существительное"
+    },
+    {
+      "term": "mezzanotte",
+      "definition": "полночь (00:00)",
+      "type": "существительное"
+    },
+    {
+      "term": "Qual è il tuo nome?",
+      "definition": "Как тебя зовут? (неформально)",
+      "type": "фраза"
+    },
+    {
+      "term": "Qual è il tuo cognome?",
+      "definition": "Какая твоя фамилия? (неформально)",
+      "type": "фраза"
+    },
+    {
+      "term": "Qual è il tuo numero di cellulare?",
+      "definition": "Какой у тебя номер мобильного? (неформально)",
+      "type": "фраза"
+    },
+    {
+      "term": "Qual è il Suo nome?",
+      "definition": "Как вас зовут? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "Qual è il Suo cognome?",
+      "definition": "Какая ваша фамилия? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "Qual è il Suo numero di cellulare?",
+      "definition": "Какой у вас номер мобильного? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "capire",
+      "definition": "понимать",
+      "type": "глагол"
+    },
+    {
+      "term": "capisco",
+      "definition": "я понимаю",
+      "type": "форма глагола"
+    },
+    {
+      "term": "Non capisco.",
+      "definition": "Я не понимаю.",
+      "type": "фраза"
+    },
+    {
+      "term": "Sono contento/a di capire l'italiano.",
+      "definition": "Я рад(а), что понимаю итальянский.",
+      "type": "фраза"
+    },
+    {
+      "term": "della",
+      "definition": "из / о (di + la, женский род)",
+      "type": "предлог"
+    },
+    {
+      "term": "del",
+      "definition": "из / о (di + il, мужской род)",
+      "type": "предлог"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Rispondete alle domande.",
+      "translation": "Отвечайте на вопросы."
+    },
+    {
+      "it": "Leggete i numeri che mancano.",
+      "translation": "Прочитайте пропущенные числа."
+    },
+    {
+      "it": "Chi sono? Quanti anni hanno?",
+      "translation": "Кто они? Сколько им лет?"
+    },
+    {
+      "it": "Trova la tua metà!",
+      "translation": "Найдите свою пару!"
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Прочитайте слова."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-6-01",
+      "title": "Quanti anni hanno? — descrizione di terza persona",
+      "register": "нейтральный",
+      "context": "Отработка описания третьего лица: имя, национальность, город происхождения, возраст — на основе упражнения урока",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Chi è questa persona?",
+          "translation": "Кто этот человек?"
+        },
+        {
+          "speaker": "B",
+          "it": "Si chiama Susanne. È tedesca, di Berlino. Ha 59 anni.",
+          "translation": "Её зовут Сюзанне. Она немка, из Берлина. Ей 59 лет."
+        },
+        {
+          "speaker": "A",
+          "it": "E questo ragazzo, come si chiama?",
+          "translation": "А этот парень, как его зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Si chiama Marco. È italiano, di Roma. Ha 32 anni.",
+          "translation": "Его зовут Марко. Он итальянец, из Рима. Ему 32 года."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Опишите третье лицо: имя, национальность, город, возраст",
+          "expected_it": "Si chiama [nome]. È [nazionalità], di [città]. Ha [numero] anni."
+        },
+        {
+          "cue": "Спросите, кто этот человек",
+          "expected_it": "Chi è questa persona? / Chi è questo ragazzo?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-6-02",
+      "title": "Qual è il tuo...? — informale",
+      "register": "неформальный / разговорный",
+      "context": "Два студента обмениваются личными данными по модели Qual è il tuo...?",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Laura.",
+          "translation": "Меня зовут Лаура."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo cognome?",
+          "translation": "Какая твоя фамилия?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio cognome è Ferrari. E tu?",
+          "translation": "Моя фамилия Феррари. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono Paolo Ricci. Di dove sei?",
+          "translation": "Я Паоло Риччи. Откуда ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Torino. Quanti anni hai?",
+          "translation": "Я из Турина. Сколько тебе лет?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho vent'anni. Qual è il tuo numero di cellulare?",
+          "translation": "Мне двадцать. Какой у тебя номер мобильного?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 320 456 7890.",
+          "translation": "Мой номер 320 456 7890."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите чью-то фамилию с помощью «Qual è»",
+          "expected_it": "Qual è il tuo cognome?"
+        },
+        {
+          "cue": "Спросите номер мобильного с помощью «Qual è»",
+          "expected_it": "Qual è il tuo numero di cellulare?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-6-03",
+      "title": "Qual è il Suo...? — formale",
+      "register": "официальный / формальный",
+      "context": "Официальный обмен личными данными с использованием Lei — из сравнительной таблицы официального и неформального регистров урока",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno. Come si chiama?",
+          "translation": "Доброе утро. Как вас зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Giovanna Marini.",
+          "translation": "Меня зовут Джованна Марини."
+        },
+        {
+          "speaker": "A",
+          "it": "Di dov'è?",
+          "translation": "Откуда вы?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Napoli.",
+          "translation": "Я из Неаполя."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti anni ha?",
+          "translation": "Сколько вам лет?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho quarantacinque anni. E Lei?",
+          "translation": "Мне сорок пять. А вам?"
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il Suo numero di cellulare?",
+          "translation": "Какой у вас номер мобильного?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 347 812 3456.",
+          "translation": "Мой номер 347 812 3456."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Официально спросите имя",
+          "expected_it": "Come si chiama?"
+        },
+        {
+          "cue": "Официально спросите, откуда человек",
+          "expected_it": "Di dov'è?"
+        },
+        {
+          "cue": "Официально спросите номер мобильного с помощью «Qual è»",
+          "expected_it": "Qual è il Suo numero di cellulare?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-6-04",
+      "title": "Hai voglia di ripassare? — avere expressions in context",
+      "register": "неформальный / разговорный",
+      "context": "Короткие вопросы и ответы с отработкой avere + ощущения в контексте — на основе упражнения на понимание из урока",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "È mezzogiorno e i tuoi compagni mangiano una pizza. Perché?",
+          "translation": "Сейчас полдень, и твои одноклассники едят пиццу. Почему?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché hanno fame!",
+          "translation": "Потому что они хотят есть!"
+        },
+        {
+          "speaker": "A",
+          "it": "È mezzanotte e tu non guardi la televisione. Perché?",
+          "translation": "Сейчас полночь, а ты не смотришь телевизор. Почему?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché ho sonno!",
+          "translation": "Потому что я хочу спать!"
+        },
+        {
+          "speaker": "A",
+          "it": "Oggi non studi. Perché?",
+          "translation": "Сегодня ты не учишься. Почему?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché non ho voglia... e ho anche mal di testa.",
+          "translation": "Потому что не хочется... и ещё у меня болит голова."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Скажите, почему вы едите — вы голодны",
+          "expected_it": "Perché ho fame."
+        },
+        {
+          "cue": "Скажите, что вам не хочется учиться",
+          "expected_it": "Non ho voglia di studiare."
+        },
+        {
+          "cue": "Скажите, что у вас болит голова",
+          "expected_it": "Ho mal di testa."
+        }
+      ]
+    }
+  ]
+}

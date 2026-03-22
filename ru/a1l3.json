@@ -1,0 +1,535 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-3",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: salutare",
+      "Pronomi personali",
+      "Essere",
+      "Chiamarsi",
+      "Attività comunicativa: presentarsi",
+      "Fonetica: lettera C"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Прагматика",
+      "rule": "Официальные и разговорные приветствия",
+      "description": "В итальянском языке формы приветствия и прощания различаются в зависимости от ситуации и степени официальности.",
+      "examples": [
+        {
+          "context": "приход, разговорный",
+          "it": "Ciao!",
+          "translation": "Привет!"
+        },
+        {
+          "context": "приход, нейтральный/официальный",
+          "it": "Buongiorno! / Buon dì!",
+          "translation": "Доброе утро / добрый день!"
+        },
+        {
+          "context": "приход, нейтральный/официальный",
+          "it": "Buonasera!",
+          "translation": "Добрый вечер!"
+        },
+        {
+          "context": "приход, официальный",
+          "it": "Salve!",
+          "translation": "Здравствуйте!"
+        },
+        {
+          "context": "уход, официальный",
+          "it": "ArrivederLa!",
+          "translation": "До свидания (официально)"
+        },
+        {
+          "context": "уход",
+          "it": "Arrivederci!",
+          "translation": "До свидания"
+        },
+        {
+          "context": "уход",
+          "it": "A presto! / A dopo!",
+          "translation": "До скорого / до встречи!"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Личные местоимения-подлежащие",
+      "description": "В уроке отрабатываются основные итальянские местоимения-подлежащие, используемые с глаголами «essere» и «chiamarsi».",
+      "examples": [
+        {
+          "it": "io",
+          "translation": "я"
+        },
+        {
+          "it": "tu",
+          "translation": "ты (разговорный, единственное число)"
+        },
+        {
+          "it": "lui / lei",
+          "translation": "он / она"
+        },
+        {
+          "it": "noi",
+          "translation": "мы"
+        },
+        {
+          "it": "voi",
+          "translation": "вы (множественное число)"
+        },
+        {
+          "it": "loro",
+          "translation": "они"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола essere",
+      "description": "Глагол «essere» используется для обозначения идентичности и основных характеристик.",
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола chiamarsi",
+      "description": "Возвратный глагол «chiamarsi» используется для того, чтобы спросить и сказать имя.",
+      "conjugations": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      }
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Знакомство и вопрос об имени",
+      "description": "В итальянском языке используются разные формулы вопроса и реакции для разговорного «tu» и официального «Lei».",
+      "examples": [
+        {
+          "context": "разговорный",
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "context": "официальный",
+          "it": "Come si chiama?",
+          "translation": "Как Вас зовут? (официально)"
+        },
+        {
+          "context": "утверждение",
+          "it": "Mi chiamo Paolo.",
+          "translation": "Меня зовут Паоло."
+        },
+        {
+          "context": "утверждение",
+          "it": "Sono Paolo.",
+          "translation": "Я Паоло."
+        },
+        {
+          "context": "реакция, разговорный",
+          "it": "Piacere di conoscerti.",
+          "translation": "Приятно познакомиться."
+        },
+        {
+          "context": "реакция, официальный",
+          "it": "Piacere di conoscerla.",
+          "translation": "Приятно познакомиться. (официально)"
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Произношение буквы C",
+      "description": "Звучание буквы «c» меняется в зависимости от следующей за ней буквы.",
+      "sub_rules": [
+        {
+          "pattern": "c + a, o, u, согласная",
+          "sound": "[k]",
+          "examples": [
+            {
+              "it": "camera",
+              "translation": "комната / камера"
+            },
+            {
+              "it": "corpo",
+              "translation": "тело"
+            },
+            {
+              "it": "curare",
+              "translation": "лечить"
+            },
+            {
+              "it": "amico",
+              "translation": "друг"
+            }
+          ]
+        },
+        {
+          "pattern": "c + e, i",
+          "sound": "[tʃ]",
+          "examples": [
+            {
+              "it": "arrivederci",
+              "translation": "до свидания"
+            },
+            {
+              "it": "cinema",
+              "translation": "кино"
+            },
+            {
+              "it": "piacere",
+              "translation": "удовольствие"
+            },
+            {
+              "it": "centro",
+              "translation": "центр"
+            }
+          ]
+        },
+        {
+          "pattern": "ch + e, i",
+          "sound": "[k]",
+          "examples": [
+            {
+              "it": "che",
+              "translation": "что / который"
+            },
+            {
+              "it": "perché",
+              "translation": "почему / потому что"
+            },
+            {
+              "it": "macchina",
+              "translation": "машина, автомобиль"
+            },
+            {
+              "it": "forchetta",
+              "translation": "вилка"
+            }
+          ]
+        },
+        {
+          "pattern": "ci + a, o, u",
+          "sound": "[tʃ]",
+          "examples": [
+            {
+              "it": "ciao",
+              "translation": "привет"
+            },
+            {
+              "it": "cioccolata",
+              "translation": "шоколад"
+            },
+            {
+              "it": "calcio",
+              "translation": "футбол"
+            },
+            {
+              "it": "faccia",
+              "translation": "лицо"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "ciao",
+      "definition": "привет; пока",
+      "type": "приветствие"
+    },
+    {
+      "term": "buongiorno",
+      "definition": "доброе утро; добрый день",
+      "type": "приветствие"
+    },
+    {
+      "term": "buon dì",
+      "definition": "добрый день",
+      "type": "приветствие"
+    },
+    {
+      "term": "buonasera",
+      "definition": "добрый вечер",
+      "type": "приветствие"
+    },
+    {
+      "term": "salve",
+      "definition": "здравствуйте",
+      "type": "приветствие"
+    },
+    {
+      "term": "arrivederci",
+      "definition": "до свидания",
+      "type": "приветствие"
+    },
+    {
+      "term": "arrivederla",
+      "definition": "до свидания (официально)",
+      "type": "приветствие"
+    },
+    {
+      "term": "buona notte",
+      "definition": "спокойной ночи",
+      "type": "приветствие"
+    },
+    {
+      "term": "buona giornata",
+      "definition": "хорошего дня",
+      "type": "фраза"
+    },
+    {
+      "term": "buona serata",
+      "definition": "хорошего вечера",
+      "type": "фраза"
+    },
+    {
+      "term": "buon fine settimana",
+      "definition": "хороших выходных",
+      "type": "фраза"
+    },
+    {
+      "term": "ci vediamo",
+      "definition": "увидимся",
+      "type": "фраза"
+    },
+    {
+      "term": "a presto",
+      "definition": "до скорого",
+      "type": "приветствие"
+    },
+    {
+      "term": "a dopo",
+      "definition": "до встречи",
+      "type": "приветствие"
+    },
+    {
+      "term": "grazie",
+      "definition": "спасибо",
+      "type": "фраза"
+    },
+    {
+      "term": "prego",
+      "definition": "пожалуйста",
+      "type": "фраза"
+    },
+    {
+      "term": "anche a te",
+      "definition": "и тебе тоже",
+      "type": "фраза"
+    },
+    {
+      "term": "novità?",
+      "definition": "есть новости?",
+      "type": "фраза"
+    },
+    {
+      "term": "la solita vita",
+      "definition": "всё та же жизнь",
+      "type": "фраза"
+    },
+    {
+      "term": "niente di nuovo",
+      "definition": "ничего нового",
+      "type": "фраза"
+    },
+    {
+      "term": "nessuna",
+      "definition": "никакая, ни одна",
+      "type": "местоимение"
+    },
+    {
+      "term": "mi chiamo",
+      "definition": "меня зовут",
+      "type": "форма глагола"
+    },
+    {
+      "term": "ti chiami",
+      "definition": "тебя зовут / как тебя зовут",
+      "type": "форма глагола"
+    },
+    {
+      "term": "si chiama",
+      "definition": "его/её зовут; Вас зовут (официально)",
+      "type": "форма глагола"
+    },
+    {
+      "term": "ci chiamiamo",
+      "definition": "нас зовут / мы называемся",
+      "type": "форма глагола"
+    },
+    {
+      "term": "vi chiamate",
+      "definition": "вас зовут / вы называетесь",
+      "type": "форма глагола"
+    },
+    {
+      "term": "si chiamano",
+      "definition": "их зовут / они называются",
+      "type": "форма глагола"
+    },
+    {
+      "term": "sono",
+      "definition": "я есть; они есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "sei",
+      "definition": "ты есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "è",
+      "definition": "он/она есть; Вы есть (официально)",
+      "type": "форма глагола"
+    },
+    {
+      "term": "siamo",
+      "definition": "мы есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "siete",
+      "definition": "вы есть",
+      "type": "форма глагола"
+    },
+    {
+      "term": "come si scrive?",
+      "definition": "как это пишется?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "che cosa significa?",
+      "definition": "что это значит?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "come si dice...?",
+      "definition": "как по-итальянски...?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "scusi, non ho capito",
+      "definition": "извините, я не понял/поняла",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "può ripetere, per favore?",
+      "definition": "не могли бы Вы повторить, пожалуйста?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "pagina",
+      "definition": "страница",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "esercizio",
+      "definition": "упражнение",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "traccia",
+      "definition": "дорожка; подсказка",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "parola",
+      "definition": "слово",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "ti saluto",
+      "definition": "прощаюсь с тобой (разговорный)",
+      "type": "фраза"
+    },
+    {
+      "term": "la saluto",
+      "definition": "прощаюсь с Вами (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "a lunedì",
+      "definition": "до понедельника",
+      "type": "приветствие"
+    },
+    {
+      "term": "a venerdì",
+      "definition": "до пятницы",
+      "type": "приветствие"
+    },
+    {
+      "term": "come si pronuncia questa parola?",
+      "definition": "как произносится это слово?",
+      "type": "учебная фраза"
+    },
+    {
+      "term": "basta così",
+      "definition": "достаточно; это всё?",
+      "type": "фраза"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Работайте в парах."
+    },
+    {
+      "it": "Guardate e rispondete.",
+      "translation": "Смотрите и отвечайте."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    },
+    {
+      "it": "Completate con il verbo essere.",
+      "translation": "Дополните глаголом «essere»."
+    },
+    {
+      "it": "Presentate le persone.",
+      "translation": "Представьте людей."
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Читайте слова."
+    },
+    {
+      "it": "Come si scrive...?",
+      "translation": "Как пишется / произносится по буквам...?"
+    },
+    {
+      "it": "Che cosa significa...?",
+      "translation": "Что значит...?"
+    },
+    {
+      "it": "Come si dice...?",
+      "translation": "Как по-итальянски...?"
+    },
+    {
+      "it": "Scusi, non ho capito.",
+      "translation": "Извините, я не понял/поняла."
+    },
+    {
+      "it": "Scusi, può ripetere, per favore?",
+      "translation": "Извините, не могли бы Вы повторить, пожалуйста?"
+    }
+  ]
+}
