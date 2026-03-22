@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "generated_at": "2026-03-14",
+  "version": 2,
+  "generated_at": "2026-03-16",
   "lessons": [
     {
       "id": "A1-L1-1",
@@ -13,7 +13,8 @@
       ],
       "file": "a1l1.json",
       "flashcard_count": 36,
-      "language_rule_count": 4
+      "language_rule_count": 4,
+      "dialogue_count": 0
     },
     {
       "id": "A1-L1-2",
@@ -27,8 +28,9 @@
         "Fonetica: sc"
       ],
       "file": "a1l2.json",
-      "flashcard_count": 37,
-      "language_rule_count": 6
+      "flashcard_count": 44,
+      "language_rule_count": 6,
+      "dialogue_count": 4
     },
     {
       "id": "A1-L1-3",
@@ -43,8 +45,9 @@
         "Fonetica: lettera C"
       ],
       "file": "a1l3.json",
-      "flashcard_count": 41,
-      "language_rule_count": 6
+      "flashcard_count": 47,
+      "language_rule_count": 6,
+      "dialogue_count": 0
     },
     {
       "id": "A1-L1-4",
@@ -58,7 +61,8 @@
       ],
       "file": "a1l4.json",
       "flashcard_count": 42,
-      "language_rule_count": 7
+      "language_rule_count": 7,
+      "dialogue_count": 4
     },
     {
       "id": "A1-L1-5",
@@ -71,8 +75,9 @@
         "Fonetica: lettere D/T"
       ],
       "file": "a1l5.json",
-      "flashcard_count": 49,
-      "language_rule_count": 6
+      "flashcard_count": 53,
+      "language_rule_count": 6,
+      "dialogue_count": 2
     },
     {
       "id": "A1-L1-6",
@@ -88,8 +93,9 @@
         "Fonetica: lettere D/T"
       ],
       "file": "a1l6.json",
-      "flashcard_count": 34,
-      "language_rule_count": 8
+      "flashcard_count": 49,
+      "language_rule_count": 8,
+      "dialogue_count": 0
     },
     {
       "id": "A1-L1-7",
@@ -103,7 +109,8 @@
       ],
       "file": "a1l7.json",
       "flashcard_count": 47,
-      "language_rule_count": 5
+      "language_rule_count": 5,
+      "dialogue_count": 2
     },
     {
       "id": "A1-L2-1",
@@ -116,8 +123,9 @@
         "Fonetica: lettera S"
       ],
       "file": "a2l1.json",
-      "flashcard_count": 46,
-      "language_rule_count": 4
+      "flashcard_count": 49,
+      "language_rule_count": 4,
+      "dialogue_count": 2
     },
     {
       "id": "A1-L2-2",
@@ -130,13 +138,15 @@
         "Fonetica: gli - gn, sc"
       ],
       "file": "a2l2.json",
-      "flashcard_count": 50,
-      "language_rule_count": 6
+      "flashcard_count": 55,
+      "language_rule_count": 6,
+      "dialogue_count": 3
     },
     {
       "id": "A1-L2-3",
       "title": "La classe di Carla",
       "level": "A1",
+      "_note": "DUPLICATE: Same content as a1l2.json (A1-L1-2). Review and consolidate if needed.",
       "objectives": [
         "Comprensione orale: incontri",
         "Presentare una persona",
@@ -146,7 +156,8 @@
       ],
       "file": "a2l3.json",
       "flashcard_count": 37,
-      "language_rule_count": 6
+      "language_rule_count": 6,
+      "dialogue_count": 4
     },
     {
       "id": "A1-L2-4",
@@ -159,8 +170,9 @@
         "Attività comunicativa: Quanti anni hai?"
       ],
       "file": "a2l4.json",
-      "flashcard_count": 41,
-      "language_rule_count": 4
+      "flashcard_count": 56,
+      "language_rule_count": 4,
+      "dialogue_count": 3
     }
   ]
 }

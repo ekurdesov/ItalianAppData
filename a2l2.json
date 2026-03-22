@@ -1,4 +1,3 @@
-
 {
   "lesson_info": {
     "id": "A1-L2-2",
@@ -17,11 +16,26 @@
       "rule": "Nationality adjectives in the plural",
       "description": "Nationality adjectives agree with the noun in gender and number, including plural forms.",
       "examples": [
-        { "it": "tedeschi / tedesche", "en": "German men / German women" },
-        { "it": "italiani / italiane", "en": "Italian men / Italian women" },
-        { "it": "francesi", "en": "French (plural)" },
-        { "it": "inglesi", "en": "English (plural)" },
-        { "it": "americani / americane", "en": "American men / American women" }
+        {
+          "it": "tedeschi / tedesche",
+          "en": "German men / German women"
+        },
+        {
+          "it": "italiani / italiane",
+          "en": "Italian men / Italian women"
+        },
+        {
+          "it": "francesi",
+          "en": "French (plural)"
+        },
+        {
+          "it": "inglesi",
+          "en": "English (plural)"
+        },
+        {
+          "it": "americani / americane",
+          "en": "American men / American women"
+        }
       ]
     },
     {
@@ -29,11 +43,31 @@
       "rule": "Asking and stating origin",
       "description": "Italian distinguishes informal 'tu' and formal 'Lei' when asking where someone is from.",
       "examples": [
-        { "context": "informal", "it": "Di dove sei?", "en": "Where are you from?" },
-        { "context": "formal", "it": "Di dov'è?", "en": "Where are you from? (formal)" },
-        { "context": "answer", "it": "Sono italiano.", "en": "I am Italian." },
-        { "context": "answer", "it": "Sono di Milano.", "en": "I am from Milan." },
-        { "context": "answer", "it": "Sono italiano, di Milano.", "en": "I am Italian, from Milan." }
+        {
+          "context": "informal",
+          "it": "Di dove sei?",
+          "en": "Where are you from?"
+        },
+        {
+          "context": "formal",
+          "it": "Di dov'è?",
+          "en": "Where are you from? (formal)"
+        },
+        {
+          "context": "answer",
+          "it": "Sono italiano.",
+          "en": "I am Italian."
+        },
+        {
+          "context": "answer",
+          "it": "Sono di Milano.",
+          "en": "I am from Milan."
+        },
+        {
+          "context": "answer",
+          "it": "Sono italiano, di Milano.",
+          "en": "I am Italian, from Milan."
+        }
       ]
     },
     {
@@ -41,10 +75,26 @@
       "rule": "Demonstratives: questo, questa, questi, queste",
       "description": "Italian demonstratives agree in gender and number with the noun they refer to.",
       "examples": [
-        { "it": "Questo è Mario.", "en": "This is Mario.", "gender_number": "masculine singular" },
-        { "it": "Questi sono Mario e Valerio.", "en": "These are Mario and Valerio.", "gender_number": "masculine plural" },
-        { "it": "Questa è Stefania.", "en": "This is Stefania.", "gender_number": "feminine singular" },
-        { "it": "Queste sono Stefania e Sofia.", "en": "These are Stefania and Sofia.", "gender_number": "feminine plural" }
+        {
+          "it": "Questo è Mario.",
+          "en": "This is Mario.",
+          "gender_number": "masculine singular"
+        },
+        {
+          "it": "Questi sono Mario e Valerio.",
+          "en": "These are Mario and Valerio.",
+          "gender_number": "masculine plural"
+        },
+        {
+          "it": "Questa è Stefania.",
+          "en": "This is Stefania.",
+          "gender_number": "feminine singular"
+        },
+        {
+          "it": "Queste sono Stefania e Sofia.",
+          "en": "These are Stefania and Sofia.",
+          "gender_number": "feminine plural"
+        }
       ]
     },
     {
@@ -52,11 +102,31 @@
       "rule": "Introducing people: formal vs informal",
       "description": "Italian uses different formulas for presenting someone in informal and formal situations.",
       "examples": [
-        { "context": "informal", "it": "Ti presento Mario.", "en": "Let me introduce Mario to you." },
-        { "context": "informal", "it": "Lui/Questo è Mario.", "en": "He/This is Mario." },
-        { "context": "informal", "it": "Lei/Questa è Maria.", "en": "She/This is Maria." },
-        { "context": "formal", "it": "Le presento il signor Bianchi.", "en": "Let me introduce Mr. Bianchi to you." },
-        { "context": "formal", "it": "Lei/Questa è la signora Bianchi.", "en": "She/This is Mrs. Bianchi." }
+        {
+          "context": "informal",
+          "it": "Ti presento Mario.",
+          "en": "Let me introduce Mario to you."
+        },
+        {
+          "context": "informal",
+          "it": "Lui/Questo è Mario.",
+          "en": "He/This is Mario."
+        },
+        {
+          "context": "informal",
+          "it": "Lei/Questa è Maria.",
+          "en": "She/This is Maria."
+        },
+        {
+          "context": "formal",
+          "it": "Le presento il signor Bianchi.",
+          "en": "Let me introduce Mr. Bianchi to you."
+        },
+        {
+          "context": "formal",
+          "it": "Lei/Questa è la signora Bianchi.",
+          "en": "She/This is Mrs. Bianchi."
+        }
       ]
     },
     {
@@ -64,10 +134,22 @@
       "rule": "Titles of courtesy",
       "description": "Use 'signor' and 'signora' as polite titles before surnames or in formal address.",
       "examples": [
-        { "it": "Questo è il signor Rossi.", "en": "This is Mr. Rossi." },
-        { "it": "Questa è la signora Rossi.", "en": "This is Mrs. Rossi." },
-        { "it": "Buonasera, signor Rossi!", "en": "Good evening, Mr. Rossi!" },
-        { "it": "Buonasera, signora Rossi!", "en": "Good evening, Mrs. Rossi!" }
+        {
+          "it": "Questo è il signor Rossi.",
+          "en": "This is Mr. Rossi."
+        },
+        {
+          "it": "Questa è la signora Rossi.",
+          "en": "This is Mrs. Rossi."
+        },
+        {
+          "it": "Buonasera, signor Rossi!",
+          "en": "Good evening, Mr. Rossi!"
+        },
+        {
+          "it": "Buonasera, signora Rossi!",
+          "en": "Good evening, Mrs. Rossi!"
+        }
       ]
     },
     {
@@ -79,103 +161,518 @@
           "pattern": "l",
           "sound": "[l]",
           "examples": [
-            { "it": "alunno", "en": "pupil" },
-            { "it": "parlare", "en": "to speak" },
-            { "it": "classe", "en": "class" }
+            {
+              "it": "alunno",
+              "en": "pupil"
+            },
+            {
+              "it": "parlare",
+              "en": "to speak"
+            },
+            {
+              "it": "classe",
+              "en": "class"
+            }
           ]
         },
         {
           "pattern": "gli",
           "sound": "[ʎ]",
           "examples": [
-            { "it": "famiglia", "en": "family" },
-            { "it": "figlio / figlia", "en": "son / daughter" },
-            { "it": "bottiglia", "en": "bottle" }
+            {
+              "it": "famiglia",
+              "en": "family"
+            },
+            {
+              "it": "figlio / figlia",
+              "en": "son / daughter"
+            },
+            {
+              "it": "bottiglia",
+              "en": "bottle"
+            }
           ]
         },
         {
           "pattern": "gn",
           "sound": "[ɲ]",
           "examples": [
-            { "it": "signora", "en": "madam" },
-            { "it": "bagno", "en": "bathroom" },
-            { "it": "insegnante", "en": "teacher" }
+            {
+              "it": "signora",
+              "en": "madam"
+            },
+            {
+              "it": "bagno",
+              "en": "bathroom"
+            },
+            {
+              "it": "insegnante",
+              "en": "teacher"
+            }
           ]
         },
         {
           "pattern": "n + c, q, g",
           "sound": "[ŋ]",
           "examples": [
-            { "it": "banca", "en": "bank" },
-            { "it": "lingua", "en": "language" },
-            { "it": "incontrare", "en": "to meet" }
+            {
+              "it": "banca",
+              "en": "bank"
+            },
+            {
+              "it": "lingua",
+              "en": "language"
+            },
+            {
+              "it": "incontrare",
+              "en": "to meet"
+            }
           ]
         }
       ]
     }
   ],
   "flashcards": [
-    { "term": "gelato preferito", "definition": "favorite ice cream", "type": "phrase" },
-    { "term": "di dove sei?", "definition": "where are you from?", "type": "phrase" },
-    { "term": "di dov'è?", "definition": "where are you from? (formal)", "type": "phrase" },
-    { "term": "italiano/a", "definition": "Italian", "type": "nationality" },
-    { "term": "francese", "definition": "French", "type": "nationality" },
-    { "term": "tedesco/a", "definition": "German", "type": "nationality" },
-    { "term": "inglese", "definition": "English", "type": "nationality" },
-    { "term": "americano/a", "definition": "American", "type": "nationality" },
-    { "term": "statunitense", "definition": "U.S. American", "type": "nationality" },
-    { "term": "russo/a", "definition": "Russian", "type": "nationality" },
-    { "term": "brasiliano/a", "definition": "Brazilian", "type": "nationality" },
-    { "term": "polacco/a", "definition": "Polish", "type": "nationality" },
-    { "term": "argentino/a", "definition": "Argentinian", "type": "nationality" },
-    { "term": "spagnolo/a", "definition": "Spanish", "type": "nationality" },
-    { "term": "greco/a", "definition": "Greek", "type": "nationality" },
-    { "term": "romeno/a", "definition": "Romanian", "type": "nationality" },
-    { "term": "filippino/a", "definition": "Filipino", "type": "nationality" },
-    { "term": "canadese", "definition": "Canadian", "type": "nationality" },
-    { "term": "turco/a", "definition": "Turkish", "type": "nationality" },
-    { "term": "svedese", "definition": "Swedish", "type": "nationality" },
-    { "term": "svizzero/a", "definition": "Swiss", "type": "nationality" },
-    { "term": "cinese", "definition": "Chinese", "type": "nationality" },
-    { "term": "indiano/a", "definition": "Indian", "type": "nationality" },
-    { "term": "arabo/a", "definition": "Arab", "type": "nationality" },
-    { "term": "giapponese", "definition": "Japanese", "type": "nationality" },
-    { "term": "austriaco/a", "definition": "Austrian", "type": "nationality" },
-    { "term": "portoghese", "definition": "Portuguese", "type": "nationality" },
-    { "term": "messicano/a", "definition": "Mexican", "type": "nationality" },
-    { "term": "coreano/a", "definition": "Korean", "type": "nationality" },
-    { "term": "questo", "definition": "this (masculine singular)", "type": "demonstrative" },
-    { "term": "questa", "definition": "this (feminine singular)", "type": "demonstrative" },
-    { "term": "questi", "definition": "these (masculine plural)", "type": "demonstrative" },
-    { "term": "queste", "definition": "these (feminine plural)", "type": "demonstrative" },
-    { "term": "signor", "definition": "Mr.", "type": "courtesy title" },
-    { "term": "signora", "definition": "Mrs.; Ms.", "type": "courtesy title" },
-    { "term": "ti presento", "definition": "let me introduce ... to you", "type": "phrase" },
-    { "term": "le presento", "definition": "let me introduce ... to you (formal)", "type": "phrase" },
-    { "term": "piacere di conoscerti", "definition": "nice to meet you (informal)", "type": "phrase" },
-    { "term": "piacere di conoscerla", "definition": "nice to meet you (formal)", "type": "phrase" },
-    { "term": "molto lieto/a", "definition": "very pleased", "type": "phrase" },
-    { "term": "famiglia", "definition": "family", "type": "vocabulary" },
-    { "term": "figlio", "definition": "son", "type": "vocabulary" },
-    { "term": "figlia", "definition": "daughter", "type": "vocabulary" },
-    { "term": "bottiglia", "definition": "bottle", "type": "vocabulary" },
-    { "term": "signora", "definition": "madam; Mrs.", "type": "vocabulary" },
-    { "term": "bagno", "definition": "bathroom", "type": "vocabulary" },
-    { "term": "sogno", "definition": "dream", "type": "vocabulary" },
-    { "term": "insegnante", "definition": "teacher", "type": "people" },
-    { "term": "lingua", "definition": "language", "type": "vocabulary" },
-    { "term": "banca", "definition": "bank", "type": "vocabulary" }
+    {
+      "term": "gelato preferito",
+      "definition": "favorite ice cream",
+      "type": "phrase"
+    },
+    {
+      "term": "di dove sei?",
+      "definition": "where are you from?",
+      "type": "phrase"
+    },
+    {
+      "term": "di dov'è?",
+      "definition": "where are you from? (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "italiano/a",
+      "definition": "Italian",
+      "type": "nationality"
+    },
+    {
+      "term": "francese",
+      "definition": "French",
+      "type": "nationality"
+    },
+    {
+      "term": "tedesco/a",
+      "definition": "German",
+      "type": "nationality"
+    },
+    {
+      "term": "inglese",
+      "definition": "English",
+      "type": "nationality"
+    },
+    {
+      "term": "americano/a",
+      "definition": "American",
+      "type": "nationality"
+    },
+    {
+      "term": "statunitense",
+      "definition": "U.S. American",
+      "type": "nationality"
+    },
+    {
+      "term": "russo/a",
+      "definition": "Russian",
+      "type": "nationality"
+    },
+    {
+      "term": "brasiliano/a",
+      "definition": "Brazilian",
+      "type": "nationality"
+    },
+    {
+      "term": "polacco/a",
+      "definition": "Polish",
+      "type": "nationality"
+    },
+    {
+      "term": "argentino/a",
+      "definition": "Argentinian",
+      "type": "nationality"
+    },
+    {
+      "term": "spagnolo/a",
+      "definition": "Spanish",
+      "type": "nationality"
+    },
+    {
+      "term": "greco/a",
+      "definition": "Greek",
+      "type": "nationality"
+    },
+    {
+      "term": "romeno/a",
+      "definition": "Romanian",
+      "type": "nationality"
+    },
+    {
+      "term": "filippino/a",
+      "definition": "Filipino",
+      "type": "nationality"
+    },
+    {
+      "term": "canadese",
+      "definition": "Canadian",
+      "type": "nationality"
+    },
+    {
+      "term": "turco/a",
+      "definition": "Turkish",
+      "type": "nationality"
+    },
+    {
+      "term": "svedese",
+      "definition": "Swedish",
+      "type": "nationality"
+    },
+    {
+      "term": "svizzero/a",
+      "definition": "Swiss",
+      "type": "nationality"
+    },
+    {
+      "term": "cinese",
+      "definition": "Chinese",
+      "type": "nationality"
+    },
+    {
+      "term": "indiano/a",
+      "definition": "Indian",
+      "type": "nationality"
+    },
+    {
+      "term": "arabo/a",
+      "definition": "Arab",
+      "type": "nationality"
+    },
+    {
+      "term": "giapponese",
+      "definition": "Japanese",
+      "type": "nationality"
+    },
+    {
+      "term": "austriaco/a",
+      "definition": "Austrian",
+      "type": "nationality"
+    },
+    {
+      "term": "portoghese",
+      "definition": "Portuguese",
+      "type": "nationality"
+    },
+    {
+      "term": "messicano/a",
+      "definition": "Mexican",
+      "type": "nationality"
+    },
+    {
+      "term": "coreano/a",
+      "definition": "Korean",
+      "type": "nationality"
+    },
+    {
+      "term": "questo",
+      "definition": "this (masculine singular)",
+      "type": "demonstrative"
+    },
+    {
+      "term": "questa",
+      "definition": "this (feminine singular)",
+      "type": "demonstrative"
+    },
+    {
+      "term": "questi",
+      "definition": "these (masculine plural)",
+      "type": "demonstrative"
+    },
+    {
+      "term": "queste",
+      "definition": "these (feminine plural)",
+      "type": "demonstrative"
+    },
+    {
+      "term": "signor",
+      "definition": "Mr.",
+      "type": "courtesy title"
+    },
+    {
+      "term": "signora",
+      "definition": "Mrs.; Ms.",
+      "type": "courtesy title"
+    },
+    {
+      "term": "ti presento",
+      "definition": "let me introduce ... to you",
+      "type": "phrase"
+    },
+    {
+      "term": "le presento",
+      "definition": "let me introduce ... to you (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "piacere di conoscerti",
+      "definition": "nice to meet you (informal)",
+      "type": "phrase"
+    },
+    {
+      "term": "piacere di conoscerla",
+      "definition": "nice to meet you (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "molto lieto/a",
+      "definition": "very pleased",
+      "type": "phrase"
+    },
+    {
+      "term": "famiglia",
+      "definition": "family",
+      "type": "vocabulary"
+    },
+    {
+      "term": "figlio",
+      "definition": "son",
+      "type": "vocabulary"
+    },
+    {
+      "term": "figlia",
+      "definition": "daughter",
+      "type": "vocabulary"
+    },
+    {
+      "term": "bottiglia",
+      "definition": "bottle",
+      "type": "vocabulary"
+    },
+    {
+      "term": "signora",
+      "definition": "madam; Mrs.",
+      "type": "vocabulary"
+    },
+    {
+      "term": "bagno",
+      "definition": "bathroom",
+      "type": "vocabulary"
+    },
+    {
+      "term": "sogno",
+      "definition": "dream",
+      "type": "vocabulary"
+    },
+    {
+      "term": "insegnante",
+      "definition": "teacher",
+      "type": "people"
+    },
+    {
+      "term": "lingua",
+      "definition": "language",
+      "type": "vocabulary"
+    },
+    {
+      "term": "banca",
+      "definition": "bank",
+      "type": "vocabulary"
+    },
+    {
+      "term": "non sei [nazionalità], vero?",
+      "definition": "you're not [nationality], right? (tag question)",
+      "type": "phrase"
+    },
+    {
+      "term": "bellissimo/a",
+      "definition": "very beautiful; gorgeous",
+      "type": "adjective"
+    },
+    {
+      "term": "È una città bellissima!",
+      "definition": "It's a beautiful city!",
+      "type": "phrase"
+    },
+    {
+      "term": "livornese",
+      "definition": "from Livorno",
+      "type": "vocabulary"
+    },
+    {
+      "term": "di dove sei? non sei ..., vero?",
+      "definition": "tag question pattern for nationality",
+      "type": "grammar note"
+    }
   ],
   "classroom_instructions": [
-    { "it": "Completate.", "en": "Complete." },
-    { "it": "Usate il dialogo come modello.", "en": "Use the dialogue as a model." },
-    { "it": "Ascoltate.", "en": "Listen." },
-    { "it": "Ascoltate la nazionalità di alcuni studenti di Carla.", "en": "Listen to the nationality of some of Carla's students." },
-    { "it": "Trovate gli aggettivi che sentite nel parolone sotto.", "en": "Find the adjectives you hear in the big word below." },
-    { "it": "Separateli con una barra (/).", "en": "Separate them with a slash (/)." },
-    { "it": "Abbinate.", "en": "Match." },
-    { "it": "Completate con il o la dove è necessario.", "en": "Complete with 'il' or 'la' where necessary." },
-    { "it": "Mettete in ordine.", "en": "Put in order." },
-    { "it": "Leggete le parole.", "en": "Read the words." }
+    {
+      "it": "Completate.",
+      "en": "Complete."
+    },
+    {
+      "it": "Usate il dialogo come modello.",
+      "en": "Use the dialogue as a model."
+    },
+    {
+      "it": "Ascoltate.",
+      "en": "Listen."
+    },
+    {
+      "it": "Ascoltate la nazionalità di alcuni studenti di Carla.",
+      "en": "Listen to the nationality of some of Carla's students."
+    },
+    {
+      "it": "Trovate gli aggettivi che sentite nel parolone sotto.",
+      "en": "Find the adjectives you hear in the big word below."
+    },
+    {
+      "it": "Separateli con una barra (/).",
+      "en": "Separate them with a slash (/)."
+    },
+    {
+      "it": "Abbinate.",
+      "en": "Match."
+    },
+    {
+      "it": "Completate con il o la dove è necessario.",
+      "en": "Complete with 'il' or 'la' where necessary."
+    },
+    {
+      "it": "Mettete in ordine.",
+      "en": "Put in order."
+    },
+    {
+      "it": "Leggete le parole.",
+      "en": "Read the words."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-2-01",
+      "title": "È una città bellissima!",
+      "register": "informal",
+      "context": "Two students meet for the first time and talk about their origins — the key model dialogue from the lesson",
+      "turns": [
+        {
+          "speaker": "Pierre",
+          "it": "Ciao, mi chiamo Pierre. E tu, come ti chiami?",
+          "en": "Hi, my name is Pierre. And you, what's your name?"
+        },
+        {
+          "speaker": "Mariana",
+          "it": "Io sono Mariana. Piacere.",
+          "en": "I am Mariana. Pleased to meet you."
+        },
+        {
+          "speaker": "Pierre",
+          "it": "Di dove sei?",
+          "en": "Where are you from?"
+        },
+        {
+          "speaker": "Mariana",
+          "it": "Sono italiana, di Livorno. E tu? Non sei italiano, vero?",
+          "en": "I am Italian, from Livorno. And you? You're not Italian, right?"
+        },
+        {
+          "speaker": "Pierre",
+          "it": "No, sono francese, di Parigi.",
+          "en": "No, I am French, from Paris."
+        },
+        {
+          "speaker": "Mariana",
+          "it": "Parigi?! È una città bellissima!",
+          "en": "Paris?! It is a beautiful city!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue_en": "Ask where they are from using a negative tag question",
+          "expected_it": "Non sei [nazionalità], vero?"
+        },
+        {
+          "cue_en": "Confirm your nationality and city",
+          "expected_it": "No, sono [nazionalità], di [città]."
+        },
+        {
+          "cue_en": "Exclaim that a city is beautiful",
+          "expected_it": "[Città]?! È una città bellissima!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-2-02",
+      "title": "Ti presento Giorgio (informale)",
+      "register": "informal",
+      "context": "A friend introduces a third person informally",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, Vittoria! Ti presento Giorgio. È italiano, di Milano.",
+          "en": "Hi, Vittoria! Let me introduce Giorgio. He is Italian, from Milan."
+        },
+        {
+          "speaker": "Vittoria",
+          "it": "Ciao, Giorgio! Piacere di conoscerti!",
+          "en": "Hi, Giorgio! Nice to meet you!"
+        },
+        {
+          "speaker": "Giorgio",
+          "it": "Piacere mio!",
+          "en": "The pleasure is mine!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue_en": "Introduce a third person informally with their nationality",
+          "expected_it": "Ti presento [nome]. È [nazionalità], di [città]."
+        },
+        {
+          "cue_en": "React to the introduction (informal)",
+          "expected_it": "Piacere di conoscerti!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-2-03",
+      "title": "Le presento il signor Bocelli (formale)",
+      "register": "formal",
+      "context": "A formal introduction at a professional event",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno, signor Eugenio! Le presento il signor Bocelli. È italiano, di Lajatico.",
+          "en": "Good morning, Mr. Eugenio! Let me introduce Mr. Bocelli. He is Italian, from Lajatico."
+        },
+        {
+          "speaker": "Eugenio",
+          "it": "Buongiorno, signor Bocelli! Molto lieto!",
+          "en": "Good morning, Mr. Bocelli! Very pleased!"
+        },
+        {
+          "speaker": "Bocelli",
+          "it": "Piacere di conoscerla.",
+          "en": "Nice to meet you."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue_en": "Introduce someone formally with a courtesy title",
+          "expected_it": "Le presento il signor/la signora [cognome]."
+        },
+        {
+          "cue_en": "React to a formal introduction",
+          "expected_it": "Molto lieto/a!"
+        },
+        {
+          "cue_en": "Express pleasure formally",
+          "expected_it": "Piacere di conoscerla."
+        }
+      ]
+    }
   ]
 }

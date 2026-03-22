@@ -18,13 +18,41 @@
       "rule": "Formal vs informal greetings",
       "description": "Italian uses different greeting and leave-taking forms depending on the situation and level of formality.",
       "examples": [
-        { "context": "arrival informal", "it": "Ciao!", "en": "Hi!" },
-        { "context": "arrival neutral/formal", "it": "Buongiorno! / Buon dì!", "en": "Good morning / good day!" },
-        { "context": "arrival neutral/formal", "it": "Buonasera!", "en": "Good evening!" },
-        { "context": "arrival formal", "it": "Salve!", "en": "Hello!" },
-        { "context": "departure formal", "it": "ArrivederLa!", "en": "Goodbye (formal)" },
-        { "context": "departure", "it": "Arrivederci!", "en": "Goodbye" },
-        { "context": "departure", "it": "A presto! / A dopo!", "en": "See you soon / later!" }
+        {
+          "context": "arrival informal",
+          "it": "Ciao!",
+          "en": "Hi!"
+        },
+        {
+          "context": "arrival neutral/formal",
+          "it": "Buongiorno! / Buon dì!",
+          "en": "Good morning / good day!"
+        },
+        {
+          "context": "arrival neutral/formal",
+          "it": "Buonasera!",
+          "en": "Good evening!"
+        },
+        {
+          "context": "arrival formal",
+          "it": "Salve!",
+          "en": "Hello!"
+        },
+        {
+          "context": "departure formal",
+          "it": "ArrivederLa!",
+          "en": "Goodbye (formal)"
+        },
+        {
+          "context": "departure",
+          "it": "Arrivederci!",
+          "en": "Goodbye"
+        },
+        {
+          "context": "departure",
+          "it": "A presto! / A dopo!",
+          "en": "See you soon / later!"
+        }
       ]
     },
     {
@@ -32,12 +60,30 @@
       "rule": "Personal subject pronouns",
       "description": "The lesson practices the basic Italian subject pronouns used with 'essere' and 'chiamarsi'.",
       "examples": [
-        { "it": "io", "en": "I" },
-        { "it": "tu", "en": "you (informal singular)" },
-        { "it": "lui / lei", "en": "he / she" },
-        { "it": "noi", "en": "we" },
-        { "it": "voi", "en": "you (plural)" },
-        { "it": "loro", "en": "they" }
+        {
+          "it": "io",
+          "en": "I"
+        },
+        {
+          "it": "tu",
+          "en": "you (informal singular)"
+        },
+        {
+          "it": "lui / lei",
+          "en": "he / she"
+        },
+        {
+          "it": "noi",
+          "en": "we"
+        },
+        {
+          "it": "voi",
+          "en": "you (plural)"
+        },
+        {
+          "it": "loro",
+          "en": "they"
+        }
       ]
     },
     {
@@ -71,12 +117,36 @@
       "rule": "Introducing yourself and asking names",
       "description": "Italian uses different question and reaction forms for informal 'tu' and formal 'Lei'.",
       "examples": [
-        { "context": "informal", "it": "Come ti chiami?", "en": "What is your name?" },
-        { "context": "formal", "it": "Come si chiama?", "en": "What is your name? (formal)" },
-        { "context": "statement", "it": "Mi chiamo Paolo.", "en": "My name is Paolo." },
-        { "context": "statement", "it": "Sono Paolo.", "en": "I am Paolo." },
-        { "context": "reaction informal", "it": "Piacere di conoscerti.", "en": "Nice to meet you." },
-        { "context": "reaction formal", "it": "Piacere di conoscerla.", "en": "Nice to meet you. (formal)" }
+        {
+          "context": "informal",
+          "it": "Come ti chiami?",
+          "en": "What is your name?"
+        },
+        {
+          "context": "formal",
+          "it": "Come si chiama?",
+          "en": "What is your name? (formal)"
+        },
+        {
+          "context": "statement",
+          "it": "Mi chiamo Paolo.",
+          "en": "My name is Paolo."
+        },
+        {
+          "context": "statement",
+          "it": "Sono Paolo.",
+          "en": "I am Paolo."
+        },
+        {
+          "context": "reaction informal",
+          "it": "Piacere di conoscerti.",
+          "en": "Nice to meet you."
+        },
+        {
+          "context": "reaction formal",
+          "it": "Piacere di conoscerla.",
+          "en": "Nice to meet you. (formal)"
+        }
       ]
     },
     {
@@ -88,100 +158,378 @@
           "pattern": "c + a, o, u, consonant",
           "sound": "[k]",
           "examples": [
-            { "it": "camera", "en": "room/camera" },
-            { "it": "corpo", "en": "body" },
-            { "it": "curare", "en": "to treat" },
-            { "it": "amico", "en": "friend" }
+            {
+              "it": "camera",
+              "en": "room/camera"
+            },
+            {
+              "it": "corpo",
+              "en": "body"
+            },
+            {
+              "it": "curare",
+              "en": "to treat"
+            },
+            {
+              "it": "amico",
+              "en": "friend"
+            }
           ]
         },
         {
           "pattern": "c + e, i",
           "sound": "[tʃ]",
           "examples": [
-            { "it": "arrivederci", "en": "goodbye" },
-            { "it": "cinema", "en": "cinema" },
-            { "it": "piacere", "en": "pleasure" },
-            { "it": "centro", "en": "center" }
+            {
+              "it": "arrivederci",
+              "en": "goodbye"
+            },
+            {
+              "it": "cinema",
+              "en": "cinema"
+            },
+            {
+              "it": "piacere",
+              "en": "pleasure"
+            },
+            {
+              "it": "centro",
+              "en": "center"
+            }
           ]
         },
         {
           "pattern": "ch + e, i",
           "sound": "[k]",
           "examples": [
-            { "it": "che", "en": "what / that" },
-            { "it": "perché", "en": "why / because" },
-            { "it": "macchina", "en": "car" },
-            { "it": "forchetta", "en": "fork" }
+            {
+              "it": "che",
+              "en": "what / that"
+            },
+            {
+              "it": "perché",
+              "en": "why / because"
+            },
+            {
+              "it": "macchina",
+              "en": "car"
+            },
+            {
+              "it": "forchetta",
+              "en": "fork"
+            }
           ]
         },
         {
           "pattern": "ci + a, o, u",
           "sound": "[tʃ]",
           "examples": [
-            { "it": "ciao", "en": "hi" },
-            { "it": "cioccolata", "en": "chocolate" },
-            { "it": "calcio", "en": "football / soccer" },
-            { "it": "faccia", "en": "face" }
+            {
+              "it": "ciao",
+              "en": "hi"
+            },
+            {
+              "it": "cioccolata",
+              "en": "chocolate"
+            },
+            {
+              "it": "calcio",
+              "en": "football / soccer"
+            },
+            {
+              "it": "faccia",
+              "en": "face"
+            }
           ]
         }
       ]
     }
   ],
   "flashcards": [
-    { "term": "ciao", "definition": "hi; bye", "type": "greeting" },
-    { "term": "buongiorno", "definition": "good morning; good day", "type": "greeting" },
-    { "term": "buon dì", "definition": "good day", "type": "greeting" },
-    { "term": "buonasera", "definition": "good evening", "type": "greeting" },
-    { "term": "salve", "definition": "hello", "type": "greeting" },
-    { "term": "arrivederci", "definition": "goodbye", "type": "greeting" },
-    { "term": "arrivederla", "definition": "goodbye (formal)", "type": "greeting" },
-    { "term": "buona notte", "definition": "good night", "type": "greeting" },
-    { "term": "buona giornata", "definition": "have a nice day", "type": "phrase" },
-    { "term": "buona serata", "definition": "have a nice evening", "type": "phrase" },
-    { "term": "buon fine settimana", "definition": "have a good weekend", "type": "phrase" },
-    { "term": "ci vediamo", "definition": "see you", "type": "phrase" },
-    { "term": "a presto", "definition": "see you soon", "type": "greeting" },
-    { "term": "a dopo", "definition": "see you later", "type": "greeting" },
-    { "term": "grazie", "definition": "thank you", "type": "phrase" },
-    { "term": "prego", "definition": "you're welcome", "type": "phrase" },
-    { "term": "anche a te", "definition": "to you too", "type": "phrase" },
-    { "term": "novità?", "definition": "any news?", "type": "phrase" },
-    { "term": "la solita vita", "definition": "the usual life", "type": "phrase" },
-    { "term": "niente di nuovo", "definition": "nothing new", "type": "phrase" },
-    { "term": "nessuna", "definition": "none", "type": "pronoun" },
-    { "term": "mi chiamo", "definition": "my name is", "type": "verb form" },
-    { "term": "ti chiami", "definition": "your name is / are you called", "type": "verb form" },
-    { "term": "si chiama", "definition": "his/her name is; your name is (formal)", "type": "verb form" },
-    { "term": "ci chiamiamo", "definition": "our names are / we are called", "type": "verb form" },
-    { "term": "vi chiamate", "definition": "your names are / you are called", "type": "verb form" },
-    { "term": "si chiamano", "definition": "their names are / they are called", "type": "verb form" },
-    { "term": "sono", "definition": "I am; they are", "type": "verb form" },
-    { "term": "sei", "definition": "you are", "type": "verb form" },
-    { "term": "è", "definition": "he/she is; you are (formal)", "type": "verb form" },
-    { "term": "siamo", "definition": "we are", "type": "verb form" },
-    { "term": "siete", "definition": "you all are", "type": "verb form" },
-    { "term": "come si scrive?", "definition": "how is it written?", "type": "classroom phrase" },
-    { "term": "che cosa significa?", "definition": "what does it mean?", "type": "classroom phrase" },
-    { "term": "come si dice...?", "definition": "how do you say...?", "type": "classroom phrase" },
-    { "term": "scusi, non ho capito", "definition": "sorry, I didn't understand", "type": "classroom phrase" },
-    { "term": "può ripetere, per favore?", "definition": "can you repeat, please?", "type": "classroom phrase" },
-    { "term": "pagina", "definition": "page", "type": "classroom vocabulary" },
-    { "term": "esercizio", "definition": "exercise", "type": "classroom vocabulary" },
-    { "term": "traccia", "definition": "track; prompt", "type": "classroom vocabulary" },
-    { "term": "parola", "definition": "word", "type": "classroom vocabulary" }
+    {
+      "term": "ciao",
+      "definition": "hi; bye",
+      "type": "greeting"
+    },
+    {
+      "term": "buongiorno",
+      "definition": "good morning; good day",
+      "type": "greeting"
+    },
+    {
+      "term": "buon dì",
+      "definition": "good day",
+      "type": "greeting"
+    },
+    {
+      "term": "buonasera",
+      "definition": "good evening",
+      "type": "greeting"
+    },
+    {
+      "term": "salve",
+      "definition": "hello",
+      "type": "greeting"
+    },
+    {
+      "term": "arrivederci",
+      "definition": "goodbye",
+      "type": "greeting"
+    },
+    {
+      "term": "arrivederla",
+      "definition": "goodbye (formal)",
+      "type": "greeting"
+    },
+    {
+      "term": "buona notte",
+      "definition": "good night",
+      "type": "greeting"
+    },
+    {
+      "term": "buona giornata",
+      "definition": "have a nice day",
+      "type": "phrase"
+    },
+    {
+      "term": "buona serata",
+      "definition": "have a nice evening",
+      "type": "phrase"
+    },
+    {
+      "term": "buon fine settimana",
+      "definition": "have a good weekend",
+      "type": "phrase"
+    },
+    {
+      "term": "ci vediamo",
+      "definition": "see you",
+      "type": "phrase"
+    },
+    {
+      "term": "a presto",
+      "definition": "see you soon",
+      "type": "greeting"
+    },
+    {
+      "term": "a dopo",
+      "definition": "see you later",
+      "type": "greeting"
+    },
+    {
+      "term": "grazie",
+      "definition": "thank you",
+      "type": "phrase"
+    },
+    {
+      "term": "prego",
+      "definition": "you're welcome",
+      "type": "phrase"
+    },
+    {
+      "term": "anche a te",
+      "definition": "to you too",
+      "type": "phrase"
+    },
+    {
+      "term": "novità?",
+      "definition": "any news?",
+      "type": "phrase"
+    },
+    {
+      "term": "la solita vita",
+      "definition": "the usual life",
+      "type": "phrase"
+    },
+    {
+      "term": "niente di nuovo",
+      "definition": "nothing new",
+      "type": "phrase"
+    },
+    {
+      "term": "nessuna",
+      "definition": "none",
+      "type": "pronoun"
+    },
+    {
+      "term": "mi chiamo",
+      "definition": "my name is",
+      "type": "verb form"
+    },
+    {
+      "term": "ti chiami",
+      "definition": "your name is / are you called",
+      "type": "verb form"
+    },
+    {
+      "term": "si chiama",
+      "definition": "his/her name is; your name is (formal)",
+      "type": "verb form"
+    },
+    {
+      "term": "ci chiamiamo",
+      "definition": "our names are / we are called",
+      "type": "verb form"
+    },
+    {
+      "term": "vi chiamate",
+      "definition": "your names are / you are called",
+      "type": "verb form"
+    },
+    {
+      "term": "si chiamano",
+      "definition": "their names are / they are called",
+      "type": "verb form"
+    },
+    {
+      "term": "sono",
+      "definition": "I am; they are",
+      "type": "verb form"
+    },
+    {
+      "term": "sei",
+      "definition": "you are",
+      "type": "verb form"
+    },
+    {
+      "term": "è",
+      "definition": "he/she is; you are (formal)",
+      "type": "verb form"
+    },
+    {
+      "term": "siamo",
+      "definition": "we are",
+      "type": "verb form"
+    },
+    {
+      "term": "siete",
+      "definition": "you all are",
+      "type": "verb form"
+    },
+    {
+      "term": "come si scrive?",
+      "definition": "how is it written?",
+      "type": "classroom phrase"
+    },
+    {
+      "term": "che cosa significa?",
+      "definition": "what does it mean?",
+      "type": "classroom phrase"
+    },
+    {
+      "term": "come si dice...?",
+      "definition": "how do you say...?",
+      "type": "classroom phrase"
+    },
+    {
+      "term": "scusi, non ho capito",
+      "definition": "sorry, I didn't understand",
+      "type": "classroom phrase"
+    },
+    {
+      "term": "può ripetere, per favore?",
+      "definition": "can you repeat, please?",
+      "type": "classroom phrase"
+    },
+    {
+      "term": "pagina",
+      "definition": "page",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "esercizio",
+      "definition": "exercise",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "traccia",
+      "definition": "track; prompt",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "parola",
+      "definition": "word",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "ti saluto",
+      "definition": "I say goodbye to you (informal)",
+      "type": "phrase"
+    },
+    {
+      "term": "la saluto",
+      "definition": "I say goodbye to you (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "a lunedì",
+      "definition": "see you Monday",
+      "type": "greeting"
+    },
+    {
+      "term": "a venerdì",
+      "definition": "see you Friday",
+      "type": "greeting"
+    },
+    {
+      "term": "come si pronuncia questa parola?",
+      "definition": "how do you pronounce this word?",
+      "type": "classroom phrase"
+    },
+    {
+      "term": "basta così",
+      "definition": "that's enough; is that all?",
+      "type": "phrase"
+    }
   ],
   "classroom_instructions": [
-    { "it": "Completate.", "en": "Complete." },
-    { "it": "Lavorate in coppia.", "en": "Work in pairs." },
-    { "it": "Guardate e rispondete.", "en": "Look and answer." },
-    { "it": "Abbinate.", "en": "Match." },
-    { "it": "Completate con il verbo essere.", "en": "Complete with the verb 'essere'." },
-    { "it": "Presentate le persone.", "en": "Introduce the people." },
-    { "it": "Leggete le parole.", "en": "Read the words." },
-    { "it": "Come si scrive...?", "en": "How do you spell/write ...?" },
-    { "it": "Che cosa significa...?", "en": "What does ... mean?" },
-    { "it": "Come si dice...?", "en": "How do you say ...?" },
-    { "it": "Scusi, non ho capito.", "en": "Sorry, I didn't understand." },
-    { "it": "Scusi, può ripetere, per favore?", "en": "Sorry, can you repeat, please?" }
+    {
+      "it": "Completate.",
+      "en": "Complete."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "en": "Work in pairs."
+    },
+    {
+      "it": "Guardate e rispondete.",
+      "en": "Look and answer."
+    },
+    {
+      "it": "Abbinate.",
+      "en": "Match."
+    },
+    {
+      "it": "Completate con il verbo essere.",
+      "en": "Complete with the verb 'essere'."
+    },
+    {
+      "it": "Presentate le persone.",
+      "en": "Introduce the people."
+    },
+    {
+      "it": "Leggete le parole.",
+      "en": "Read the words."
+    },
+    {
+      "it": "Come si scrive...?",
+      "en": "How do you spell/write ...?"
+    },
+    {
+      "it": "Che cosa significa...?",
+      "en": "What does ... mean?"
+    },
+    {
+      "it": "Come si dice...?",
+      "en": "How do you say ...?"
+    },
+    {
+      "it": "Scusi, non ho capito.",
+      "en": "Sorry, I didn't understand."
+    },
+    {
+      "it": "Scusi, può ripetere, per favore?",
+      "en": "Sorry, can you repeat, please?"
+    }
   ]
 }
