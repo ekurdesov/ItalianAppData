@@ -1,0 +1,603 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-5",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: 'Lei è Gianni'",
+      "Il sostantivo",
+      "Attività comunicativa: 'Sei la mia collega?'",
+      "Fonetica: lettere D/T"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Affirmative, interrogative, and negative sentences",
+      "description": "In Italian, the interrogative sentence keeps the same word order as the affirmative sentence but uses rising intonation. Negative sentences are formed by placing 'non' before the verb.",
+      "examples": [
+        {
+          "it": "Lui è italiano.",
+          "translation": "He is Italian."
+        },
+        {
+          "it": "Lui è italiano?",
+          "translation": "Is he Italian?"
+        },
+        {
+          "it": "Lui non è italiano.",
+          "translation": "He is not Italian."
+        },
+        {
+          "it": "Sì. / No, lui non è italiano.",
+          "translation": "Yes. / No, he is not Italian."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Noun gender by ending",
+      "description": "Italian nouns often indicate gender through their final vowel.",
+      "sub_rules": [
+        {
+          "pattern": "-o",
+          "gender": "masculine",
+          "description": "Nouns ending in -o are usually masculine.",
+          "examples": [
+            {
+              "it": "il ragazzo",
+              "translation": "the boy"
+            },
+            {
+              "it": "il treno",
+              "translation": "the train"
+            }
+          ]
+        },
+        {
+          "pattern": "-a",
+          "gender": "feminine",
+          "description": "Nouns ending in -a are usually feminine.",
+          "examples": [
+            {
+              "it": "la ragazza",
+              "translation": "the girl"
+            },
+            {
+              "it": "la macchina",
+              "translation": "the car"
+            }
+          ]
+        },
+        {
+          "pattern": "-e",
+          "gender": "masculine or feminine",
+          "description": "Nouns ending in -e can be either masculine or feminine.",
+          "examples": [
+            {
+              "it": "il bicchiere",
+              "translation": "the glass"
+            },
+            {
+              "it": "il pesce",
+              "translation": "the fish"
+            },
+            {
+              "it": "la carne",
+              "translation": "the meat"
+            },
+            {
+              "it": "la voce",
+              "translation": "the voice"
+            },
+            {
+              "it": "l'insegnante",
+              "translation": "the teacher"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Noun gender by common suffix",
+      "description": "Some noun endings strongly predict grammatical gender.",
+      "sub_rules": [
+        {
+          "pattern": "-ore, -ale, -ile, -iere, -tore",
+          "gender": "masculine",
+          "examples": [
+            {
+              "it": "il cameriere",
+              "translation": "the waiter"
+            },
+            {
+              "it": "il ventilatore",
+              "translation": "the fan"
+            }
+          ]
+        },
+        {
+          "pattern": "-sione, -zione, -gione, -trice",
+          "gender": "feminine",
+          "examples": [
+            {
+              "it": "la colazione",
+              "translation": "breakfast"
+            },
+            {
+              "it": "la direttrice",
+              "translation": "the female director"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Introducing yourself and asking names",
+      "description": "Italian uses informal 'tu' and formal 'Lei' forms for introductions.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Come ti chiami?",
+          "translation": "What is your name?"
+        },
+        {
+          "context": "formal",
+          "it": "Come si chiama?",
+          "translation": "What is your name? (formal)"
+        },
+        {
+          "context": "statement",
+          "it": "Mi chiamo Paolo.",
+          "translation": "My name is Paolo."
+        },
+        {
+          "context": "statement",
+          "it": "Il mio nome è...",
+          "translation": "My name is..."
+        },
+        {
+          "context": "statement",
+          "it": "Il mio cognome è...",
+          "translation": "My surname is..."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Talking about classmates and colleagues",
+      "description": "Agreement in gender appears in role nouns and possessive phrases used in introductions.",
+      "examples": [
+        {
+          "it": "studente d'italiano / studentessa d'italiano",
+          "translation": "male student of Italian / female student of Italian"
+        },
+        {
+          "it": "il mio collega / la mia collega",
+          "translation": "my male colleague / my female colleague"
+        },
+        {
+          "it": "il mio compagno di gruppo / la mia compagna di gruppo",
+          "translation": "my male groupmate / my female groupmate"
+        }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Letters D and T",
+      "description": "The lesson includes recognition and pronunciation practice for the consonants D and T.",
+      "examples": [
+        {
+          "it": "D/T",
+          "translation": "contrast between the sounds d and t"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "non",
+      "definition": "not",
+      "type": "grammar"
+    },
+    {
+      "term": "studente",
+      "definition": "male student",
+      "type": "noun"
+    },
+    {
+      "term": "studentessa",
+      "definition": "female student",
+      "type": "noun"
+    },
+    {
+      "term": "insegnante",
+      "definition": "teacher",
+      "type": "noun"
+    },
+    {
+      "term": "collega",
+      "definition": "colleague",
+      "type": "noun"
+    },
+    {
+      "term": "compagno di gruppo",
+      "definition": "male groupmate",
+      "type": "noun"
+    },
+    {
+      "term": "compagna di gruppo",
+      "definition": "female groupmate",
+      "type": "noun"
+    },
+    {
+      "term": "ragazzo",
+      "definition": "boy",
+      "type": "noun"
+    },
+    {
+      "term": "ragazza",
+      "definition": "girl",
+      "type": "noun"
+    },
+    {
+      "term": "treno",
+      "definition": "train",
+      "type": "noun"
+    },
+    {
+      "term": "macchina",
+      "definition": "car",
+      "type": "noun"
+    },
+    {
+      "term": "bicchiere",
+      "definition": "glass",
+      "type": "noun"
+    },
+    {
+      "term": "pesce",
+      "definition": "fish",
+      "type": "noun"
+    },
+    {
+      "term": "carne",
+      "definition": "meat",
+      "type": "noun"
+    },
+    {
+      "term": "voce",
+      "definition": "voice",
+      "type": "noun"
+    },
+    {
+      "term": "cameriere",
+      "definition": "waiter",
+      "type": "noun"
+    },
+    {
+      "term": "ventilatore",
+      "definition": "fan",
+      "type": "noun"
+    },
+    {
+      "term": "colazione",
+      "definition": "breakfast",
+      "type": "noun"
+    },
+    {
+      "term": "direttrice",
+      "definition": "female director",
+      "type": "noun"
+    },
+    {
+      "term": "cattedra",
+      "definition": "teacher's desk",
+      "type": "classroom noun"
+    },
+    {
+      "term": "quaderno",
+      "definition": "notebook",
+      "type": "classroom noun"
+    },
+    {
+      "term": "zaino",
+      "definition": "backpack",
+      "type": "classroom noun"
+    },
+    {
+      "term": "pennarello",
+      "definition": "marker",
+      "type": "classroom noun"
+    },
+    {
+      "term": "banco",
+      "definition": "desk",
+      "type": "classroom noun"
+    },
+    {
+      "term": "righello",
+      "definition": "ruler",
+      "type": "classroom noun"
+    },
+    {
+      "term": "penna",
+      "definition": "pen",
+      "type": "classroom noun"
+    },
+    {
+      "term": "gomma",
+      "definition": "eraser",
+      "type": "classroom noun"
+    },
+    {
+      "term": "matita",
+      "definition": "pencil",
+      "type": "classroom noun"
+    },
+    {
+      "term": "lavagna",
+      "definition": "board",
+      "type": "classroom noun"
+    },
+    {
+      "term": "sedia",
+      "definition": "chair",
+      "type": "classroom noun"
+    },
+    {
+      "term": "bicchiere",
+      "definition": "glass",
+      "type": "noun"
+    },
+    {
+      "term": "televisore",
+      "definition": "television",
+      "type": "noun"
+    },
+    {
+      "term": "giornale",
+      "definition": "newspaper",
+      "type": "noun"
+    },
+    {
+      "term": "fiore",
+      "definition": "flower",
+      "type": "noun"
+    },
+    {
+      "term": "cane",
+      "definition": "dog",
+      "type": "noun"
+    },
+    {
+      "term": "sapone",
+      "definition": "soap",
+      "type": "noun"
+    },
+    {
+      "term": "patente",
+      "definition": "driver's license",
+      "type": "noun"
+    },
+    {
+      "term": "chiave",
+      "definition": "key",
+      "type": "noun"
+    },
+    {
+      "term": "notte",
+      "definition": "night",
+      "type": "noun"
+    },
+    {
+      "term": "calcolatrice",
+      "definition": "calculator",
+      "type": "noun"
+    },
+    {
+      "term": "torre",
+      "definition": "tower",
+      "type": "noun"
+    },
+    {
+      "term": "ciao",
+      "definition": "hi; bye",
+      "type": "greeting"
+    },
+    {
+      "term": "buongiorno",
+      "definition": "good morning; good day",
+      "type": "greeting"
+    },
+    {
+      "term": "buonasera",
+      "definition": "good evening",
+      "type": "greeting"
+    },
+    {
+      "term": "salve",
+      "definition": "hello",
+      "type": "greeting"
+    },
+    {
+      "term": "arrivederci",
+      "definition": "goodbye",
+      "type": "greeting"
+    },
+    {
+      "term": "arrivederla",
+      "definition": "goodbye (formal)",
+      "type": "greeting"
+    },
+    {
+      "term": "buona notte",
+      "definition": "good night",
+      "type": "greeting"
+    },
+    {
+      "term": "a presto",
+      "definition": "see you soon",
+      "type": "greeting"
+    },
+    {
+      "term": "buona lezione",
+      "definition": "have a good lesson",
+      "type": "phrase"
+    },
+    {
+      "term": "buona lezione anche a te",
+      "definition": "have a good lesson too",
+      "type": "phrase"
+    },
+    {
+      "term": "tutto a posto",
+      "definition": "everything's fine; all good",
+      "type": "phrase"
+    },
+    {
+      "term": "sono stanco/a",
+      "definition": "I am tired",
+      "type": "phrase"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate con essere o/e chiamarsi.",
+      "translation": "Complete with 'essere' and/or 'chiamarsi'."
+    },
+    {
+      "it": "Osservate e rispondete.",
+      "translation": "Observe and answer."
+    },
+    {
+      "it": "Secondo me...",
+      "translation": "In my opinion..."
+    },
+    {
+      "it": "Non lo so.",
+      "translation": "I don't know."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Read and check."
+    },
+    {
+      "it": "Mettete in ordine.",
+      "translation": "Put in order."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Work in pairs."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Listen and complete."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Match."
+    },
+    {
+      "it": "Buona lezione!",
+      "translation": "Have a good lesson!"
+    },
+    {
+      "it": "Come? Puoi ripetere, per favore?",
+      "translation": "Sorry? Can you repeat, please?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-5-01",
+      "title": "Buona lezione!",
+      "register": "informal",
+      "context": "Two students greet each other at the start of an Italian class",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, mi chiamo Anna.",
+          "translation": "Hi, my name is Anna."
+        },
+        {
+          "speaker": "B",
+          "it": "Ciao, Anna! Mi chiamo Luca. Buona lezione!",
+          "translation": "Hi, Anna! My name is Luca. Have a good lesson!"
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie, Luca. Buona lezione anche a te!",
+          "translation": "Thanks, Luca. Have a good lesson too!"
+        },
+        {
+          "speaker": "B",
+          "it": "Grazie!",
+          "translation": "Thanks!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Introduce yourself at the start of a lesson",
+          "expected_it": "Ciao, mi chiamo [nome]."
+        },
+        {
+          "cue": "Wish someone a good lesson",
+          "expected_it": "Buona lezione!"
+        },
+        {
+          "cue": "Wish the same back",
+          "expected_it": "Buona lezione anche a te!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-5-02",
+      "title": "Sei la mia collega?",
+      "register": "informal",
+      "context": "Two students in an Italian course introduce themselves and establish their role",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, come ti chiami?",
+          "translation": "Hi, what's your name?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Carla. E tu?",
+          "translation": "My name is Carla. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Mi chiamo Stefano. Piacere. Tu sei studentessa d'italiano?",
+          "translation": "My name is Stefano. Pleased to meet you. Are you a student of Italian?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, e tu sei il mio compagno di gruppo?",
+          "translation": "Yes, and are you my groupmate?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì. Piacere di conoscerti!",
+          "translation": "Yes. Nice to meet you!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask if someone is a student of Italian (informal)",
+          "expected_it": "Tu sei studente/studentessa d'italiano?"
+        },
+        {
+          "cue": "Ask if they are your groupmate",
+          "expected_it": "Tu sei il mio compagno/la mia compagna di gruppo?"
+        },
+        {
+          "cue": "Express pleasure at meeting them (informal)",
+          "expected_it": "Piacere di conoscerti!"
+        }
+      ]
+    }
+  ]
+}

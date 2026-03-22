@@ -1,0 +1,687 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-3",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: incontri",
+      "Presentare una persona",
+      "Verbo stare",
+      "Attività comunicativa: come va?",
+      "Fonetica: sc"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Present tense of stare",
+      "description": "The verb 'stare' is used to ask and say how someone is, and in some contexts to indicate a state or location.",
+      "conjugations": {
+        "io": "sto",
+        "tu": "stai",
+        "lui/lei/Lei": "sta",
+        "noi": "stiamo",
+        "voi": "state",
+        "loro": "stanno"
+      }
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking how someone is: formal vs informal",
+      "description": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking how someone is.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Come stai?",
+          "translation": "How are you?"
+        },
+        {
+          "context": "informal",
+          "it": "E tu?",
+          "translation": "And you?"
+        },
+        {
+          "context": "formal",
+          "it": "Come sta?",
+          "translation": "How are you?"
+        },
+        {
+          "context": "formal",
+          "it": "E Lei?",
+          "translation": "And you?"
+        },
+        {
+          "context": "neutral",
+          "it": "Come va?",
+          "translation": "How is it going?"
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Common responses to 'Come stai?' / 'Come va?'",
+      "description": "There are several fixed expressions for answering questions about well-being.",
+      "examples": [
+        {
+          "it": "Benissimo / Molto bene, grazie.",
+          "translation": "Very well, thank you."
+        },
+        {
+          "it": "Abbastanza bene, grazie.",
+          "translation": "Quite well, thank you."
+        },
+        {
+          "it": "Va bene, grazie.",
+          "translation": "I'm fine, thank you."
+        },
+        {
+          "it": "Non c'è male, grazie.",
+          "translation": "Not bad, thank you."
+        },
+        {
+          "it": "Così così. / Insomma.",
+          "translation": "So-so."
+        },
+        {
+          "it": "Non mi lamento, grazie.",
+          "translation": "I can't complain, thank you."
+        },
+        {
+          "it": "Si vive, grazie.",
+          "translation": "Surviving, thanks."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Introducing someone: formal vs informal",
+      "description": "Italian uses different introduction formulas depending on the level of formality.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Ti presento Mario.",
+          "translation": "Let me introduce Mario to you."
+        },
+        {
+          "context": "informal",
+          "it": "Lui/Questo è Mario.",
+          "translation": "He/This is Mario."
+        },
+        {
+          "context": "informal",
+          "it": "Lei/Questa è Maria.",
+          "translation": "She/This is Maria."
+        },
+        {
+          "context": "formal",
+          "it": "Le presento il signor Bianchi.",
+          "translation": "Let me introduce Mr. Bianchi to you."
+        },
+        {
+          "context": "formal",
+          "it": "Lei/Questa è la signora Bianchi.",
+          "translation": "She/This is Mrs. Bianchi."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Reacting to an introduction",
+      "description": "Typical polite formulas used after being introduced to someone.",
+      "examples": [
+        {
+          "it": "Piacere di conoscerti.",
+          "translation": "Nice to meet you. (informal)"
+        },
+        {
+          "it": "Piacere di conoscerla.",
+          "translation": "Nice to meet you. (formal)"
+        },
+        {
+          "it": "Molto lieto/a.",
+          "translation": "Very pleased."
+        },
+        {
+          "it": "Piacere.",
+          "translation": "Pleasure."
+        },
+        {
+          "it": "Piacere mio.",
+          "translation": "The pleasure is mine."
+        },
+        {
+          "it": "Altrettanto.",
+          "translation": "Likewise."
+        }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Pronunciation of 'sc'",
+      "description": "The sound of 'sc' changes depending on the letters that follow it.",
+      "sub_rules": [
+        {
+          "pattern": "sc + a, o, u, consonant",
+          "sound": "[sk]",
+          "examples": [
+            {
+              "it": "scarpe",
+              "translation": "shoes"
+            },
+            {
+              "it": "scuro",
+              "translation": "dark"
+            },
+            {
+              "it": "ascoltare",
+              "translation": "to listen"
+            },
+            {
+              "it": "bosco",
+              "translation": "forest"
+            }
+          ]
+        },
+        {
+          "pattern": "sc + e, i",
+          "sound": "[ʃ]",
+          "examples": [
+            {
+              "it": "scimmia",
+              "translation": "monkey"
+            },
+            {
+              "it": "pesce",
+              "translation": "fish"
+            },
+            {
+              "it": "uscire",
+              "translation": "to go out"
+            },
+            {
+              "it": "scena",
+              "translation": "scene"
+            }
+          ]
+        },
+        {
+          "pattern": "sch + e, i",
+          "sound": "[sk]",
+          "examples": [
+            {
+              "it": "scherzo",
+              "translation": "joke"
+            },
+            {
+              "it": "schermo",
+              "translation": "screen"
+            },
+            {
+              "it": "schema",
+              "translation": "scheme"
+            },
+            {
+              "it": "maschera",
+              "translation": "mask"
+            }
+          ]
+        },
+        {
+          "pattern": "sci + a, o, u",
+          "sound": "[ʃ]",
+          "examples": [
+            {
+              "it": "sciopero",
+              "translation": "strike"
+            },
+            {
+              "it": "sciarpa",
+              "translation": "scarf"
+            },
+            {
+              "it": "prosciutto",
+              "translation": "ham"
+            },
+            {
+              "it": "asciugare",
+              "translation": "to dry"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "stare",
+      "definition": "to stay; to be (feel/state)",
+      "type": "verb"
+    },
+    {
+      "term": "sto",
+      "definition": "I am / I feel",
+      "type": "verb form"
+    },
+    {
+      "term": "stai",
+      "definition": "you are / you feel",
+      "type": "verb form"
+    },
+    {
+      "term": "sta",
+      "definition": "he/she is; you are (formal)",
+      "type": "verb form"
+    },
+    {
+      "term": "stiamo",
+      "definition": "we are",
+      "type": "verb form"
+    },
+    {
+      "term": "state",
+      "definition": "you all are",
+      "type": "verb form"
+    },
+    {
+      "term": "stanno",
+      "definition": "they are",
+      "type": "verb form"
+    },
+    {
+      "term": "come stai?",
+      "definition": "how are you?",
+      "type": "phrase"
+    },
+    {
+      "term": "come sta?",
+      "definition": "how are you? (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "come va?",
+      "definition": "how is it going?",
+      "type": "phrase"
+    },
+    {
+      "term": "benissimo",
+      "definition": "very well",
+      "type": "adverb"
+    },
+    {
+      "term": "molto bene",
+      "definition": "very well",
+      "type": "phrase"
+    },
+    {
+      "term": "abbastanza bene",
+      "definition": "quite well",
+      "type": "phrase"
+    },
+    {
+      "term": "non c'è male",
+      "definition": "not bad",
+      "type": "phrase"
+    },
+    {
+      "term": "così così",
+      "definition": "so-so",
+      "type": "phrase"
+    },
+    {
+      "term": "insomma",
+      "definition": "so-so; all in all",
+      "type": "adverb"
+    },
+    {
+      "term": "non mi lamento",
+      "definition": "I can't complain",
+      "type": "phrase"
+    },
+    {
+      "term": "si vive",
+      "definition": "surviving; getting by",
+      "type": "phrase"
+    },
+    {
+      "term": "ti presento...",
+      "definition": "let me introduce ... to you",
+      "type": "phrase"
+    },
+    {
+      "term": "le presento...",
+      "definition": "let me introduce ... to you (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "questo è...",
+      "definition": "this is... (masculine)",
+      "type": "phrase"
+    },
+    {
+      "term": "questa è...",
+      "definition": "this is... (feminine)",
+      "type": "phrase"
+    },
+    {
+      "term": "piacere di conoscerti",
+      "definition": "nice to meet you (informal)",
+      "type": "phrase"
+    },
+    {
+      "term": "piacere di conoscerla",
+      "definition": "nice to meet you (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "molto lieto/a",
+      "definition": "very pleased",
+      "type": "phrase"
+    },
+    {
+      "term": "piacere mio",
+      "definition": "the pleasure is mine",
+      "type": "phrase"
+    },
+    {
+      "term": "altrettanto",
+      "definition": "likewise",
+      "type": "phrase"
+    },
+    {
+      "term": "buon viaggio",
+      "definition": "have a good trip",
+      "type": "phrase"
+    },
+    {
+      "term": "buone vacanze",
+      "definition": "have a good vacation",
+      "type": "phrase"
+    },
+    {
+      "term": "buona giornata",
+      "definition": "have a nice day",
+      "type": "phrase"
+    },
+    {
+      "term": "a presto",
+      "definition": "see you soon",
+      "type": "greeting"
+    },
+    {
+      "term": "a domani",
+      "definition": "see you tomorrow",
+      "type": "greeting"
+    },
+    {
+      "term": "buona notte",
+      "definition": "good night",
+      "type": "greeting"
+    },
+    {
+      "term": "amica",
+      "definition": "female friend",
+      "type": "noun"
+    },
+    {
+      "term": "amiche",
+      "definition": "female friends",
+      "type": "noun"
+    },
+    {
+      "term": "via",
+      "definition": "street",
+      "type": "noun"
+    },
+    {
+      "term": "città",
+      "definition": "city",
+      "type": "noun"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Presentate.",
+      "translation": "Introduce people."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Work in pairs."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Answer."
+    },
+    {
+      "it": "Leggete e inserite tu e Lei.",
+      "translation": "Read and insert 'tu' and 'Lei'."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Completate alla forma negativa.",
+      "translation": "Complete in the negative form."
+    },
+    {
+      "it": "Associate.",
+      "translation": "Match / associate."
+    },
+    {
+      "it": "Costruite le frasi.",
+      "translation": "Build the sentences."
+    },
+    {
+      "it": "Rimettete in ordine e abbinate.",
+      "translation": "Put in order and match."
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Read the words."
+    },
+    {
+      "it": "Completate con il o la dove è necessario.",
+      "translation": "Complete with 'il' or 'la' where necessary."
+    },
+    {
+      "it": "Mettete in ordine.",
+      "translation": "Put in order."
+    }
+  ],
+  "_note": "DUPLICATE: This lesson file has the same content as a1l2.json (A1-L1-2). Same dialogues, same flashcards. Review and consolidate if needed.",
+  "dialogues": [
+    {
+      "id": "D-A1L1-2-01",
+      "title": "Come stai? (informal, evening)",
+      "register": "informal",
+      "context": "Two friends run into each other in the evening",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, come stai?",
+          "translation": "Hi, how are you?"
+        },
+        {
+          "speaker": "B",
+          "it": "Bene, grazie, e tu?",
+          "translation": "Good, thanks, and you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Insomma.",
+          "translation": "So-so."
+        },
+        {
+          "speaker": "B",
+          "it": "Buona notte!",
+          "translation": "Good night!"
+        },
+        {
+          "speaker": "A",
+          "it": "Buona notte a tutti!",
+          "translation": "Good night everyone!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask how your friend is (informal)",
+          "expected_it": "Come stai?"
+        },
+        {
+          "cue": "Say you're fine and ask back",
+          "expected_it": "Bene, grazie, e tu?"
+        },
+        {
+          "cue": "Say it's so-so",
+          "expected_it": "Insomma."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-2-02",
+      "title": "Come sta? (formal, morning)",
+      "register": "formal",
+      "context": "Two adults greet each other formally in the morning",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno, come sta?",
+          "translation": "Good morning, how are you?"
+        },
+        {
+          "speaker": "B",
+          "it": "Abbastanza bene, e Lei?",
+          "translation": "Quite well, and you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Benissimo, grazie.",
+          "translation": "Very well, thank you."
+        },
+        {
+          "speaker": "B",
+          "it": "Buone vacanze!",
+          "translation": "Have a good holiday!"
+        },
+        {
+          "speaker": "A",
+          "it": "Buona giornata a Lei!",
+          "translation": "Have a nice day!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Greet and ask how they are (formal)",
+          "expected_it": "Buongiorno, come sta?"
+        },
+        {
+          "cue": "Reply 'quite well' and ask back (formal)",
+          "expected_it": "Abbastanza bene, e Lei?"
+        },
+        {
+          "cue": "Wish them a good holiday",
+          "expected_it": "Buone vacanze!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-2-03",
+      "title": "Come stai? con arrivederci (informal, work context)",
+      "register": "informal",
+      "context": "Two colleagues part ways at the end of the day",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, come stai?",
+          "translation": "Hi, how are you?"
+        },
+        {
+          "speaker": "B",
+          "it": "Bene, grazie, e tu?",
+          "translation": "Good, thanks, and you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Benissimo!",
+          "translation": "Very well!"
+        },
+        {
+          "speaker": "B",
+          "it": "A domani!",
+          "translation": "See you tomorrow!"
+        },
+        {
+          "speaker": "A",
+          "it": "Buon lavoro!",
+          "translation": "Have a good day at work!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask how they are (informal)",
+          "expected_it": "Come stai?"
+        },
+        {
+          "cue": "Say see you tomorrow",
+          "expected_it": "A domani!"
+        },
+        {
+          "cue": "Wish them good work",
+          "expected_it": "Buon lavoro!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-2-04",
+      "title": "Incontri: colleghi a Milano",
+      "register": "mixed",
+      "context": "A chance meeting between colleagues; mixing informal and a third-person formal introduction",
+      "turns": [
+        {
+          "speaker": "Matteo",
+          "it": "Ciao, Giusi!",
+          "translation": "Hi, Giusi!"
+        },
+        {
+          "speaker": "Giusi",
+          "it": "Ciao, Matteo... Lei è una collega di Milano.",
+          "translation": "Hi, Matteo... She is a colleague from Milan."
+        },
+        {
+          "speaker": "Anna",
+          "it": "Piacere, sono Anna.",
+          "translation": "Pleased to meet you, I am Anna."
+        },
+        {
+          "speaker": "Matteo",
+          "it": "Ciao, Anna.",
+          "translation": "Hi, Anna."
+        },
+        {
+          "speaker": "Matteo",
+          "it": "E tu, di dove sei?",
+          "translation": "And you, where are you from?"
+        },
+        {
+          "speaker": "Anna",
+          "it": "Sono di Orvieto.",
+          "translation": "I am from Orvieto."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Introduce yourself saying you are pleased to meet them",
+          "expected_it": "Piacere, sono [name]."
+        },
+        {
+          "cue": "Ask where someone is from (informal)",
+          "expected_it": "Di dove sei?"
+        },
+        {
+          "cue": "Say you are from a city",
+          "expected_it": "Sono di [città]."
+        }
+      ]
+    }
+  ]
+}

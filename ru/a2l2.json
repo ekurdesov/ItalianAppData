@@ -1,0 +1,678 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-2",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: Ciao, io sono Alice",
+      "Aggettivi di nazionalità al plurale",
+      "Attività comunicativa: presentare",
+      "Fonetica: gli - gn, sc"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Прилагательные национальности во множественном числе",
+      "description": "Прилагательные национальности согласуются с существительным по роду и числу, в том числе во множественном числе.",
+      "examples": [
+        {
+          "it": "tedeschi / tedesche",
+          "translation": "немцы / немки"
+        },
+        {
+          "it": "italiani / italiane",
+          "translation": "итальянцы / итальянки"
+        },
+        {
+          "it": "francesi",
+          "translation": "французы / француженки (множественное число)"
+        },
+        {
+          "it": "inglesi",
+          "translation": "англичане / англичанки (множественное число)"
+        },
+        {
+          "it": "americani / americane",
+          "translation": "американцы / американки"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Вопрос о происхождении и ответ на него",
+      "description": "В итальянском языке различаются неформальное обращение «tu» и формальное «Lei» при вопросе о происхождении.",
+      "examples": [
+        {
+          "context": "неформальный / разговорный",
+          "it": "Di dove sei?",
+          "translation": "Откуда ты?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Di dov'è?",
+          "translation": "Откуда вы? (официально)"
+        },
+        {
+          "context": "ответ",
+          "it": "Sono italiano.",
+          "translation": "Я итальянец."
+        },
+        {
+          "context": "ответ",
+          "it": "Sono di Milano.",
+          "translation": "Я из Милана."
+        },
+        {
+          "context": "ответ",
+          "it": "Sono italiano, di Milano.",
+          "translation": "Я итальянец, из Милана."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Указательные местоимения: questo, questa, questi, queste",
+      "description": "Указательные местоимения в итальянском языке согласуются с существительным по роду и числу.",
+      "examples": [
+        {
+          "it": "Questo è Mario.",
+          "translation": "Это Марио.",
+          "gender_number": "мужской род, единственное число"
+        },
+        {
+          "it": "Questi sono Mario e Valerio.",
+          "translation": "Это Марио и Валерио.",
+          "gender_number": "мужской род, множественное число"
+        },
+        {
+          "it": "Questa è Stefania.",
+          "translation": "Это Стефания.",
+          "gender_number": "женский род, единственное число"
+        },
+        {
+          "it": "Queste sono Stefania e Sofia.",
+          "translation": "Это Стефания и София.",
+          "gender_number": "женский род, множественное число"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Представление людей: официально и неформально",
+      "description": "В итальянском языке используются разные формулы представления в неформальных и официальных ситуациях.",
+      "examples": [
+        {
+          "context": "неформальный / разговорный",
+          "it": "Ti presento Mario.",
+          "translation": "Познакомься, это Марио."
+        },
+        {
+          "context": "неформальный / разговорный",
+          "it": "Lui/Questo è Mario.",
+          "translation": "Он / Это Марио."
+        },
+        {
+          "context": "неформальный / разговорный",
+          "it": "Lei/Questa è Maria.",
+          "translation": "Она / Это Мария."
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Le presento il signor Bianchi.",
+          "translation": "Позвольте представить господина Бьянки."
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Lei/Questa è la signora Bianchi.",
+          "translation": "Она / Это госпожа Бьянки."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Вежливые обращения",
+      "description": "«Signor» и «signora» используются как вежливые обращения перед фамилией или при официальном обращении.",
+      "examples": [
+        {
+          "it": "Questo è il signor Rossi.",
+          "translation": "Это господин Росси."
+        },
+        {
+          "it": "Questa è la signora Rossi.",
+          "translation": "Это госпожа Росси."
+        },
+        {
+          "it": "Buonasera, signor Rossi!",
+          "translation": "Добрый вечер, господин Росси!"
+        },
+        {
+          "it": "Buonasera, signora Rossi!",
+          "translation": "Добрый вечер, госпожа Росси!"
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Звуки l, gli, gn и носовой n перед c/q/g",
+      "description": "На занятии сравниваются обычный звук «l», палатальный «gli», палатальный носовой «gn» и носовая ассимиляция перед определёнными согласными.",
+      "sub_rules": [
+        {
+          "pattern": "l",
+          "sound": "[l]",
+          "examples": [
+            {
+              "it": "alunno",
+              "translation": "ученик"
+            },
+            {
+              "it": "parlare",
+              "translation": "говорить"
+            },
+            {
+              "it": "classe",
+              "translation": "класс"
+            }
+          ]
+        },
+        {
+          "pattern": "gli",
+          "sound": "[ʎ]",
+          "examples": [
+            {
+              "it": "famiglia",
+              "translation": "семья"
+            },
+            {
+              "it": "figlio / figlia",
+              "translation": "сын / дочь"
+            },
+            {
+              "it": "bottiglia",
+              "translation": "бутылка"
+            }
+          ]
+        },
+        {
+          "pattern": "gn",
+          "sound": "[ɲ]",
+          "examples": [
+            {
+              "it": "signora",
+              "translation": "госпожа"
+            },
+            {
+              "it": "bagno",
+              "translation": "ванная комната"
+            },
+            {
+              "it": "insegnante",
+              "translation": "учитель"
+            }
+          ]
+        },
+        {
+          "pattern": "n + c, q, g",
+          "sound": "[ŋ]",
+          "examples": [
+            {
+              "it": "banca",
+              "translation": "банк"
+            },
+            {
+              "it": "lingua",
+              "translation": "язык"
+            },
+            {
+              "it": "incontrare",
+              "translation": "встречать"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "gelato preferito",
+      "definition": "любимое мороженое",
+      "type": "фраза"
+    },
+    {
+      "term": "di dove sei?",
+      "definition": "откуда ты?",
+      "type": "фраза"
+    },
+    {
+      "term": "di dov'è?",
+      "definition": "откуда вы? (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "italiano/a",
+      "definition": "итальянец / итальянка",
+      "type": "национальность"
+    },
+    {
+      "term": "francese",
+      "definition": "французский / французская",
+      "type": "национальность"
+    },
+    {
+      "term": "tedesco/a",
+      "definition": "немец / немка",
+      "type": "национальность"
+    },
+    {
+      "term": "inglese",
+      "definition": "английский / английская",
+      "type": "национальность"
+    },
+    {
+      "term": "americano/a",
+      "definition": "американец / американка",
+      "type": "национальность"
+    },
+    {
+      "term": "statunitense",
+      "definition": "гражданин / гражданка США",
+      "type": "национальность"
+    },
+    {
+      "term": "russo/a",
+      "definition": "русский / русская",
+      "type": "национальность"
+    },
+    {
+      "term": "brasiliano/a",
+      "definition": "бразилец / бразильянка",
+      "type": "национальность"
+    },
+    {
+      "term": "polacco/a",
+      "definition": "поляк / полячка",
+      "type": "национальность"
+    },
+    {
+      "term": "argentino/a",
+      "definition": "аргентинец / аргентинка",
+      "type": "национальность"
+    },
+    {
+      "term": "spagnolo/a",
+      "definition": "испанец / испанка",
+      "type": "национальность"
+    },
+    {
+      "term": "greco/a",
+      "definition": "грек / гречанка",
+      "type": "национальность"
+    },
+    {
+      "term": "romeno/a",
+      "definition": "румын / румынка",
+      "type": "национальность"
+    },
+    {
+      "term": "filippino/a",
+      "definition": "филиппинец / филиппинка",
+      "type": "национальность"
+    },
+    {
+      "term": "canadese",
+      "definition": "канадец / канадка",
+      "type": "национальность"
+    },
+    {
+      "term": "turco/a",
+      "definition": "турок / турчанка",
+      "type": "национальность"
+    },
+    {
+      "term": "svedese",
+      "definition": "швед / шведка",
+      "type": "национальность"
+    },
+    {
+      "term": "svizzero/a",
+      "definition": "швейцарец / швейцарка",
+      "type": "национальность"
+    },
+    {
+      "term": "cinese",
+      "definition": "китаец / китаянка",
+      "type": "национальность"
+    },
+    {
+      "term": "indiano/a",
+      "definition": "индиец / индианка",
+      "type": "национальность"
+    },
+    {
+      "term": "arabo/a",
+      "definition": "arab / арабка",
+      "type": "национальность"
+    },
+    {
+      "term": "giapponese",
+      "definition": "японец / японка",
+      "type": "национальность"
+    },
+    {
+      "term": "austriaco/a",
+      "definition": "австриец / австрийка",
+      "type": "национальность"
+    },
+    {
+      "term": "portoghese",
+      "definition": "португалец / португалка",
+      "type": "национальность"
+    },
+    {
+      "term": "messicano/a",
+      "definition": "мексиканец / мексиканка",
+      "type": "национальность"
+    },
+    {
+      "term": "coreano/a",
+      "definition": "кореец / кореянка",
+      "type": "национальность"
+    },
+    {
+      "term": "questo",
+      "definition": "этот (мужской род, единственное число)",
+      "type": "указательное местоимение"
+    },
+    {
+      "term": "questa",
+      "definition": "эта (женский род, единственное число)",
+      "type": "указательное местоимение"
+    },
+    {
+      "term": "questi",
+      "definition": "эти (мужской род, множественное число)",
+      "type": "указательное местоимение"
+    },
+    {
+      "term": "queste",
+      "definition": "эти (женский род, множественное число)",
+      "type": "указательное местоимение"
+    },
+    {
+      "term": "signor",
+      "definition": "господин (г-н)",
+      "type": "вежливое обращение"
+    },
+    {
+      "term": "signora",
+      "definition": "госпожа (г-жа)",
+      "type": "вежливое обращение"
+    },
+    {
+      "term": "ti presento",
+      "definition": "познакомься, это... / разреши представить...",
+      "type": "фраза"
+    },
+    {
+      "term": "le presento",
+      "definition": "позвольте представить... (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "piacere di conoscerti",
+      "definition": "приятно познакомиться (неформально)",
+      "type": "фраза"
+    },
+    {
+      "term": "piacere di conoscerla",
+      "definition": "приятно познакомиться (официально)",
+      "type": "фраза"
+    },
+    {
+      "term": "molto lieto/a",
+      "definition": "очень рад / очень рада",
+      "type": "фраза"
+    },
+    {
+      "term": "famiglia",
+      "definition": "семья",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "figlio",
+      "definition": "сын",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "figlia",
+      "definition": "дочь",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "bottiglia",
+      "definition": "бутылка",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "signora",
+      "definition": "госпожа",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "bagno",
+      "definition": "ванная комната",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "sogno",
+      "definition": "сон; мечта",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "insegnante",
+      "definition": "учитель",
+      "type": "люди"
+    },
+    {
+      "term": "lingua",
+      "definition": "язык",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "banca",
+      "definition": "банк",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "non sei [nazionalità], vero?",
+      "definition": "ты ведь не [национальность], правда? (разделительный вопрос)",
+      "type": "фраза"
+    },
+    {
+      "term": "bellissimo/a",
+      "definition": "очень красивый / очень красивая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "È una città bellissima!",
+      "definition": "Это очень красивый город!",
+      "type": "фраза"
+    },
+    {
+      "term": "livornese",
+      "definition": "из Ливорно",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "di dove sei? non sei ..., vero?",
+      "definition": "модель разделительного вопроса о национальности",
+      "type": "грамматическая заметка"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate.",
+      "translation": "Заполните / Дополните."
+    },
+    {
+      "it": "Usate il dialogo come modello.",
+      "translation": "Используйте диалог как образец."
+    },
+    {
+      "it": "Ascoltate.",
+      "translation": "Слушайте."
+    },
+    {
+      "it": "Ascoltate la nazionalità di alcuni studenti di Carla.",
+      "translation": "Послушайте, какой национальности некоторые студенты Карлы."
+    },
+    {
+      "it": "Trovate gli aggettivi che sentite nel parolone sotto.",
+      "translation": "Найдите прилагательные, которые вы слышите, в длинном слове ниже."
+    },
+    {
+      "it": "Separateli con una barra (/).",
+      "translation": "Разделите их косой чертой (/)."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    },
+    {
+      "it": "Completate con il o la dove è necessario.",
+      "translation": "Заполните «il» или «la» там, где необходимо."
+    },
+    {
+      "it": "Mettete in ordine.",
+      "translation": "Расставьте в правильном порядке."
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Прочитайте слова."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-2-01",
+      "title": "È una città bellissima!",
+      "register": "неформальный / разговорный",
+      "context": "Два студента встречаются впервые и говорят о своём происхождении — ключевой диалог-образец из урока",
+      "turns": [
+        {
+          "speaker": "Pierre",
+          "it": "Ciao, mi chiamo Pierre. E tu, come ti chiami?",
+          "translation": "Привет, меня зовут Пьер. А тебя как зовут?"
+        },
+        {
+          "speaker": "Mariana",
+          "it": "Io sono Mariana. Piacere.",
+          "translation": "Я Мариана. Приятно познакомиться."
+        },
+        {
+          "speaker": "Pierre",
+          "it": "Di dove sei?",
+          "translation": "Откуда ты?"
+        },
+        {
+          "speaker": "Mariana",
+          "it": "Sono italiana, di Livorno. E tu? Non sei italiano, vero?",
+          "translation": "Я итальянка, из Ливорно. А ты? Ты ведь не итальянец, правда?"
+        },
+        {
+          "speaker": "Pierre",
+          "it": "No, sono francese, di Parigi.",
+          "translation": "Нет, я француз, из Парижа."
+        },
+        {
+          "speaker": "Mariana",
+          "it": "Parigi?! È una città bellissima!",
+          "translation": "Париж?! Это очень красивый город!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросите, откуда человек, используя разделительный вопрос с отрицанием",
+          "expected_it": "Non sei [nazionalità], vero?"
+        },
+        {
+          "cue": "Подтвердите свою национальность и город",
+          "expected_it": "No, sono [nazionalità], di [città]."
+        },
+        {
+          "cue": "Воскликните, что какой-то город очень красивый",
+          "expected_it": "[Città]?! È una città bellissima!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-2-02",
+      "title": "Ti presento Giorgio (informale)",
+      "register": "неформальный / разговорный",
+      "context": "Друг неформально представляет третьего человека",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, Vittoria! Ti presento Giorgio. È italiano, di Milano.",
+          "translation": "Привет, Витториа! Познакомься, это Джорджо. Он итальянец, из Милана."
+        },
+        {
+          "speaker": "Vittoria",
+          "it": "Ciao, Giorgio! Piacere di conoscerti!",
+          "translation": "Привет, Джорджо! Приятно познакомиться!"
+        },
+        {
+          "speaker": "Giorgio",
+          "it": "Piacere mio!",
+          "translation": "Мне тоже приятно!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Неформально представьте третьего человека, указав его национальность",
+          "expected_it": "Ti presento [nome]. È [nazionalità], di [città]."
+        },
+        {
+          "cue": "Отреагируйте на представление (неформально)",
+          "expected_it": "Piacere di conoscerti!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-2-03",
+      "title": "Le presento il signor Bocelli (formale)",
+      "register": "официальный / формальный",
+      "context": "Официальное представление на профессиональном мероприятии",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno, signor Eugenio! Le presento il signor Bocelli. È italiano, di Lajatico.",
+          "translation": "Доброе утро, господин Эудженио! Позвольте представить господина Бочелли. Он итальянец, из Лаятико."
+        },
+        {
+          "speaker": "Eugenio",
+          "it": "Buongiorno, signor Bocelli! Molto lieto!",
+          "translation": "Доброе утро, господин Бочелли! Очень рад!"
+        },
+        {
+          "speaker": "Bocelli",
+          "it": "Piacere di conoscerla.",
+          "translation": "Приятно познакомиться."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Официально представьте кого-либо, используя вежливое обращение",
+          "expected_it": "Le presento il signor/la signora [cognome]."
+        },
+        {
+          "cue": "Отреагируйте на официальное представление",
+          "expected_it": "Molto lieto/a!"
+        },
+        {
+          "cue": "Выразите удовольствие официально",
+          "expected_it": "Piacere di conoscerla."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-1",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Fare conoscenza",
+      "Parole e lettere",
+      "Fonetica: le vocali"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Фонетика",
+      "rule": "Различение итальянских гласных",
+      "description": "Итальянские гласные необходимо произносить чётко, поскольку небольшие изменения в звучании гласной могут менять смысл слова или даже его род.",
+      "examples": [
+        {
+          "it": "colore / calore",
+          "translation": "цвет / тепло"
+        },
+        {
+          "it": "Paolo / Paola",
+          "translation": "мужское имя / женское имя"
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Ударные конечные гласные с акцентом",
+      "description": "Некоторые итальянские слова имеют письменный акцент на последней гласной, который указывает на ударный слог.",
+      "examples": [
+        {
+          "it": "caffè",
+          "translation": "кофе"
+        },
+        {
+          "it": "città",
+          "translation": "город"
+        }
+      ]
+    },
+    {
+      "category": "Орфография",
+      "rule": "Итальянское написание: буквы и двойные согласные",
+      "description": "При произнесении по буквам в итальянском используются названия букв, а двойные согласные обозначаются словом «doppia» и названием согласной.",
+      "examples": [
+        {
+          "it": "cappuccino",
+          "translation": "капучино",
+          "spelling": "ci - a - doppia pi - u - doppia ci - i - enne - o"
+        },
+        {
+          "it": "Bologna",
+          "translation": "Болонья",
+          "note": "практика побуквенного написания"
+        }
+      ]
+    },
+    {
+      "category": "Орфография",
+      "rule": "Звучание «ci» в числительных",
+      "description": "В словах «cinque», «dieci», «undici» и «dodici» сочетание «ci» произносится как звук [tʃ].",
+      "examples": [
+        {
+          "it": "cinque",
+          "translation": "пять"
+        },
+        {
+          "it": "dieci",
+          "translation": "десять"
+        },
+        {
+          "it": "undici",
+          "translation": "одиннадцать"
+        },
+        {
+          "it": "dodici",
+          "translation": "двенадцать"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "uno",
+      "definition": "один",
+      "type": "числительное"
+    },
+    {
+      "term": "due",
+      "definition": "два",
+      "type": "числительное"
+    },
+    {
+      "term": "tre",
+      "definition": "три",
+      "type": "числительное"
+    },
+    {
+      "term": "quattro",
+      "definition": "четыре",
+      "type": "числительное"
+    },
+    {
+      "term": "cinque",
+      "definition": "пять",
+      "type": "числительное"
+    },
+    {
+      "term": "sei",
+      "definition": "шесть",
+      "type": "числительное"
+    },
+    {
+      "term": "sette",
+      "definition": "семь",
+      "type": "числительное"
+    },
+    {
+      "term": "otto",
+      "definition": "восемь",
+      "type": "числительное"
+    },
+    {
+      "term": "nove",
+      "definition": "девять",
+      "type": "числительное"
+    },
+    {
+      "term": "dieci",
+      "definition": "десять",
+      "type": "числительное"
+    },
+    {
+      "term": "undici",
+      "definition": "одиннадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "dodici",
+      "definition": "двенадцать",
+      "type": "числительное"
+    },
+    {
+      "term": "stazione",
+      "definition": "станция, вокзал",
+      "type": "лексика"
+    },
+    {
+      "term": "mare",
+      "definition": "море",
+      "type": "лексика"
+    },
+    {
+      "term": "gelato",
+      "definition": "мороженое",
+      "type": "лексика"
+    },
+    {
+      "term": "museo",
+      "definition": "музей",
+      "type": "лексика"
+    },
+    {
+      "term": "pasta",
+      "definition": "паста",
+      "type": "лексика"
+    },
+    {
+      "term": "albergo",
+      "definition": "гостиница",
+      "type": "лексика"
+    },
+    {
+      "term": "piazza",
+      "definition": "площадь",
+      "type": "лексика"
+    },
+    {
+      "term": "vino",
+      "definition": "вино",
+      "type": "лексика"
+    },
+    {
+      "term": "mercato",
+      "definition": "рынок",
+      "type": "лексика"
+    },
+    {
+      "term": "macchina",
+      "definition": "машина, автомобиль",
+      "type": "лексика"
+    },
+    {
+      "term": "opera",
+      "definition": "опера",
+      "type": "культура"
+    },
+    {
+      "term": "treno",
+      "definition": "поезд",
+      "type": "лексика"
+    },
+    {
+      "term": "studente",
+      "definition": "студент",
+      "type": "люди"
+    },
+    {
+      "term": "insegnante",
+      "definition": "учитель, преподаватель",
+      "type": "люди"
+    },
+    {
+      "term": "leggere",
+      "definition": "читать",
+      "type": "глагол"
+    },
+    {
+      "term": "parlare",
+      "definition": "говорить, разговаривать",
+      "type": "глагол"
+    },
+    {
+      "term": "ascoltare",
+      "definition": "слушать",
+      "type": "глагол"
+    },
+    {
+      "term": "scrivere",
+      "definition": "писать",
+      "type": "глагол"
+    },
+    {
+      "term": "guardare",
+      "definition": "смотреть, глядеть на",
+      "type": "глагол"
+    },
+    {
+      "term": "abbinare",
+      "definition": "соединять, сопоставлять",
+      "type": "глагол"
+    },
+    {
+      "term": "completare",
+      "definition": "дополнять, заполнять",
+      "type": "глагол"
+    },
+    {
+      "term": "sottolineare",
+      "definition": "подчёркивать",
+      "type": "глагол"
+    },
+    {
+      "term": "pagina",
+      "definition": "страница",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "esercizio",
+      "definition": "упражнение",
+      "type": "учебная лексика"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Associate le parole alle immagini.",
+      "translation": "Соедините слова с картинками."
+    },
+    {
+      "it": "Verificate i risultati.",
+      "translation": "Проверьте результаты."
+    },
+    {
+      "it": "Ordinate.",
+      "translation": "Упорядочьте."
+    },
+    {
+      "it": "Ascoltate e ripetete.",
+      "translation": "Слушайте и повторяйте."
+    },
+    {
+      "it": "Leggete queste sigle in italiano.",
+      "translation": "Читайте эти аббревиатуры по-итальянски."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Работайте в парах."
+    },
+    {
+      "it": "Fate lo spelling.",
+      "translation": "Произносите по буквам."
+    },
+    {
+      "it": "Seguite l'esempio.",
+      "translation": "Следуйте примеру."
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Читайте слова."
+    },
+    {
+      "it": "Occhio alle vocali!",
+      "translation": "Следите за гласными!"
+    },
+    {
+      "it": "Leggete.",
+      "translation": "Читайте."
+    },
+    {
+      "it": "Abbinate le parole alle immagini.",
+      "translation": "Соедините слова с картинками."
+    }
+  ],
+  "acronym_practice": [
+    "sigle in italiano"
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-6",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale",
+      "Numeri da 0 a 10",
+      "Il sostantivo",
+      "L'aggettivo",
+      "Presentarsi",
+      "Salutare",
+      "Fonetica: lettere D/T"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Род существительного по типичным окончаниям",
+      "description": "Некоторые окончания итальянских существительных уверенно указывают на грамматический род.",
+      "sub_rules": [
+        {
+          "pattern": "-ore, -ale, -ile, -iere, -tore",
+          "gender": "мужской род",
+          "examples": [
+            {
+              "it": "il cameriere",
+              "translation": "официант"
+            },
+            {
+              "it": "il ventilatore",
+              "translation": "вентилятор"
+            }
+          ]
+        },
+        {
+          "pattern": "-sione, -zione, -gione, -trice",
+          "gender": "женский род",
+          "examples": [
+            {
+              "it": "la colazione",
+              "translation": "завтрак"
+            },
+            {
+              "it": "la direttrice",
+              "translation": "директриса"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Образование множественного числа существительных",
+      "description": "Итальянские существительные, как правило, меняют последнюю гласную во множественном числе.",
+      "sub_rules": [
+        {
+          "singular": "-o",
+          "plural": "-i",
+          "examples": [
+            {
+              "it": "ragazzo -> ragazzi",
+              "translation": "мальчик -> мальчики"
+            },
+            {
+              "it": "libro -> libri",
+              "translation": "книга -> книги"
+            }
+          ]
+        },
+        {
+          "singular": "-a",
+          "plural": "-e",
+          "examples": [
+            {
+              "it": "ragazza -> ragazze",
+              "translation": "девочка -> девочки"
+            },
+            {
+              "it": "strada -> strade",
+              "translation": "улица -> улицы"
+            }
+          ]
+        },
+        {
+          "singular": "-e",
+          "plural": "-i",
+          "examples": [
+            {
+              "it": "signore -> signori",
+              "translation": "мужчина / господин -> мужчины / господа"
+            },
+            {
+              "it": "quartiere -> quartieri",
+              "translation": "район -> районы"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Прилагательные на -o согласуются по роду и числу",
+      "description": "Прилагательные, оканчивающиеся на -o, изменяются в соответствии с существительным: мужской род единственного числа -o, женский род единственного числа -a, мужской род множественного числа -i, женский род множественного числа -e.",
+      "examples": [
+        {
+          "it": "un bambino piccolo",
+          "translation": "маленький мальчик"
+        },
+        {
+          "it": "una ragazza educata",
+          "translation": "воспитанная девочка"
+        },
+        {
+          "it": "due ragazzi educati",
+          "translation": "двое воспитанных мальчиков"
+        },
+        {
+          "it": "due ragazze carine",
+          "translation": "две симпатичные девочки"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола essere",
+      "description": "Используется для выражения идентичности и описания.",
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола chiamarsi",
+      "description": "Используется для вопроса об имени и представления.",
+      "conjugations": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      }
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Знакомство и вопрос об имени",
+      "description": "В итальянском языке используются разные формы для неформального (tu) и официального (Lei) знакомства.",
+      "examples": [
+        {
+          "context": "неформальный",
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Come si chiama?",
+          "translation": "Как вас зовут?"
+        },
+        {
+          "context": "утверждение",
+          "it": "Mi chiamo Paolo.",
+          "translation": "Меня зовут Паоло."
+        },
+        {
+          "context": "утверждение",
+          "it": "Il mio cognome è...",
+          "translation": "Моя фамилия..."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Приветствие и прощание: официальное и неформальное",
+      "description": "Формы приветствия зависят от времени суток и степени формальности.",
+      "examples": [
+        {
+          "context": "при встрече",
+          "it": "Ciao!",
+          "translation": "Привет! / Пока!"
+        },
+        {
+          "context": "при встрече",
+          "it": "Buongiorno!",
+          "translation": "Доброе утро / добрый день"
+        },
+        {
+          "context": "при встрече",
+          "it": "Buonasera!",
+          "translation": "Добрый вечер"
+        },
+        {
+          "context": "при прощании",
+          "it": "Arrivederci!",
+          "translation": "До свидания"
+        },
+        {
+          "context": "при прощании",
+          "it": "Arrivederla!",
+          "translation": "До свидания (официальный / формальный)"
+        },
+        {
+          "context": "при прощании",
+          "it": "A presto!",
+          "translation": "До скорого"
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Буквы D и T",
+      "description": "Студенты практикуют различение и произношение слов со звуками /d/ и /t/.",
+      "examples": [
+        {
+          "it": "dì / ti",
+          "translation": "скажи! / ты"
+        },
+        {
+          "it": "divano / tardi",
+          "translation": "диван / поздно"
+        },
+        {
+          "it": "dito / tema",
+          "translation": "палец / тема"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "zero",
+      "definition": "ноль",
+      "type": "числительное"
+    },
+    {
+      "term": "uno",
+      "definition": "один",
+      "type": "числительное"
+    },
+    {
+      "term": "due",
+      "definition": "два",
+      "type": "числительное"
+    },
+    {
+      "term": "tre",
+      "definition": "три",
+      "type": "числительное"
+    },
+    {
+      "term": "quattro",
+      "definition": "четыре",
+      "type": "числительное"
+    },
+    {
+      "term": "cinque",
+      "definition": "пять",
+      "type": "числительное"
+    },
+    {
+      "term": "sei",
+      "definition": "шесть",
+      "type": "числительное"
+    },
+    {
+      "term": "sette",
+      "definition": "семь",
+      "type": "числительное"
+    },
+    {
+      "term": "otto",
+      "definition": "восемь",
+      "type": "числительное"
+    },
+    {
+      "term": "nove",
+      "definition": "девять",
+      "type": "числительное"
+    },
+    {
+      "term": "dieci",
+      "definition": "десять",
+      "type": "числительное"
+    },
+    {
+      "term": "nome",
+      "definition": "имя",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "cognome",
+      "definition": "фамилия",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "piacere",
+      "definition": "приятно познакомиться",
+      "type": "фраза"
+    },
+    {
+      "term": "piacere mio",
+      "definition": "мне тоже приятно",
+      "type": "фраза"
+    },
+    {
+      "term": "altrettanto",
+      "definition": "взаимно",
+      "type": "фраза"
+    },
+    {
+      "term": "buongiorno",
+      "definition": "доброе утро / добрый день",
+      "type": "приветствие"
+    },
+    {
+      "term": "buonasera",
+      "definition": "добрый вечер",
+      "type": "приветствие"
+    },
+    {
+      "term": "salve",
+      "definition": "здравствуйте",
+      "type": "приветствие"
+    },
+    {
+      "term": "arrivederci",
+      "definition": "до свидания",
+      "type": "приветствие"
+    },
+    {
+      "term": "arrivederla",
+      "definition": "до свидания (официальный / формальный)",
+      "type": "приветствие"
+    },
+    {
+      "term": "buona notte",
+      "definition": "спокойной ночи",
+      "type": "приветствие"
+    },
+    {
+      "term": "a presto",
+      "definition": "до скорого",
+      "type": "приветствие"
+    },
+    {
+      "term": "a dopo",
+      "definition": "до встречи",
+      "type": "приветствие"
+    },
+    {
+      "term": "ci vediamo",
+      "definition": "увидимся",
+      "type": "приветствие"
+    },
+    {
+      "term": "cameriere",
+      "definition": "официант",
+      "type": "существительное"
+    },
+    {
+      "term": "ventilatore",
+      "definition": "вентилятор",
+      "type": "существительное"
+    },
+    {
+      "term": "colazione",
+      "definition": "завтрак",
+      "type": "существительное"
+    },
+    {
+      "term": "direttrice",
+      "definition": "директриса",
+      "type": "существительное"
+    },
+    {
+      "term": "bello",
+      "definition": "красивый; хороший",
+      "type": "прилагательное"
+    },
+    {
+      "term": "simpatico",
+      "definition": "симпатичный; приятный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "contento",
+      "definition": "довольный; счастливый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "nuovo",
+      "definition": "новый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "carino",
+      "definition": "милый; симпатичный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "pari",
+      "definition": "чётный (о числе)",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "dispari",
+      "definition": "нечётный (о числе)",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "quanto fa...?",
+      "definition": "сколько будет...?",
+      "type": "фраза"
+    },
+    {
+      "term": "più",
+      "definition": "плюс; больше",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "uguale",
+      "definition": "равно; равный",
+      "type": "слово / лексика"
+    },
+    {
+      "term": "alto/a",
+      "definition": "высокий / высокая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "educato/a",
+      "definition": "воспитанный / воспитанная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "straniero/a",
+      "definition": "иностранный; иностранец / иностранка",
+      "type": "прилагательное"
+    },
+    {
+      "term": "libero/a",
+      "definition": "свободный / свободная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "noioso/a",
+      "definition": "скучный / скучная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "povero/a",
+      "definition": "бедный / бедная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "fresco/a",
+      "definition": "свежий / свежая; прохладный / прохладная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "creativo/a",
+      "definition": "творческий / творческая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "moderno/a",
+      "definition": "современный / современная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "piccolo/a",
+      "definition": "маленький / маленькая",
+      "type": "прилагательное"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Заполните."
+    },
+    {
+      "it": "Fate frasi.",
+      "translation": "Составьте предложения."
+    },
+    {
+      "it": "Trasformate al plurale.",
+      "translation": "Поставьте во множественное число."
+    },
+    {
+      "it": "Ascoltate e cerchiate.",
+      "translation": "Послушайте и обведите в кружок."
+    },
+    {
+      "it": "Riascoltiamo?",
+      "translation": "Послушаем ещё раз?"
+    },
+    {
+      "it": "Che numeri sentite?",
+      "translation": "Какие числа вы слышите?"
+    },
+    {
+      "it": "Che numeri non sentite?",
+      "translation": "Какие числа вы не слышите?"
+    },
+    {
+      "it": "Scrivete la somma.",
+      "translation": "Запишите сумму."
+    },
+    {
+      "it": "Quanto fa...?",
+      "translation": "Сколько будет...?"
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Прочитайте слова."
+    }
+  ]
+}

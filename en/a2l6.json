@@ -1,0 +1,512 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-6",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: i numeri da 10 a 100",
+      "Ripasso: verbi avere ed essere",
+      "Ripasso e ampliamento: avere + sensazioni fisiche ed emotive",
+      "Attività comunicativa: Come ti chiami? — formale e informale",
+      "Attività comunicativa: Quante domande! — Qual è il tuo/Suo...?",
+      "Fonetica: lettera Z"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "avere voglia di + infinitive",
+      "description": "'Avere voglia di' means 'to feel like doing something'. It is followed by an infinitive. The negative form 'non avere voglia di' means 'not to feel like'.",
+      "examples": [
+        {
+          "it": "Ho voglia di andare al mare.",
+          "translation": "I feel like going to the sea."
+        },
+        {
+          "it": "Hai voglia di ripassare?",
+          "translation": "Do you feel like reviewing?"
+        },
+        {
+          "it": "Non ha voglia di studiare.",
+          "translation": "He/she doesn't feel like studying."
+        },
+        {
+          "it": "Non ho voglia di niente.",
+          "translation": "I don't feel like anything."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "avere paura di + noun/infinitive",
+      "description": "'Avere paura di' means 'to be afraid of'. It is followed by a noun (with di + article contracting as needed) or an infinitive.",
+      "examples": [
+        {
+          "it": "Ho paura di parlare in italiano.",
+          "translation": "I am afraid of speaking Italian."
+        },
+        {
+          "it": "Ha paura della moglie.",
+          "translation": "He is afraid of his wife."
+        },
+        {
+          "it": "Hai paura del professore?",
+          "translation": "Are you afraid of the teacher?"
+        }
+      ],
+      "notes": "di + definite article contracts: di + la → della, di + il → del, di + l' → dell'"
+    },
+    {
+      "category": "Grammar",
+      "rule": "avere mal di + body part",
+      "description": "'Avere mal di' is used to express a specific pain or ache. Followed directly by the body part (no article needed for common expressions).",
+      "examples": [
+        {
+          "it": "Ho mal di testa.",
+          "translation": "I have a headache."
+        },
+        {
+          "it": "Ha mal di stomaco.",
+          "translation": "He/she has a stomachache."
+        },
+        {
+          "it": "Hai mal di gola?",
+          "translation": "Do you have a sore throat?"
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Qual è il tuo/Suo...? — asking for personal details",
+      "description": "'Qual è' means 'what is' for identity-type questions. Used with possessives to ask for name, surname, or phone number. 'Tuo/tua' is informal; 'Suo/Sua' (capitalised) is formal.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Qual è il tuo nome?",
+          "translation": "What is your first name?"
+        },
+        {
+          "context": "informal",
+          "it": "Qual è il tuo cognome?",
+          "translation": "What is your surname?"
+        },
+        {
+          "context": "informal",
+          "it": "Qual è il tuo numero di cellulare?",
+          "translation": "What is your mobile number?"
+        },
+        {
+          "context": "formal",
+          "it": "Qual è il Suo nome?",
+          "translation": "What is your first name? (formal)"
+        },
+        {
+          "context": "formal",
+          "it": "Qual è il Suo cognome?",
+          "translation": "What is your surname? (formal)"
+        },
+        {
+          "context": "formal",
+          "it": "Qual è il Suo numero di cellulare?",
+          "translation": "What is your mobile number? (formal)"
+        }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Lettera Z — [dz] vs [ts]",
+      "description": "The letter Z in Italian can represent two sounds: [dz] (voiced) and [ts] (unvoiced). The sound depends on the word and spelling pattern.",
+      "examples": [
+        {
+          "sound": "[dz]",
+          "pattern": "word-initial Z; -izzare endings",
+          "words": [
+            "zero",
+            "zona",
+            "zuppa",
+            "zucchero",
+            "zampa",
+            "zanzara",
+            "pranzo",
+            "mezzo",
+            "mezzogiorno",
+            "mezzanotte",
+            "azzurro",
+            "organizzare"
+          ]
+        },
+        {
+          "sound": "[ts]",
+          "pattern": "-ia/-io/-ie, -anza/-enza, -ezza, -izia, -zione, -zz- (after vowel), -ziare",
+          "words": [
+            "ragazzo",
+            "grazie",
+            "stazione",
+            "lezione",
+            "canzone",
+            "stanza",
+            "speranza",
+            "giovinezza",
+            "pulizia",
+            "polizia",
+            "tazza",
+            "pazzo",
+            "notizia",
+            "esercizio"
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "avere voglia di",
+      "definition": "to feel like (doing something)",
+      "type": "phrase"
+    },
+    {
+      "term": "ho voglia di...",
+      "definition": "I feel like...",
+      "type": "phrase"
+    },
+    {
+      "term": "non ho voglia di...",
+      "definition": "I don't feel like...",
+      "type": "phrase"
+    },
+    {
+      "term": "avere paura di",
+      "definition": "to be afraid of",
+      "type": "phrase"
+    },
+    {
+      "term": "avere mal di testa",
+      "definition": "to have a headache",
+      "type": "phrase"
+    },
+    {
+      "term": "mal di testa",
+      "definition": "headache",
+      "type": "noun phrase"
+    },
+    {
+      "term": "mal di stomaco",
+      "definition": "stomachache",
+      "type": "noun phrase"
+    },
+    {
+      "term": "mal di gola",
+      "definition": "sore throat",
+      "type": "noun phrase"
+    },
+    {
+      "term": "la moglie",
+      "definition": "wife",
+      "type": "noun"
+    },
+    {
+      "term": "mezzogiorno",
+      "definition": "noon; midday (h12)",
+      "type": "noun"
+    },
+    {
+      "term": "mezzanotte",
+      "definition": "midnight (h24)",
+      "type": "noun"
+    },
+    {
+      "term": "Qual è il tuo nome?",
+      "definition": "What is your first name? (informal)",
+      "type": "phrase"
+    },
+    {
+      "term": "Qual è il tuo cognome?",
+      "definition": "What is your surname? (informal)",
+      "type": "phrase"
+    },
+    {
+      "term": "Qual è il tuo numero di cellulare?",
+      "definition": "What is your mobile number? (informal)",
+      "type": "phrase"
+    },
+    {
+      "term": "Qual è il Suo nome?",
+      "definition": "What is your first name? (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "Qual è il Suo cognome?",
+      "definition": "What is your surname? (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "Qual è il Suo numero di cellulare?",
+      "definition": "What is your mobile number? (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "capire",
+      "definition": "to understand",
+      "type": "verb"
+    },
+    {
+      "term": "capisco",
+      "definition": "I understand",
+      "type": "verb form"
+    },
+    {
+      "term": "Non capisco.",
+      "definition": "I don't understand.",
+      "type": "phrase"
+    },
+    {
+      "term": "Sono contento/a di capire l'italiano.",
+      "definition": "I am happy to understand Italian.",
+      "type": "phrase"
+    },
+    {
+      "term": "della",
+      "definition": "of the (di + la, feminine)",
+      "type": "preposition"
+    },
+    {
+      "term": "del",
+      "definition": "of the (di + il, masculine)",
+      "type": "preposition"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Rispondete alle domande.",
+      "translation": "Answer the questions."
+    },
+    {
+      "it": "Leggete i numeri che mancano.",
+      "translation": "Read the missing numbers."
+    },
+    {
+      "it": "Chi sono? Quanti anni hanno?",
+      "translation": "Who are they? How old are they?"
+    },
+    {
+      "it": "Trova la tua metà!",
+      "translation": "Find your other half!"
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Read the words."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-6-01",
+      "title": "Quanti anni hanno? — descrizione di terza persona",
+      "register": "neutral",
+      "context": "Practising third-person descriptions: name, nationality, city of origin, age — based on lesson exercise",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Chi è questa persona?",
+          "translation": "Who is this person?"
+        },
+        {
+          "speaker": "B",
+          "it": "Si chiama Susanne. È tedesca, di Berlino. Ha 59 anni.",
+          "translation": "Her name is Susanne. She is German, from Berlin. She is 59 years old."
+        },
+        {
+          "speaker": "A",
+          "it": "E questo ragazzo, come si chiama?",
+          "translation": "And this boy, what is his name?"
+        },
+        {
+          "speaker": "B",
+          "it": "Si chiama Marco. È italiano, di Roma. Ha 32 anni.",
+          "translation": "His name is Marco. He is Italian, from Rome. He is 32 years old."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Describe a third person: name, nationality, city, age",
+          "expected_it": "Si chiama [nome]. È [nazionalità], di [città]. Ha [numero] anni."
+        },
+        {
+          "cue": "Ask who someone is",
+          "expected_it": "Chi è questa persona? / Chi è questo ragazzo?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-6-02",
+      "title": "Qual è il tuo...? — informale",
+      "register": "informal",
+      "context": "Two students exchange personal details using the Qual è il tuo...? pattern",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come ti chiami?",
+          "translation": "What is your name?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Laura.",
+          "translation": "My name is Laura."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo cognome?",
+          "translation": "What is your surname?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio cognome è Ferrari. E tu?",
+          "translation": "My surname is Ferrari. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono Paolo Ricci. Di dove sei?",
+          "translation": "I am Paolo Ricci. Where are you from?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Torino. Quanti anni hai?",
+          "translation": "I am from Turin. How old are you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho vent'anni. Qual è il tuo numero di cellulare?",
+          "translation": "I am twenty. What is your mobile number?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 320 456 7890.",
+          "translation": "My number is 320 456 7890."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask for someone's surname using 'Qual è'",
+          "expected_it": "Qual è il tuo cognome?"
+        },
+        {
+          "cue": "Ask for someone's mobile number using 'Qual è'",
+          "expected_it": "Qual è il tuo numero di cellulare?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-6-03",
+      "title": "Qual è il Suo...? — formale",
+      "register": "formal",
+      "context": "Formal exchange asking for personal details with Lei — from the lesson's formal/informal comparison table",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno. Come si chiama?",
+          "translation": "Good morning. What is your name?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Giovanna Marini.",
+          "translation": "My name is Giovanna Marini."
+        },
+        {
+          "speaker": "A",
+          "it": "Di dov'è?",
+          "translation": "Where are you from?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Napoli.",
+          "translation": "I am from Naples."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti anni ha?",
+          "translation": "How old are you?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho quarantacinque anni. E Lei?",
+          "translation": "I am forty-five. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il Suo numero di cellulare?",
+          "translation": "What is your mobile number?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 347 812 3456.",
+          "translation": "My number is 347 812 3456."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask for someone's name formally",
+          "expected_it": "Come si chiama?"
+        },
+        {
+          "cue": "Ask where someone is from formally",
+          "expected_it": "Di dov'è?"
+        },
+        {
+          "cue": "Ask for a mobile number formally using 'Qual è'",
+          "expected_it": "Qual è il Suo numero di cellulare?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-6-04",
+      "title": "Hai voglia di ripassare? — avere expressions in context",
+      "register": "informal",
+      "context": "Short Q&A practising avere + sensations in context, based on the lesson's comprehension exercise",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "È mezzogiorno e i tuoi compagni mangiano una pizza. Perché?",
+          "translation": "It's noon and your classmates are eating pizza. Why?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché hanno fame!",
+          "translation": "Because they are hungry!"
+        },
+        {
+          "speaker": "A",
+          "it": "È mezzanotte e tu non guardi la televisione. Perché?",
+          "translation": "It's midnight and you are not watching TV. Why?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché ho sonno!",
+          "translation": "Because I am sleepy!"
+        },
+        {
+          "speaker": "A",
+          "it": "Oggi non studi. Perché?",
+          "translation": "Today you are not studying. Why?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché non ho voglia... e ho anche mal di testa.",
+          "translation": "Because I don't feel like it... and I also have a headache."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Say why you are eating — you are hungry",
+          "expected_it": "Perché ho fame."
+        },
+        {
+          "cue": "Say you don't feel like studying",
+          "expected_it": "Non ho voglia di studiare."
+        },
+        {
+          "cue": "Say you have a headache",
+          "expected_it": "Ho mal di testa."
+        }
+      ]
+    }
+  ]
+}

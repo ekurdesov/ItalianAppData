@@ -1,0 +1,540 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-1",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: La classe di Carla",
+      "Aggettivi di nazionalità",
+      "Attività comunicativa: Di dove sei?",
+      "Fonetica: lettera S"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Asking and stating origin",
+      "description": "Italian distinguishes informal 'tu' and formal 'Lei' when asking where someone is from.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Di dove sei?",
+          "translation": "Where are you from?"
+        },
+        {
+          "context": "informal",
+          "it": "E tu?",
+          "translation": "And you?"
+        },
+        {
+          "context": "formal",
+          "it": "Di dov'è?",
+          "translation": "Where are you from? (formal)"
+        },
+        {
+          "context": "formal",
+          "it": "E Lei?",
+          "translation": "And you? (formal)"
+        },
+        {
+          "context": "answer",
+          "it": "Sono di Milano.",
+          "translation": "I am from Milan."
+        },
+        {
+          "context": "answer",
+          "it": "Sono italiano.",
+          "translation": "I am Italian."
+        },
+        {
+          "context": "answer",
+          "it": "Sono italiano, di Milano.",
+          "translation": "I am Italian, from Milan."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Nationality adjectives agree in gender",
+      "description": "Nationality adjectives change endings to agree with masculine or feminine nouns.",
+      "sub_rules": [
+        {
+          "pattern": "-o / -a",
+          "description": "Many nationality adjectives have masculine singular in -o and feminine singular in -a.",
+          "examples": [
+            {
+              "it": "americano / americana",
+              "translation": "American"
+            },
+            {
+              "it": "egiziano / egiziana",
+              "translation": "Egyptian"
+            },
+            {
+              "it": "austriaco / austriaca",
+              "translation": "Austrian"
+            }
+          ]
+        },
+        {
+          "pattern": "-e",
+          "description": "Some nationality adjectives have the same singular form for masculine and feminine.",
+          "examples": [
+            {
+              "it": "francese",
+              "translation": "French"
+            },
+            {
+              "it": "inglese",
+              "translation": "English"
+            },
+            {
+              "it": "cinese",
+              "translation": "Chinese"
+            },
+            {
+              "it": "svedese",
+              "translation": "Swedish"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Origin from cities uses 'di'",
+      "description": "To say where someone is from, Italian commonly uses 'essere di' plus a city or place.",
+      "examples": [
+        {
+          "it": "Juan è di Madrid.",
+          "translation": "Juan is from Madrid."
+        },
+        {
+          "it": "John è di New York.",
+          "translation": "John is from New York."
+        }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Letter S can be voiced or voiceless",
+      "description": "Italian 's' may be pronounced as [z] or [s] depending on the word.",
+      "sub_rules": [
+        {
+          "sound": "[z]",
+          "examples": [
+            {
+              "it": "caso",
+              "translation": "case"
+            },
+            {
+              "it": "inglese",
+              "translation": "English"
+            },
+            {
+              "it": "musica",
+              "translation": "music"
+            },
+            {
+              "it": "televisione",
+              "translation": "television"
+            }
+          ]
+        },
+        {
+          "sound": "[s]",
+          "examples": [
+            {
+              "it": "sì",
+              "translation": "yes"
+            },
+            {
+              "it": "sedia",
+              "translation": "chair"
+            },
+            {
+              "it": "salutare",
+              "translation": "to greet"
+            },
+            {
+              "it": "Sicilia",
+              "translation": "Sicily"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "scuola",
+      "definition": "school",
+      "type": "classroom noun"
+    },
+    {
+      "term": "aula",
+      "definition": "classroom",
+      "type": "classroom noun"
+    },
+    {
+      "term": "classe",
+      "definition": "class",
+      "type": "classroom noun"
+    },
+    {
+      "term": "lezione",
+      "definition": "lesson",
+      "type": "classroom noun"
+    },
+    {
+      "term": "studente",
+      "definition": "student",
+      "type": "people"
+    },
+    {
+      "term": "professoressa",
+      "definition": "female teacher / professor",
+      "type": "people"
+    },
+    {
+      "term": "insegnante",
+      "definition": "teacher",
+      "type": "people"
+    },
+    {
+      "term": "zaino",
+      "definition": "backpack",
+      "type": "classroom noun"
+    },
+    {
+      "term": "lavagna",
+      "definition": "board",
+      "type": "classroom noun"
+    },
+    {
+      "term": "provenienza",
+      "definition": "origin, provenance",
+      "type": "grammar vocabulary"
+    },
+    {
+      "term": "nazionalità",
+      "definition": "nationality",
+      "type": "grammar vocabulary"
+    },
+    {
+      "term": "di dove sei?",
+      "definition": "where are you from?",
+      "type": "phrase"
+    },
+    {
+      "term": "di dov'è?",
+      "definition": "where are you from? (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "sono di Milano",
+      "definition": "I am from Milan",
+      "type": "phrase"
+    },
+    {
+      "term": "sono italiano",
+      "definition": "I am Italian",
+      "type": "phrase"
+    },
+    {
+      "term": "americano/a",
+      "definition": "American",
+      "type": "nationality"
+    },
+    {
+      "term": "australiano/a",
+      "definition": "Australian",
+      "type": "nationality"
+    },
+    {
+      "term": "argentino/a",
+      "definition": "Argentinian",
+      "type": "nationality"
+    },
+    {
+      "term": "austriaco/a",
+      "definition": "Austrian",
+      "type": "nationality"
+    },
+    {
+      "term": "brasiliano/a",
+      "definition": "Brazilian",
+      "type": "nationality"
+    },
+    {
+      "term": "canadese",
+      "definition": "Canadian",
+      "type": "nationality"
+    },
+    {
+      "term": "cinese",
+      "definition": "Chinese",
+      "type": "nationality"
+    },
+    {
+      "term": "coreano/a",
+      "definition": "Korean",
+      "type": "nationality"
+    },
+    {
+      "term": "egiziano/a",
+      "definition": "Egyptian",
+      "type": "nationality"
+    },
+    {
+      "term": "francese",
+      "definition": "French",
+      "type": "nationality"
+    },
+    {
+      "term": "giapponese",
+      "definition": "Japanese",
+      "type": "nationality"
+    },
+    {
+      "term": "greco/a",
+      "definition": "Greek",
+      "type": "nationality"
+    },
+    {
+      "term": "indiano/a",
+      "definition": "Indian",
+      "type": "nationality"
+    },
+    {
+      "term": "inglese",
+      "definition": "English",
+      "type": "nationality"
+    },
+    {
+      "term": "messicano/a",
+      "definition": "Mexican",
+      "type": "nationality"
+    },
+    {
+      "term": "norvegese",
+      "definition": "Norwegian",
+      "type": "nationality"
+    },
+    {
+      "term": "polacco/a",
+      "definition": "Polish",
+      "type": "nationality"
+    },
+    {
+      "term": "russo/a",
+      "definition": "Russian",
+      "type": "nationality"
+    },
+    {
+      "term": "senegalese",
+      "definition": "Senegalese",
+      "type": "nationality"
+    },
+    {
+      "term": "spagnolo/a",
+      "definition": "Spanish",
+      "type": "nationality"
+    },
+    {
+      "term": "svedese",
+      "definition": "Swedish",
+      "type": "nationality"
+    },
+    {
+      "term": "tedesco/a",
+      "definition": "German",
+      "type": "nationality"
+    },
+    {
+      "term": "tunisino/a",
+      "definition": "Tunisian",
+      "type": "nationality"
+    },
+    {
+      "term": "bielorusso/a",
+      "definition": "Belarusian",
+      "type": "nationality"
+    },
+    {
+      "term": "moldavo/a",
+      "definition": "Moldovan",
+      "type": "nationality"
+    },
+    {
+      "term": "svizzero/a",
+      "definition": "Swiss",
+      "type": "nationality"
+    },
+    {
+      "term": "aver ragione",
+      "definition": "to be right",
+      "type": "phrase"
+    },
+    {
+      "term": "oppure",
+      "definition": "or",
+      "type": "connector"
+    },
+    {
+      "term": "sì",
+      "definition": "yes",
+      "type": "phrase"
+    },
+    {
+      "term": "adesso",
+      "definition": "now",
+      "type": "adverb"
+    },
+    {
+      "term": "sera",
+      "definition": "evening",
+      "type": "vocabulary"
+    },
+    {
+      "term": "una pronta guarigione",
+      "definition": "get well soon",
+      "type": "phrase"
+    },
+    {
+      "term": "italiano/a",
+      "definition": "Italian",
+      "type": "nationality"
+    },
+    {
+      "term": "straniero/a",
+      "definition": "foreigner; foreign",
+      "type": "vocabulary"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Abbinate.",
+      "translation": "Match."
+    },
+    {
+      "it": "Ascoltate e rispondete.",
+      "translation": "Listen and answer."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Read and check."
+    },
+    {
+      "it": "Leggete e rispondete.",
+      "translation": "Read and answer."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Completate con -o, -a, -e.",
+      "translation": "Complete with -o, -a, -e."
+    },
+    {
+      "it": "Secondo me...",
+      "translation": "In my opinion..."
+    },
+    {
+      "it": "Leggete le parole.",
+      "translation": "Read the words."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-1-01",
+      "title": "Di dove sei? (informal)",
+      "register": "informal",
+      "context": "Two students in an Italian class exchange origins",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao! Mi chiamo Antonio. E tu?",
+          "translation": "Hi! My name is Antonio. And you?"
+        },
+        {
+          "speaker": "B",
+          "it": "Io sono Yuki. Piacere!",
+          "translation": "I am Yuki. Pleased to meet you!"
+        },
+        {
+          "speaker": "A",
+          "it": "Di dove sei, Yuki?",
+          "translation": "Where are you from, Yuki?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono giapponese, di Tokyo. E tu?",
+          "translation": "I am Japanese, from Tokyo. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono di Pechino. Sono cinese.",
+          "translation": "I am from Beijing. I am Chinese."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask where someone is from (informal)",
+          "expected_it": "Di dove sei?"
+        },
+        {
+          "cue": "Say your nationality and city of origin",
+          "expected_it": "Sono [nazionalità], di [città]."
+        },
+        {
+          "cue": "Ask back (informal)",
+          "expected_it": "E tu?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-1-02",
+      "title": "Di dov'è? (formal)",
+      "register": "formal",
+      "context": "A formal exchange about nationality at a professional event",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno. Lei è straniero?",
+          "translation": "Good morning. Are you a foreigner?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, sono americano, di New York. E Lei?",
+          "translation": "Yes, I am American, from New York. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono italiano, di Roma.",
+          "translation": "I am Italian, from Rome."
+        },
+        {
+          "speaker": "B",
+          "it": "Roma! È una città bellissima!",
+          "translation": "Rome! It is a beautiful city!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask where someone is from (formal)",
+          "expected_it": "Di dov'è?"
+        },
+        {
+          "cue": "Say you are American from New York",
+          "expected_it": "Sono americano/a, di New York."
+        },
+        {
+          "cue": "Ask back (formal)",
+          "expected_it": "E Lei?"
+        }
+      ]
+    }
+  ]
+}

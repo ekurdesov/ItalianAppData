@@ -1,0 +1,628 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-5",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: i numeri da 10 a 100",
+      "Grammatica: verbi avere ed essere — ripasso e ampliamento",
+      "Lessico: avere + sensazioni fisiche ed emotive",
+      "Attività comunicativa: Come ti chiami? / Quanti anni hai? / Che numero hai?",
+      "Attività comunicativa: Quante domande!",
+      "Formale e informale: ripasso"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "avere + noun for physical/emotional states",
+      "description": "Italian uses 'avere' (to have) + a noun to express physical sensations and emotions that English expresses with 'to be'. Literal translation: 'to have hunger', 'to have cold', etc.",
+      "examples": [
+        {
+          "it": "Ho fame.",
+          "translation": "I am hungry."
+        },
+        {
+          "it": "Hai sete?",
+          "translation": "Are you thirsty?"
+        },
+        {
+          "it": "Ha freddo?",
+          "translation": "Are you cold? (formal)"
+        },
+        {
+          "it": "Ho fretta!",
+          "translation": "I am in a hurry!"
+        },
+        {
+          "it": "Ha paura.",
+          "translation": "She/he is afraid."
+        },
+        {
+          "it": "Ho sonno.",
+          "translation": "I am sleepy."
+        },
+        {
+          "it": "Non ho tempo.",
+          "translation": "I don't have time."
+        }
+      ],
+      "notes": "Key list: avere fame / sete / sonno / caldo / freddo / paura / fretta / tempo"
+    },
+    {
+      "category": "Grammar",
+      "rule": "essere vs avere for states — adjective vs noun",
+      "description": "Use 'essere' with adjectives (sono stanco) and 'avere' with nouns for sensations (ho fame). Both express states but the structure differs.",
+      "examples": [
+        {
+          "it": "Sono stanco.",
+          "translation": "I am tired."
+        },
+        {
+          "it": "Sei arrabbiata?",
+          "translation": "Are you angry?"
+        },
+        {
+          "it": "È annoiato.",
+          "translation": "He is bored."
+        },
+        {
+          "it": "Siete contenti?",
+          "translation": "Are you (all) happy?"
+        },
+        {
+          "it": "Ho fame.",
+          "translation": "I am hungry. (lit. I have hunger)"
+        },
+        {
+          "it": "Ha caldo.",
+          "translation": "He is hot. (lit. He has heat)"
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Possessive adjectives — singular (il mio, il tuo, il suo)",
+      "description": "Italian possessive adjectives agree in gender and number with the noun they modify, not with the owner. They are preceded by the definite article.",
+      "examples": [
+        {
+          "it": "il mio numero",
+          "translation": "my number"
+        },
+        {
+          "it": "il tuo cognome",
+          "translation": "your surname (informal)"
+        },
+        {
+          "it": "il suo numero",
+          "translation": "his/her number; your number (formal)"
+        },
+        {
+          "it": "la mia classe",
+          "translation": "my class"
+        },
+        {
+          "it": "la tua professoressa",
+          "translation": "your professor (informal)"
+        },
+        {
+          "it": "la sua borsa",
+          "translation": "his/her bag; your bag (formal)"
+        }
+      ],
+      "notes": "In this lesson: il mio / il tuo / il suo with numero di telefono and cognome"
+    },
+    {
+      "category": "Grammar",
+      "rule": "Vorrei — polite desire",
+      "description": "'Vorrei' is the conditional form of 'volere' (to want), used to politely express desire. Equivalent to 'I would like'.",
+      "examples": [
+        {
+          "it": "Vorrei una pizza.",
+          "translation": "I would like a pizza."
+        },
+        {
+          "it": "Vorrei andare a letto.",
+          "translation": "I would like to go to bed."
+        },
+        {
+          "it": "Vorrei un caffè caldo.",
+          "translation": "I would like a hot coffee."
+        }
+      ],
+      "notes": "Used when responding to 'Cosa desideri quando...?' — followed by a noun or infinitive"
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking for personal details — formal vs informal",
+      "description": "Italian uses different question forms depending on register when asking for name, age, or phone number.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Come ti chiami?",
+          "translation": "What is your name?"
+        },
+        {
+          "context": "formal",
+          "it": "Come si chiama?",
+          "translation": "What is your name? (formal)"
+        },
+        {
+          "context": "informal",
+          "it": "E di cognome?",
+          "translation": "And your surname?"
+        },
+        {
+          "context": "informal",
+          "it": "Che numero di cellulare hai?",
+          "translation": "What is your mobile number?"
+        },
+        {
+          "context": "formal",
+          "it": "Che numero di cellulare ha?",
+          "translation": "What is your mobile number? (formal)"
+        },
+        {
+          "context": "answer",
+          "it": "Il mio numero è ...",
+          "translation": "My number is ..."
+        },
+        {
+          "context": "answer (formal)",
+          "it": "Il suo numero è ...",
+          "translation": "His/her/your number is ..."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "avere fame",
+      "definition": "to be hungry (lit. to have hunger)",
+      "type": "phrase"
+    },
+    {
+      "term": "avere sete",
+      "definition": "to be thirsty (lit. to have thirst)",
+      "type": "phrase"
+    },
+    {
+      "term": "avere sonno",
+      "definition": "to be sleepy (lit. to have sleepiness)",
+      "type": "phrase"
+    },
+    {
+      "term": "avere caldo",
+      "definition": "to be hot (lit. to have heat)",
+      "type": "phrase"
+    },
+    {
+      "term": "avere freddo",
+      "definition": "to be cold (lit. to have cold)",
+      "type": "phrase"
+    },
+    {
+      "term": "avere paura",
+      "definition": "to be afraid (lit. to have fear)",
+      "type": "phrase"
+    },
+    {
+      "term": "avere fretta",
+      "definition": "to be in a hurry (lit. to have hurry)",
+      "type": "phrase"
+    },
+    {
+      "term": "avere tempo",
+      "definition": "to have time",
+      "type": "phrase"
+    },
+    {
+      "term": "fame",
+      "definition": "hunger",
+      "type": "noun"
+    },
+    {
+      "term": "sete",
+      "definition": "thirst",
+      "type": "noun"
+    },
+    {
+      "term": "sonno",
+      "definition": "sleepiness; sleep",
+      "type": "noun"
+    },
+    {
+      "term": "caldo",
+      "definition": "heat; warmth",
+      "type": "noun"
+    },
+    {
+      "term": "freddo",
+      "definition": "cold",
+      "type": "noun"
+    },
+    {
+      "term": "paura",
+      "definition": "fear",
+      "type": "noun"
+    },
+    {
+      "term": "fretta",
+      "definition": "hurry; rush",
+      "type": "noun"
+    },
+    {
+      "term": "tempo",
+      "definition": "time; weather",
+      "type": "noun"
+    },
+    {
+      "term": "che cos'hai?",
+      "definition": "what's wrong? / what do you have?",
+      "type": "phrase"
+    },
+    {
+      "term": "che cosa ha?",
+      "definition": "what's wrong? / what does he/she have? (also formal: what's wrong with you?)",
+      "type": "phrase"
+    },
+    {
+      "term": "vorrei",
+      "definition": "I would like",
+      "type": "verb form"
+    },
+    {
+      "term": "stanco / stanca",
+      "definition": "tired",
+      "type": "adjective"
+    },
+    {
+      "term": "arrabbiato / arrabbiata",
+      "definition": "angry",
+      "type": "adjective"
+    },
+    {
+      "term": "annoiato / annoiata",
+      "definition": "bored",
+      "type": "adjective"
+    },
+    {
+      "term": "contento / contenta",
+      "definition": "happy; pleased",
+      "type": "adjective"
+    },
+    {
+      "term": "il mio / la mia",
+      "definition": "my",
+      "type": "possessive"
+    },
+    {
+      "term": "il tuo / la tua",
+      "definition": "your (informal)",
+      "type": "possessive"
+    },
+    {
+      "term": "il suo / la sua",
+      "definition": "his / her / your (formal)",
+      "type": "possessive"
+    },
+    {
+      "term": "cognome",
+      "definition": "surname; last name",
+      "type": "noun"
+    },
+    {
+      "term": "il numero di telefono",
+      "definition": "phone number",
+      "type": "noun phrase"
+    },
+    {
+      "term": "il numero di cellulare",
+      "definition": "mobile phone number",
+      "type": "noun phrase"
+    },
+    {
+      "term": "Che numero di cellulare hai?",
+      "definition": "What is your mobile number? (informal)",
+      "type": "phrase"
+    },
+    {
+      "term": "Che numero di cellulare ha?",
+      "definition": "What is your mobile number? (formal)",
+      "type": "phrase"
+    },
+    {
+      "term": "Il mio numero è...",
+      "definition": "My number is...",
+      "type": "phrase"
+    },
+    {
+      "term": "Cosa desideri quando...?",
+      "definition": "What do you want when...?",
+      "type": "phrase"
+    },
+    {
+      "term": "voglia",
+      "definition": "desire; wish",
+      "type": "noun"
+    },
+    {
+      "term": "non ho voglia di...",
+      "definition": "I don't feel like...",
+      "type": "phrase"
+    },
+    {
+      "term": "secondo me",
+      "definition": "in my opinion",
+      "type": "phrase"
+    },
+    {
+      "term": "facile",
+      "definition": "easy",
+      "type": "adjective"
+    },
+    {
+      "term": "difficile",
+      "definition": "difficult",
+      "type": "adjective"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Work in pairs."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Match."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Cosa desideri quando...?",
+      "translation": "What do you want/would you like when...?"
+    },
+    {
+      "it": "Secondo me...",
+      "translation": "In my opinion..."
+    },
+    {
+      "it": "È facile o difficile?",
+      "translation": "Is it easy or difficult?"
+    },
+    {
+      "it": "Completate con avere o essere.",
+      "translation": "Complete with 'avere' or 'essere'."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L2-5-01",
+      "title": "Come ti chiami? — dialogo 1 (informale)",
+      "register": "informal",
+      "context": "Two people meet and exchange personal details directly — from the lesson's pair-work activity",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come ti chiami?",
+          "translation": "What is your name?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Paolo.",
+          "translation": "My name is Paolo."
+        },
+        {
+          "speaker": "A",
+          "it": "E di cognome?",
+          "translation": "And your surname?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio cognome è Rossi.",
+          "translation": "My surname is Rossi."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti anni hai, Paolo?",
+          "translation": "How old are you, Paolo?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho 15 anni.",
+          "translation": "I am 15 years old."
+        },
+        {
+          "speaker": "A",
+          "it": "Che numero di cellulare hai?",
+          "translation": "What is your mobile number?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 351 634 8756.",
+          "translation": "My number is 351 634 8756."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask someone's first name (informal)",
+          "expected_it": "Come ti chiami?"
+        },
+        {
+          "cue": "Say your surname using a possessive",
+          "expected_it": "Il mio cognome è [cognome]."
+        },
+        {
+          "cue": "Ask for a mobile number (informal)",
+          "expected_it": "Che numero di cellulare hai?"
+        },
+        {
+          "cue": "Give your phone number",
+          "expected_it": "Il mio numero è [numero]."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-5-02",
+      "title": "Come si chiama? — dialogo 2 (terza persona / formale)",
+      "register": "formal",
+      "context": "Asking about a third person's details, using third-person forms — formal register lesson activity",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come si chiama questo ragazzo?",
+          "translation": "What is this boy's name?"
+        },
+        {
+          "speaker": "B",
+          "it": "Si chiama Paolo.",
+          "translation": "His name is Paolo."
+        },
+        {
+          "speaker": "A",
+          "it": "E di cognome?",
+          "translation": "And his surname?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il suo cognome è Rossi.",
+          "translation": "His surname is Rossi."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti anni ha?",
+          "translation": "How old is he?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ha 15 anni.",
+          "translation": "He is 15 years old."
+        },
+        {
+          "speaker": "A",
+          "it": "Che numero di cellulare ha?",
+          "translation": "What is his mobile number?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il suo numero è 351 634 8756.",
+          "translation": "His number is 351 634 8756."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask someone's name (third person / formal)",
+          "expected_it": "Come si chiama?"
+        },
+        {
+          "cue": "Say someone's surname using 'il suo'",
+          "expected_it": "Il suo cognome è [cognome]."
+        },
+        {
+          "cue": "Ask for a third person's mobile number",
+          "expected_it": "Che numero di cellulare ha?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-5-03",
+      "title": "Che cos'hai? — avere expressions",
+      "register": "informal",
+      "context": "Short exchanges using 'avere' to express physical/emotional states — typical classroom practice",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Che cos'hai? Sei stanca?",
+          "translation": "What's wrong? Are you tired?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, ho sonno e ho anche un po' di freddo.",
+          "translation": "No, I am sleepy and also a bit cold."
+        },
+        {
+          "speaker": "A",
+          "it": "Hai fame?",
+          "translation": "Are you hungry?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì! E ho anche fretta — ho lezione tra dieci minuti!",
+          "translation": "Yes! And I am also in a hurry — I have class in ten minutes!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Say you are hungry",
+          "expected_it": "Ho fame."
+        },
+        {
+          "cue": "Say you are in a hurry",
+          "expected_it": "Ho fretta."
+        },
+        {
+          "cue": "Ask what's wrong with someone",
+          "expected_it": "Che cos'hai?"
+        },
+        {
+          "cue": "Say you are sleepy and cold",
+          "expected_it": "Ho sonno e ho freddo."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L2-5-04",
+      "title": "Vorrei... — cosa desideri quando?",
+      "register": "informal",
+      "context": "Pair work: expressing desires based on physical states — lesson activity page 34",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Cosa desideri quando hai fame?",
+          "translation": "What do you want when you are hungry?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vorrei una pizza!",
+          "translation": "I would like a pizza!"
+        },
+        {
+          "speaker": "A",
+          "it": "E quando hai sete?",
+          "translation": "And when you are thirsty?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vorrei un'acqua minerale fresca.",
+          "translation": "I would like a fresh sparkling water."
+        },
+        {
+          "speaker": "A",
+          "it": "E quando hai paura?",
+          "translation": "And when you are afraid?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vorrei parlare con gli amici!",
+          "translation": "I would like to talk with friends!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask what someone wants when they are sleepy",
+          "expected_it": "Cosa desideri quando hai sonno?"
+        },
+        {
+          "cue": "Say you would like a coffee",
+          "expected_it": "Vorrei un caffè."
+        },
+        {
+          "cue": "Say you would like to go to bed",
+          "expected_it": "Vorrei andare a letto."
+        }
+      ]
+    }
+  ]
+}

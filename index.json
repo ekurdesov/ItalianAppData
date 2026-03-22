@@ -1,6 +1,9 @@
 {
-  "version": 2,
-  "generated_at": "2026-03-16",
+  "version": 3,
+  "generated_at": "2026-03-22",
+  "locales": ["en", "ru"],
+  "locale_data_path": "{locale}/{file}",
+  "notes": "Lesson files live under en/ and ru/ subfolders. Load the appropriate subfolder based on the user's locale setting. Field 'translation' carries the localised meaning; field 'it' always contains Italian.",
   "lessons": [
     {
       "id": "A1-L1-1",
