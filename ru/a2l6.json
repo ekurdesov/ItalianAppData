@@ -116,43 +116,121 @@
       "category": "Фонетика",
       "rule": "Буква Z — [dz] и [ts]",
       "description": "Буква Z в итальянском языке может обозначать два звука: [dz] (звонкий) и [ts] (глухой). Звук зависит от слова и модели написания.",
-      "examples": [
+      "sub_rules": [
         {
-          "sound": "[dz]",
           "pattern": "Z в начале слова; окончания -izzare",
-          "words": [
-            "zero",
-            "zona",
-            "zuppa",
-            "zucchero",
-            "zampa",
-            "zanzara",
-            "pranzo",
-            "mezzo",
-            "mezzogiorno",
-            "mezzanotte",
-            "azzurro",
-            "organizzare"
+          "sound": "[dz]",
+          "examples": [
+            {
+              "it": "zero",
+              "translation": "ноль"
+            },
+            {
+              "it": "zona",
+              "translation": "зона"
+            },
+            {
+              "it": "zuppa",
+              "translation": "суп"
+            },
+            {
+              "it": "zucchero",
+              "translation": "сахар"
+            },
+            {
+              "it": "zampa",
+              "translation": "лапа"
+            },
+            {
+              "it": "zanzara",
+              "translation": "комар"
+            },
+            {
+              "it": "pranzo",
+              "translation": "обед"
+            },
+            {
+              "it": "mezzo",
+              "translation": "половина / середина"
+            },
+            {
+              "it": "mezzogiorno",
+              "translation": "полдень"
+            },
+            {
+              "it": "mezzanotte",
+              "translation": "полночь"
+            },
+            {
+              "it": "azzurro",
+              "translation": "голубой (лазурный)"
+            },
+            {
+              "it": "organizzare",
+              "translation": "организовывать"
+            }
           ]
         },
         {
-          "sound": "[ts]",
           "pattern": "-ia/-io/-ie, -anza/-enza, -ezza, -izia, -zione, -zz- (после гласной), -ziare",
-          "words": [
-            "ragazzo",
-            "grazie",
-            "stazione",
-            "lezione",
-            "canzone",
-            "stanza",
-            "speranza",
-            "giovinezza",
-            "pulizia",
-            "polizia",
-            "tazza",
-            "pazzo",
-            "notizia",
-            "esercizio"
+          "sound": "[ts]",
+          "examples": [
+            {
+              "it": "ragazzo",
+              "translation": "мальчик / парень"
+            },
+            {
+              "it": "grazie",
+              "translation": "спасибо"
+            },
+            {
+              "it": "stazione",
+              "translation": "станция / вокзал"
+            },
+            {
+              "it": "lezione",
+              "translation": "урок"
+            },
+            {
+              "it": "canzone",
+              "translation": "песня"
+            },
+            {
+              "it": "stanza",
+              "translation": "комната"
+            },
+            {
+              "it": "speranza",
+              "translation": "надежда"
+            },
+            {
+              "it": "giovinezza",
+              "translation": "молодость"
+            },
+            {
+              "it": "pulizia",
+              "translation": "чистота / уборка"
+            },
+            {
+              "it": "polizia",
+              "translation": "полиция"
+            },
+            {
+              "it": "tazza",
+              "translation": "чашка"
+            },
+            {
+              "it": "pazzo",
+              "translation": "сумасшедший"
+            },
+            {
+              "it": "notizia",
+              "translation": "новость"
+            },
+            {
+              "it": "esercizio",
+              "translation": "упражнение"
+            }
           ]
         }
       ]

@@ -116,43 +116,43 @@
       "category": "Phonetics",
       "rule": "Lettera Z — [dz] vs [ts]",
       "description": "The letter Z in Italian can represent two sounds: [dz] (voiced) and [ts] (unvoiced). The sound depends on the word and spelling pattern.",
-      "examples": [
+      "sub_rules": [
         {
-          "sound": "[dz]",
           "pattern": "word-initial Z; -izzare endings",
-          "words": [
-            "zero",
-            "zona",
-            "zuppa",
-            "zucchero",
-            "zampa",
-            "zanzara",
-            "pranzo",
-            "mezzo",
-            "mezzogiorno",
-            "mezzanotte",
-            "azzurro",
-            "organizzare"
+          "sound": "[dz]",
+          "examples": [
+            { "it": "zero", "translation": "zero" },
+            { "it": "zona", "translation": "zone" },
+            { "it": "zuppa", "translation": "soup" },
+            { "it": "zucchero", "translation": "sugar" },
+            { "it": "zampa", "translation": "paw" },
+            { "it": "zanzara", "translation": "mosquito" },
+            { "it": "pranzo", "translation": "lunch" },
+            { "it": "mezzo", "translation": "half / middle" },
+            { "it": "mezzogiorno", "translation": "noon" },
+            { "it": "mezzanotte", "translation": "midnight" },
+            { "it": "azzurro", "translation": "blue (azure)" },
+            { "it": "organizzare", "translation": "to organise" }
           ]
         },
         {
-          "sound": "[ts]",
           "pattern": "-ia/-io/-ie, -anza/-enza, -ezza, -izia, -zione, -zz- (after vowel), -ziare",
-          "words": [
-            "ragazzo",
-            "grazie",
-            "stazione",
-            "lezione",
-            "canzone",
-            "stanza",
-            "speranza",
-            "giovinezza",
-            "pulizia",
-            "polizia",
-            "tazza",
-            "pazzo",
-            "notizia",
-            "esercizio"
+          "sound": "[ts]",
+          "examples": [
+            { "it": "ragazzo", "translation": "boy" },
+            { "it": "grazie", "translation": "thank you" },
+            { "it": "stazione", "translation": "station" },
+            { "it": "lezione", "translation": "lesson" },
+            { "it": "canzone", "translation": "song" },
+            { "it": "stanza", "translation": "room" },
+            { "it": "speranza", "translation": "hope" },
+            { "it": "giovinezza", "translation": "youth" },
+            { "it": "pulizia", "translation": "cleanliness" },
+            { "it": "polizia", "translation": "police" },
+            { "it": "tazza", "translation": "cup" },
+            { "it": "pazzo", "translation": "crazy" },
+            { "it": "notizia", "translation": "news" },
+            { "it": "esercizio", "translation": "exercise" }
           ]
         }
       ]
