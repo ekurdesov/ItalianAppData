@@ -1,0 +1,423 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-2",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: Intervista doppia",
+      "Grammatica: Dove abiti?",
+      "Comprensione orale: Una strana coppia",
+      "Chiedere e dire l'indirizzo e lo stato civile"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Pragmatics",
+      "rule": "Asking about civil status",
+      "description": "Italian uses adjective-based questions to ask whether someone is married, single, engaged, separated, divorced or widowed.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Sei sposato/a?",
+          "translation": "Are you married?"
+        },
+        {
+          "context": "formal",
+          "it": "È sposato/a?",
+          "translation": "Are you married? (formal)"
+        },
+        {
+          "it": "Sono sposata con Marco da vent'anni.",
+          "translation": "I have been married to Marco for twenty years."
+        },
+        {
+          "it": "Ho un ragazzo. / Ho una ragazza.",
+          "translation": "I have a boyfriend. / I have a girlfriend."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking for an address: informal vs formal",
+      "description": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking where someone lives and what their address is.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Dove abiti?",
+          "translation": "Where do you live?"
+        },
+        {
+          "context": "formal",
+          "it": "Dove abita?",
+          "translation": "Where do you live? (formal)"
+        },
+        {
+          "context": "informal",
+          "it": "Qual è il tuo indirizzo?",
+          "translation": "What is your address?"
+        },
+        {
+          "context": "formal",
+          "it": "Qual è il Suo indirizzo?",
+          "translation": "What is your address? (formal)"
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Saying an address",
+      "description": "Addresses are commonly given with the pattern 'abitare a + city + in + street + number' or by stating the address directly.",
+      "examples": [
+        {
+          "it": "Abito a Roma in via Garibaldi, 8.",
+          "translation": "I live in Rome at Via Garibaldi 8."
+        },
+        {
+          "it": "Il mio indirizzo è via Garibaldi, 8.",
+          "translation": "My address is Via Garibaldi 8."
+        },
+        {
+          "it": "Alice abita a Roma in via Brescia, 68.",
+          "translation": "Alice lives in Rome at Via Brescia 68."
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Useful address words",
+      "description": "Italian addresses often include road-type nouns and a house number.",
+      "examples": [
+        {
+          "it": "via",
+          "translation": "street"
+        },
+        {
+          "it": "piazza",
+          "translation": "square"
+        },
+        {
+          "it": "corso",
+          "translation": "avenue"
+        },
+        {
+          "it": "vicolo",
+          "translation": "lane, alley"
+        },
+        {
+          "it": "numero civico",
+          "translation": "house number"
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Neighbour and household context",
+      "description": "The lesson introduces vocabulary for neighbours and everyday building-life interactions.",
+      "examples": [
+        {
+          "it": "vicino di casa",
+          "translation": "neighbour"
+        },
+        {
+          "it": "chi abita nello stesso palazzo",
+          "translation": "someone who lives in the same building"
+        },
+        {
+          "it": "avviso postale",
+          "translation": "postal notice"
+        },
+        {
+          "it": "pacco",
+          "translation": "package"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "vicino di casa",
+      "definition": "neighbour",
+      "type": "people"
+    },
+    {
+      "term": "palazzo",
+      "definition": "building",
+      "type": "place"
+    },
+    {
+      "term": "indirizzo",
+      "definition": "address",
+      "type": "grammar vocabulary"
+    },
+    {
+      "term": "via",
+      "definition": "street",
+      "type": "address vocabulary"
+    },
+    {
+      "term": "piazza",
+      "definition": "square",
+      "type": "address vocabulary"
+    },
+    {
+      "term": "corso",
+      "definition": "avenue",
+      "type": "address vocabulary"
+    },
+    {
+      "term": "vicolo",
+      "definition": "lane, alley",
+      "type": "address vocabulary"
+    },
+    {
+      "term": "numero civico",
+      "definition": "house number",
+      "type": "address vocabulary"
+    },
+    {
+      "term": "stato civile",
+      "definition": "civil status, marital status",
+      "type": "grammar vocabulary"
+    },
+    {
+      "term": "sposato/a",
+      "definition": "married",
+      "type": "civil status"
+    },
+    {
+      "term": "single",
+      "definition": "single",
+      "type": "civil status"
+    },
+    {
+      "term": "fidanzato/a",
+      "definition": "engaged; in a relationship",
+      "type": "civil status"
+    },
+    {
+      "term": "separato/a",
+      "definition": "separated",
+      "type": "civil status"
+    },
+    {
+      "term": "divorziato/a",
+      "definition": "divorced",
+      "type": "civil status"
+    },
+    {
+      "term": "vedovo/a",
+      "definition": "widowed",
+      "type": "civil status"
+    },
+    {
+      "term": "partner",
+      "definition": "partner",
+      "type": "people"
+    },
+    {
+      "term": "ragazzo",
+      "definition": "boyfriend",
+      "type": "people"
+    },
+    {
+      "term": "ragazza",
+      "definition": "girlfriend",
+      "type": "people"
+    },
+    {
+      "term": "autobus",
+      "definition": "bus",
+      "type": "transport"
+    },
+    {
+      "term": "metro",
+      "definition": "metro",
+      "type": "transport"
+    },
+    {
+      "term": "a piedi",
+      "definition": "on foot",
+      "type": "phrase"
+    },
+    {
+      "term": "cognome",
+      "definition": "surname",
+      "type": "personal details"
+    },
+    {
+      "term": "capelli",
+      "definition": "hair",
+      "type": "body"
+    },
+    {
+      "term": "nero",
+      "definition": "black",
+      "type": "adjective"
+    },
+    {
+      "term": "gelato al cioccolato",
+      "definition": "chocolate ice cream",
+      "type": "food"
+    },
+    {
+      "term": "pacco",
+      "definition": "package",
+      "type": "vocabulary"
+    },
+    {
+      "term": "avviso postale",
+      "definition": "postal notice",
+      "type": "vocabulary"
+    },
+    {
+      "term": "Svizzera",
+      "definition": "Switzerland",
+      "type": "country"
+    },
+    {
+      "term": "Brescia",
+      "definition": "Brescia",
+      "type": "city"
+    },
+    {
+      "term": "litigare",
+      "definition": "to argue, quarrel",
+      "type": "verb"
+    },
+    {
+      "term": "strano/a",
+      "definition": "strange",
+      "type": "adjective"
+    },
+    {
+      "term": "coppia",
+      "definition": "couple",
+      "type": "people"
+    },
+    {
+      "term": "torna a casa",
+      "definition": "returns home",
+      "type": "phrase"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Rispondete.",
+      "translation": "Answer."
+    },
+    {
+      "it": "Osservate e completate.",
+      "translation": "Observe and complete."
+    },
+    {
+      "it": "Ascoltate e segnate.",
+      "translation": "Listen and mark."
+    },
+    {
+      "it": "Osservate e rispondete.",
+      "translation": "Observe and answer."
+    },
+    {
+      "it": "Guardate e rispondete.",
+      "translation": "Watch and answer."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Read and check."
+    },
+    {
+      "it": "Continuate.",
+      "translation": "Continue."
+    },
+    {
+      "it": "Usate le parole in blu del dialogo.",
+      "translation": "Use the blue words from the dialogue."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Match."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-2-01",
+      "title": "Intervista doppia",
+      "register": "neutral",
+      "context": "Two people answer questions about civil status and relationship situation.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Sei sposata?",
+          "translation": "Are you married?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, sono sposata con Marco da vent'anni.",
+          "translation": "Yes, I have been married to Marco for twenty years."
+        },
+        {
+          "speaker": "A",
+          "it": "E tua sorella?",
+          "translation": "And your sister?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, è single, ma ha un ragazzo.",
+          "translation": "No, she is single, but she has a boyfriend."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask if someone is married",
+          "expected_it": "Sei sposato/a?"
+        },
+        {
+          "cue": "Say you are single",
+          "expected_it": "Sono single."
+        },
+        {
+          "cue": "Say you have a boyfriend/girlfriend",
+          "expected_it": "Ho un ragazzo. / Ho una ragazza."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-2-02",
+      "title": "Dove abiti? Qual è il tuo indirizzo?",
+      "register": "informal",
+      "context": "Two neighbours exchange address details.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Dove abiti?",
+          "translation": "Where do you live?"
+        },
+        {
+          "speaker": "B",
+          "it": "Abito a Torino, in corso Umberto 10.",
+          "translation": "I live in Turin, at Corso Umberto 10."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo indirizzo a Milano?",
+          "translation": "What is your address in Milan?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio indirizzo è via Canonica 7.",
+          "translation": "My address is Via Canonica 7."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask for someone's address",
+          "expected_it": "Qual è il tuo indirizzo?"
+        },
+        {
+          "cue": "State your address",
+          "expected_it": "Il mio indirizzo è [via/piazza/corso], [numero]."
+        }
+      ]
+    }
+  ]
+}

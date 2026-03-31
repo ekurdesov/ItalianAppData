@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "generated_at": "2026-03-22",
+  "version": 4,
+  "generated_at": "2026-03-30",
   "locales": ["en", "ru"],
   "locale_data_path": "{locale}/{file}",
   "notes": "Lesson files live under en/ and ru/ subfolders. Load the appropriate subfolder based on the user's locale setting. Field 'translation' carries the localised meaning; field 'it' always contains Italian.",
@@ -210,6 +210,50 @@
       "flashcard_count": 23,
       "language_rule_count": 5,
       "dialogue_count": 4
+    },
+    {
+      "id": "A1-L2-7",
+      "title": "La classe di Carla",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: È o ha?",
+        "Grammatica: articoli determinativi",
+        "Comprensione orale: L'italiano nel mondo",
+        "Comprensione scritta: L'italiano nel mondo"
+      ],
+      "file": "a2l7.json",
+      "flashcard_count": 44,
+      "language_rule_count": 4,
+      "dialogue_count": 0
+    },
+    {
+      "id": "A1-L3-1",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Comprensione orale: Alla festa di Chiara",
+        "Grammatica: preposizioni di, a, in",
+        "Chiedere e dire la residenza"
+      ],
+      "file": "a3l1.json",
+      "flashcard_count": 36,
+      "language_rule_count": 5,
+      "dialogue_count": 2
+    },
+    {
+      "id": "A1-L3-2",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Intervista doppia",
+        "Grammatica: Dove abiti?",
+        "Comprensione orale: Una strana coppia",
+        "Chiedere e dire l'indirizzo e lo stato civile"
+      ],
+      "file": "a3l2.json",
+      "flashcard_count": 33,
+      "language_rule_count": 5,
+      "dialogue_count": 2
     }
   ]
 }

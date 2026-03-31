@@ -1,0 +1,419 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-1",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Comprensione orale: Alla festa di Chiara",
+      "Grammatica: preposizioni di, a, in",
+      "Chiedere e dire la residenza"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Origin with di + city",
+      "description": "To say where a person is from, Italian commonly uses 'essere di' followed by a city.",
+      "examples": [
+        {
+          "it": "Sono di Casinalbo.",
+          "translation": "I am from Casinalbo."
+        },
+        {
+          "it": "Stefi è di Prato.",
+          "translation": "Stefi is from Prato."
+        },
+        {
+          "it": "Di dov'è Alexia?",
+          "translation": "Where is Alexia from?"
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Residence with a + city",
+      "description": "To say where someone lives, Italian uses 'abitare a' with cities.",
+      "examples": [
+        {
+          "it": "Abito a Firenze.",
+          "translation": "I live in Florence."
+        },
+        {
+          "it": "Paolo abita a Roma.",
+          "translation": "Paolo lives in Rome."
+        },
+        {
+          "it": "Patrick e John abitano a Londra.",
+          "translation": "Patrick and John live in London."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Residence with in + country, region, continent",
+      "description": "Use 'in' with countries, regions and continents.",
+      "examples": [
+        {
+          "it": "Abito in Italia.",
+          "translation": "I live in Italy."
+        },
+        {
+          "it": "Abito in Toscana.",
+          "translation": "I live in Tuscany."
+        },
+        {
+          "it": "Vivo in Africa.",
+          "translation": "I live in Africa."
+        },
+        {
+          "it": "In Inghilterra piove molto.",
+          "translation": "In England it rains a lot."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Present tense of abitare",
+      "description": "The verb 'abitare' means 'to live' or 'to reside'.",
+      "conjugations": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      }
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking and stating residence",
+      "description": "Italian uses 'Dove abiti?' and related forms to ask where someone lives. Answers can include city, region and country.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Dove abiti?",
+          "translation": "Where do you live?"
+        },
+        {
+          "context": "formal",
+          "it": "Dove abita?",
+          "translation": "Where do you live? (formal)"
+        },
+        {
+          "context": "answer",
+          "it": "Abito a Pisa, in Toscana, in Italia.",
+          "translation": "I live in Pisa, in Tuscany, in Italy."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "festa",
+      "definition": "party",
+      "type": "vocabulary"
+    },
+    {
+      "term": "facoltà",
+      "definition": "university faculty, department",
+      "type": "education"
+    },
+    {
+      "term": "economia",
+      "definition": "economics",
+      "type": "education"
+    },
+    {
+      "term": "matematica",
+      "definition": "mathematics",
+      "type": "education"
+    },
+    {
+      "term": "residenza",
+      "definition": "residence",
+      "type": "grammar vocabulary"
+    },
+    {
+      "term": "provenienza",
+      "definition": "origin",
+      "type": "grammar vocabulary"
+    },
+    {
+      "term": "di",
+      "definition": "from, of",
+      "type": "preposition"
+    },
+    {
+      "term": "a",
+      "definition": "in, to, at",
+      "type": "preposition"
+    },
+    {
+      "term": "in",
+      "definition": "in",
+      "type": "preposition"
+    },
+    {
+      "term": "abitare",
+      "definition": "to live, to reside",
+      "type": "verb"
+    },
+    {
+      "term": "vivere",
+      "definition": "to live",
+      "type": "verb"
+    },
+    {
+      "term": "studiare",
+      "definition": "to study",
+      "type": "verb"
+    },
+    {
+      "term": "università",
+      "definition": "university",
+      "type": "education"
+    },
+    {
+      "term": "vicino all'università",
+      "definition": "near the university",
+      "type": "phrase"
+    },
+    {
+      "term": "da un mese",
+      "definition": "for one month",
+      "type": "time expression"
+    },
+    {
+      "term": "da un anno",
+      "definition": "for one year",
+      "type": "time expression"
+    },
+    {
+      "term": "qua",
+      "definition": "here",
+      "type": "adverb"
+    },
+    {
+      "term": "non proprio",
+      "definition": "not exactly, not really",
+      "type": "expression"
+    },
+    {
+      "term": "anche tu?",
+      "definition": "you too?",
+      "type": "phrase"
+    },
+    {
+      "term": "Firenze",
+      "definition": "Florence",
+      "type": "city"
+    },
+    {
+      "term": "Prato",
+      "definition": "Prato",
+      "type": "city"
+    },
+    {
+      "term": "Casinalbo",
+      "definition": "Casinalbo",
+      "type": "city"
+    },
+    {
+      "term": "Londra",
+      "definition": "London",
+      "type": "city"
+    },
+    {
+      "term": "Roma",
+      "definition": "Rome",
+      "type": "city"
+    },
+    {
+      "term": "Parigi",
+      "definition": "Paris",
+      "type": "city"
+    },
+    {
+      "term": "Berlino",
+      "definition": "Berlin",
+      "type": "city"
+    },
+    {
+      "term": "Italia",
+      "definition": "Italy",
+      "type": "country"
+    },
+    {
+      "term": "Inghilterra",
+      "definition": "England",
+      "type": "country"
+    },
+    {
+      "term": "Spagna",
+      "definition": "Spain",
+      "type": "country"
+    },
+    {
+      "term": "Francia",
+      "definition": "France",
+      "type": "country"
+    },
+    {
+      "term": "Toscana",
+      "definition": "Tuscany",
+      "type": "region"
+    },
+    {
+      "term": "Europa",
+      "definition": "Europe",
+      "type": "continent"
+    },
+    {
+      "term": "Africa",
+      "definition": "Africa",
+      "type": "continent"
+    },
+    {
+      "term": "piove",
+      "definition": "it rains",
+      "type": "verb form"
+    },
+    {
+      "term": "milione",
+      "definition": "million",
+      "type": "number"
+    },
+    {
+      "term": "mezzo",
+      "definition": "half",
+      "type": "number"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Listen and complete."
+    },
+    {
+      "it": "Rimettete in ordine e verificate.",
+      "translation": "Put in order and check."
+    },
+    {
+      "it": "Completate con a o in.",
+      "translation": "Complete with 'a' or 'in'."
+    },
+    {
+      "it": "Completate con a o in e abbinate.",
+      "translation": "Complete with 'a' or 'in' and match."
+    },
+    {
+      "it": "Costruite le frasi.",
+      "translation": "Build the sentences."
+    },
+    {
+      "it": "Seguite il modello.",
+      "translation": "Follow the model."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-1-01",
+      "title": "Alla festa di Chiara",
+      "register": "informal",
+      "context": "Two students meet at Chiara's party and talk about origin, university subject and where they live.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, io sono Claudio. Tu come ti chiami?",
+          "translation": "Hi, I'm Claudio. What is your name?"
+        },
+        {
+          "speaker": "B",
+          "it": "Stefi. Piacere.",
+          "translation": "Stefi. Nice to meet you."
+        },
+        {
+          "speaker": "A",
+          "it": "Che cosa studi?",
+          "translation": "What do you study?"
+        },
+        {
+          "speaker": "B",
+          "it": "Economia. E tu?",
+          "translation": "Economics. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Matematica. Di dove sei?",
+          "translation": "Mathematics. Where are you from?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Prato. E tu?",
+          "translation": "I am from Prato. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono di Casinalbo, ma abito a Firenze, in Italia.",
+          "translation": "I am from Casinalbo, but I live in Florence, in Italy."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask where someone is from",
+          "expected_it": "Di dove sei?"
+        },
+        {
+          "cue": "Say where you are from",
+          "expected_it": "Sono di [città]."
+        },
+        {
+          "cue": "Say where you live",
+          "expected_it": "Abito a [città], in [Paese/regione]."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-1-02",
+      "title": "Dove abiti?",
+      "register": "neutral",
+      "context": "Practising city, region and country in a short exchange.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Dove abiti?",
+          "translation": "Where do you live?"
+        },
+        {
+          "speaker": "B",
+          "it": "Abito a Pisa, in Toscana, in Italia.",
+          "translation": "I live in Pisa, in Tuscany, in Italy."
+        },
+        {
+          "speaker": "A",
+          "it": "E di dove sei?",
+          "translation": "And where are you from?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Lione, ma adesso abito a Firenze.",
+          "translation": "I am from Lyon, but now I live in Florence."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask where someone lives",
+          "expected_it": "Dove abiti?"
+        },
+        {
+          "cue": "Answer with city, region and country",
+          "expected_it": "Abito a [città], in [regione], in [Paese]."
+        }
+      ]
+    }
+  ]
+}

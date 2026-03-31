@@ -1,0 +1,445 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-7",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Повторение: È o ha?",
+      "Грамматика: определённые артикли",
+      "Аудирование: L'italiano nel mondo",
+      "Чтение: L'italiano nel mondo"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "essere и avere в повседневных описаниях",
+      "description": "В итальянском языке 'essere' употребляется с прилагательными, а 'avere' — со многими физическими и эмоциональными состояниями, выраженными существительными.",
+      "examples": [
+        {
+          "it": "Sono triste.",
+          "translation": "Мне грустно."
+        },
+        {
+          "it": "Sono contento/a.",
+          "translation": "Я рад / рада."
+        },
+        {
+          "it": "Ho fame.",
+          "translation": "Я голоден / голодна."
+        },
+        {
+          "it": "Hai sete?",
+          "translation": "Ты хочешь пить?"
+        },
+        {
+          "it": "Abbiamo fretta.",
+          "translation": "Мы спешим."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Определённые артикли в единственном числе",
+      "description": "Итальянские определённые артикли согласуются с существительным по роду и числу. В единственном числе основные формы: 'il', 'lo', 'la' и 'l''.",
+      "sub_rules": [
+        {
+          "pattern": "il + большинство существительных мужского рода",
+          "examples": [
+            {
+              "it": "il quaderno",
+              "translation": "тетрадь"
+            },
+            {
+              "it": "il panino",
+              "translation": "бутерброд"
+            },
+            {
+              "it": "il treno",
+              "translation": "поезд"
+            }
+          ]
+        },
+        {
+          "pattern": "lo + s+согласная, z, ps, gn",
+          "examples": [
+            {
+              "it": "lo zio",
+              "translation": "дядя"
+            },
+            {
+              "it": "lo studente",
+              "translation": "студент"
+            }
+          ]
+        },
+        {
+          "pattern": "la + существительные женского рода; l' + гласная",
+          "examples": [
+            {
+              "it": "la sigaretta",
+              "translation": "сигарета"
+            },
+            {
+              "it": "la villa",
+              "translation": "вилла"
+            },
+            {
+              "it": "l'automobile",
+              "translation": "автомобиль"
+            },
+            {
+              "it": "l'amica",
+              "translation": "подруга"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Определённые артикли во множественном числе",
+      "description": "Во множественном числе определённые артикли тоже согласуются с существительным. Основные формы: 'i', 'gli' и 'le'.",
+      "sub_rules": [
+        {
+          "pattern": "i + большинство существительных мужского рода во множественном числе",
+          "examples": [
+            {
+              "it": "i quaderni",
+              "translation": "тетради"
+            },
+            {
+              "it": "i panini",
+              "translation": "бутерброды"
+            },
+            {
+              "it": "i treni",
+              "translation": "поезда"
+            }
+          ]
+        },
+        {
+          "pattern": "gli + гласная или существительные мужского рода, которые в ед. числе требуют lo/l'",
+          "examples": [
+            {
+              "it": "gli esami",
+              "translation": "экзамены"
+            },
+            {
+              "it": "gli zii",
+              "translation": "дяди"
+            },
+            {
+              "it": "gli studenti",
+              "translation": "студенты"
+            },
+            {
+              "it": "gli amici",
+              "translation": "друзья"
+            }
+          ]
+        },
+        {
+          "pattern": "le + все существительные женского рода во множественном числе",
+          "examples": [
+            {
+              "it": "le sigarette",
+              "translation": "сигареты"
+            },
+            {
+              "it": "le lezioni",
+              "translation": "уроки"
+            },
+            {
+              "it": "le ragazze",
+              "translation": "девушки"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Культура",
+      "rule": "Итальянский язык в мире",
+      "description": "В уроке итальянский язык представлен как мировой язык, связанный с путешествиями, культурой, дизайном, едой, музыкой и искусством.",
+      "examples": [
+        {
+          "it": "L'italiano è parlato in tutto il mondo.",
+          "translation": "На итальянском говорят по всему миру."
+        },
+        {
+          "it": "L'italiano è parlato in Europa, in America, in Africa, in Australia e in Giappone.",
+          "translation": "На итальянском говорят в Европе, Америке, Африке, Австралии и Японии."
+        },
+        {
+          "it": "L'italiano è importante per il design, la letteratura, il cinema e la musica.",
+          "translation": "Итальянский важен для дизайна, литературы, кино и музыки."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "triste",
+      "definition": "грустный / грустная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "contento/a",
+      "definition": "довольный / довольная, рад / рада",
+      "type": "прилагательное"
+    },
+    {
+      "term": "arrabbiato/a",
+      "definition": "сердитый / сердитая",
+      "type": "прилагательное"
+    },
+    {
+      "term": "tranquillo/a",
+      "definition": "спокойный / спокойная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "fame",
+      "definition": "голод",
+      "type": "существительное"
+    },
+    {
+      "term": "sete",
+      "definition": "жажда",
+      "type": "существительное"
+    },
+    {
+      "term": "voglia di studiare",
+      "definition": "желание учиться; желание заниматься",
+      "type": "выражение"
+    },
+    {
+      "term": "freddo",
+      "definition": "холод",
+      "type": "существительное"
+    },
+    {
+      "term": "caldo",
+      "definition": "жара, тепло",
+      "type": "существительное"
+    },
+    {
+      "term": "fretta",
+      "definition": "спешка",
+      "type": "существительное"
+    },
+    {
+      "term": "tempo",
+      "definition": "время",
+      "type": "существительное"
+    },
+    {
+      "term": "sigaretta",
+      "definition": "сигарета",
+      "type": "лексика"
+    },
+    {
+      "term": "villa",
+      "definition": "вилла",
+      "type": "лексика"
+    },
+    {
+      "term": "automobile",
+      "definition": "автомобиль",
+      "type": "лексика"
+    },
+    {
+      "term": "bottiglia",
+      "definition": "бутылка",
+      "type": "лексика"
+    },
+    {
+      "term": "esame",
+      "definition": "экзамен",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "zio",
+      "definition": "дядя",
+      "type": "люди"
+    },
+    {
+      "term": "quaderno",
+      "definition": "тетрадь",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "lezione",
+      "definition": "урок, занятие",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "ragazza",
+      "definition": "девушка",
+      "type": "люди"
+    },
+    {
+      "term": "panino",
+      "definition": "бутерброд, сэндвич",
+      "type": "лексика"
+    },
+    {
+      "term": "ragazzo",
+      "definition": "парень, юноша",
+      "type": "люди"
+    },
+    {
+      "term": "pizza",
+      "definition": "пицца",
+      "type": "еда"
+    },
+    {
+      "term": "treno",
+      "definition": "поезд",
+      "type": "транспорт"
+    },
+    {
+      "term": "mamma",
+      "definition": "мама",
+      "type": "люди"
+    },
+    {
+      "term": "professoressa",
+      "definition": "преподавательница",
+      "type": "люди"
+    },
+    {
+      "term": "ospedale",
+      "definition": "больница",
+      "type": "место"
+    },
+    {
+      "term": "gelato",
+      "definition": "мороженое",
+      "type": "еда"
+    },
+    {
+      "term": "orologio",
+      "definition": "часы",
+      "type": "лексика"
+    },
+    {
+      "term": "gomma",
+      "definition": "ластик",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "studente",
+      "definition": "студент",
+      "type": "люди"
+    },
+    {
+      "term": "amica",
+      "definition": "подруга",
+      "type": "люди"
+    },
+    {
+      "term": "matita",
+      "definition": "карандаш",
+      "type": "учебная лексика"
+    },
+    {
+      "term": "casa",
+      "definition": "дом",
+      "type": "место"
+    },
+    {
+      "term": "amico",
+      "definition": "друг",
+      "type": "люди"
+    },
+    {
+      "term": "ufficio",
+      "definition": "офис",
+      "type": "место"
+    },
+    {
+      "term": "vino",
+      "definition": "вино",
+      "type": "еда"
+    },
+    {
+      "term": "cappuccino",
+      "definition": "капучино",
+      "type": "еда"
+    },
+    {
+      "term": "design",
+      "definition": "дизайн",
+      "type": "культура"
+    },
+    {
+      "term": "opera d'arte",
+      "definition": "произведение искусства",
+      "type": "культура"
+    },
+    {
+      "term": "monumento",
+      "definition": "памятник, монумент",
+      "type": "культура"
+    },
+    {
+      "term": "letteratura",
+      "definition": "литература",
+      "type": "культура"
+    },
+    {
+      "term": "cinema",
+      "definition": "кино",
+      "type": "культура"
+    },
+    {
+      "term": "nominare",
+      "definition": "называть",
+      "type": "глагол"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Rispondete.",
+      "translation": "Ответьте."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Leggete.",
+      "translation": "Прочитайте."
+    },
+    {
+      "it": "Mettete in ordine.",
+      "translation": "Расположите по порядку."
+    },
+    {
+      "it": "Indicate.",
+      "translation": "Укажите."
+    },
+    {
+      "it": "Guardate e abbinate.",
+      "translation": "Посмотрите и сопоставьте."
+    },
+    {
+      "it": "E tu? In questo momento ...",
+      "translation": "А ты? В этот момент ..."
+    },
+    {
+      "it": "Dopo la lezione ...",
+      "translation": "После урока ..."
+    },
+    {
+      "it": "Sì o no?",
+      "translation": "Да или нет?"
+    },
+    {
+      "it": "Di che nazionalità sono?",
+      "translation": "Какой они национальности?"
+    }
+  ]
+}

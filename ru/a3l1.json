@@ -1,0 +1,419 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-1",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Аудирование: Alla festa di Chiara",
+      "Грамматика: предлоги di, a, in",
+      "Спрашивать и говорить о месте жительства"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Происхождение с di + город",
+      "description": "Чтобы сказать, откуда человек родом, в итальянском обычно используется конструкция 'essere di' с названием города.",
+      "examples": [
+        {
+          "it": "Sono di Casinalbo.",
+          "translation": "Я из Казинальбо."
+        },
+        {
+          "it": "Stefi è di Prato.",
+          "translation": "Стефи из Прато."
+        },
+        {
+          "it": "Di dov'è Alexia?",
+          "translation": "Откуда Алексия?"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Место жительства с a + город",
+      "description": "Чтобы сказать, где кто-то живёт, в итальянском используется 'abitare a' с названиями городов.",
+      "examples": [
+        {
+          "it": "Abito a Firenze.",
+          "translation": "Я живу во Флоренции."
+        },
+        {
+          "it": "Paolo abita a Roma.",
+          "translation": "Паоло живёт в Риме."
+        },
+        {
+          "it": "Patrick e John abitano a Londra.",
+          "translation": "Патрик и Джон живут в Лондоне."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Место жительства с in + страна, регион, континент",
+      "description": "Предлог 'in' употребляется со странами, регионами и континентами.",
+      "examples": [
+        {
+          "it": "Abito in Italia.",
+          "translation": "Я живу в Италии."
+        },
+        {
+          "it": "Abito in Toscana.",
+          "translation": "Я живу в Тоскане."
+        },
+        {
+          "it": "Vivo in Africa.",
+          "translation": "Я живу в Африке."
+        },
+        {
+          "it": "In Inghilterra piove molto.",
+          "translation": "В Англии много дождей."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Настоящее время глагола abitare",
+      "description": "Глагол 'abitare' означает 'жить', 'проживать'.",
+      "conjugations": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      }
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Как спросить и сказать, где человек живёт",
+      "description": "В итальянском для вопроса о месте жительства используются формы 'Dove abiti?' и похожие конструкции. В ответ можно назвать город, регион и страну.",
+      "examples": [
+        {
+          "context": "неформальный",
+          "it": "Dove abiti?",
+          "translation": "Где ты живёшь?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Dove abita?",
+          "translation": "Где Вы живёте?"
+        },
+        {
+          "context": "ответ",
+          "it": "Abito a Pisa, in Toscana, in Italia.",
+          "translation": "Я живу в Пизе, в Тоскане, в Италии."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "festa",
+      "definition": "вечеринка",
+      "type": "лексика"
+    },
+    {
+      "term": "facoltà",
+      "definition": "факультет",
+      "type": "образование"
+    },
+    {
+      "term": "economia",
+      "definition": "экономика",
+      "type": "образование"
+    },
+    {
+      "term": "matematica",
+      "definition": "математика",
+      "type": "образование"
+    },
+    {
+      "term": "residenza",
+      "definition": "место жительства",
+      "type": "грамматическая лексика"
+    },
+    {
+      "term": "provenienza",
+      "definition": "происхождение; откуда родом",
+      "type": "грамматическая лексика"
+    },
+    {
+      "term": "di",
+      "definition": "из; от; о",
+      "type": "предлог"
+    },
+    {
+      "term": "a",
+      "definition": "в; к; на",
+      "type": "предлог"
+    },
+    {
+      "term": "in",
+      "definition": "в",
+      "type": "предлог"
+    },
+    {
+      "term": "abitare",
+      "definition": "жить, проживать",
+      "type": "глагол"
+    },
+    {
+      "term": "vivere",
+      "definition": "жить",
+      "type": "глагол"
+    },
+    {
+      "term": "studiare",
+      "definition": "учиться, изучать",
+      "type": "глагол"
+    },
+    {
+      "term": "università",
+      "definition": "университет",
+      "type": "образование"
+    },
+    {
+      "term": "vicino all'università",
+      "definition": "рядом с университетом",
+      "type": "фраза"
+    },
+    {
+      "term": "da un mese",
+      "definition": "уже месяц",
+      "type": "выражение времени"
+    },
+    {
+      "term": "da un anno",
+      "definition": "уже год",
+      "type": "выражение времени"
+    },
+    {
+      "term": "qua",
+      "definition": "здесь",
+      "type": "наречие"
+    },
+    {
+      "term": "non proprio",
+      "definition": "не совсем; не совсем так",
+      "type": "выражение"
+    },
+    {
+      "term": "anche tu?",
+      "definition": "ты тоже?",
+      "type": "фраза"
+    },
+    {
+      "term": "Firenze",
+      "definition": "Флоренция",
+      "type": "город"
+    },
+    {
+      "term": "Prato",
+      "definition": "Прато",
+      "type": "город"
+    },
+    {
+      "term": "Casinalbo",
+      "definition": "Казинальбо",
+      "type": "город"
+    },
+    {
+      "term": "Londra",
+      "definition": "Лондон",
+      "type": "город"
+    },
+    {
+      "term": "Roma",
+      "definition": "Рим",
+      "type": "город"
+    },
+    {
+      "term": "Parigi",
+      "definition": "Париж",
+      "type": "город"
+    },
+    {
+      "term": "Berlino",
+      "definition": "Берлин",
+      "type": "город"
+    },
+    {
+      "term": "Italia",
+      "definition": "Италия",
+      "type": "страна"
+    },
+    {
+      "term": "Inghilterra",
+      "definition": "Англия",
+      "type": "страна"
+    },
+    {
+      "term": "Spagna",
+      "definition": "Испания",
+      "type": "страна"
+    },
+    {
+      "term": "Francia",
+      "definition": "Франция",
+      "type": "страна"
+    },
+    {
+      "term": "Toscana",
+      "definition": "Тоскана",
+      "type": "регион"
+    },
+    {
+      "term": "Europa",
+      "definition": "Европа",
+      "type": "континент"
+    },
+    {
+      "term": "Africa",
+      "definition": "Африка",
+      "type": "континент"
+    },
+    {
+      "term": "piove",
+      "definition": "идёт дождь",
+      "type": "форма глагола"
+    },
+    {
+      "term": "milione",
+      "definition": "миллион",
+      "type": "числительное"
+    },
+    {
+      "term": "mezzo",
+      "definition": "половина",
+      "type": "числительное"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Послушайте и дополните."
+    },
+    {
+      "it": "Rimettete in ordine e verificate.",
+      "translation": "Расположите по порядку и проверьте."
+    },
+    {
+      "it": "Completate con a o in.",
+      "translation": "Дополните предлогами 'a' или 'in'."
+    },
+    {
+      "it": "Completate con a o in e abbinate.",
+      "translation": "Дополните предлогами 'a' или 'in' и сопоставьте."
+    },
+    {
+      "it": "Costruite le frasi.",
+      "translation": "Составьте предложения."
+    },
+    {
+      "it": "Seguite il modello.",
+      "translation": "Следуйте образцу."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-1-01",
+      "title": "Alla festa di Chiara",
+      "register": "informal",
+      "context": "Два студента знакомятся на вечеринке у Кьяры и говорят о происхождении, предмете учёбы и месте жительства.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, io sono Claudio. Tu come ti chiami?",
+          "translation": "Привет, я Клаудио. Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Stefi. Piacere.",
+          "translation": "Стефи. Очень приятно."
+        },
+        {
+          "speaker": "A",
+          "it": "Che cosa studi?",
+          "translation": "Что ты изучаешь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Economia. E tu?",
+          "translation": "Экономику. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Matematica. Di dove sei?",
+          "translation": "Математику. Откуда ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Prato. E tu?",
+          "translation": "Я из Прато. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono di Casinalbo, ma abito a Firenze, in Italia.",
+          "translation": "Я из Казинальбо, но живу во Флоренции, в Италии."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить, откуда человек",
+          "expected_it": "Di dove sei?"
+        },
+        {
+          "cue": "Сказать, откуда вы",
+          "expected_it": "Sono di [città]."
+        },
+        {
+          "cue": "Сказать, где вы живёте",
+          "expected_it": "Abito a [città], in [Paese/regione]."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-1-02",
+      "title": "Dove abiti?",
+      "register": "neutral",
+      "context": "Короткий диалог для практики города, региона и страны.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Dove abiti?",
+          "translation": "Где ты живёшь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Abito a Pisa, in Toscana, in Italia.",
+          "translation": "Я живу в Пизе, в Тоскане, в Италии."
+        },
+        {
+          "speaker": "A",
+          "it": "E di dove sei?",
+          "translation": "А откуда ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Lione, ma adesso abito a Firenze.",
+          "translation": "Я из Лиона, но сейчас живу во Флоренции."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить, где человек живёт",
+          "expected_it": "Dove abiti?"
+        },
+        {
+          "cue": "Ответить с городом, регионом и страной",
+          "expected_it": "Abito a [città], in [regione], in [Paese]."
+        }
+      ]
+    }
+  ]
+}

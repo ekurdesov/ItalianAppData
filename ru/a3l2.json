@@ -1,0 +1,423 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-2",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Повторение: Intervista doppia",
+      "Грамматика: Dove abiti?",
+      "Аудирование: Una strana coppia",
+      "Спрашивать и говорить об адресе и семейном положении"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Прагматика",
+      "rule": "Как спрашивать о семейном положении",
+      "description": "В итальянском для вопроса о семейном положении используются формы с прилагательными: married, single, engaged, separated, divorced, widowed.",
+      "examples": [
+        {
+          "context": "неформальный",
+          "it": "Sei sposato/a?",
+          "translation": "Ты женат / замужем?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "È sposato/a?",
+          "translation": "Вы женаты / замужем?"
+        },
+        {
+          "it": "Sono sposata con Marco da vent'anni.",
+          "translation": "Я замужем за Марко уже двадцать лет."
+        },
+        {
+          "it": "Ho un ragazzo. / Ho una ragazza.",
+          "translation": "У меня есть парень. / У меня есть девушка."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Как спросить адрес: неформально и официально",
+      "description": "В итальянском различаются неформальное 'tu' и официальное 'Lei', когда спрашивают, где человек живёт и каков его адрес.",
+      "examples": [
+        {
+          "context": "неформальный",
+          "it": "Dove abiti?",
+          "translation": "Где ты живёшь?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Dove abita?",
+          "translation": "Где Вы живёте?"
+        },
+        {
+          "context": "неформальный",
+          "it": "Qual è il tuo indirizzo?",
+          "translation": "Какой у тебя адрес?"
+        },
+        {
+          "context": "официальный / формальный",
+          "it": "Qual è il Suo indirizzo?",
+          "translation": "Какой у Вас адрес?"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Как назвать адрес",
+      "description": "Адрес часто сообщается по модели 'abitare a + город + in + улица + номер' или прямой формулой с 'indirizzo'.",
+      "examples": [
+        {
+          "it": "Abito a Roma in via Garibaldi, 8.",
+          "translation": "Я живу в Риме, на улице Гарибальди, дом 8."
+        },
+        {
+          "it": "Il mio indirizzo è via Garibaldi, 8.",
+          "translation": "Мой адрес: улица Гарибальди, дом 8."
+        },
+        {
+          "it": "Alice abita a Roma in via Brescia, 68.",
+          "translation": "Аличе живёт в Риме, на улице Брешиа, дом 68."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Полезные слова для адреса",
+      "description": "В итальянских адресах часто используются существительные для типа улицы и номер дома.",
+      "examples": [
+        {
+          "it": "via",
+          "translation": "улица"
+        },
+        {
+          "it": "piazza",
+          "translation": "площадь"
+        },
+        {
+          "it": "corso",
+          "translation": "проспект"
+        },
+        {
+          "it": "vicolo",
+          "translation": "переулок"
+        },
+        {
+          "it": "numero civico",
+          "translation": "номер дома"
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Соседи и бытовой контекст дома",
+      "description": "В уроке появляется лексика, связанная с соседями и повседневными ситуациями в доме.",
+      "examples": [
+        {
+          "it": "vicino di casa",
+          "translation": "сосед"
+        },
+        {
+          "it": "chi abita nello stesso palazzo",
+          "translation": "тот, кто живёт в том же доме"
+        },
+        {
+          "it": "avviso postale",
+          "translation": "почтовое уведомление"
+        },
+        {
+          "it": "pacco",
+          "translation": "посылка"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "vicino di casa",
+      "definition": "сосед",
+      "type": "люди"
+    },
+    {
+      "term": "palazzo",
+      "definition": "дом, здание",
+      "type": "место"
+    },
+    {
+      "term": "indirizzo",
+      "definition": "адрес",
+      "type": "грамматическая лексика"
+    },
+    {
+      "term": "via",
+      "definition": "улица",
+      "type": "лексика адреса"
+    },
+    {
+      "term": "piazza",
+      "definition": "площадь",
+      "type": "лексика адреса"
+    },
+    {
+      "term": "corso",
+      "definition": "проспект",
+      "type": "лексика адреса"
+    },
+    {
+      "term": "vicolo",
+      "definition": "переулок",
+      "type": "лексика адреса"
+    },
+    {
+      "term": "numero civico",
+      "definition": "номер дома",
+      "type": "лексика адреса"
+    },
+    {
+      "term": "stato civile",
+      "definition": "семейное положение",
+      "type": "грамматическая лексика"
+    },
+    {
+      "term": "sposato/a",
+      "definition": "женат / замужем",
+      "type": "семейное положение"
+    },
+    {
+      "term": "single",
+      "definition": "холостой / незамужняя; одинокий / одинокая",
+      "type": "семейное положение"
+    },
+    {
+      "term": "fidanzato/a",
+      "definition": "помолвлен / помолвлена; в отношениях",
+      "type": "семейное положение"
+    },
+    {
+      "term": "separato/a",
+      "definition": "в раздельном проживании",
+      "type": "семейное положение"
+    },
+    {
+      "term": "divorziato/a",
+      "definition": "разведён / разведена",
+      "type": "семейное положение"
+    },
+    {
+      "term": "vedovo/a",
+      "definition": "вдовец / вдова",
+      "type": "семейное положение"
+    },
+    {
+      "term": "partner",
+      "definition": "партнёр / партнёрша",
+      "type": "люди"
+    },
+    {
+      "term": "ragazzo",
+      "definition": "парень; молодой человек",
+      "type": "люди"
+    },
+    {
+      "term": "ragazza",
+      "definition": "девушка",
+      "type": "люди"
+    },
+    {
+      "term": "autobus",
+      "definition": "автобус",
+      "type": "транспорт"
+    },
+    {
+      "term": "metro",
+      "definition": "метро",
+      "type": "транспорт"
+    },
+    {
+      "term": "a piedi",
+      "definition": "пешком",
+      "type": "фраза"
+    },
+    {
+      "term": "cognome",
+      "definition": "фамилия",
+      "type": "личные данные"
+    },
+    {
+      "term": "capelli",
+      "definition": "волосы",
+      "type": "тело"
+    },
+    {
+      "term": "nero",
+      "definition": "чёрный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "gelato al cioccolato",
+      "definition": "шоколадное мороженое",
+      "type": "еда"
+    },
+    {
+      "term": "pacco",
+      "definition": "посылка",
+      "type": "лексика"
+    },
+    {
+      "term": "avviso postale",
+      "definition": "почтовое уведомление",
+      "type": "лексика"
+    },
+    {
+      "term": "Svizzera",
+      "definition": "Швейцария",
+      "type": "страна"
+    },
+    {
+      "term": "Brescia",
+      "definition": "Брешиа",
+      "type": "город"
+    },
+    {
+      "term": "litigare",
+      "definition": "ссориться",
+      "type": "глагол"
+    },
+    {
+      "term": "strano/a",
+      "definition": "странный / странная",
+      "type": "прилагательное"
+    },
+    {
+      "term": "coppia",
+      "definition": "пара",
+      "type": "люди"
+    },
+    {
+      "term": "torna a casa",
+      "definition": "возвращается домой",
+      "type": "фраза"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Rispondete.",
+      "translation": "Ответьте."
+    },
+    {
+      "it": "Osservate e completate.",
+      "translation": "Посмотрите и дополните."
+    },
+    {
+      "it": "Ascoltate e segnate.",
+      "translation": "Послушайте и отметьте."
+    },
+    {
+      "it": "Osservate e rispondete.",
+      "translation": "Посмотрите и ответьте."
+    },
+    {
+      "it": "Guardate e rispondete.",
+      "translation": "Посмотрите и ответьте."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Прочитайте и проверьте."
+    },
+    {
+      "it": "Continuate.",
+      "translation": "Продолжите."
+    },
+    {
+      "it": "Usate le parole in blu del dialogo.",
+      "translation": "Используйте слова, выделенные синим, из диалога."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-2-01",
+      "title": "Intervista doppia",
+      "register": "neutral",
+      "context": "Два человека отвечают на вопросы о семейном положении и отношениях.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Sei sposata?",
+          "translation": "Ты замужем?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, sono sposata con Marco da vent'anni.",
+          "translation": "Да, я замужем за Марко уже двадцать лет."
+        },
+        {
+          "speaker": "A",
+          "it": "E tua sorella?",
+          "translation": "А твоя сестра?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, è single, ma ha un ragazzo.",
+          "translation": "Нет, она не замужем, но у неё есть парень."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить, женат ли человек",
+          "expected_it": "Sei sposato/a?"
+        },
+        {
+          "cue": "Сказать, что вы не в браке",
+          "expected_it": "Sono single."
+        },
+        {
+          "cue": "Сказать, что у вас есть парень или девушка",
+          "expected_it": "Ho un ragazzo. / Ho una ragazza."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-2-02",
+      "title": "Dove abiti? Qual è il tuo indirizzo?",
+      "register": "informal",
+      "context": "Два соседа обмениваются адресами.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Dove abiti?",
+          "translation": "Где ты живёшь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Abito a Torino, in corso Umberto 10.",
+          "translation": "Я живу в Турине, на проспекте Умберто, 10."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo indirizzo a Milano?",
+          "translation": "Какой у тебя адрес в Милане?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio indirizzo è via Canonica 7.",
+          "translation": "Мой адрес: улица Каноника, 7."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить адрес",
+          "expected_it": "Qual è il tuo indirizzo?"
+        },
+        {
+          "cue": "Назвать свой адрес",
+          "expected_it": "Il mio indirizzo è [via/piazza/corso], [numero]."
+        }
+      ]
+    }
+  ]
+}

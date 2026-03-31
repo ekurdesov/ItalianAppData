@@ -1,0 +1,445 @@
+{
+  "lesson_info": {
+    "id": "A1-L2-7",
+    "title": "La classe di Carla",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: È o ha?",
+      "Grammatica: articoli determinativi",
+      "Comprensione orale: L'italiano nel mondo",
+      "Comprensione scritta: L'italiano nel mondo"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "essere vs avere in everyday descriptions",
+      "description": "Italian uses 'essere' with adjectives and 'avere' with many physical or emotional states expressed as nouns.",
+      "examples": [
+        {
+          "it": "Sono triste.",
+          "translation": "I am sad."
+        },
+        {
+          "it": "Sono contento/a.",
+          "translation": "I am happy."
+        },
+        {
+          "it": "Ho fame.",
+          "translation": "I am hungry."
+        },
+        {
+          "it": "Hai sete?",
+          "translation": "Are you thirsty?"
+        },
+        {
+          "it": "Abbiamo fretta.",
+          "translation": "We are in a hurry."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Definite articles in the singular",
+      "description": "Italian definite articles agree with the noun in gender and number. In the singular, the main forms are 'il', 'lo', 'la' and 'l''.",
+      "sub_rules": [
+        {
+          "pattern": "il + most masculine singular nouns",
+          "examples": [
+            {
+              "it": "il quaderno",
+              "translation": "the notebook"
+            },
+            {
+              "it": "il panino",
+              "translation": "the sandwich"
+            },
+            {
+              "it": "il treno",
+              "translation": "the train"
+            }
+          ]
+        },
+        {
+          "pattern": "lo + s+consonant, z, ps, gn",
+          "examples": [
+            {
+              "it": "lo zio",
+              "translation": "the uncle"
+            },
+            {
+              "it": "lo studente",
+              "translation": "the student"
+            }
+          ]
+        },
+        {
+          "pattern": "la + feminine singular nouns; l' + vowel",
+          "examples": [
+            {
+              "it": "la sigaretta",
+              "translation": "the cigarette"
+            },
+            {
+              "it": "la villa",
+              "translation": "the villa"
+            },
+            {
+              "it": "l'automobile",
+              "translation": "the car"
+            },
+            {
+              "it": "l'amica",
+              "translation": "the female friend"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Definite articles in the plural",
+      "description": "Plural definite articles also agree with the noun. The main forms are 'i', 'gli' and 'le'.",
+      "sub_rules": [
+        {
+          "pattern": "i + most masculine plural nouns",
+          "examples": [
+            {
+              "it": "i quaderni",
+              "translation": "the notebooks"
+            },
+            {
+              "it": "i panini",
+              "translation": "the sandwiches"
+            },
+            {
+              "it": "i treni",
+              "translation": "the trains"
+            }
+          ]
+        },
+        {
+          "pattern": "gli + vowels or masculine plural nouns that take lo/l'",
+          "examples": [
+            {
+              "it": "gli esami",
+              "translation": "the exams"
+            },
+            {
+              "it": "gli zii",
+              "translation": "the uncles"
+            },
+            {
+              "it": "gli studenti",
+              "translation": "the students"
+            },
+            {
+              "it": "gli amici",
+              "translation": "the friends"
+            }
+          ]
+        },
+        {
+          "pattern": "le + all feminine plural nouns",
+          "examples": [
+            {
+              "it": "le sigarette",
+              "translation": "the cigarettes"
+            },
+            {
+              "it": "le lezioni",
+              "translation": "the lessons"
+            },
+            {
+              "it": "le ragazze",
+              "translation": "the girls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Culture",
+      "rule": "Italian in the world",
+      "description": "The lesson presents Italian as a world language connected with travel, culture, design, food, music and art.",
+      "examples": [
+        {
+          "it": "L'italiano è parlato in tutto il mondo.",
+          "translation": "Italian is spoken all over the world."
+        },
+        {
+          "it": "L'italiano è parlato in Europa, in America, in Africa, in Australia e in Giappone.",
+          "translation": "Italian is spoken in Europe, America, Africa, Australia and Japan."
+        },
+        {
+          "it": "L'italiano è importante per il design, la letteratura, il cinema e la musica.",
+          "translation": "Italian is important for design, literature, cinema and music."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "triste",
+      "definition": "sad",
+      "type": "adjective"
+    },
+    {
+      "term": "contento/a",
+      "definition": "happy, pleased",
+      "type": "adjective"
+    },
+    {
+      "term": "arrabbiato/a",
+      "definition": "angry",
+      "type": "adjective"
+    },
+    {
+      "term": "tranquillo/a",
+      "definition": "calm",
+      "type": "adjective"
+    },
+    {
+      "term": "fame",
+      "definition": "hunger",
+      "type": "noun"
+    },
+    {
+      "term": "sete",
+      "definition": "thirst",
+      "type": "noun"
+    },
+    {
+      "term": "voglia di studiare",
+      "definition": "desire to study; feeling like studying",
+      "type": "expression"
+    },
+    {
+      "term": "freddo",
+      "definition": "cold",
+      "type": "noun"
+    },
+    {
+      "term": "caldo",
+      "definition": "heat",
+      "type": "noun"
+    },
+    {
+      "term": "fretta",
+      "definition": "hurry",
+      "type": "noun"
+    },
+    {
+      "term": "tempo",
+      "definition": "time",
+      "type": "noun"
+    },
+    {
+      "term": "sigaretta",
+      "definition": "cigarette",
+      "type": "vocabulary"
+    },
+    {
+      "term": "villa",
+      "definition": "villa",
+      "type": "vocabulary"
+    },
+    {
+      "term": "automobile",
+      "definition": "car",
+      "type": "vocabulary"
+    },
+    {
+      "term": "bottiglia",
+      "definition": "bottle",
+      "type": "vocabulary"
+    },
+    {
+      "term": "esame",
+      "definition": "exam",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "zio",
+      "definition": "uncle",
+      "type": "people"
+    },
+    {
+      "term": "quaderno",
+      "definition": "notebook",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "lezione",
+      "definition": "lesson",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "ragazza",
+      "definition": "girl",
+      "type": "people"
+    },
+    {
+      "term": "panino",
+      "definition": "sandwich",
+      "type": "vocabulary"
+    },
+    {
+      "term": "ragazzo",
+      "definition": "boy",
+      "type": "people"
+    },
+    {
+      "term": "pizza",
+      "definition": "pizza",
+      "type": "food"
+    },
+    {
+      "term": "treno",
+      "definition": "train",
+      "type": "transport"
+    },
+    {
+      "term": "mamma",
+      "definition": "mum",
+      "type": "people"
+    },
+    {
+      "term": "professoressa",
+      "definition": "female teacher / professor",
+      "type": "people"
+    },
+    {
+      "term": "ospedale",
+      "definition": "hospital",
+      "type": "place"
+    },
+    {
+      "term": "gelato",
+      "definition": "ice cream",
+      "type": "food"
+    },
+    {
+      "term": "orologio",
+      "definition": "watch, clock",
+      "type": "vocabulary"
+    },
+    {
+      "term": "gomma",
+      "definition": "eraser",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "studente",
+      "definition": "student",
+      "type": "people"
+    },
+    {
+      "term": "amica",
+      "definition": "female friend",
+      "type": "people"
+    },
+    {
+      "term": "matita",
+      "definition": "pencil",
+      "type": "classroom vocabulary"
+    },
+    {
+      "term": "casa",
+      "definition": "house, home",
+      "type": "place"
+    },
+    {
+      "term": "amico",
+      "definition": "friend",
+      "type": "people"
+    },
+    {
+      "term": "ufficio",
+      "definition": "office",
+      "type": "place"
+    },
+    {
+      "term": "vino",
+      "definition": "wine",
+      "type": "food"
+    },
+    {
+      "term": "cappuccino",
+      "definition": "cappuccino",
+      "type": "food"
+    },
+    {
+      "term": "design",
+      "definition": "design",
+      "type": "culture"
+    },
+    {
+      "term": "opera d'arte",
+      "definition": "work of art",
+      "type": "culture"
+    },
+    {
+      "term": "monumento",
+      "definition": "monument",
+      "type": "culture"
+    },
+    {
+      "term": "letteratura",
+      "definition": "literature",
+      "type": "culture"
+    },
+    {
+      "term": "cinema",
+      "definition": "cinema, film",
+      "type": "culture"
+    },
+    {
+      "term": "nominare",
+      "definition": "to name",
+      "type": "verb"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Rispondete.",
+      "translation": "Answer."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Leggete.",
+      "translation": "Read."
+    },
+    {
+      "it": "Mettete in ordine.",
+      "translation": "Put in order."
+    },
+    {
+      "it": "Indicate.",
+      "translation": "Indicate."
+    },
+    {
+      "it": "Guardate e abbinate.",
+      "translation": "Look and match."
+    },
+    {
+      "it": "E tu? In questo momento ...",
+      "translation": "And you? At this moment ..."
+    },
+    {
+      "it": "Dopo la lezione ...",
+      "translation": "After the lesson ..."
+    },
+    {
+      "it": "Sì o no?",
+      "translation": "Yes or no?"
+    },
+    {
+      "it": "Di che nazionalità sono?",
+      "translation": "What nationality are they?"
+    }
+  ]
+}
