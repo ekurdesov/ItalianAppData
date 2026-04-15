@@ -1,0 +1,67 @@
+ItalianDataA1 processing rules
+
+Source location
+- New source PDFs arrive in `process/`.
+- Finished PDFs stay in `IT/`; keep that directory and move each processed PDF there when done.
+
+Output files
+- Create one English JSON in `en/` and one Russian JSON in `ru/`.
+- File naming rule: `A1 Online L3-3.pdf` -> `en/a3l3.json` and `ru/a3l3.json`.
+- Lesson id rule inside JSON: `A1-L3-3`.
+
+Schema to keep
+- Every lesson JSON follows the same top-level structure:
+  `lesson_info`
+  `language_rules`
+  `flashcards`
+  `classroom_instructions`
+  optional `dialogues`
+- `lesson_info` must contain `id`, `title`, `level`, `objectives`.
+- `language_rules` items use:
+  `category`, `rule`, `description`, and usually `examples`.
+- If the lesson teaches a verb pattern, add `conjugations` where useful.
+- `flashcards` items use:
+  `term`, `definition`, `type`.
+- `classroom_instructions` items use:
+  `it`, `translation`.
+- `dialogues` items use:
+  `id`, `title`, `register`, `context`, `turns`, optional `practice_prompts`.
+
+How to read the PDFs
+- These slide PDFs are presentation exports, not clean textbooks.
+- Many pages render upside down or mirrored in preview tools; inspect enough slides to identify:
+  title/unit,
+  objectives,
+  main grammar focus,
+  reading/listening topic,
+  recurring classroom prompts,
+  key vocabulary,
+  any usable dialogue snippets.
+- Do not try to transcribe every slide. Existing JSONs are condensed lesson summaries, not full dumps.
+
+How to build the lesson JSON
+- Preserve Italian in all example sentences under `it`.
+- English files use English labels/translations.
+- Russian files localize categories, rule titles, descriptions, flashcard definitions, classroom instruction translations, dialogue contexts, and prompt cues.
+- Keep the lesson title in Italian in both locales.
+- Objectives:
+  English file keeps the Italian objective wording used in the deck.
+  Russian file translates objectives to Russian while preserving the Italian lesson title.
+- Distill the grammar into 4-6 clear `language_rules`.
+- Build flashcards from the lesson’s actual vocabulary focus, not random extra words.
+- Include representative examples for grammar and pragmatics.
+- Dialogues can be reconstructed from the lesson tasks when the source deck gives fragmentary exchanges; keep them short and faithful to the lesson topic.
+
+Counting and index rules
+- After adding lesson files, update `index.json`.
+- Add a lesson entry with:
+  `id`, `title`, `level`, `objectives`, `file`, `flashcard_count`, `language_rule_count`, `dialogue_count`.
+- Counts in `index.json` must match the created JSON file content.
+- Update `generated_at` to the processing date.
+- Bump `version` when new lessons are added.
+
+Quality rules
+- Match the tone and density of existing `a3l1.json` and `a3l2.json`.
+- Prefer clean, practical beginner phrasing over exhaustive grammar theory.
+- Avoid inventing advanced vocabulary not supported by the lesson.
+- Keep JSON valid and consistently formatted with two-space indentation.

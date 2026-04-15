@@ -1,0 +1,289 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-4",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Повторение: gioco dei verbi",
+      "Чтение: Annunci",
+      "Грамматика: неопределённый артикль",
+      "Спрашивать и говорить, на каких языках ты говоришь"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Неопределённые артикли в итальянском",
+      "description": "В итальянском используются разные формы неопределённого артикля в зависимости от рода и начального звука существительного.",
+      "examples": [
+        {
+          "it": "un ragazzo",
+          "translation": "какой-то мальчик; один мальчик"
+        },
+        {
+          "it": "uno studente",
+          "translation": "студент"
+        },
+        {
+          "it": "una ragazza",
+          "translation": "девушка"
+        },
+        {
+          "it": "un'amica",
+          "translation": "подруга"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Когда выбирать un, uno, una, un'",
+      "description": "Форма 'un' употребляется перед большинством мужских существительных, 'uno' перед s + согласная, z, ps, gn, x, а 'una' и 'un'' перед женскими существительными.",
+      "examples": [
+        {
+          "it": "uno straniero",
+          "translation": "иностранец"
+        },
+        {
+          "it": "uno zoo",
+          "translation": "зоопарк"
+        },
+        {
+          "it": "una signora",
+          "translation": "дама, женщина"
+        },
+        {
+          "it": "un'autobus",
+          "translation": "автобус"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Как спросить, на каких языках говорит человек",
+      "description": "Чтобы спросить о языках, по-итальянски обычно говорят 'Che lingue parli?' или 'Che lingue studia?'.",
+      "examples": [
+        {
+          "context": "неформально",
+          "it": "Che lingue parli?",
+          "translation": "На каких языках ты говоришь?"
+        },
+        {
+          "context": "ответ",
+          "it": "Parlo l'italiano, il tedesco e un po' lo spagnolo.",
+          "translation": "Я говорю по-итальянски, по-немецки и немного по-испански."
+        },
+        {
+          "context": "ответ",
+          "it": "Parlo bene il francese, ma non lo spagnolo.",
+          "translation": "Я хорошо говорю по-французски, но не по-испански."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Слова о семье и личном профиле",
+      "description": "В уроке повторяются слова для описания человека и базовая семейная лексика.",
+      "examples": [
+        {
+          "it": "padre",
+          "translation": "отец"
+        },
+        {
+          "it": "madre",
+          "translation": "мать"
+        },
+        {
+          "it": "figlio",
+          "translation": "сын"
+        },
+        {
+          "it": "sorella",
+          "translation": "сестра"
+        }
+      ]
+    },
+    {
+      "category": "Чтение",
+      "rule": "Короткие объявления и профили",
+      "description": "Текст формата объявления обычно сочетает возраст, город, работу, языки и то, что человек ищет.",
+      "examples": [
+        {
+          "it": "Mi chiamo David. Ho 28 anni e sono australiano, ma abito e lavoro a Roma.",
+          "translation": "Меня зовут Давид. Мне 28 лет, я австралиец, но живу и работаю в Риме."
+        },
+        {
+          "it": "Ciao, mi chiamo Cristina. Ho 27 anni, sono tedesca e cerco una ragazza italiana per uno scambio italo-tedesco.",
+          "translation": "Привет, меня зовут Кристина. Мне 27 лет, я немка и ищу итальянскую девушку для итало-немецкого обмена."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "un",
+      "definition": "неопределённый артикль мужского рода",
+      "type": "артикль"
+    },
+    {
+      "term": "uno",
+      "definition": "неопределённый артикль мужского рода перед особыми сочетаниями",
+      "type": "артикль"
+    },
+    {
+      "term": "una",
+      "definition": "неопределённый артикль женского рода",
+      "type": "артикль"
+    },
+    {
+      "term": "un'",
+      "definition": "сокращённая форма женского артикля перед гласной",
+      "type": "артикль"
+    },
+    {
+      "term": "studente",
+      "definition": "студент",
+      "type": "люди"
+    },
+    {
+      "term": "straniero",
+      "definition": "иностранец",
+      "type": "люди"
+    },
+    {
+      "term": "amica",
+      "definition": "подруга",
+      "type": "люди"
+    },
+    {
+      "term": "ragazza italiana",
+      "definition": "итальянская девушка",
+      "type": "люди"
+    },
+    {
+      "term": "lingua",
+      "definition": "язык",
+      "type": "лексика"
+    },
+    {
+      "term": "parlare",
+      "definition": "говорить",
+      "type": "глагол"
+    },
+    {
+      "term": "italiano",
+      "definition": "итальянский",
+      "type": "язык"
+    },
+    {
+      "term": "tedesco",
+      "definition": "немецкий",
+      "type": "язык"
+    },
+    {
+      "term": "spagnolo",
+      "definition": "испанский",
+      "type": "язык"
+    },
+    {
+      "term": "francese",
+      "definition": "французский",
+      "type": "язык"
+    },
+    {
+      "term": "scambio",
+      "definition": "обмен",
+      "type": "образование"
+    },
+    {
+      "term": "annuncio",
+      "definition": "объявление",
+      "type": "лексика чтения"
+    },
+    {
+      "term": "padre",
+      "definition": "отец",
+      "type": "семья"
+    },
+    {
+      "term": "madre",
+      "definition": "мать",
+      "type": "семья"
+    },
+    {
+      "term": "figlio",
+      "definition": "сын",
+      "type": "семья"
+    },
+    {
+      "term": "sorella",
+      "definition": "сестра",
+      "type": "семья"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Сопоставьте."
+    },
+    {
+      "it": "Leggete e rispondete.",
+      "translation": "Прочитайте и ответьте."
+    },
+    {
+      "it": "Ascoltate.",
+      "translation": "Послушайте."
+    },
+    {
+      "it": "Comunicate in classe.",
+      "translation": "Поработайте устно в классе."
+    },
+    {
+      "it": "Che lingue parli?",
+      "translation": "На каких языках ты говоришь?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-4-01",
+      "title": "Che lingue parli?",
+      "register": "informal",
+      "context": "Два однокурсника говорят о языках, которые они знают.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Che lingue parli?",
+          "translation": "На каких языках ты говоришь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Parlo l'italiano, il tedesco e un po' lo spagnolo.",
+          "translation": "Я говорю по-итальянски, по-немецки и немного по-испански."
+        },
+        {
+          "speaker": "A",
+          "it": "Parli bene il francese?",
+          "translation": "Ты хорошо говоришь по-французски?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, non lo parlo bene.",
+          "translation": "Нет, я не очень хорошо на нём говорю."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить, на каких языках говорит человек",
+          "expected_it": "Che lingue parli?"
+        },
+        {
+          "cue": "Сказать, что вы немного говорите на языке",
+          "expected_it": "Parlo un po' lo/la ..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-3",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: Dove abiti?",
+      "Comprensione scritta: Mi presento",
+      "Grammatica: verbi in -ere, -ire",
+      "Chiedere e dire l'indirizzo email"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Regular verbs in -ere",
+      "description": "Many common Italian verbs ending in -ere follow the present-tense pattern -o, -i, -e, -iamo, -ete, -ono.",
+      "conjugations": {
+        "io": "scrivo",
+        "tu": "scrivi",
+        "lui/lei/Lei": "scrive",
+        "noi": "scriviamo",
+        "voi": "scrivete",
+        "loro": "scrivono"
+      },
+      "examples": [
+        {
+          "it": "Mario scrive una lettera d'amore.",
+          "translation": "Mario writes a love letter."
+        },
+        {
+          "it": "Giorgio vende molti gelati.",
+          "translation": "Giorgio sells many ice creams."
+        },
+        {
+          "it": "Noi prendiamo l'autobus delle 7.",
+          "translation": "We take the bus at seven."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Regular verbs in -ire",
+      "description": "Regular verbs in -ire commonly form the present with -o, -i, -e, -iamo, -ite, -ono.",
+      "conjugations": {
+        "io": "parto",
+        "tu": "parti",
+        "lui/lei/Lei": "parte",
+        "noi": "partiamo",
+        "voi": "partite",
+        "loro": "partono"
+      },
+      "examples": [
+        {
+          "it": "Luca presenta gli amici all'insegnante.",
+          "translation": "Luca introduces the friends to the teacher."
+        },
+        {
+          "it": "Gli amici di Andrea arrivano alle 10.",
+          "translation": "Andrea's friends arrive at ten."
+        },
+        {
+          "it": "Io compio gli anni in America.",
+          "translation": "I celebrate my birthday in America."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking and giving an email address",
+      "description": "Italian commonly asks for an email with 'Qual è il tuo indirizzo email?' and states it with 'Il mio indirizzo email è...'.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Qual è il tuo indirizzo email?",
+          "translation": "What is your email address?"
+        },
+        {
+          "context": "informal",
+          "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
+          "translation": "My email address is mario.rossi@gmail.com."
+        },
+        {
+          "context": "spelling",
+          "it": "Chiocciola, punto, trattino basso.",
+          "translation": "At sign, dot, underscore."
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Symbols used in email addresses",
+      "description": "This lesson teaches the Italian names of the most common symbols needed to spell an email address.",
+      "examples": [
+        {
+          "it": "chiocciola",
+          "translation": "at sign"
+        },
+        {
+          "it": "punto",
+          "translation": "dot"
+        },
+        {
+          "it": "trattino",
+          "translation": "hyphen"
+        },
+        {
+          "it": "trattino basso",
+          "translation": "underscore"
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Introducing yourself in a short profile",
+      "description": "A simple self-introduction at A1 level often combines name, age, nationality, city, job or study, and interests.",
+      "examples": [
+        {
+          "it": "Mi chiamo Oscar Bellini, sono argentino e lavoro in un'agenzia immobiliare.",
+          "translation": "My name is Oscar Bellini, I am Argentinian and I work in an estate agency."
+        },
+        {
+          "it": "Sono Lidia White, sono cuoca e il mio numero di cellulare è 349 5574634.",
+          "translation": "I am Lidia White, I am a cook and my mobile number is 349 5574634."
+        },
+        {
+          "it": "Mi chiamo Li Fang, il mio paese è la Cina e il mio nome utente è Lili08.",
+          "translation": "My name is Li Fang, my country is China and my username is Lili08."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "scrivere",
+      "definition": "to write",
+      "type": "verb"
+    },
+    {
+      "term": "vendere",
+      "definition": "to sell",
+      "type": "verb"
+    },
+    {
+      "term": "prendere",
+      "definition": "to take",
+      "type": "verb"
+    },
+    {
+      "term": "partire",
+      "definition": "to leave",
+      "type": "verb"
+    },
+    {
+      "term": "sentire",
+      "definition": "to hear, to feel",
+      "type": "verb"
+    },
+    {
+      "term": "dormire",
+      "definition": "to sleep",
+      "type": "verb"
+    },
+    {
+      "term": "preferire",
+      "definition": "to prefer",
+      "type": "verb"
+    },
+    {
+      "term": "aprire",
+      "definition": "to open",
+      "type": "verb"
+    },
+    {
+      "term": "indirizzo email",
+      "definition": "email address",
+      "type": "digital vocabulary"
+    },
+    {
+      "term": "chiocciola",
+      "definition": "at sign",
+      "type": "digital vocabulary"
+    },
+    {
+      "term": "punto",
+      "definition": "dot",
+      "type": "digital vocabulary"
+    },
+    {
+      "term": "trattino",
+      "definition": "hyphen",
+      "type": "digital vocabulary"
+    },
+    {
+      "term": "trattino basso",
+      "definition": "underscore",
+      "type": "digital vocabulary"
+    },
+    {
+      "term": "nome utente",
+      "definition": "username",
+      "type": "digital vocabulary"
+    },
+    {
+      "term": "cellulare",
+      "definition": "mobile phone",
+      "type": "technology"
+    },
+    {
+      "term": "agenzia immobiliare",
+      "definition": "estate agency",
+      "type": "work"
+    },
+    {
+      "term": "cuoca",
+      "definition": "cook",
+      "type": "profession"
+    },
+    {
+      "term": "ingegnere",
+      "definition": "engineer",
+      "type": "profession"
+    },
+    {
+      "term": "pacco",
+      "definition": "package",
+      "type": "everyday vocabulary"
+    },
+    {
+      "term": "giorno",
+      "definition": "day",
+      "type": "time"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Leggete e rispondete.",
+      "translation": "Read and answer."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Comunicate in classe.",
+      "translation": "Communicate in class."
+    },
+    {
+      "it": "Chiedete l'indirizzo e-mail.",
+      "translation": "Ask for the email address."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Listen and complete."
+    },
+    {
+      "it": "Ripetete.",
+      "translation": "Repeat."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-3-01",
+      "title": "Mi presento",
+      "register": "neutral",
+      "context": "Two classmates exchange a short self-introduction.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, mi chiamo Oscar Bellini. Sono argentino e lavoro in un'agenzia immobiliare.",
+          "translation": "Hi, my name is Oscar Bellini. I am Argentinian and I work in an estate agency."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere. Io sono Lidia White, sono cuoca e abito a Londra.",
+          "translation": "Nice to meet you. I am Lidia White, I am a cook and I live in London."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo numero di cellulare?",
+          "translation": "What is your mobile number?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 349 5574634.",
+          "translation": "My number is 349 5574634."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Say your name and nationality",
+          "expected_it": "Mi chiamo ... Sono ..."
+        },
+        {
+          "cue": "Say your job",
+          "expected_it": "Lavoro in ... / Sono ..."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-3-02",
+      "title": "Qual è il tuo indirizzo email?",
+      "register": "informal",
+      "context": "Two people exchange email details.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo indirizzo email?",
+          "translation": "What is your email address?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
+          "translation": "My email address is mario.rossi@gmail.com."
+        },
+        {
+          "speaker": "A",
+          "it": "Come si scrive?",
+          "translation": "How is it written?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mario punto rossi chiocciola gmail punto com.",
+          "translation": "Mario dot rossi at gmail dot com."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask for an email address",
+          "expected_it": "Qual è il tuo indirizzo email?"
+        },
+        {
+          "cue": "Spell the at sign",
+          "expected_it": "chiocciola"
+        }
+      ]
+    }
+  ]
+}

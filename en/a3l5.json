@@ -1,0 +1,276 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-5",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: Lingue e paesi",
+      "Comprensione orale: Il mistero",
+      "Grammatica: articolo indeterminativo",
+      "Esprimere d'accordo e chiedere spiegazioni"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Pragmatics",
+      "rule": "Agreeing with someone",
+      "description": "Italian has short expressions for showing agreement or partial agreement in conversation.",
+      "examples": [
+        {
+          "it": "Hai ragione.",
+          "translation": "You are right."
+        },
+        {
+          "it": "Sono d'accordo.",
+          "translation": "I agree."
+        },
+        {
+          "it": "È vero.",
+          "translation": "It's true."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Expressing doubt or asking for clarification",
+      "description": "When something is unclear, Italian often uses short formulas to ask for repetition, explanation, or confirmation.",
+      "examples": [
+        {
+          "it": "Perché?",
+          "translation": "Why?"
+        },
+        {
+          "it": "Che vuoi dire?",
+          "translation": "What do you mean?"
+        },
+        {
+          "it": "Non ho capito.",
+          "translation": "I didn't understand."
+        },
+        {
+          "it": "Puoi ripetere, per favore?",
+          "translation": "Can you repeat, please?"
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Indefinite article review in connected text",
+      "description": "The lesson revises the indefinite article inside longer sentences and short mystery-style descriptions.",
+      "examples": [
+        {
+          "it": "Anna ha un'amica di Parigi.",
+          "translation": "Anna has a friend from Paris."
+        },
+        {
+          "it": "Lo spagnolo usa un articolo.",
+          "translation": "Spanish uses an article."
+        },
+        {
+          "it": "Perché in abito parlo l'italiano Italia.",
+          "translation": "Because in the sentence I use the article with Italian and Italy."
+        }
+      ]
+    },
+    {
+      "category": "Listening",
+      "rule": "Understanding a short mystery conversation",
+      "description": "The listening task focuses on following a simple conversation about a suspicious situation and identifying what happened.",
+      "examples": [
+        {
+          "it": "Bruno chiede informazioni sui vicini di casa di Anna.",
+          "translation": "Bruno asks for information about Anna's neighbours."
+        },
+        {
+          "it": "Il signor Ferrari non è mai in casa.",
+          "translation": "Mr Ferrari is never at home."
+        },
+        {
+          "it": "Tutti i pacchi arrivano dalla Svizzera.",
+          "translation": "All the packages arrive from Switzerland."
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Words for suspicion and investigation",
+      "description": "The lesson introduces everyday words linked to mystery, neighbours, packages, and strange behaviour.",
+      "examples": [
+        {
+          "it": "mistero",
+          "translation": "mystery"
+        },
+        {
+          "it": "vicino di casa",
+          "translation": "neighbour"
+        },
+        {
+          "it": "pacco",
+          "translation": "package"
+        },
+        {
+          "it": "strano",
+          "translation": "strange"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "mistero",
+      "definition": "mystery",
+      "type": "story vocabulary"
+    },
+    {
+      "term": "strano",
+      "definition": "strange",
+      "type": "adjective"
+    },
+    {
+      "term": "vicino di casa",
+      "definition": "neighbour",
+      "type": "people"
+    },
+    {
+      "term": "pacco",
+      "definition": "package",
+      "type": "everyday vocabulary"
+    },
+    {
+      "term": "indizio",
+      "definition": "clue",
+      "type": "story vocabulary"
+    },
+    {
+      "term": "spiegazione",
+      "definition": "explanation",
+      "type": "communication"
+    },
+    {
+      "term": "accordo",
+      "definition": "agreement",
+      "type": "communication"
+    },
+    {
+      "term": "hai ragione",
+      "definition": "you are right",
+      "type": "phrase"
+    },
+    {
+      "term": "sono d'accordo",
+      "definition": "I agree",
+      "type": "phrase"
+    },
+    {
+      "term": "è vero",
+      "definition": "it's true",
+      "type": "phrase"
+    },
+    {
+      "term": "perché?",
+      "definition": "why?",
+      "type": "question"
+    },
+    {
+      "term": "che vuoi dire?",
+      "definition": "what do you mean?",
+      "type": "question"
+    },
+    {
+      "term": "non ho capito",
+      "definition": "I didn't understand",
+      "type": "phrase"
+    },
+    {
+      "term": "puoi ripetere?",
+      "definition": "can you repeat?",
+      "type": "question"
+    },
+    {
+      "term": "Svizzera",
+      "definition": "Switzerland",
+      "type": "country"
+    },
+    {
+      "term": "Austria",
+      "definition": "Austria",
+      "type": "country"
+    },
+    {
+      "term": "Belgio",
+      "definition": "Belgium",
+      "type": "country"
+    },
+    {
+      "term": "Romania",
+      "definition": "Romania",
+      "type": "country"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Vero o falso?",
+      "translation": "True or false?"
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Read and check."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Listen and complete."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Answer."
+    },
+    {
+      "it": "Motivate la risposta.",
+      "translation": "Explain the answer."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-5-01",
+      "title": "Il mistero",
+      "register": "neutral",
+      "context": "Bruno and Anna discuss strange things happening in the building.",
+      "turns": [
+        {
+          "speaker": "Bruno",
+          "it": "Il signor Ferrari non è mai in casa. Tutti i pacchi arrivano dalla Svizzera.",
+          "translation": "Mr Ferrari is never at home. All the packages arrive from Switzerland."
+        },
+        {
+          "speaker": "Anna",
+          "it": "Hai ragione... è strano. Ma forse c'è una spiegazione.",
+          "translation": "You're right... it's strange. But maybe there is an explanation."
+        },
+        {
+          "speaker": "Bruno",
+          "it": "Che vuoi dire?",
+          "translation": "What do you mean?"
+        },
+        {
+          "speaker": "Anna",
+          "it": "Forse è un medico o un ingegnere e lavora fuori città.",
+          "translation": "Maybe he is a doctor or an engineer and works outside the city."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Say that you agree",
+          "expected_it": "Sono d'accordo."
+        },
+        {
+          "cue": "Ask for an explanation",
+          "expected_it": "Che vuoi dire?"
+        }
+      ]
+    }
+  ]
+}

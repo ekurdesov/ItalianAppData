@@ -1,0 +1,339 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-3",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Повторение: Dove abiti?",
+      "Чтение: Mi presento",
+      "Грамматика: глаголы на -ere, -ire",
+      "Спрашивать и сообщать адрес электронной почты"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Правильные глаголы на -ere",
+      "description": "Многие распространённые итальянские глаголы на -ere в настоящем времени имеют окончания -o, -i, -e, -iamo, -ete, -ono.",
+      "conjugations": {
+        "io": "scrivo",
+        "tu": "scrivi",
+        "lui/lei/Lei": "scrive",
+        "noi": "scriviamo",
+        "voi": "scrivete",
+        "loro": "scrivono"
+      },
+      "examples": [
+        {
+          "it": "Mario scrive una lettera d'amore.",
+          "translation": "Марио пишет любовное письмо."
+        },
+        {
+          "it": "Giorgio vende molti gelati.",
+          "translation": "Джорджо продаёт много мороженого."
+        },
+        {
+          "it": "Noi prendiamo l'autobus delle 7.",
+          "translation": "Мы садимся на автобус в семь."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Правильные глаголы на -ire",
+      "description": "Правильные глаголы на -ire обычно образуют настоящее время по модели -o, -i, -e, -iamo, -ite, -ono.",
+      "conjugations": {
+        "io": "parto",
+        "tu": "parti",
+        "lui/lei/Lei": "parte",
+        "noi": "partiamo",
+        "voi": "partite",
+        "loro": "partono"
+      },
+      "examples": [
+        {
+          "it": "Luca presenta gli amici all'insegnante.",
+          "translation": "Лука представляет друзей преподавателю."
+        },
+        {
+          "it": "Gli amici di Andrea arrivano alle 10.",
+          "translation": "Друзья Андреа приходят к десяти."
+        },
+        {
+          "it": "Io compio gli anni in America.",
+          "translation": "Я праздную день рождения в Америке."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Как спросить и назвать электронный адрес",
+      "description": "В итальянском адрес электронной почты обычно спрашивают через 'Qual è il tuo indirizzo email?' и сообщают через 'Il mio indirizzo email è...'.",
+      "examples": [
+        {
+          "context": "неформально",
+          "it": "Qual è il tuo indirizzo email?",
+          "translation": "Какой у тебя адрес электронной почты?"
+        },
+        {
+          "context": "ответ",
+          "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
+          "translation": "Мой адрес электронной почты: mario.rossi@gmail.com."
+        },
+        {
+          "context": "по буквам и символам",
+          "it": "Chiocciola, punto, trattino basso.",
+          "translation": "Собачка, точка, нижнее подчёркивание."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Символы в электронном адресе",
+      "description": "В уроке отрабатываются итальянские названия самых частых символов, нужных для диктовки e-mail.",
+      "examples": [
+        {
+          "it": "chiocciola",
+          "translation": "собачка, знак @"
+        },
+        {
+          "it": "punto",
+          "translation": "точка"
+        },
+        {
+          "it": "trattino",
+          "translation": "дефис"
+        },
+        {
+          "it": "trattino basso",
+          "translation": "нижнее подчёркивание"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Короткое представление о себе",
+      "description": "На уровне A1 самопрезентация обычно объединяет имя, возраст, национальность, город, работу или учёбу и интересы.",
+      "examples": [
+        {
+          "it": "Mi chiamo Oscar Bellini, sono argentino e lavoro in un'agenzia immobiliare.",
+          "translation": "Меня зовут Оскар Беллини, я аргентинец и работаю в агентстве недвижимости."
+        },
+        {
+          "it": "Sono Lidia White, sono cuoca e il mio numero di cellulare è 349 5574634.",
+          "translation": "Я Лидия Уайт, я повар, и мой номер мобильного телефона 349 5574634."
+        },
+        {
+          "it": "Mi chiamo Li Fang, il mio paese è la Cina e il mio nome utente è Lili08.",
+          "translation": "Меня зовут Ли Фан, моя страна Китай, а мой логин Lili08."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "scrivere",
+      "definition": "писать",
+      "type": "глагол"
+    },
+    {
+      "term": "vendere",
+      "definition": "продавать",
+      "type": "глагол"
+    },
+    {
+      "term": "prendere",
+      "definition": "брать; садиться на транспорт",
+      "type": "глагол"
+    },
+    {
+      "term": "partire",
+      "definition": "уезжать, отправляться",
+      "type": "глагол"
+    },
+    {
+      "term": "sentire",
+      "definition": "слышать; чувствовать",
+      "type": "глагол"
+    },
+    {
+      "term": "dormire",
+      "definition": "спать",
+      "type": "глагол"
+    },
+    {
+      "term": "preferire",
+      "definition": "предпочитать",
+      "type": "глагол"
+    },
+    {
+      "term": "aprire",
+      "definition": "открывать",
+      "type": "глагол"
+    },
+    {
+      "term": "indirizzo email",
+      "definition": "адрес электронной почты",
+      "type": "цифровая лексика"
+    },
+    {
+      "term": "chiocciola",
+      "definition": "знак @, собачка",
+      "type": "цифровая лексика"
+    },
+    {
+      "term": "punto",
+      "definition": "точка",
+      "type": "цифровая лексика"
+    },
+    {
+      "term": "trattino",
+      "definition": "дефис",
+      "type": "цифровая лексика"
+    },
+    {
+      "term": "trattino basso",
+      "definition": "нижнее подчёркивание",
+      "type": "цифровая лексика"
+    },
+    {
+      "term": "nome utente",
+      "definition": "имя пользователя, логин",
+      "type": "цифровая лексика"
+    },
+    {
+      "term": "cellulare",
+      "definition": "мобильный телефон",
+      "type": "техника"
+    },
+    {
+      "term": "agenzia immobiliare",
+      "definition": "агентство недвижимости",
+      "type": "работа"
+    },
+    {
+      "term": "cuoca",
+      "definition": "повар",
+      "type": "профессия"
+    },
+    {
+      "term": "ingegnere",
+      "definition": "инженер",
+      "type": "профессия"
+    },
+    {
+      "term": "pacco",
+      "definition": "посылка, пакет",
+      "type": "бытовая лексика"
+    },
+    {
+      "term": "giorno",
+      "definition": "день",
+      "type": "время"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Leggete e rispondete.",
+      "translation": "Прочитайте и ответьте."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Comunicate in classe.",
+      "translation": "Поработайте устно в классе."
+    },
+    {
+      "it": "Chiedete l'indirizzo e-mail.",
+      "translation": "Спросите адрес электронной почты."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Послушайте и дополните."
+    },
+    {
+      "it": "Ripetete.",
+      "translation": "Повторите."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-3-01",
+      "title": "Mi presento",
+      "register": "neutral",
+      "context": "Два однокурсника кратко представляются друг другу.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, mi chiamo Oscar Bellini. Sono argentino e lavoro in un'agenzia immobiliare.",
+          "translation": "Привет, меня зовут Оскар Беллини. Я аргентинец и работаю в агентстве недвижимости."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere. Io sono Lidia White, sono cuoca e abito a Londra.",
+          "translation": "Очень приятно. Я Лидия Уайт, я повар и живу в Лондоне."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo numero di cellulare?",
+          "translation": "Какой у тебя номер мобильного?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 349 5574634.",
+          "translation": "Мой номер 349 5574634."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Сказать своё имя и национальность",
+          "expected_it": "Mi chiamo ... Sono ..."
+        },
+        {
+          "cue": "Сказать, кем вы работаете",
+          "expected_it": "Lavoro in ... / Sono ..."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-3-02",
+      "title": "Qual è il tuo indirizzo email?",
+      "register": "informal",
+      "context": "Два человека обмениваются адресами электронной почты.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo indirizzo email?",
+          "translation": "Какой у тебя адрес электронной почты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
+          "translation": "Мой адрес электронной почты mario.rossi@gmail.com."
+        },
+        {
+          "speaker": "A",
+          "it": "Come si scrive?",
+          "translation": "Как это пишется?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mario punto rossi chiocciola gmail punto com.",
+          "translation": "Mario точка rossi собачка gmail точка com."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить адрес электронной почты",
+          "expected_it": "Qual è il tuo indirizzo email?"
+        },
+        {
+          "cue": "Назвать знак @",
+          "expected_it": "chiocciola"
+        }
+      ]
+    }
+  ]
+}

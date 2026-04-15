@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "generated_at": "2026-03-30",
+  "version": 5,
+  "generated_at": "2026-04-15",
   "locales": ["en", "ru"],
   "locale_data_path": "{locale}/{file}",
   "notes": "Lesson files live under en/ and ru/ subfolders. Load the appropriate subfolder based on the user's locale setting. Field 'translation' carries the localised meaning; field 'it' always contains Italian.",
@@ -254,6 +254,51 @@
       "flashcard_count": 33,
       "language_rule_count": 5,
       "dialogue_count": 2
+    },
+    {
+      "id": "A1-L3-3",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Dove abiti?",
+        "Comprensione scritta: Mi presento",
+        "Grammatica: verbi in -ere, -ire",
+        "Chiedere e dire l'indirizzo email"
+      ],
+      "file": "a3l3.json",
+      "flashcard_count": 20,
+      "language_rule_count": 5,
+      "dialogue_count": 2
+    },
+    {
+      "id": "A1-L3-4",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: gioco dei verbi",
+        "Comprensione scritta: Annunci",
+        "Grammatica: articolo indeterminativo",
+        "Chiedere e dire che lingue parli"
+      ],
+      "file": "a3l4.json",
+      "flashcard_count": 20,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L3-5",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Lingue e paesi",
+        "Comprensione orale: Il mistero",
+        "Grammatica: articolo indeterminativo",
+        "Esprimere d'accordo e chiedere spiegazioni"
+      ],
+      "file": "a3l5.json",
+      "flashcard_count": 18,
+      "language_rule_count": 5,
+      "dialogue_count": 1
     }
   ]
 }

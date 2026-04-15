@@ -1,0 +1,289 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-4",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: gioco dei verbi",
+      "Comprensione scritta: Annunci",
+      "Grammatica: articolo indeterminativo",
+      "Chiedere e dire che lingue parli"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Indefinite articles in Italian",
+      "description": "Italian uses different indefinite articles depending on gender and the sound at the start of the noun.",
+      "examples": [
+        {
+          "it": "un ragazzo",
+          "translation": "a boy"
+        },
+        {
+          "it": "uno studente",
+          "translation": "a student"
+        },
+        {
+          "it": "una ragazza",
+          "translation": "a girl"
+        },
+        {
+          "it": "un'autobus",
+          "translation": "a bus"
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Choosing un, uno, una, un'",
+      "description": "Use 'un' before most masculine nouns, 'uno' before masculine nouns starting with s+consonant, z, ps, gn, x, and 'una' or 'un'' before feminine nouns.",
+      "examples": [
+        {
+          "it": "uno straniero",
+          "translation": "a foreigner"
+        },
+        {
+          "it": "uno zoo",
+          "translation": "a zoo"
+        },
+        {
+          "it": "una signora",
+          "translation": "a lady"
+        },
+        {
+          "it": "un'amica",
+          "translation": "a female friend"
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking which languages someone speaks",
+      "description": "To ask about languages, Italian commonly uses 'Che lingue parli?' or 'Che lingue studia?'.",
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Che lingue parli?",
+          "translation": "What languages do you speak?"
+        },
+        {
+          "context": "answer",
+          "it": "Parlo l'italiano, il tedesco e un po' lo spagnolo.",
+          "translation": "I speak Italian, German and a little Spanish."
+        },
+        {
+          "context": "answer",
+          "it": "Parlo bene il francese, ma non lo spagnolo.",
+          "translation": "I speak French well, but not Spanish."
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Family and personal profile words",
+      "description": "This lesson reuses personal-description language together with simple family references.",
+      "examples": [
+        {
+          "it": "padre",
+          "translation": "father"
+        },
+        {
+          "it": "madre",
+          "translation": "mother"
+        },
+        {
+          "it": "figlio",
+          "translation": "son"
+        },
+        {
+          "it": "sorella",
+          "translation": "sister"
+        }
+      ]
+    },
+    {
+      "category": "Reading",
+      "rule": "Short ads and profile-style texts",
+      "description": "Classified-style descriptions usually combine age, city, job, language skills, and what a person is looking for.",
+      "examples": [
+        {
+          "it": "Mi chiamo David. Ho 28 anni e sono australiano, ma abito e lavoro a Roma.",
+          "translation": "My name is David. I am 28 and I am Australian, but I live and work in Rome."
+        },
+        {
+          "it": "Ciao, mi chiamo Cristina. Ho 27 anni, sono tedesca e cerco una ragazza italiana per uno scambio italo-tedesco.",
+          "translation": "Hi, my name is Cristina. I am 27, I am German and I am looking for an Italian girl for an Italian-German exchange."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "un",
+      "definition": "a, an (masculine)",
+      "type": "article"
+    },
+    {
+      "term": "uno",
+      "definition": "a, an (masculine before special consonant groups)",
+      "type": "article"
+    },
+    {
+      "term": "una",
+      "definition": "a, an (feminine)",
+      "type": "article"
+    },
+    {
+      "term": "un'",
+      "definition": "a, an (feminine before vowel)",
+      "type": "article"
+    },
+    {
+      "term": "studente",
+      "definition": "student",
+      "type": "people"
+    },
+    {
+      "term": "straniero",
+      "definition": "foreigner",
+      "type": "people"
+    },
+    {
+      "term": "amica",
+      "definition": "female friend",
+      "type": "people"
+    },
+    {
+      "term": "ragazza italiana",
+      "definition": "Italian girl",
+      "type": "people"
+    },
+    {
+      "term": "lingua",
+      "definition": "language",
+      "type": "vocabulary"
+    },
+    {
+      "term": "parlare",
+      "definition": "to speak",
+      "type": "verb"
+    },
+    {
+      "term": "italiano",
+      "definition": "Italian",
+      "type": "language"
+    },
+    {
+      "term": "tedesco",
+      "definition": "German",
+      "type": "language"
+    },
+    {
+      "term": "spagnolo",
+      "definition": "Spanish",
+      "type": "language"
+    },
+    {
+      "term": "francese",
+      "definition": "French",
+      "type": "language"
+    },
+    {
+      "term": "scambio",
+      "definition": "exchange",
+      "type": "education"
+    },
+    {
+      "term": "annuncio",
+      "definition": "advert, listing",
+      "type": "reading vocabulary"
+    },
+    {
+      "term": "padre",
+      "definition": "father",
+      "type": "family"
+    },
+    {
+      "term": "madre",
+      "definition": "mother",
+      "type": "family"
+    },
+    {
+      "term": "figlio",
+      "definition": "son",
+      "type": "family"
+    },
+    {
+      "term": "sorella",
+      "definition": "sister",
+      "type": "family"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Match."
+    },
+    {
+      "it": "Leggete e rispondete.",
+      "translation": "Read and answer."
+    },
+    {
+      "it": "Ascoltate.",
+      "translation": "Listen."
+    },
+    {
+      "it": "Comunicate in classe.",
+      "translation": "Communicate in class."
+    },
+    {
+      "it": "Che lingue parli?",
+      "translation": "What languages do you speak?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-4-01",
+      "title": "Che lingue parli?",
+      "register": "informal",
+      "context": "Two classmates talk about the languages they know.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Che lingue parli?",
+          "translation": "What languages do you speak?"
+        },
+        {
+          "speaker": "B",
+          "it": "Parlo l'italiano, il tedesco e un po' lo spagnolo.",
+          "translation": "I speak Italian, German and a little Spanish."
+        },
+        {
+          "speaker": "A",
+          "it": "Parli bene il francese?",
+          "translation": "Do you speak French well?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, non lo parlo bene.",
+          "translation": "No, I don't speak it well."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask which languages someone speaks",
+          "expected_it": "Che lingue parli?"
+        },
+        {
+          "cue": "Say you speak a language a little",
+          "expected_it": "Parlo un po' lo/la ..."
+        }
+      ]
+    }
+  ]
+}

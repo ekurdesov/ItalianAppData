@@ -1,0 +1,276 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-5",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Повторение: Lingue e paesi",
+      "Аудирование: Il mistero",
+      "Грамматика: неопределённый артикль",
+      "Выражать согласие и просить объяснение"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Прагматика",
+      "rule": "Как выразить согласие",
+      "description": "В разговоре по-итальянски есть короткие формулы, чтобы показать согласие или частичное согласие.",
+      "examples": [
+        {
+          "it": "Hai ragione.",
+          "translation": "Ты прав / права."
+        },
+        {
+          "it": "Sono d'accordo.",
+          "translation": "Я согласен / согласна."
+        },
+        {
+          "it": "È vero.",
+          "translation": "Это правда."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Как выразить сомнение и попросить пояснение",
+      "description": "Если что-то непонятно, часто используются короткие формулы для просьбы повторить, объяснить или уточнить.",
+      "examples": [
+        {
+          "it": "Perché?",
+          "translation": "Почему?"
+        },
+        {
+          "it": "Che vuoi dire?",
+          "translation": "Что ты имеешь в виду?"
+        },
+        {
+          "it": "Non ho capito.",
+          "translation": "Я не понял / не поняла."
+        },
+        {
+          "it": "Puoi ripetere, per favore?",
+          "translation": "Можешь повторить, пожалуйста?"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Повторение неопределённого артикля в связном тексте",
+      "description": "В уроке снова отрабатывается неопределённый артикль внутри более длинных фраз и описаний в стиле загадки.",
+      "examples": [
+        {
+          "it": "Anna ha un'amica di Parigi.",
+          "translation": "У Анны есть подруга из Парижа."
+        },
+        {
+          "it": "Lo spagnolo usa un articolo.",
+          "translation": "В испанском используется артикль."
+        },
+        {
+          "it": "Perché in abito parlo l'italiano Italia.",
+          "translation": "Потому что в этом предложении я использую артикль с итальянским и Италией."
+        }
+      ]
+    },
+    {
+      "category": "Аудирование",
+      "rule": "Понимание короткого разговора-загадки",
+      "description": "Задание на аудирование тренирует понимание простого разговора о подозрительной ситуации и поиск того, что произошло.",
+      "examples": [
+        {
+          "it": "Bruno chiede informazioni sui vicini di casa di Anna.",
+          "translation": "Бруно спрашивает о соседях Анны."
+        },
+        {
+          "it": "Il signor Ferrari non è mai in casa.",
+          "translation": "Синьор Феррари никогда не бывает дома."
+        },
+        {
+          "it": "Tutti i pacchi arrivano dalla Svizzera.",
+          "translation": "Все посылки приходят из Швейцарии."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Слова для темы загадки и наблюдения",
+      "description": "В уроке появляется бытовая лексика, связанная с загадкой, соседями, посылками и странным поведением.",
+      "examples": [
+        {
+          "it": "mistero",
+          "translation": "загадка, тайна"
+        },
+        {
+          "it": "vicino di casa",
+          "translation": "сосед"
+        },
+        {
+          "it": "pacco",
+          "translation": "посылка"
+        },
+        {
+          "it": "strano",
+          "translation": "странный"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "mistero",
+      "definition": "тайна, загадка",
+      "type": "лексика сюжета"
+    },
+    {
+      "term": "strano",
+      "definition": "странный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "vicino di casa",
+      "definition": "сосед",
+      "type": "люди"
+    },
+    {
+      "term": "pacco",
+      "definition": "посылка",
+      "type": "бытовая лексика"
+    },
+    {
+      "term": "indizio",
+      "definition": "улика, подсказка",
+      "type": "лексика сюжета"
+    },
+    {
+      "term": "spiegazione",
+      "definition": "объяснение",
+      "type": "общение"
+    },
+    {
+      "term": "accordo",
+      "definition": "согласие",
+      "type": "общение"
+    },
+    {
+      "term": "hai ragione",
+      "definition": "ты прав / права",
+      "type": "фраза"
+    },
+    {
+      "term": "sono d'accordo",
+      "definition": "я согласен / согласна",
+      "type": "фраза"
+    },
+    {
+      "term": "è vero",
+      "definition": "это правда",
+      "type": "фраза"
+    },
+    {
+      "term": "perché?",
+      "definition": "почему?",
+      "type": "вопрос"
+    },
+    {
+      "term": "che vuoi dire?",
+      "definition": "что ты имеешь в виду?",
+      "type": "вопрос"
+    },
+    {
+      "term": "non ho capito",
+      "definition": "я не понял / не поняла",
+      "type": "фраза"
+    },
+    {
+      "term": "puoi ripetere?",
+      "definition": "можешь повторить?",
+      "type": "вопрос"
+    },
+    {
+      "term": "Svizzera",
+      "definition": "Швейцария",
+      "type": "страна"
+    },
+    {
+      "term": "Austria",
+      "definition": "Австрия",
+      "type": "страна"
+    },
+    {
+      "term": "Belgio",
+      "definition": "Бельгия",
+      "type": "страна"
+    },
+    {
+      "term": "Romania",
+      "definition": "Румыния",
+      "type": "страна"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Vero o falso?",
+      "translation": "Верно или неверно?"
+    },
+    {
+      "it": "Leggete e verificate.",
+      "translation": "Прочитайте и проверьте."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Послушайте и дополните."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Ответьте."
+    },
+    {
+      "it": "Motivate la risposta.",
+      "translation": "Объясните ответ."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-5-01",
+      "title": "Il mistero",
+      "register": "neutral",
+      "context": "Бруно и Анна обсуждают странные события в доме.",
+      "turns": [
+        {
+          "speaker": "Bruno",
+          "it": "Il signor Ferrari non è mai in casa. Tutti i pacchi arrivano dalla Svizzera.",
+          "translation": "Синьор Феррари никогда не бывает дома. Все посылки приходят из Швейцарии."
+        },
+        {
+          "speaker": "Anna",
+          "it": "Hai ragione... è strano. Ma forse c'è una spiegazione.",
+          "translation": "Ты прав... это странно. Но, возможно, этому есть объяснение."
+        },
+        {
+          "speaker": "Bruno",
+          "it": "Che vuoi dire?",
+          "translation": "Что ты имеешь в виду?"
+        },
+        {
+          "speaker": "Anna",
+          "it": "Forse è un medico o un ingegnere e lavora fuori città.",
+          "translation": "Может быть, он врач или инженер и работает за пределами города."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Сказать, что вы согласны",
+          "expected_it": "Sono d'accordo."
+        },
+        {
+          "cue": "Попросить объяснение",
+          "expected_it": "Che vuoi dire?"
+        }
+      ]
+    }
+  ]
+}
