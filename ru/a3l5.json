@@ -272,5 +272,85 @@
         }
       ]
     }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "abitare",
+      "translation_en": "to live / to reside",
+      "translation_ru": "жить / проживать",
+      "forms": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      }
+    },
+    {
+      "infinitive": "parlare",
+      "translation_en": "to speak",
+      "translation_ru": "говорить",
+      "forms": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei/Lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      }
+    },
+    {
+      "infinitive": "studiare",
+      "translation_en": "to study",
+      "translation_ru": "учиться / изучать",
+      "forms": {
+        "io": "studio",
+        "tu": "studi",
+        "lui/lei/Lei": "studia",
+        "noi": "studiamo",
+        "voi": "studiate",
+        "loro": "studiano"
+      }
+    },
+    {
+      "infinitive": "lavorare",
+      "translation_en": "to work",
+      "translation_ru": "работать",
+      "forms": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei/Lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      }
+    }
   ]
 }

@@ -1,7 +1,10 @@
 {
-  "version": 5,
-  "generated_at": "2026-04-15",
-  "locales": ["en", "ru"],
+  "version": 6,
+  "generated_at": "2026-05-14",
+  "locales": [
+    "en",
+    "ru"
+  ],
   "locale_data_path": "{locale}/{file}",
   "notes": "Lesson files live under en/ and ru/ subfolders. Load the appropriate subfolder based on the user's locale setting. Field 'translation' carries the localised meaning; field 'it' always contains Italian.",
   "lessons": [
@@ -297,6 +300,125 @@
       ],
       "file": "a3l5.json",
       "flashcard_count": 18,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L3-6",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Presentiamoci!",
+        "Comprensione orale: Indovina chi...",
+        "Grammatica: nome + aggettivo",
+        "Descrivere l'aspetto fisico: Com'è?"
+      ],
+      "file": "a3l6.json",
+      "flashcard_count": 30,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L3-7",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Lessico: Com'è?",
+        "Comprensione orale: Alla festa",
+        "Grammatica: c'è / ci sono",
+        "È alto, è moro, ha gli occhiali"
+      ],
+      "file": "a3l7.json",
+      "flashcard_count": 22,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L3-8",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Com'è?",
+        "Comprensione orale: Nomi e cognomi italiani",
+        "Grammatica: essere VS esserci",
+        "Attività comunicativa: Quante domande!"
+      ],
+      "file": "a3l8.json",
+      "flashcard_count": 20,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L3-9",
+      "title": "I vicini di casa",
+      "level": "A1",
+      "objectives": [
+        "Ripasso lessico: Parole, parole...",
+        "Ripasso grammatica: A lezione",
+        "Ripasso fonetica: Che confusione!",
+        "Ripasso lezioni 1-3: In giro per Roma"
+      ],
+      "file": "a3l9.json",
+      "flashcard_count": 20,
+      "language_rule_count": 5,
+      "dialogue_count": 0
+    },
+    {
+      "id": "A1-L4-1",
+      "title": "Un incontro",
+      "level": "A1",
+      "objectives": [
+        "Comprensione scritta: Vado al bar",
+        "Grammatica: verbi in -are, -ere, -ire, verbi irregolari andare/fare",
+        "Chiedere e dire perché andiamo al bar"
+      ],
+      "file": "a4l1.json",
+      "flashcard_count": 22,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L4-2",
+      "title": "Un incontro",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Cosa fanno?",
+        "Lessico: Bevande e spuntini",
+        "Comprensione orale: Al bar",
+        "Attività comunicativa: E tu che cosa prendi?"
+      ],
+      "file": "a4l2.json",
+      "flashcard_count": 22,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L4-3",
+      "title": "Un incontro",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Perché vai al bar?",
+        "Lessico: Bevande e spuntini",
+        "Comprensione orale: Al bar",
+        "Attività comunicativa: E tu che cosa prendi?"
+      ],
+      "file": "a4l3.json",
+      "flashcard_count": 17,
+      "language_rule_count": 5,
+      "dialogue_count": 1
+    },
+    {
+      "id": "A1-L4-4",
+      "title": "Un incontro",
+      "level": "A1",
+      "objectives": [
+        "Ripasso: Chiedi e rispondo",
+        "Comprensione orale: Offro io!",
+        "Grammatica: verbi irregolari (bere)",
+        "Attività comunicativa: Preferisci...?"
+      ],
+      "file": "a4l4.json",
+      "flashcard_count": 21,
       "language_rule_count": 5,
       "dialogue_count": 1
     }

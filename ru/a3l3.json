@@ -335,5 +335,137 @@
         }
       ]
     }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "abitare",
+      "translation_en": "to live / to reside",
+      "translation_ru": "жить / проживать",
+      "forms": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      }
+    },
+    {
+      "infinitive": "scrivere",
+      "translation_en": "to write",
+      "translation_ru": "писать",
+      "forms": {
+        "io": "scrivo",
+        "tu": "scrivi",
+        "lui/lei/Lei": "scrive",
+        "noi": "scriviamo",
+        "voi": "scrivete",
+        "loro": "scrivono"
+      }
+    },
+    {
+      "infinitive": "leggere",
+      "translation_en": "to read",
+      "translation_ru": "читать",
+      "forms": {
+        "io": "leggo",
+        "tu": "leggi",
+        "lui/lei/Lei": "legge",
+        "noi": "leggiamo",
+        "voi": "leggete",
+        "loro": "leggono"
+      }
+    },
+    {
+      "infinitive": "prendere",
+      "translation_en": "to take",
+      "translation_ru": "брать; садиться на транспорт",
+      "forms": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      }
+    },
+    {
+      "infinitive": "partire",
+      "translation_en": "to leave / to depart",
+      "translation_ru": "уезжать / отправляться",
+      "forms": {
+        "io": "parto",
+        "tu": "parti",
+        "lui/lei/Lei": "parte",
+        "noi": "partiamo",
+        "voi": "partite",
+        "loro": "partono"
+      }
+    },
+    {
+      "infinitive": "sentire",
+      "translation_en": "to hear / to feel",
+      "translation_ru": "слышать / чувствовать",
+      "forms": {
+        "io": "sento",
+        "tu": "senti",
+        "lui/lei/Lei": "sente",
+        "noi": "sentiamo",
+        "voi": "sentite",
+        "loro": "sentono"
+      }
+    },
+    {
+      "infinitive": "dormire",
+      "translation_en": "to sleep",
+      "translation_ru": "спать",
+      "forms": {
+        "io": "dormo",
+        "tu": "dormi",
+        "lui/lei/Lei": "dorme",
+        "noi": "dormiamo",
+        "voi": "dormite",
+        "loro": "dormono"
+      }
+    },
+    {
+      "infinitive": "aprire",
+      "translation_en": "to open",
+      "translation_ru": "открывать",
+      "forms": {
+        "io": "apro",
+        "tu": "apri",
+        "lui/lei/Lei": "apre",
+        "noi": "apriamo",
+        "voi": "aprite",
+        "loro": "aprono"
+      }
+    },
+    {
+      "infinitive": "preferire",
+      "translation_en": "to prefer",
+      "translation_ru": "предпочитать",
+      "forms": {
+        "io": "preferisco",
+        "tu": "preferisci",
+        "lui/lei/Lei": "preferisce",
+        "noi": "preferiamo",
+        "voi": "preferite",
+        "loro": "preferiscono"
+      }
+    }
   ]
 }

@@ -315,5 +315,33 @@
   ],
   "acronym_practice": [
     "sigle in italiano"
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "chiamarsi",
+      "translation_en": "to be called",
+      "translation_ru": "называться / зваться",
+      "forms": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      }
+    }
   ]
 }
