@@ -1,0 +1,413 @@
+{
+  "lesson_info": {
+    "id": "A1-L4-2",
+    "title": "Un incontro",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: Cosa fanno?",
+      "Lessico: Bevande e spuntini",
+      "Comprensione orale: Al bar",
+      "Attività comunicativa: E tu che cosa prendi?"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Review: fare expressions",
+      "description": "The verb 'fare' is used in many fixed expressions about daily activities. Review of all key 'fare + noun' combinations.",
+      "examples": [
+        {
+          "it": "Fate colazione con il caffè o con il tè?",
+          "translation": "Do you have breakfast with coffee or tea?"
+        },
+        {
+          "it": "Fate la doccia la mattina o la sera?",
+          "translation": "Do you take a shower in the morning or in the evening?"
+        },
+        {
+          "it": "Fate la spesa al mercato o al supermercato?",
+          "translation": "Do you do the shopping at the market or at the supermarket?"
+        },
+        {
+          "it": "Fate molte foto in vacanza?",
+          "translation": "Do you take many photos on holiday?"
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Drinks: bevande",
+      "description": "Key vocabulary for drinks ordered at an Italian bar.",
+      "examples": [
+        {
+          "it": "un caffè / un espresso",
+          "translation": "an espresso"
+        },
+        {
+          "it": "un cappuccino",
+          "translation": "a cappuccino"
+        },
+        {
+          "it": "un tè",
+          "translation": "a tea"
+        },
+        {
+          "it": "un'aranciata",
+          "translation": "an orange soda"
+        },
+        {
+          "it": "un succo di frutta",
+          "translation": "a fruit juice"
+        },
+        {
+          "it": "un bicchiere di acqua minerale",
+          "translation": "a glass of mineral water"
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Snacks: spuntini",
+      "description": "Key vocabulary for food items available at an Italian bar.",
+      "examples": [
+        {
+          "it": "un cornetto",
+          "translation": "a croissant"
+        },
+        {
+          "it": "un panino",
+          "translation": "a sandwich"
+        },
+        {
+          "it": "un tramezzino",
+          "translation": "a triangular sandwich"
+        },
+        {
+          "it": "una piadina",
+          "translation": "a flatbread wrap"
+        },
+        {
+          "it": "un toast",
+          "translation": "a toasted sandwich"
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Ordering at the bar: E tu che cosa prendi?",
+      "description": "Asking and saying what you will have at the bar.",
+      "examples": [
+        {
+          "context": "question",
+          "it": "Che cosa prendi?",
+          "translation": "What will you have?"
+        },
+        {
+          "context": "answer",
+          "it": "Prendo un cappuccino e un cornetto.",
+          "translation": "I'll have a cappuccino and a croissant."
+        },
+        {
+          "context": "question",
+          "it": "Come bevanda prendi…?",
+          "translation": "As a drink, will you have…?"
+        },
+        {
+          "context": "answer",
+          "it": "Come spuntino prendo un tramezzino.",
+          "translation": "As a snack I'll have a triangular sandwich."
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Bar furniture and staff",
+      "description": "Vocabulary for the physical layout of an Italian bar.",
+      "examples": [
+        {
+          "it": "il banco",
+          "translation": "the counter"
+        },
+        {
+          "it": "il tavolino",
+          "translation": "the small table"
+        },
+        {
+          "it": "la cassa",
+          "translation": "the till / cash desk"
+        },
+        {
+          "it": "il barista",
+          "translation": "the barista / bar person"
+        },
+        {
+          "it": "la macchina per il caffè",
+          "translation": "the coffee machine"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "la bevanda",
+      "definition": "drink, beverage",
+      "type": "noun"
+    },
+    {
+      "term": "lo spuntino",
+      "definition": "snack",
+      "type": "noun"
+    },
+    {
+      "term": "il caffè",
+      "definition": "coffee / espresso",
+      "type": "drink"
+    },
+    {
+      "term": "il cappuccino",
+      "definition": "cappuccino",
+      "type": "drink"
+    },
+    {
+      "term": "il tè",
+      "definition": "tea",
+      "type": "drink"
+    },
+    {
+      "term": "l'aranciata",
+      "definition": "orange soda",
+      "type": "drink"
+    },
+    {
+      "term": "il succo di frutta",
+      "definition": "fruit juice",
+      "type": "drink"
+    },
+    {
+      "term": "l'acqua minerale",
+      "definition": "mineral water",
+      "type": "drink"
+    },
+    {
+      "term": "il cornetto",
+      "definition": "croissant",
+      "type": "food"
+    },
+    {
+      "term": "il panino",
+      "definition": "sandwich, bread roll",
+      "type": "food"
+    },
+    {
+      "term": "il tramezzino",
+      "definition": "triangular sandwich",
+      "type": "food"
+    },
+    {
+      "term": "la piadina",
+      "definition": "flatbread wrap",
+      "type": "food"
+    },
+    {
+      "term": "il toast",
+      "definition": "toasted sandwich",
+      "type": "food"
+    },
+    {
+      "term": "il banco",
+      "definition": "bar counter",
+      "type": "noun"
+    },
+    {
+      "term": "il tavolino",
+      "definition": "small table",
+      "type": "noun"
+    },
+    {
+      "term": "la cassa",
+      "definition": "till, cash desk",
+      "type": "noun"
+    },
+    {
+      "term": "il barista",
+      "definition": "barista, bar person",
+      "type": "profession"
+    },
+    {
+      "term": "pagare alla cassa",
+      "definition": "to pay at the till",
+      "type": "phrase"
+    },
+    {
+      "term": "stare in compagnia",
+      "definition": "to spend time with others",
+      "type": "phrase"
+    },
+    {
+      "term": "Che cosa prendi?",
+      "definition": "What will you have?",
+      "type": "phrase"
+    },
+    {
+      "term": "Prendo…",
+      "definition": "I'll have…",
+      "type": "phrase"
+    },
+    {
+      "term": "il pisolino",
+      "definition": "nap",
+      "type": "noun"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Osservate e rispondete.",
+      "translation": "Look and answer."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Match."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Answer."
+    },
+    {
+      "it": "Che cosa prendete?",
+      "translation": "What will you have?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L4-2-01",
+      "title": "Al bar",
+      "register": "informal",
+      "context": "Two friends are at the bar and order drinks and snacks.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Allora, che cosa prendi?",
+          "translation": "So, what will you have?"
+        },
+        {
+          "speaker": "B",
+          "it": "Prendo un cappuccino e un cornetto. E tu?",
+          "translation": "I'll have a cappuccino and a croissant. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Io prendo un caffè e un tramezzino al tonno.",
+          "translation": "I'll have an espresso and a tuna sandwich."
+        },
+        {
+          "speaker": "B",
+          "it": "Paghiamo alla cassa?",
+          "translation": "Shall we pay at the till?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, oggi offro io!",
+          "translation": "Yes, today it's my treat!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask what someone will have",
+          "expected_it": "Che cosa prendi?"
+        },
+        {
+          "cue": "Order a drink and a snack",
+          "expected_it": "Prendo un/una … e un/una …"
+        },
+        {
+          "cue": "Say it is your treat",
+          "expected_it": "Oggi offro io!"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "andare",
+      "translation_en": "to go",
+      "translation_ru": "идти / ехать",
+      "forms": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei/Lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      }
+    },
+    {
+      "infinitive": "fare",
+      "translation_en": "to do / to make",
+      "translation_ru": "делать",
+      "forms": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei/Lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      }
+    },
+    {
+      "infinitive": "bere",
+      "translation_en": "to drink",
+      "translation_ru": "пить",
+      "forms": {
+        "io": "bevo",
+        "tu": "bevi",
+        "lui/lei/Lei": "beve",
+        "noi": "beviamo",
+        "voi": "bevete",
+        "loro": "bevono"
+      }
+    },
+    {
+      "infinitive": "prendere",
+      "translation_en": "to take",
+      "translation_ru": "брать; садиться на транспорт",
+      "forms": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      }
+    }
+  ]
+}

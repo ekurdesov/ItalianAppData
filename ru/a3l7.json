@@ -1,0 +1,422 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-7",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Лексика: Com'è?",
+      "Аудирование: Alla festa",
+      "Грамматика: c'è / ci sono",
+      "Описание внешности: È alto, è moro, ha gli occhiali"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "c'è и ci sono",
+      "description": "«C'è» (ci + è) означает «есть» для одного предмета; «ci sono» (ci + sono) — «есть» для нескольких.",
+      "examples": [
+        {
+          "it": "In questa foto c'è un signore calvo.",
+          "translation": "На этой фотографии есть лысый мужчина."
+        },
+        {
+          "it": "In questa foto ci sono due persone anziane.",
+          "translation": "На этой фотографии есть два пожилых человека."
+        },
+        {
+          "it": "Nella borsa c'è la chiave di casa.",
+          "translation": "В сумке есть ключ от дома."
+        },
+        {
+          "it": "Sul banco ci sono i quaderni di Lucia.",
+          "translation": "На парте лежат тетради Лючии."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "essere vs esserci",
+      "description": "«È/sono» используется, чтобы сказать, что что-то ЕСТЬ или ГДЕ оно находится (известное место). «C'è/ci sono» — чтобы сообщить о СУЩЕСТВОВАНИИ чего-либо.",
+      "examples": [
+        {
+          "it": "Il libro è sul tavolo.",
+          "translation": "Книга лежит на столе."
+        },
+        {
+          "it": "Sul tavolo c'è un libro.",
+          "translation": "На столе есть книга."
+        },
+        {
+          "it": "I soldi sono nel portafoglio.",
+          "translation": "Деньги в кошельке."
+        },
+        {
+          "it": "Nel portafoglio ci sono i soldi.",
+          "translation": "В кошельке есть деньги."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Описание настроения и эмоционального состояния",
+      "description": "В итальянском для описания состояния используется essere + прилагательное.",
+      "examples": [
+        {
+          "it": "È arrabbiato.",
+          "translation": "Он злой."
+        },
+        {
+          "it": "È felice.",
+          "translation": "Он/она счастлив(а)."
+        },
+        {
+          "it": "È stanco.",
+          "translation": "Он устал."
+        },
+        {
+          "it": "È triste.",
+          "translation": "Он/она грустный(-ая)."
+        },
+        {
+          "it": "È preoccupata.",
+          "translation": "Она обеспокоена."
+        },
+        {
+          "it": "È annoiata.",
+          "translation": "Ей скучно."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Описание человека на вечеринке",
+      "description": "Сочетание описания внешности с c'è/ci sono для идентификации людей в группе.",
+      "examples": [
+        {
+          "it": "Il padrone di casa è il signore calvo, con i baffi.",
+          "translation": "Хозяин — лысый мужчина с усами."
+        },
+        {
+          "it": "Marco è quello con il maglione a righe e i capelli lunghi.",
+          "translation": "Марко — тот, что в полосатом свитере с длинными волосами."
+        },
+        {
+          "it": "Luisa è la ragazza bionda, con i capelli lunghi.",
+          "translation": "Луиза — блондинка с длинными волосами."
+        },
+        {
+          "it": "Sara è quella con gli occhiali e i capelli corti e ricci.",
+          "translation": "Сара — та, что в очках с короткими кудрявыми волосами."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Спросить о настроении: Di che umore sei?",
+      "description": "Распространённый вопрос о том, в каком настроении человек сегодня.",
+      "examples": [
+        {
+          "context": "вопрос",
+          "it": "Di che umore sei oggi?",
+          "translation": "В каком ты сегодня настроении?"
+        },
+        {
+          "context": "ответ",
+          "it": "Sono stanco/a.",
+          "translation": "Я устал(а)."
+        },
+        {
+          "context": "ответ",
+          "it": "Sono di buon umore.",
+          "translation": "Я в хорошем настроении."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "c'è",
+      "definition": "есть (один предмет)",
+      "type": "грамматическая конструкция"
+    },
+    {
+      "term": "ci sono",
+      "definition": "есть (несколько предметов)",
+      "type": "грамматическая конструкция"
+    },
+    {
+      "term": "arrabbiato",
+      "definition": "злой",
+      "type": "прилагательное"
+    },
+    {
+      "term": "felice",
+      "definition": "счастливый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "stanco",
+      "definition": "усталый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "triste",
+      "definition": "грустный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "preoccupato",
+      "definition": "обеспокоенный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "annoiato",
+      "definition": "скучающий",
+      "type": "прилагательное"
+    },
+    {
+      "term": "stufo",
+      "definition": "сытый по горло, надоело",
+      "type": "прилагательное"
+    },
+    {
+      "term": "timido",
+      "definition": "застенчивый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "il padrone di casa",
+      "definition": "хозяин (мужчина)",
+      "type": "существительное"
+    },
+    {
+      "term": "la padrona di casa",
+      "definition": "хозяйка (женщина)",
+      "type": "существительное"
+    },
+    {
+      "term": "il maglione a righe",
+      "definition": "полосатый свитер",
+      "type": "одежда"
+    },
+    {
+      "term": "grigio",
+      "definition": "серый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "robusto",
+      "definition": "крепкий, коренастый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "il portafoglio",
+      "definition": "кошелёк",
+      "type": "существительное"
+    },
+    {
+      "term": "la borsa",
+      "definition": "сумка",
+      "type": "существительное"
+    },
+    {
+      "term": "la chiave",
+      "definition": "ключ",
+      "type": "существительное"
+    },
+    {
+      "term": "il tappeto",
+      "definition": "ковёр",
+      "type": "существительное"
+    },
+    {
+      "term": "l'armadio",
+      "definition": "шкаф",
+      "type": "существительное"
+    },
+    {
+      "term": "Di che umore sei?",
+      "definition": "В каком ты настроении?",
+      "type": "фраза"
+    },
+    {
+      "term": "Sono di buon umore.",
+      "definition": "Я в хорошем настроении.",
+      "type": "фраза"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Ascolta e abbina.",
+      "translation": "Послушайте и соедините."
+    },
+    {
+      "it": "Riascoltate e completate.",
+      "translation": "Послушайте ещё раз и дополните."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Соедините."
+    },
+    {
+      "it": "Inserite negli spazi c'è o ci sono.",
+      "translation": "Вставьте в пропуски c'è или ci sono."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Работайте в парах."
+    },
+    {
+      "it": "Che cosa c'è sul tavolo?",
+      "translation": "Что есть на столе?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-7-01",
+      "title": "Alla festa",
+      "register": "informal",
+      "context": "Двое людей на вечеринке узнают других гостей по внешности.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Chi è il padrone di casa?",
+          "translation": "Кто хозяин?"
+        },
+        {
+          "speaker": "B",
+          "it": "È il signore calvo, con i baffi.",
+          "translation": "Это лысый мужчина с усами."
+        },
+        {
+          "speaker": "A",
+          "it": "E quella ragazza bionda con i capelli lunghi, chi è?",
+          "translation": "А та блондинка с длинными волосами, кто это?"
+        },
+        {
+          "speaker": "B",
+          "it": "È Luisa.",
+          "translation": "Это Луиза."
+        },
+        {
+          "speaker": "A",
+          "it": "C'è anche Marco?",
+          "translation": "Марко тоже здесь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, è quello con il maglione a righe e i capelli lunghi.",
+          "translation": "Да, это тот, что в полосатом свитере с длинными волосами."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Сказать, что есть один человек",
+          "expected_it": "C'è un/una …"
+        },
+        {
+          "cue": "Сказать, что есть несколько людей",
+          "expected_it": "Ci sono … persone."
+        },
+        {
+          "cue": "Описать кого-то по внешности",
+          "expected_it": "È quello/quella con … / È il/la … con …"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "abitare",
+      "translation_en": "to live / to reside",
+      "translation_ru": "жить / проживать",
+      "forms": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      }
+    },
+    {
+      "infinitive": "parlare",
+      "translation_en": "to speak",
+      "translation_ru": "говорить",
+      "forms": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei/Lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      }
+    },
+    {
+      "infinitive": "studiare",
+      "translation_en": "to study",
+      "translation_ru": "учиться / изучать",
+      "forms": {
+        "io": "studio",
+        "tu": "studi",
+        "lui/lei/Lei": "studia",
+        "noi": "studiamo",
+        "voi": "studiate",
+        "loro": "studiano"
+      }
+    },
+    {
+      "infinitive": "lavorare",
+      "translation_en": "to work",
+      "translation_ru": "работать",
+      "forms": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei/Lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      }
+    },
+    {
+      "infinitive": "stare",
+      "translation_en": "to stay / to be (health)",
+      "translation_ru": "находиться / чувствовать себя",
+      "forms": {
+        "io": "sto",
+        "tu": "stai",
+        "lui/lei/Lei": "sta",
+        "noi": "stiamo",
+        "voi": "state",
+        "loro": "stanno"
+      }
+    }
+  ]
+}

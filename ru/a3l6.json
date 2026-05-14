@@ -1,0 +1,469 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-6",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Повторение: Presentiamoci!",
+      "Аудирование: Indovina chi...",
+      "Грамматика: существительное + прилагательное",
+      "Описание внешности: Com'è?"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Согласование существительного и прилагательного",
+      "description": "В итальянском прилагательные согласуются с существительным в роде и числе. Мужской род: -o (ед.ч.) / -i (мн.ч.); женский: -a (ед.ч.) / -e (мн.ч.).",
+      "examples": [
+        {
+          "it": "un ragazzo alto",
+          "translation": "высокий парень"
+        },
+        {
+          "it": "una ragazza alta",
+          "translation": "высокая девушка"
+        },
+        {
+          "it": "i capelli lunghi",
+          "translation": "длинные волосы"
+        },
+        {
+          "it": "gli occhi neri",
+          "translation": "чёрные глаза"
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Прилагательные для описания внешности",
+      "description": "Основные прилагательные для описания телосложения, роста и общего вида человека.",
+      "examples": [
+        {
+          "it": "alto / basso",
+          "translation": "высокий / низкий"
+        },
+        {
+          "it": "magro / grasso",
+          "translation": "худой / толстый"
+        },
+        {
+          "it": "giovane / anziano",
+          "translation": "молодой / пожилой"
+        },
+        {
+          "it": "calvo",
+          "translation": "лысый"
+        },
+        {
+          "it": "di media statura",
+          "translation": "среднего роста"
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Описание волос и глаз",
+      "description": "Для описания волос и глаз используется глагол avere, прилагательные согласуются с существительным.",
+      "examples": [
+        {
+          "it": "Ha i capelli biondi / castani / neri / rossi.",
+          "translation": "У него/неё светлые / каштановые / чёрные / рыжие волосы."
+        },
+        {
+          "it": "Ha i capelli ricci / lisci / corti / lunghi.",
+          "translation": "У него/неё кудрявые / прямые / короткие / длинные волосы."
+        },
+        {
+          "it": "Ha gli occhi azzurri / verdi / marroni / castani.",
+          "translation": "У него/неё голубые / зелёные / карие / каштановые глаза."
+        },
+        {
+          "it": "Ha i baffi.",
+          "translation": "У него усы."
+        },
+        {
+          "it": "Ha il pizzetto.",
+          "translation": "У него козлиная бородка."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Как спросить и описать внешность: Com'è?",
+      "description": "Вопрос «Com'è?» означает «Как он/она выглядит?». Ответ строится через essere + прилагательное и avere + часть тела.",
+      "examples": [
+        {
+          "context": "вопрос",
+          "it": "Com'è?",
+          "translation": "Как он/она выглядит?"
+        },
+        {
+          "context": "ответ",
+          "it": "È alto, magro, ha i capelli corti e il pizzetto.",
+          "translation": "Он высокий, худой, с короткими волосами и козлиной бородкой."
+        },
+        {
+          "context": "ответ",
+          "it": "È una ragazza giovane, di media statura con gli occhi neri e i capelli neri e corti.",
+          "translation": "Это молодая девушка среднего роста с чёрными глазами и короткими чёрными волосами."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Игра «Угадай кто»: Indovina chi",
+      "description": "Распространённое упражнение: один студент описывает человека, другие угадывают, кто это, задавая вопросы «да/нет».",
+      "examples": [
+        {
+          "it": "È alto? — Sì.",
+          "translation": "Он высокий? — Да."
+        },
+        {
+          "it": "È grasso? — No.",
+          "translation": "Он толстый? — Нет."
+        },
+        {
+          "it": "Ha i capelli corti? — Sì.",
+          "translation": "У него короткие волосы? — Да."
+        },
+        {
+          "it": "È Marco? — Sì, hai indovinato!",
+          "translation": "Это Марко? — Да, ты угадал!"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "alto",
+      "definition": "высокий",
+      "type": "прилагательное"
+    },
+    {
+      "term": "basso",
+      "definition": "низкий",
+      "type": "прилагательное"
+    },
+    {
+      "term": "magro",
+      "definition": "худой",
+      "type": "прилагательное"
+    },
+    {
+      "term": "grasso",
+      "definition": "толстый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "giovane",
+      "definition": "молодой",
+      "type": "прилагательное"
+    },
+    {
+      "term": "anziano",
+      "definition": "пожилой",
+      "type": "прилагательное"
+    },
+    {
+      "term": "calvo",
+      "definition": "лысый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "di media statura",
+      "definition": "среднего роста",
+      "type": "фраза"
+    },
+    {
+      "term": "i capelli",
+      "definition": "волосы",
+      "type": "существительное"
+    },
+    {
+      "term": "gli occhi",
+      "definition": "глаза",
+      "type": "существительное"
+    },
+    {
+      "term": "i baffi",
+      "definition": "усы",
+      "type": "существительное"
+    },
+    {
+      "term": "il pizzetto",
+      "definition": "козлиная бородка",
+      "type": "существительное"
+    },
+    {
+      "term": "gli occhiali",
+      "definition": "очки",
+      "type": "существительное"
+    },
+    {
+      "term": "la pelle",
+      "definition": "кожа",
+      "type": "существительное"
+    },
+    {
+      "term": "biondo",
+      "definition": "светловолосый, блондин",
+      "type": "прилагательное"
+    },
+    {
+      "term": "castano",
+      "definition": "каштановый (волосы/глаза)",
+      "type": "прилагательное"
+    },
+    {
+      "term": "nero",
+      "definition": "чёрный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "rosso",
+      "definition": "рыжий / красный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "azzurro",
+      "definition": "голубой (глаза)",
+      "type": "прилагательное"
+    },
+    {
+      "term": "verde",
+      "definition": "зелёный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "riccio",
+      "definition": "кудрявый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "liscio",
+      "definition": "прямой (волосы)",
+      "type": "прилагательное"
+    },
+    {
+      "term": "corto",
+      "definition": "короткий",
+      "type": "прилагательное"
+    },
+    {
+      "term": "lungo",
+      "definition": "длинный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "robusto",
+      "definition": "крепкий, коренастый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "porta gli occhiali",
+      "definition": "носит очки",
+      "type": "фраза"
+    },
+    {
+      "term": "Com'è?",
+      "definition": "Как он/она выглядит?",
+      "type": "фраза"
+    },
+    {
+      "term": "Hai indovinato!",
+      "definition": "Ты угадал!",
+      "type": "фраза"
+    },
+    {
+      "term": "antipatico",
+      "definition": "неприятный, несимпатичный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "simpatico",
+      "definition": "симпатичный, приятный",
+      "type": "прилагательное"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Послушайте и дополните."
+    },
+    {
+      "it": "Ascoltate e indicate.",
+      "translation": "Послушайте и укажите."
+    },
+    {
+      "it": "Riascoltate e completate.",
+      "translation": "Послушайте ещё раз и дополните."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Соедините."
+    },
+    {
+      "it": "Lavorate a coppie.",
+      "translation": "Работайте в парах."
+    },
+    {
+      "it": "Mi descrivo: sono …",
+      "translation": "Я описываю себя: я …"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-6-01",
+      "title": "Indovina chi",
+      "register": "informal",
+      "context": "Два студента играют в игру «Угадай кто», описывая кого-то из класса.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "È alto?",
+          "translation": "Он высокий?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì.",
+          "translation": "Да."
+        },
+        {
+          "speaker": "A",
+          "it": "È grasso?",
+          "translation": "Он толстый?"
+        },
+        {
+          "speaker": "B",
+          "it": "No.",
+          "translation": "Нет."
+        },
+        {
+          "speaker": "A",
+          "it": "È biondo?",
+          "translation": "Он блондин?"
+        },
+        {
+          "speaker": "B",
+          "it": "No.",
+          "translation": "Нет."
+        },
+        {
+          "speaker": "A",
+          "it": "Ha i capelli corti?",
+          "translation": "У него короткие волосы?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì.",
+          "translation": "Да."
+        },
+        {
+          "speaker": "A",
+          "it": "È Marco?",
+          "translation": "Это Марко?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, hai indovinato!",
+          "translation": "Да, ты угадал!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить, высокий ли человек",
+          "expected_it": "È alto/a?"
+        },
+        {
+          "cue": "Спросить о цвете волос",
+          "expected_it": "Ha i capelli biondi/castani/neri?"
+        },
+        {
+          "cue": "Описать себя",
+          "expected_it": "Sono … Ho i capelli … e gli occhi …"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "abitare",
+      "translation_en": "to live / to reside",
+      "translation_ru": "жить / проживать",
+      "forms": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      }
+    },
+    {
+      "infinitive": "parlare",
+      "translation_en": "to speak",
+      "translation_ru": "говорить",
+      "forms": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei/Lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      }
+    },
+    {
+      "infinitive": "studiare",
+      "translation_en": "to study",
+      "translation_ru": "учиться / изучать",
+      "forms": {
+        "io": "studio",
+        "tu": "studi",
+        "lui/lei/Lei": "studia",
+        "noi": "studiamo",
+        "voi": "studiate",
+        "loro": "studiano"
+      }
+    },
+    {
+      "infinitive": "lavorare",
+      "translation_en": "to work",
+      "translation_ru": "работать",
+      "forms": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei/Lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      }
+    }
+  ]
+}

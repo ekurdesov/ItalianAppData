@@ -1,0 +1,412 @@
+{
+  "lesson_info": {
+    "id": "A1-L4-1",
+    "title": "Un incontro",
+    "level": "A1",
+    "objectives": [
+      "Чтение: Vado al bar",
+      "Грамматика: глаголы на -are, -ere, -ire, неправильные глаголы andare/fare",
+      "Спрашивать и говорить, зачем мы идём в бар"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Правильные глаголы на -are (повторение)",
+      "description": "Правильные глаголы на -are в настоящем времени имеют окончания -o, -i, -a, -iamo, -ate, -ano.",
+      "conjugations": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei/Lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      },
+      "examples": [
+        {
+          "it": "Stefano lavora al bar.",
+          "translation": "Стефано работает в баре."
+        },
+        {
+          "it": "Monica arriva tardi in ufficio.",
+          "translation": "Моника приходит в офис поздно."
+        },
+        {
+          "it": "I vicini di casa litigano spesso.",
+          "translation": "Соседи часто ссорятся."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Правильные глаголы на -ere (повторение)",
+      "description": "Правильные глаголы на -ere в настоящем времени имеют окончания -o, -i, -e, -iamo, -ete, -ono.",
+      "conjugations": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      },
+      "examples": [
+        {
+          "it": "Stefano prende l'autobus per andare al lavoro.",
+          "translation": "Стефано едет на автобусе на работу."
+        },
+        {
+          "it": "Il bar chiude alle 8.",
+          "translation": "Бар закрывается в 8."
+        },
+        {
+          "it": "La mia famiglia riceve molti pacchi.",
+          "translation": "Моя семья получает много посылок."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Неправильный глагол: andare",
+      "description": "Глагол «andare» (идти/ехать) неправильный в настоящем времени.",
+      "conjugations": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei/Lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      },
+      "examples": [
+        {
+          "it": "La mattina Piero va in ufficio alle nove.",
+          "translation": "Утром Пьеро идёт в офис в девять."
+        },
+        {
+          "it": "Ogni sera vado in piscina con Marina.",
+          "translation": "Каждый вечер я хожу в бассейн с Мариной."
+        },
+        {
+          "it": "Andate a cena al ristorante sabato?",
+          "translation": "Вы идёте ужинать в ресторан в субботу?"
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Неправильный глагол: fare",
+      "description": "Глагол «fare» (делать) неправильный. Используется во многих устойчивых выражениях.",
+      "conjugations": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei/Lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      },
+      "examples": [
+        {
+          "it": "Tutte le mattine Roberto fa colazione con un cornetto e un cappuccino.",
+          "translation": "Каждое утро Роберто завтракает круассаном и капучино."
+        },
+        {
+          "it": "Noi facciamo belle fotografie.",
+          "translation": "Мы делаем красивые фотографии."
+        },
+        {
+          "it": "Cosa fate dopo cena?",
+          "translation": "Что вы делаете после ужина?"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Сказать, зачем идёшь в бар",
+      "description": "Конструкция «Vado al bar per + инфинитив» объясняет цель похода в бар.",
+      "examples": [
+        {
+          "it": "Vado al bar per fare colazione.",
+          "translation": "Я иду в бар позавтракать."
+        },
+        {
+          "it": "Vado al bar per incontrare gli amici.",
+          "translation": "Я иду в бар встретиться с друзьями."
+        },
+        {
+          "it": "Vado al bar per fare una pausa.",
+          "translation": "Я иду в бар сделать перерыв."
+        },
+        {
+          "it": "Vado al bar per leggere il giornale.",
+          "translation": "Я иду в бар почитать газету."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "andare",
+      "definition": "идти / ехать",
+      "type": "глагол"
+    },
+    {
+      "term": "fare",
+      "definition": "делать",
+      "type": "глагол"
+    },
+    {
+      "term": "il bar",
+      "definition": "бар, кафе",
+      "type": "существительное"
+    },
+    {
+      "term": "fare colazione",
+      "definition": "завтракать",
+      "type": "фраза"
+    },
+    {
+      "term": "fare una pausa",
+      "definition": "сделать перерыв",
+      "type": "фраза"
+    },
+    {
+      "term": "fare una passeggiata",
+      "definition": "прогуляться",
+      "type": "фраза"
+    },
+    {
+      "term": "fare la spesa",
+      "definition": "делать покупки (продукты)",
+      "type": "фраза"
+    },
+    {
+      "term": "fare la doccia",
+      "definition": "принять душ",
+      "type": "фраза"
+    },
+    {
+      "term": "fare fotografie",
+      "definition": "фотографировать",
+      "type": "фраза"
+    },
+    {
+      "term": "fare un giro",
+      "definition": "прокатиться / прогуляться",
+      "type": "фраза"
+    },
+    {
+      "term": "l'aperitivo",
+      "definition": "аперитив",
+      "type": "существительное"
+    },
+    {
+      "term": "il cornetto",
+      "definition": "круассан",
+      "type": "еда"
+    },
+    {
+      "term": "il panino",
+      "definition": "бутерброд, булочка",
+      "type": "еда"
+    },
+    {
+      "term": "il giornale",
+      "definition": "газета",
+      "type": "существительное"
+    },
+    {
+      "term": "la piscina",
+      "definition": "бассейн",
+      "type": "существительное"
+    },
+    {
+      "term": "l'ufficio",
+      "definition": "офис",
+      "type": "существительное"
+    },
+    {
+      "term": "la mensa",
+      "definition": "столовая",
+      "type": "существительное"
+    },
+    {
+      "term": "il meccanico",
+      "definition": "механик",
+      "type": "профессия"
+    },
+    {
+      "term": "la segretaria",
+      "definition": "секретарь",
+      "type": "профессия"
+    },
+    {
+      "term": "le patatine",
+      "definition": "чипсы",
+      "type": "еда"
+    },
+    {
+      "term": "le olive",
+      "definition": "оливки",
+      "type": "еда"
+    },
+    {
+      "term": "per + infinito",
+      "definition": "чтобы (цель)",
+      "type": "грамматическая конструкция"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Leggete.",
+      "translation": "Прочитайте."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Completate con il verbo andare.",
+      "translation": "Дополните глаголом andare."
+    },
+    {
+      "it": "Completate con il verbo fare.",
+      "translation": "Дополните глаголом fare."
+    },
+    {
+      "it": "Abbinate le forme e i pronomi.",
+      "translation": "Соедините формы и местоимения."
+    },
+    {
+      "it": "Andate volentieri al bar?",
+      "translation": "Вы охотно ходите в бар?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L4-1-01",
+      "title": "Vado al bar per...",
+      "register": "informal",
+      "context": "Студенты обсуждают, зачем ходят в бар, используя конструкцию «per + инфинитив».",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Perché vai al bar?",
+          "translation": "Зачем ты ходишь в бар?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vado al bar per fare colazione e leggere il giornale. E tu?",
+          "translation": "Я хожу в бар позавтракать и почитать газету. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Io vado al bar per incontrare gli amici e prendere un aperitivo.",
+          "translation": "Я хожу в бар встретиться с друзьями и выпить аперитив."
+        },
+        {
+          "speaker": "B",
+          "it": "Andate spesso al bar?",
+          "translation": "Вы часто ходите в бар?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, andiamo quasi ogni giorno.",
+          "translation": "Да, мы ходим почти каждый день."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Сказать, что идёшь в бар позавтракать",
+          "expected_it": "Vado al bar per fare colazione."
+        },
+        {
+          "cue": "Спросить, куда кто-то идёт утром",
+          "expected_it": "Dove vai la mattina?"
+        },
+        {
+          "cue": "Сказать, что делаешь после ужина",
+          "expected_it": "Dopo cena faccio …"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "andare",
+      "translation_en": "to go",
+      "translation_ru": "идти / ехать",
+      "forms": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei/Lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      }
+    },
+    {
+      "infinitive": "fare",
+      "translation_en": "to do / to make",
+      "translation_ru": "делать",
+      "forms": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei/Lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      }
+    },
+    {
+      "infinitive": "prendere",
+      "translation_en": "to take",
+      "translation_ru": "брать; садиться на транспорт",
+      "forms": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      }
+    },
+    {
+      "infinitive": "lavorare",
+      "translation_en": "to work",
+      "translation_ru": "работать",
+      "forms": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei/Lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      }
+    }
+  ]
+}

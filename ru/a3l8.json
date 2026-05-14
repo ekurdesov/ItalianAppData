@@ -1,0 +1,358 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-8",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Повторение: Com'è?",
+      "Аудирование: Nomi e cognomi italiani",
+      "Грамматика: essere VS esserci",
+      "Коммуникативная деятельность: Quante domande!"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "essere vs esserci — сравнение",
+      "description": "«È/sono» указывает на местонахождение или идентифицирует уже известное. «C'è/ci sono» сообщает о существовании чего-либо.",
+      "examples": [
+        {
+          "it": "L'orologio è nel cassetto.",
+          "translation": "Часы в ящике."
+        },
+        {
+          "it": "Nel cassetto c'è l'orologio.",
+          "translation": "В ящике есть часы."
+        },
+        {
+          "it": "Gli amici sono al bar.",
+          "translation": "Друзья в баре."
+        },
+        {
+          "it": "Al bar ci sono gli amici.",
+          "translation": "В баре есть друзья."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Вопросительные слова (interrogativi)",
+      "description": "Итальянские вопросительные слова для вопросов о людях, предметах, местах, времени и причинах.",
+      "examples": [
+        {
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "it": "Chi è il nuovo professore?",
+          "translation": "Кто новый преподаватель?"
+        },
+        {
+          "it": "Di dove sei?",
+          "translation": "Откуда ты?"
+        },
+        {
+          "it": "Quanti anni hai?",
+          "translation": "Сколько тебе лет?"
+        },
+        {
+          "it": "Dove vivi?",
+          "translation": "Где ты живёшь?"
+        },
+        {
+          "it": "Che cosa studi?",
+          "translation": "Что ты изучаешь?"
+        },
+        {
+          "it": "Qual è il tuo numero di telefono?",
+          "translation": "Какой у тебя номер телефона?"
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Итальянские имена и фамилии",
+      "description": "Распространённые итальянские имена и самые частые итальянские фамилии.",
+      "examples": [
+        {
+          "it": "Luca, Marco, Francesco, Alessandro",
+          "translation": "Распространённые мужские имена"
+        },
+        {
+          "it": "Sofia, Giulia, Martina, Sara",
+          "translation": "Распространённые женские имена"
+        },
+        {
+          "it": "Rossi, Ferrari, Esposito, Bianchi",
+          "translation": "Самые распространённые итальянские фамилии"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Описание черт тела с помощью c'è",
+      "description": "«C'è» используется для указания на конкретную особенность на теле человека.",
+      "examples": [
+        {
+          "it": "Vicino al naso di Silvia c'è un piccolo neo.",
+          "translation": "Рядом с носом Сильвии есть маленькая родинка."
+        },
+        {
+          "it": "Sulla gamba destra di Luca c'è un piccolo tatuaggio.",
+          "translation": "На правой ноге Луки есть маленькая татуировка."
+        },
+        {
+          "it": "Il neo è vicino al naso di Silvia.",
+          "translation": "Родинка находится рядом с носом Сильвии."
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Quante domande! — личные вопросы",
+      "description": "Коммуникативное упражнение: студенты задают и отвечают на разнообразные личные вопросы, используя все изученные вопросительные слова.",
+      "examples": [
+        {
+          "it": "Perché studi l'italiano?",
+          "translation": "Почему ты изучаешь итальянский?"
+        },
+        {
+          "it": "Quando parti per le vacanze?",
+          "translation": "Когда ты уезжаешь в отпуск?"
+        },
+        {
+          "it": "Dove vai in vacanza quest'anno?",
+          "translation": "Куда ты едешь в отпуск в этом году?"
+        },
+        {
+          "it": "Qual è il tuo indirizzo?",
+          "translation": "Какой у тебя адрес?"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "Come?",
+      "definition": "Как? / Как (зовут)?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Chi?",
+      "definition": "Кто?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Di dove?",
+      "definition": "Откуда?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Quanti?",
+      "definition": "Сколько?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Dove?",
+      "definition": "Где?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Che cosa?",
+      "definition": "Что?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Qual è?",
+      "definition": "Какой? / Что это?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Perché?",
+      "definition": "Почему?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "Quando?",
+      "definition": "Когда?",
+      "type": "вопросительное слово"
+    },
+    {
+      "term": "il neo",
+      "definition": "родинка",
+      "type": "существительное"
+    },
+    {
+      "term": "il tatuaggio",
+      "definition": "татуировка",
+      "type": "существительное"
+    },
+    {
+      "term": "il naso",
+      "definition": "нос",
+      "type": "существительное"
+    },
+    {
+      "term": "la gamba",
+      "definition": "нога",
+      "type": "существительное"
+    },
+    {
+      "term": "destra / sinistra",
+      "definition": "правый / левый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "il cassetto",
+      "definition": "ящик (стола)",
+      "type": "существительное"
+    },
+    {
+      "term": "il cognome",
+      "definition": "фамилия",
+      "type": "существительное"
+    },
+    {
+      "term": "il nome",
+      "definition": "имя",
+      "type": "существительное"
+    },
+    {
+      "term": "diffuso",
+      "definition": "распространённый",
+      "type": "прилагательное"
+    },
+    {
+      "term": "straniero",
+      "definition": "иностранный",
+      "type": "прилагательное"
+    },
+    {
+      "term": "Quante domande!",
+      "definition": "Сколько вопросов!",
+      "type": "фраза"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Guardate e rispondete.",
+      "translation": "Посмотрите и ответьте."
+    },
+    {
+      "it": "Scegliete.",
+      "translation": "Выберите."
+    },
+    {
+      "it": "Trasformate.",
+      "translation": "Преобразуйте."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Ответьте."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-8-01",
+      "title": "Quante domande!",
+      "register": "informal",
+      "context": "Два студента задают друг другу личные вопросы, используя все вопросительные слова урока.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come ti chiami?",
+          "translation": "Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Marco.",
+          "translation": "Меня зовут Марко."
+        },
+        {
+          "speaker": "A",
+          "it": "Di dove sei?",
+          "translation": "Откуда ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Di Milano. E tu dove vivi?",
+          "translation": "Из Милана. А ты где живёшь?"
+        },
+        {
+          "speaker": "A",
+          "it": "Vivo a Vigevano. Quanti anni hai?",
+          "translation": "Я живу в Виджевано. Сколько тебе лет?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho 23 anni. Che cosa studi?",
+          "translation": "Мне 23 года. Что ты изучаешь?"
+        },
+        {
+          "speaker": "A",
+          "it": "Studio Economia e commercio.",
+          "translation": "Я изучаю экономику и коммерцию."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить, откуда человек",
+          "expected_it": "Di dove sei?"
+        },
+        {
+          "cue": "Спросить, почему изучают итальянский",
+          "expected_it": "Perché studi l'italiano?"
+        },
+        {
+          "cue": "Спросить номер телефона",
+          "expected_it": "Qual è il tuo numero di telefono?"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "stare",
+      "translation_en": "to stay / to be (health)",
+      "translation_ru": "находиться / чувствовать себя",
+      "forms": {
+        "io": "sto",
+        "tu": "stai",
+        "lui/lei/Lei": "sta",
+        "noi": "stiamo",
+        "voi": "state",
+        "loro": "stanno"
+      }
+    }
+  ]
+}

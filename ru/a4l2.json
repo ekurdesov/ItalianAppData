@@ -1,0 +1,413 @@
+{
+  "lesson_info": {
+    "id": "A1-L4-2",
+    "title": "Un incontro",
+    "level": "A1",
+    "objectives": [
+      "Повторение: Cosa fanno?",
+      "Лексика: Bevande e spuntini",
+      "Аудирование: Al bar",
+      "Коммуникативная деятельность: E tu che cosa prendi?"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Повторение: выражения с fare",
+      "description": "Глагол «fare» используется во многих устойчивых выражениях о повседневных делах. Повторение всех ключевых сочетаний «fare + существительное».",
+      "examples": [
+        {
+          "it": "Fate colazione con il caffè o con il tè?",
+          "translation": "Вы завтракаете с кофе или с чаем?"
+        },
+        {
+          "it": "Fate la doccia la mattina o la sera?",
+          "translation": "Вы принимаете душ утром или вечером?"
+        },
+        {
+          "it": "Fate la spesa al mercato o al supermercato?",
+          "translation": "Вы делаете покупки на рынке или в супермаркете?"
+        },
+        {
+          "it": "Fate molte foto in vacanza?",
+          "translation": "Вы много фотографируете в отпуске?"
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Напитки: bevande",
+      "description": "Основная лексика для напитков, которые заказывают в итальянском баре.",
+      "examples": [
+        {
+          "it": "un caffè / un espresso",
+          "translation": "эспрессо"
+        },
+        {
+          "it": "un cappuccino",
+          "translation": "капучино"
+        },
+        {
+          "it": "un tè",
+          "translation": "чай"
+        },
+        {
+          "it": "un'aranciata",
+          "translation": "апельсиновая газировка"
+        },
+        {
+          "it": "un succo di frutta",
+          "translation": "фруктовый сок"
+        },
+        {
+          "it": "un bicchiere di acqua minerale",
+          "translation": "стакан минеральной воды"
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Закуски: spuntini",
+      "description": "Основная лексика для еды, которую можно купить в итальянском баре.",
+      "examples": [
+        {
+          "it": "un cornetto",
+          "translation": "круассан"
+        },
+        {
+          "it": "un panino",
+          "translation": "бутерброд"
+        },
+        {
+          "it": "un tramezzino",
+          "translation": "треугольный бутерброд"
+        },
+        {
+          "it": "una piadina",
+          "translation": "лепёшка с начинкой"
+        },
+        {
+          "it": "un toast",
+          "translation": "горячий бутерброд"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Заказ в баре: E tu che cosa prendi?",
+      "description": "Спросить и сказать, что вы будете в баре.",
+      "examples": [
+        {
+          "context": "вопрос",
+          "it": "Che cosa prendi?",
+          "translation": "Что ты будешь?"
+        },
+        {
+          "context": "ответ",
+          "it": "Prendo un cappuccino e un cornetto.",
+          "translation": "Я возьму капучино и круассан."
+        },
+        {
+          "context": "вопрос",
+          "it": "Come bevanda prendi…?",
+          "translation": "Что ты будешь пить?"
+        },
+        {
+          "context": "ответ",
+          "it": "Come spuntino prendo un tramezzino.",
+          "translation": "На закуску возьму треугольный бутерброд."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Мебель и персонал бара",
+      "description": "Лексика для описания интерьера итальянского бара.",
+      "examples": [
+        {
+          "it": "il banco",
+          "translation": "стойка бара"
+        },
+        {
+          "it": "il tavolino",
+          "translation": "столик"
+        },
+        {
+          "it": "la cassa",
+          "translation": "касса"
+        },
+        {
+          "it": "il barista",
+          "translation": "бариста"
+        },
+        {
+          "it": "la macchina per il caffè",
+          "translation": "кофемашина"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "la bevanda",
+      "definition": "напиток",
+      "type": "существительное"
+    },
+    {
+      "term": "lo spuntino",
+      "definition": "закуска, перекус",
+      "type": "существительное"
+    },
+    {
+      "term": "il caffè",
+      "definition": "кофе / эспрессо",
+      "type": "напиток"
+    },
+    {
+      "term": "il cappuccino",
+      "definition": "капучино",
+      "type": "напиток"
+    },
+    {
+      "term": "il tè",
+      "definition": "чай",
+      "type": "напиток"
+    },
+    {
+      "term": "l'aranciata",
+      "definition": "апельсиновая газировка",
+      "type": "напиток"
+    },
+    {
+      "term": "il succo di frutta",
+      "definition": "фруктовый сок",
+      "type": "напиток"
+    },
+    {
+      "term": "l'acqua minerale",
+      "definition": "минеральная вода",
+      "type": "напиток"
+    },
+    {
+      "term": "il cornetto",
+      "definition": "круассан",
+      "type": "еда"
+    },
+    {
+      "term": "il panino",
+      "definition": "бутерброд",
+      "type": "еда"
+    },
+    {
+      "term": "il tramezzino",
+      "definition": "треугольный бутерброд",
+      "type": "еда"
+    },
+    {
+      "term": "la piadina",
+      "definition": "лепёшка с начинкой",
+      "type": "еда"
+    },
+    {
+      "term": "il toast",
+      "definition": "горячий бутерброд",
+      "type": "еда"
+    },
+    {
+      "term": "il banco",
+      "definition": "стойка бара",
+      "type": "существительное"
+    },
+    {
+      "term": "il tavolino",
+      "definition": "столик",
+      "type": "существительное"
+    },
+    {
+      "term": "la cassa",
+      "definition": "касса",
+      "type": "существительное"
+    },
+    {
+      "term": "il barista",
+      "definition": "бариста",
+      "type": "профессия"
+    },
+    {
+      "term": "pagare alla cassa",
+      "definition": "платить в кассе",
+      "type": "фраза"
+    },
+    {
+      "term": "stare in compagnia",
+      "definition": "проводить время в компании",
+      "type": "фраза"
+    },
+    {
+      "term": "Che cosa prendi?",
+      "definition": "Что ты будешь?",
+      "type": "фраза"
+    },
+    {
+      "term": "Prendo…",
+      "definition": "Я возьму…",
+      "type": "фраза"
+    },
+    {
+      "term": "il pisolino",
+      "definition": "дневной сон, тихий час",
+      "type": "существительное"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Osservate e rispondete.",
+      "translation": "Посмотрите и ответьте."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Соедините."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Дополните."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Ответьте."
+    },
+    {
+      "it": "Che cosa prendete?",
+      "translation": "Что вы будете?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L4-2-01",
+      "title": "Al bar",
+      "register": "informal",
+      "context": "Двое друзей в баре заказывают напитки и закуски.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Allora, che cosa prendi?",
+          "translation": "Ну что, что ты будешь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Prendo un cappuccino e un cornetto. E tu?",
+          "translation": "Я возьму капучино и круассан. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Io prendo un caffè e un tramezzino al tonno.",
+          "translation": "Я возьму эспрессо и бутерброд с тунцом."
+        },
+        {
+          "speaker": "B",
+          "it": "Paghiamo alla cassa?",
+          "translation": "Платим в кассе?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, oggi offro io!",
+          "translation": "Да, сегодня угощаю я!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить, что кто-то будет",
+          "expected_it": "Che cosa prendi?"
+        },
+        {
+          "cue": "Заказать напиток и закуску",
+          "expected_it": "Prendo un/una … e un/una …"
+        },
+        {
+          "cue": "Сказать, что угощаешь",
+          "expected_it": "Oggi offro io!"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "andare",
+      "translation_en": "to go",
+      "translation_ru": "идти / ехать",
+      "forms": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei/Lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      }
+    },
+    {
+      "infinitive": "fare",
+      "translation_en": "to do / to make",
+      "translation_ru": "делать",
+      "forms": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei/Lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      }
+    },
+    {
+      "infinitive": "bere",
+      "translation_en": "to drink",
+      "translation_ru": "пить",
+      "forms": {
+        "io": "bevo",
+        "tu": "bevi",
+        "lui/lei/Lei": "beve",
+        "noi": "beviamo",
+        "voi": "bevete",
+        "loro": "bevono"
+      }
+    },
+    {
+      "infinitive": "prendere",
+      "translation_en": "to take",
+      "translation_ru": "брать; садиться на транспорт",
+      "forms": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      }
+    }
+  ]
+}

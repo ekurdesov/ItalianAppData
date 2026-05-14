@@ -1,0 +1,300 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-9",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Повторение лексики: Parole, parole...",
+      "Повторение грамматики: A lezione",
+      "Повторение фонетики: Che confusione!",
+      "Повторение уроков 1–3: In giro per Roma"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Грамматика",
+      "rule": "Повторение: вопросительные слова",
+      "description": "Закрепление всех вопросительных слов, изученных в уроках 1–3.",
+      "examples": [
+        {
+          "it": "Dove abiti? — Abito a Roma.",
+          "translation": "Где ты живёшь? — Я живу в Риме."
+        },
+        {
+          "it": "Come ti chiami? — Mi chiamo Francesco.",
+          "translation": "Как тебя зовут? — Меня зовут Франческо."
+        },
+        {
+          "it": "Perché studi l'italiano? — Perché è una lingua bellissima.",
+          "translation": "Почему ты изучаешь итальянский? — Потому что это очень красивый язык."
+        },
+        {
+          "it": "Che lingue parli? — Parlo inglese, russo e italiano.",
+          "translation": "На каких языках ты говоришь? — Я говорю по-английски, по-русски и по-итальянски."
+        }
+      ]
+    },
+    {
+      "category": "Грамматика",
+      "rule": "Повторение: essere, avere, c'è/ci sono",
+      "description": "Повторение трёх ключевых конструкций: essere для идентификации/описания, avere для обладания/возраста, c'è/ci sono для существования.",
+      "examples": [
+        {
+          "it": "Ha 23 anni.",
+          "translation": "Ему/ей 23 года."
+        },
+        {
+          "it": "Sono italiano.",
+          "translation": "Я итальянец."
+        },
+        {
+          "it": "C'è un libro sul tavolo.",
+          "translation": "На столе есть книга."
+        },
+        {
+          "it": "Ci sono molti studenti in classe.",
+          "translation": "В классе много студентов."
+        }
+      ]
+    },
+    {
+      "category": "Лексика",
+      "rule": "Тематические группы: школа, национальности, описания",
+      "description": "Повторение трёх лексических групп: слова, связанные со школой, прилагательные национальности, описание внешности и характера.",
+      "examples": [
+        {
+          "it": "la classe, il banco, la lavagna, il quaderno",
+          "translation": "класс, парта, доска, тетрадь"
+        },
+        {
+          "it": "italiano, tedesco, francese, russo, cinese",
+          "translation": "итальянский, немецкий, французский, русский, китайский"
+        },
+        {
+          "it": "alto, magro, biondo, simpatico",
+          "translation": "высокий, худой, светловолосый, симпатичный"
+        }
+      ]
+    },
+    {
+      "category": "Фонетика",
+      "rule": "Элизия: com'è, dov'è, quant'è vs qual è",
+      "description": "Некоторые вопросительные слова теряют конечную гласную перед «è» (элизия), но «qual» никогда не пишется с апострофом перед «è».",
+      "examples": [
+        {
+          "it": "Com'è? (come + è)",
+          "translation": "Какой он/она/оно?"
+        },
+        {
+          "it": "Dov'è? (dove + è)",
+          "translation": "Где это?"
+        },
+        {
+          "it": "Quant'è? (quanto + è)",
+          "translation": "Сколько стоит?"
+        },
+        {
+          "it": "Qual è? (без апострофа)",
+          "translation": "Какой? / Что это?"
+        }
+      ]
+    },
+    {
+      "category": "Прагматика",
+      "rule": "Планы и предпочтения",
+      "description": "Выражение планов и предпочтений с помощью «penso di + инфинитив» и «preferisco + инфинитив».",
+      "examples": [
+        {
+          "it": "Penso di dormire molto nel week-end.",
+          "translation": "Я планирую много спать на выходных."
+        },
+        {
+          "it": "Una serata rilassante per me è…",
+          "translation": "Расслабляющий вечер для меня — это…"
+        },
+        {
+          "it": "Avete cose in comune?",
+          "translation": "У вас есть что-то общее?"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "il ripasso",
+      "definition": "повторение",
+      "type": "существительное"
+    },
+    {
+      "term": "la lavagna",
+      "definition": "доска",
+      "type": "школа"
+    },
+    {
+      "term": "il quaderno",
+      "definition": "тетрадь",
+      "type": "школа"
+    },
+    {
+      "term": "il banco",
+      "definition": "парта",
+      "type": "школа"
+    },
+    {
+      "term": "la matita",
+      "definition": "карандаш",
+      "type": "школа"
+    },
+    {
+      "term": "la penna",
+      "definition": "ручка",
+      "type": "школа"
+    },
+    {
+      "term": "il libro",
+      "definition": "книга",
+      "type": "школа"
+    },
+    {
+      "term": "russo",
+      "definition": "русский",
+      "type": "национальность"
+    },
+    {
+      "term": "tedesco",
+      "definition": "немецкий",
+      "type": "национальность"
+    },
+    {
+      "term": "francese",
+      "definition": "французский",
+      "type": "национальность"
+    },
+    {
+      "term": "cinese",
+      "definition": "китайский",
+      "type": "национальность"
+    },
+    {
+      "term": "spagnolo",
+      "definition": "испанский",
+      "type": "национальность"
+    },
+    {
+      "term": "Com'è?",
+      "definition": "Какой он/она/оно?",
+      "type": "фраза"
+    },
+    {
+      "term": "Dov'è?",
+      "definition": "Где это?",
+      "type": "фраза"
+    },
+    {
+      "term": "Quant'è?",
+      "definition": "Сколько стоит?",
+      "type": "фраза"
+    },
+    {
+      "term": "Qual è?",
+      "definition": "Какой? / Что это?",
+      "type": "фраза"
+    },
+    {
+      "term": "penso di + infinito",
+      "definition": "я планирую / думаю",
+      "type": "грамматическая конструкция"
+    },
+    {
+      "term": "rilassante",
+      "definition": "расслабляющий",
+      "type": "прилагательное"
+    },
+    {
+      "term": "in comune",
+      "definition": "общего",
+      "type": "фраза"
+    },
+    {
+      "term": "in giro per",
+      "definition": "по (городу), путешествуя по",
+      "type": "фраза"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Trovate le parole.",
+      "translation": "Найдите слова."
+    },
+    {
+      "it": "Scrivete le parole nel pacco giusto.",
+      "translation": "Запишите слова в нужную колонку."
+    },
+    {
+      "it": "Trovate i sette errori.",
+      "translation": "Найдите семь ошибок."
+    },
+    {
+      "it": "Completate come nell'esempio.",
+      "translation": "Дополните по образцу."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Ответьте."
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "stare",
+      "translation_en": "to stay / to be (health)",
+      "translation_ru": "находиться / чувствовать себя",
+      "forms": {
+        "io": "sto",
+        "tu": "stai",
+        "lui/lei/Lei": "sta",
+        "noi": "stiamo",
+        "voi": "state",
+        "loro": "stanno"
+      }
+    },
+    {
+      "infinitive": "parlare",
+      "translation_en": "to speak",
+      "translation_ru": "говорить",
+      "forms": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei/Lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      }
+    }
+  ]
+}

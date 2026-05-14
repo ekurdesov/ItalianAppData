@@ -1,0 +1,377 @@
+{
+  "lesson_info": {
+    "id": "A1-L4-3",
+    "title": "Un incontro",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: Perché vai al bar?",
+      "Lessico: Bevande e spuntini",
+      "Comprensione orale: Al bar",
+      "Attività comunicativa: E tu che cosa prendi?"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Verbs in -ire with -isc- infix",
+      "description": "Some -ire verbs insert -isc- between the stem and the ending in all singular forms and the 3rd person plural. Common examples: preferire, capire, finire, pulire.",
+      "conjugations": {
+        "io": "preferisco",
+        "tu": "preferisci",
+        "lui/lei/Lei": "preferisce",
+        "noi": "preferiamo",
+        "voi": "preferite",
+        "loro": "preferiscono"
+      },
+      "examples": [
+        {
+          "it": "Preferisci un succo di frutta o una spremuta d'arancia?",
+          "translation": "Do you prefer a fruit juice or a fresh orange juice?"
+        },
+        {
+          "it": "I miei amici preferiscono andare in discoteca.",
+          "translation": "My friends prefer going to the disco."
+        },
+        {
+          "it": "A che ora finisce la lezione?",
+          "translation": "What time does the lesson finish?"
+        },
+        {
+          "it": "Non capisco questa parola.",
+          "translation": "I don't understand this word."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Review: prendere at the bar",
+      "description": "The verb 'prendere' is the standard way to order at a bar in Italian.",
+      "conjugations": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      },
+      "examples": [
+        {
+          "it": "Allora ragazzi, che cosa prendete?",
+          "translation": "So, what will you all have?"
+        },
+        {
+          "it": "Io prendo un tramezzino.",
+          "translation": "I'll have a triangular sandwich."
+        },
+        {
+          "it": "Tu, Stefano, che cosa prendi?",
+          "translation": "Stefano, what will you have?"
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Identifying the odd one out: l'intruso",
+      "description": "A vocabulary exercise where students identify which word does not belong to a category and explain why.",
+      "examples": [
+        {
+          "it": "caffè - tè - panino - acqua - coca-cola - cappuccino",
+          "translation": "L'intruso è panino perché è uno spuntino, non una bevanda."
+        },
+        {
+          "it": "tè - panino - piadina - tramezzino - toast",
+          "translation": "L'intruso è tè perché è una bevanda, non uno spuntino."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Expressing preferences: Preferisci…?",
+      "description": "Use 'preferire' to ask and state preferences between two options.",
+      "examples": [
+        {
+          "context": "question",
+          "it": "Preferisci il mare o la montagna?",
+          "translation": "Do you prefer the sea or the mountains?"
+        },
+        {
+          "context": "answer",
+          "it": "Preferisco il mare.",
+          "translation": "I prefer the sea."
+        },
+        {
+          "context": "agreement",
+          "it": "Anch'io!",
+          "translation": "Me too!"
+        },
+        {
+          "context": "disagreement",
+          "it": "Io invece preferisco la montagna.",
+          "translation": "I on the other hand prefer the mountains."
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Daily routine verbs",
+      "description": "Common verbs used to describe a daily routine, from the homework solutions slide.",
+      "examples": [
+        {
+          "it": "Lavoro, torno, dormo, guardo, leggo, navigo, mangio, viaggio.",
+          "translation": "I work, I return, I sleep, I watch, I read, I browse, I eat, I travel."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "preferire",
+      "definition": "to prefer",
+      "type": "verb"
+    },
+    {
+      "term": "capire",
+      "definition": "to understand",
+      "type": "verb"
+    },
+    {
+      "term": "finire",
+      "definition": "to finish",
+      "type": "verb"
+    },
+    {
+      "term": "pulire",
+      "definition": "to clean",
+      "type": "verb"
+    },
+    {
+      "term": "la spremuta d'arancia",
+      "definition": "fresh orange juice",
+      "type": "drink"
+    },
+    {
+      "term": "la cioccolata",
+      "definition": "hot chocolate",
+      "type": "drink"
+    },
+    {
+      "term": "il latte caldo",
+      "definition": "warm milk",
+      "type": "drink"
+    },
+    {
+      "term": "alcolico",
+      "definition": "alcoholic",
+      "type": "adjective"
+    },
+    {
+      "term": "analcolico",
+      "definition": "non-alcoholic",
+      "type": "adjective"
+    },
+    {
+      "term": "l'intruso",
+      "definition": "the odd one out",
+      "type": "noun"
+    },
+    {
+      "term": "offrire",
+      "definition": "to offer / to treat",
+      "type": "verb"
+    },
+    {
+      "term": "aprire",
+      "definition": "to open",
+      "type": "verb"
+    },
+    {
+      "term": "navigare in Internet",
+      "definition": "to browse the Internet",
+      "type": "phrase"
+    },
+    {
+      "term": "riposare",
+      "definition": "to rest",
+      "type": "verb"
+    },
+    {
+      "term": "Anch'io!",
+      "definition": "Me too!",
+      "type": "phrase"
+    },
+    {
+      "term": "Io invece…",
+      "definition": "I on the other hand…",
+      "type": "phrase"
+    },
+    {
+      "term": "abbastanza bene",
+      "definition": "quite well",
+      "type": "phrase"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Trovate l'intruso.",
+      "translation": "Find the odd one out."
+    },
+    {
+      "it": "Ascoltate.",
+      "translation": "Listen."
+    },
+    {
+      "it": "Completate.",
+      "translation": "Complete."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "translation": "Work in pairs."
+    },
+    {
+      "it": "Siete al bar con gli amici.",
+      "translation": "You are at the bar with friends."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L4-3-01",
+      "title": "Preferisci il tè o il caffè?",
+      "register": "informal",
+      "context": "Two students practise expressing preferences using preferire.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Preferisci il mare o la montagna?",
+          "translation": "Do you prefer the sea or the mountains?"
+        },
+        {
+          "speaker": "B",
+          "it": "Preferisco il mare. E tu?",
+          "translation": "I prefer the sea. And you?"
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io!",
+          "translation": "Me too!"
+        },
+        {
+          "speaker": "A",
+          "it": "E al bar, preferisci il caffè o il tè?",
+          "translation": "And at the bar, do you prefer coffee or tea?"
+        },
+        {
+          "speaker": "B",
+          "it": "Preferisco il caffè. Non capisco come le persone bevono il tè la mattina!",
+          "translation": "I prefer coffee. I don't understand how people drink tea in the morning!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask if someone prefers the sea or the mountains",
+          "expected_it": "Preferisci il mare o la montagna?"
+        },
+        {
+          "cue": "Say you prefer something",
+          "expected_it": "Preferisco …"
+        },
+        {
+          "cue": "Say you don't understand a word",
+          "expected_it": "Non capisco questa parola."
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "andare",
+      "translation_en": "to go",
+      "translation_ru": "идти / ехать",
+      "forms": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei/Lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      }
+    },
+    {
+      "infinitive": "fare",
+      "translation_en": "to do / to make",
+      "translation_ru": "делать",
+      "forms": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei/Lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      }
+    },
+    {
+      "infinitive": "bere",
+      "translation_en": "to drink",
+      "translation_ru": "пить",
+      "forms": {
+        "io": "bevo",
+        "tu": "bevi",
+        "lui/lei/Lei": "beve",
+        "noi": "beviamo",
+        "voi": "bevete",
+        "loro": "bevono"
+      }
+    },
+    {
+      "infinitive": "prendere",
+      "translation_en": "to take",
+      "translation_ru": "брать; садиться на транспорт",
+      "forms": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      }
+    },
+    {
+      "infinitive": "venire",
+      "translation_en": "to come",
+      "translation_ru": "приходить / приезжать",
+      "forms": {
+        "io": "vengo",
+        "tu": "vieni",
+        "lui/lei/Lei": "viene",
+        "noi": "veniamo",
+        "voi": "venite",
+        "loro": "vengono"
+      }
+    }
+  ]
+}

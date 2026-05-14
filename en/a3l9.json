@@ -1,0 +1,300 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-9",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Ripasso lessico: Parole, parole...",
+      "Ripasso grammatica: A lezione",
+      "Ripasso fonetica: Che confusione!",
+      "Ripasso lezioni 1-3: In giro per Roma"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Review: question words",
+      "description": "Consolidation of all question words covered in lessons 1–3.",
+      "examples": [
+        {
+          "it": "Dove abiti? — Abito a Roma.",
+          "translation": "Where do you live? — I live in Rome."
+        },
+        {
+          "it": "Come ti chiami? — Mi chiamo Francesco.",
+          "translation": "What is your name? — My name is Francesco."
+        },
+        {
+          "it": "Perché studi l'italiano? — Perché è una lingua bellissima.",
+          "translation": "Why do you study Italian? — Because it is a beautiful language."
+        },
+        {
+          "it": "Che lingue parli? — Parlo inglese, russo e italiano.",
+          "translation": "What languages do you speak? — I speak English, Russian and Italian."
+        }
+      ]
+    },
+    {
+      "category": "Grammar",
+      "rule": "Review: essere, avere, c'è/ci sono",
+      "description": "Revision of the three core structures: essere for identity/description, avere for possession/age, c'è/ci sono for existence.",
+      "examples": [
+        {
+          "it": "Ha 23 anni.",
+          "translation": "He/She is 23 years old."
+        },
+        {
+          "it": "Sono italiano.",
+          "translation": "I am Italian."
+        },
+        {
+          "it": "C'è un libro sul tavolo.",
+          "translation": "There is a book on the table."
+        },
+        {
+          "it": "Ci sono molti studenti in classe.",
+          "translation": "There are many students in class."
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Vocabulary categories: school, nationalities, descriptions",
+      "description": "Review of three vocabulary groups: school-related words, nationality adjectives, and physical/personality descriptions.",
+      "examples": [
+        {
+          "it": "la classe, il banco, la lavagna, il quaderno",
+          "translation": "classroom, desk, blackboard, notebook"
+        },
+        {
+          "it": "italiano, tedesco, francese, russo, cinese",
+          "translation": "Italian, German, French, Russian, Chinese"
+        },
+        {
+          "it": "alto, magro, biondo, simpatico",
+          "translation": "tall, thin, blond, nice"
+        }
+      ]
+    },
+    {
+      "category": "Phonetics",
+      "rule": "Elision: com'è, dov'è, quant'è vs qual è",
+      "description": "Some Italian question words drop the final vowel before 'è' (elision), but 'qual' never takes an apostrophe before 'è'.",
+      "examples": [
+        {
+          "it": "Com'è? (come + è)",
+          "translation": "What is it like?"
+        },
+        {
+          "it": "Dov'è? (dove + è)",
+          "translation": "Where is it?"
+        },
+        {
+          "it": "Quant'è? (quanto + è)",
+          "translation": "How much is it?"
+        },
+        {
+          "it": "Qual è? (no apostrophe)",
+          "translation": "Which is? / What is?"
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Talking about plans and preferences",
+      "description": "Expressing what you plan to do or prefer using 'penso di + infinitive' and 'preferisco + infinitive'.",
+      "examples": [
+        {
+          "it": "Penso di dormire molto nel week-end.",
+          "translation": "I plan to sleep a lot at the weekend."
+        },
+        {
+          "it": "Una serata rilassante per me è…",
+          "translation": "A relaxing evening for me is…"
+        },
+        {
+          "it": "Avete cose in comune?",
+          "translation": "Do you have things in common?"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "il ripasso",
+      "definition": "revision, review",
+      "type": "noun"
+    },
+    {
+      "term": "la lavagna",
+      "definition": "blackboard",
+      "type": "school"
+    },
+    {
+      "term": "il quaderno",
+      "definition": "notebook",
+      "type": "school"
+    },
+    {
+      "term": "il banco",
+      "definition": "school desk",
+      "type": "school"
+    },
+    {
+      "term": "la matita",
+      "definition": "pencil",
+      "type": "school"
+    },
+    {
+      "term": "la penna",
+      "definition": "pen",
+      "type": "school"
+    },
+    {
+      "term": "il libro",
+      "definition": "book",
+      "type": "school"
+    },
+    {
+      "term": "russo",
+      "definition": "Russian",
+      "type": "nationality"
+    },
+    {
+      "term": "tedesco",
+      "definition": "German",
+      "type": "nationality"
+    },
+    {
+      "term": "francese",
+      "definition": "French",
+      "type": "nationality"
+    },
+    {
+      "term": "cinese",
+      "definition": "Chinese",
+      "type": "nationality"
+    },
+    {
+      "term": "spagnolo",
+      "definition": "Spanish",
+      "type": "nationality"
+    },
+    {
+      "term": "Com'è?",
+      "definition": "What is it/he/she like?",
+      "type": "phrase"
+    },
+    {
+      "term": "Dov'è?",
+      "definition": "Where is it?",
+      "type": "phrase"
+    },
+    {
+      "term": "Quant'è?",
+      "definition": "How much is it?",
+      "type": "phrase"
+    },
+    {
+      "term": "Qual è?",
+      "definition": "Which is? / What is?",
+      "type": "phrase"
+    },
+    {
+      "term": "penso di + infinito",
+      "definition": "I plan to / I think I will",
+      "type": "grammar structure"
+    },
+    {
+      "term": "rilassante",
+      "definition": "relaxing",
+      "type": "adjective"
+    },
+    {
+      "term": "in comune",
+      "definition": "in common",
+      "type": "phrase"
+    },
+    {
+      "term": "in giro per",
+      "definition": "around, touring",
+      "type": "phrase"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Trovate le parole.",
+      "translation": "Find the words."
+    },
+    {
+      "it": "Scrivete le parole nel pacco giusto.",
+      "translation": "Write the words in the right box."
+    },
+    {
+      "it": "Trovate i sette errori.",
+      "translation": "Find the seven mistakes."
+    },
+    {
+      "it": "Completate come nell'esempio.",
+      "translation": "Complete as in the example."
+    },
+    {
+      "it": "Rispondete.",
+      "translation": "Answer."
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "stare",
+      "translation_en": "to stay / to be (health)",
+      "translation_ru": "находиться / чувствовать себя",
+      "forms": {
+        "io": "sto",
+        "tu": "stai",
+        "lui/lei/Lei": "sta",
+        "noi": "stiamo",
+        "voi": "state",
+        "loro": "stanno"
+      }
+    },
+    {
+      "infinitive": "parlare",
+      "translation_en": "to speak",
+      "translation_ru": "говорить",
+      "forms": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei/Lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      }
+    }
+  ]
+}

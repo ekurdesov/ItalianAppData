@@ -1,0 +1,469 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-6",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": [
+      "Ripasso: Presentiamoci!",
+      "Comprensione orale: Indovina chi...",
+      "Grammatica: nome + aggettivo",
+      "Descrivere l'aspetto fisico: Com'è?"
+    ]
+  },
+  "language_rules": [
+    {
+      "category": "Grammar",
+      "rule": "Noun + adjective agreement",
+      "description": "In Italian, adjectives agree in gender and number with the noun they describe. Masculine adjectives typically end in -o (singular) / -i (plural); feminine in -a (singular) / -e (plural).",
+      "examples": [
+        {
+          "it": "un ragazzo alto",
+          "translation": "a tall boy"
+        },
+        {
+          "it": "una ragazza alta",
+          "translation": "a tall girl"
+        },
+        {
+          "it": "i capelli lunghi",
+          "translation": "long hair"
+        },
+        {
+          "it": "gli occhi neri",
+          "translation": "black eyes"
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Physical appearance adjectives",
+      "description": "Key adjectives for describing a person's build, height, and general appearance.",
+      "examples": [
+        {
+          "it": "alto / basso",
+          "translation": "tall / short"
+        },
+        {
+          "it": "magro / grasso",
+          "translation": "thin / fat"
+        },
+        {
+          "it": "giovane / anziano",
+          "translation": "young / elderly"
+        },
+        {
+          "it": "calvo",
+          "translation": "bald"
+        },
+        {
+          "it": "di media statura",
+          "translation": "of medium height"
+        }
+      ]
+    },
+    {
+      "category": "Vocabulary",
+      "rule": "Hair and eye descriptions",
+      "description": "Italian uses 'avere' to describe hair and eyes, and adjectives must agree with the noun.",
+      "examples": [
+        {
+          "it": "Ha i capelli biondi / castani / neri / rossi.",
+          "translation": "He/She has blond / brown / black / red hair."
+        },
+        {
+          "it": "Ha i capelli ricci / lisci / corti / lunghi.",
+          "translation": "He/She has curly / straight / short / long hair."
+        },
+        {
+          "it": "Ha gli occhi azzurri / verdi / marroni / castani.",
+          "translation": "He/She has blue / green / brown / hazel eyes."
+        },
+        {
+          "it": "Ha i baffi.",
+          "translation": "He has a moustache."
+        },
+        {
+          "it": "Ha il pizzetto.",
+          "translation": "He has a goatee."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Asking and describing appearance: Com'è?",
+      "description": "Use 'Com'è?' to ask what someone looks like. Answers combine essere + adjective and avere + body feature.",
+      "examples": [
+        {
+          "context": "question",
+          "it": "Com'è?",
+          "translation": "What does he/she look like?"
+        },
+        {
+          "context": "answer",
+          "it": "È alto, magro, ha i capelli corti e il pizzetto.",
+          "translation": "He is tall, thin, has short hair and a goatee."
+        },
+        {
+          "context": "answer",
+          "it": "È una ragazza giovane, di media statura con gli occhi neri e i capelli neri e corti.",
+          "translation": "She is a young girl, of medium height with black eyes and short black hair."
+        }
+      ]
+    },
+    {
+      "category": "Pragmatics",
+      "rule": "Guessing game: Indovina chi",
+      "description": "A common classroom activity where students describe a person and others guess who it is, using yes/no questions.",
+      "examples": [
+        {
+          "it": "È alto? — Sì.",
+          "translation": "Is he tall? — Yes."
+        },
+        {
+          "it": "È grasso? — No.",
+          "translation": "Is he fat? — No."
+        },
+        {
+          "it": "Ha i capelli corti? — Sì.",
+          "translation": "Does he have short hair? — Yes."
+        },
+        {
+          "it": "È Marco? — Sì, hai indovinato!",
+          "translation": "Is it Marco? — Yes, you guessed it!"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "alto",
+      "definition": "tall",
+      "type": "adjective"
+    },
+    {
+      "term": "basso",
+      "definition": "short (height)",
+      "type": "adjective"
+    },
+    {
+      "term": "magro",
+      "definition": "thin, slim",
+      "type": "adjective"
+    },
+    {
+      "term": "grasso",
+      "definition": "fat",
+      "type": "adjective"
+    },
+    {
+      "term": "giovane",
+      "definition": "young",
+      "type": "adjective"
+    },
+    {
+      "term": "anziano",
+      "definition": "elderly",
+      "type": "adjective"
+    },
+    {
+      "term": "calvo",
+      "definition": "bald",
+      "type": "adjective"
+    },
+    {
+      "term": "di media statura",
+      "definition": "of medium height",
+      "type": "phrase"
+    },
+    {
+      "term": "i capelli",
+      "definition": "hair",
+      "type": "noun"
+    },
+    {
+      "term": "gli occhi",
+      "definition": "eyes",
+      "type": "noun"
+    },
+    {
+      "term": "i baffi",
+      "definition": "moustache",
+      "type": "noun"
+    },
+    {
+      "term": "il pizzetto",
+      "definition": "goatee",
+      "type": "noun"
+    },
+    {
+      "term": "gli occhiali",
+      "definition": "glasses",
+      "type": "noun"
+    },
+    {
+      "term": "la pelle",
+      "definition": "skin",
+      "type": "noun"
+    },
+    {
+      "term": "biondo",
+      "definition": "blond",
+      "type": "adjective"
+    },
+    {
+      "term": "castano",
+      "definition": "brown (hair/eyes)",
+      "type": "adjective"
+    },
+    {
+      "term": "nero",
+      "definition": "black",
+      "type": "adjective"
+    },
+    {
+      "term": "rosso",
+      "definition": "red",
+      "type": "adjective"
+    },
+    {
+      "term": "azzurro",
+      "definition": "blue (eyes)",
+      "type": "adjective"
+    },
+    {
+      "term": "verde",
+      "definition": "green",
+      "type": "adjective"
+    },
+    {
+      "term": "riccio",
+      "definition": "curly",
+      "type": "adjective"
+    },
+    {
+      "term": "liscio",
+      "definition": "straight (hair)",
+      "type": "adjective"
+    },
+    {
+      "term": "corto",
+      "definition": "short (length)",
+      "type": "adjective"
+    },
+    {
+      "term": "lungo",
+      "definition": "long",
+      "type": "adjective"
+    },
+    {
+      "term": "robusto",
+      "definition": "stocky, sturdy",
+      "type": "adjective"
+    },
+    {
+      "term": "porta gli occhiali",
+      "definition": "wears glasses",
+      "type": "phrase"
+    },
+    {
+      "term": "Com'è?",
+      "definition": "What does he/she look like?",
+      "type": "phrase"
+    },
+    {
+      "term": "Hai indovinato!",
+      "definition": "You guessed it!",
+      "type": "phrase"
+    },
+    {
+      "term": "antipatico",
+      "definition": "unpleasant, unfriendly",
+      "type": "adjective"
+    },
+    {
+      "term": "simpatico",
+      "definition": "nice, likeable",
+      "type": "adjective"
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Ascoltate e completate.",
+      "translation": "Listen and complete."
+    },
+    {
+      "it": "Ascoltate e indicate.",
+      "translation": "Listen and point."
+    },
+    {
+      "it": "Riascoltate e completate.",
+      "translation": "Listen again and complete."
+    },
+    {
+      "it": "Abbinate.",
+      "translation": "Match."
+    },
+    {
+      "it": "Lavorate a coppie.",
+      "translation": "Work in pairs."
+    },
+    {
+      "it": "Mi descrivo: sono …",
+      "translation": "I describe myself: I am …"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-6-01",
+      "title": "Indovina chi",
+      "register": "informal",
+      "context": "Two students play a guessing game describing a person in the class.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "È alto?",
+          "translation": "Is he tall?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì.",
+          "translation": "Yes."
+        },
+        {
+          "speaker": "A",
+          "it": "È grasso?",
+          "translation": "Is he fat?"
+        },
+        {
+          "speaker": "B",
+          "it": "No.",
+          "translation": "No."
+        },
+        {
+          "speaker": "A",
+          "it": "È biondo?",
+          "translation": "Is he blond?"
+        },
+        {
+          "speaker": "B",
+          "it": "No.",
+          "translation": "No."
+        },
+        {
+          "speaker": "A",
+          "it": "Ha i capelli corti?",
+          "translation": "Does he have short hair?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì.",
+          "translation": "Yes."
+        },
+        {
+          "speaker": "A",
+          "it": "È Marco?",
+          "translation": "Is it Marco?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, hai indovinato!",
+          "translation": "Yes, you guessed it!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Ask if someone is tall",
+          "expected_it": "È alto/a?"
+        },
+        {
+          "cue": "Ask about hair colour",
+          "expected_it": "Ha i capelli biondi/castani/neri?"
+        },
+        {
+          "cue": "Describe yourself",
+          "expected_it": "Sono … Ho i capelli … e gli occhi …"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation_en": "to be",
+      "translation_ru": "быть",
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation_en": "to have",
+      "translation_ru": "иметь",
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      }
+    },
+    {
+      "infinitive": "abitare",
+      "translation_en": "to live / to reside",
+      "translation_ru": "жить / проживать",
+      "forms": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      }
+    },
+    {
+      "infinitive": "parlare",
+      "translation_en": "to speak",
+      "translation_ru": "говорить",
+      "forms": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei/Lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      }
+    },
+    {
+      "infinitive": "studiare",
+      "translation_en": "to study",
+      "translation_ru": "учиться / изучать",
+      "forms": {
+        "io": "studio",
+        "tu": "studi",
+        "lui/lei/Lei": "studia",
+        "noi": "studiamo",
+        "voi": "studiate",
+        "loro": "studiano"
+      }
+    },
+    {
+      "infinitive": "lavorare",
+      "translation_en": "to work",
+      "translation_ru": "работать",
+      "forms": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei/Lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      }
+    }
+  ]
+}
