@@ -11,16 +11,16 @@
         "Attività comunicativa: Preferisci...?"
       ],
       "en": [
-        "Ripasso: Chiedi e rispondo",
-        "Comprensione orale: Offro io!",
-        "Grammatica: verbi irregolari (bere)",
-        "Attività comunicativa: Preferisci...?"
+        "Review: Ask and answer",
+        "Listening comprehension: It's my treat!",
+        "Grammar: irregular verbs (bere)",
+        "Communicative activity: Do you prefer...?"
       ],
       "ru": [
         "Повторение: Chiedi e rispondo",
         "Аудирование: Offro io!",
         "Грамматика: неправильные глаголы (bere)",
-        "Коммуникативная деятельность: Preferisci...?"
+        "Коммуникативное задание: Preferisci...?"
       ]
     }
   },
@@ -625,7 +625,7 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать"
+        "ru": "делать / совершать"
       },
       "forms": {
         "io": "faccio",

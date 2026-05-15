@@ -12,18 +12,18 @@
         "Fonetica: sc"
       ],
       "en": [
-        "Comprensione orale: incontri",
-        "Presentare una persona",
-        "Verbo stare",
-        "Attività comunicativa: come va?",
-        "Fonetica: sc"
+        "Listening comprehension: meetings",
+        "Introducing a person",
+        "Verb stare",
+        "Communicative activity: how is it going?",
+        "Phonetics: sc"
       ],
       "ru": [
-        "Comprensione orale: incontri",
-        "Presentare una persona",
-        "Verbo stare",
-        "Attività comunicativa: come va?",
-        "Fonetica: sc"
+        "Аудирование: встречи",
+        "Представление человека",
+        "Глагол stare",
+        "Коммуникативное задание: come va?",
+        "Фонетика: sc"
       ]
     }
   },
@@ -68,7 +68,7 @@
           "context": "informal",
           "it": "Come stai?",
           "en": "How are you?",
-          "ru": "Как ты?"
+          "ru": "Как дела?"
         },
         {
           "context": "informal",
@@ -80,7 +80,7 @@
           "context": "formal",
           "it": "Come sta?",
           "en": "How are you?",
-          "ru": "Как вы?"
+          "ru": "Как дела? (официально)"
         },
         {
           "context": "formal",
@@ -613,7 +613,7 @@
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / Дополните."
+      "ru": "Заполните / дополните."
     },
     {
       "it": "Completate alla forma negativa.",

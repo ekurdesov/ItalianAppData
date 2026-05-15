@@ -11,16 +11,16 @@
         "Attività comunicativa: E tu che cosa prendi?"
       ],
       "en": [
-        "Ripasso: Cosa fanno?",
-        "Lessico: Bevande e spuntini",
-        "Comprensione orale: Al bar",
-        "Attività comunicativa: E tu che cosa prendi?"
+        "Review: What are they doing?",
+        "Vocabulary: drinks and snacks",
+        "Listening comprehension: At the bar",
+        "Communicative activity: And what are you having?"
       ],
       "ru": [
         "Повторение: Cosa fanno?",
-        "Лексика: Bevande e spuntini",
+        "Лексика: bevande e spuntini",
         "Аудирование: Al bar",
-        "Коммуникативная деятельность: E tu che cosa prendi?"
+        "Коммуникативное задание: E tu che cosa prendi?"
       ]
     }
   },
@@ -42,7 +42,7 @@
         {
           "it": "Fate colazione con il caffè o con il tè?",
           "en": "Do you have breakfast with coffee or tea?",
-          "ru": "Вы завтракаете с кофе или с чаем?"
+          "ru": "Вы завтракаете с кофе или чаем?"
         },
         {
           "it": "Fate la doccia la mattina o la sera?",
@@ -78,7 +78,7 @@
         {
           "it": "un caffè / un espresso",
           "en": "an espresso",
-          "ru": "эспрессо"
+          "ru": "кофе / эспрессо"
         },
         {
           "it": "un cappuccino",
@@ -159,7 +159,7 @@
       },
       "description": {
         "en": "Asking and saying what you will have at the bar.",
-        "ru": "Спросить и сказать, что вы будете в баре."
+        "ru": "Как спросить и сказать, что вы будете заказывать в баре."
       },
       "examples": [
         {
@@ -651,7 +651,7 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать"
+        "ru": "делать / совершать"
       },
       "forms": {
         "io": "faccio",
@@ -733,7 +733,7 @@
       "infinitive": "prendere",
       "translation": {
         "en": "to take",
-        "ru": "брать; садиться на транспорт"
+        "ru": "брать / заказывать / садиться на транспорт"
       },
       "forms": {
         "io": "prendo",

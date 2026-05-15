@@ -11,10 +11,10 @@
         "Descrivere l'aspetto fisico: È alto, è moro, ha gli occhiali"
       ],
       "en": [
-        "Lessico: Com'è?",
-        "Comprensione orale: Alla festa",
-        "Grammatica: c'è / ci sono",
-        "Descrivere l'aspetto fisico: È alto, è moro, ha gli occhiali"
+        "Vocabulary: what is he/she like?",
+        "Listening comprehension: At the party",
+        "Grammar: c'è / ci sono",
+        "Describing physical appearance: He is tall, dark-haired, and wears glasses"
       ],
       "ru": [
         "Лексика: Com'è?",
@@ -42,12 +42,12 @@
         {
           "it": "In questa foto c'è un signore calvo.",
           "en": "In this photo there is a bald man.",
-          "ru": "На этой фотографии есть лысый мужчина."
+          "ru": "На этой фотографии изображён лысый мужчина."
         },
         {
           "it": "In questa foto ci sono due persone anziane.",
           "en": "In this photo there are two elderly people.",
-          "ru": "На этой фотографии есть два пожилых человека."
+          "ru": "На этой фотографии изображены двое пожилых людей."
         },
         {
           "it": "Nella borsa c'è la chiave di casa.",
@@ -83,7 +83,7 @@
         {
           "it": "Sul tavolo c'è un libro.",
           "en": "There is a book on the table.",
-          "ru": "На столе есть книга."
+          "ru": "На столе лежит книга."
         },
         {
           "it": "I soldi sono nel portafoglio.",

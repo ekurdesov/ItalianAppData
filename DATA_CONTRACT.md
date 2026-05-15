@@ -4,11 +4,14 @@
 
 ```
 index.json          master lesson index
+library.json        generated single-word Italian library
 lessons/{file}      one bilingual JSON per lesson (replaces en/ and ru/)
 ```
 
 Load path: `lessons/{file}` where `file` comes from `index.json`.  
 All locales are in a single file. Access translated fields with the locale key `"en"` or `"ru"`.
+
+`library.json` is a generated helper file for phrase-building and vocabulary reuse. It aggregates reusable single-word Italian entries from lesson flashcards, single-word rule examples, and verb tables.
 
 ---
 
@@ -207,3 +210,47 @@ dialogue.context[locale]
 ```
 
 **Switching locale** — no file reload needed; just change the locale key used to access translated fields.
+
+---
+
+## library.json
+
+```json
+{
+  "version": 1,
+  "generated_at": "YYYY-MM-DD",
+  "source": "lessons/*.json",
+  "notes": "string",
+  "item_count": 123,
+  "items": [LibraryItem]
+}
+```
+
+### LibraryItem
+
+```json
+{
+  "it": "caffè",
+  "en": ["coffee", "espresso"],
+  "ru": ["кофе", "эспрессо"],
+  "types": [
+    { "en": "drink", "ru": "напиток" }
+  ],
+  "forms": ["il caffè", "un caffè"],
+  "lessons": ["A1-L1-1", "A1-L4-2"],
+  "sources": [
+    {
+      "file": "a4l2.json",
+      "lesson_id": "A1-L4-2",
+      "kind": "flashcard",
+      "it": "il caffè"
+    }
+  ]
+}
+```
+
+`library.json` intentionally excludes multi-word phrases. Regenerate it with:
+
+```bash
+node build_library_json.js
+```

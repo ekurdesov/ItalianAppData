@@ -11,16 +11,16 @@
         "Fonetica: lettere D/T"
       ],
       "en": [
-        "Comprensione orale: 'Lei è Gianni'",
-        "Il sostantivo",
-        "Attività comunicativa: 'Sei la mia collega?'",
-        "Fonetica: lettere D/T"
+        "Listening comprehension: 'Are you Gianni?'",
+        "The noun",
+        "Communicative activity: 'Are you my colleague?'",
+        "Phonetics: letters D/T"
       ],
       "ru": [
-        "Comprensione orale: 'Lei è Gianni'",
-        "Il sostantivo",
-        "Attività comunicativa: 'Sei la mia collega?'",
-        "Fonetica: lettere D/T"
+        "Аудирование: 'Lei è Gianni'",
+        "Существительное",
+        "Коммуникативное задание: 'Sei la mia collega?'",
+        "Фонетика: буквы D/T"
       ]
     }
   },
@@ -96,7 +96,7 @@
       },
       "rule": {
         "en": "Introducing yourself and asking names",
-        "ru": "Знакомство и вопрос о имени"
+        "ru": "Знакомство и вопрос об имени"
       },
       "description": {
         "en": "Italian uses informal 'tu' and formal 'Lei' forms for introductions.",
@@ -113,7 +113,7 @@
           "context": "formal",
           "it": "Come si chiama?",
           "en": "What is your name? (formal)",
-          "ru": "Как вас зовут? (официальный / формальный)"
+          "ru": "Как вас зовут? (формально)"
         },
         {
           "context": "statement",
@@ -125,13 +125,13 @@
           "context": "statement",
           "it": "Il mio nome è...",
           "en": "My name is...",
-          "ru": "Моё имя..."
+          "ru": "Моё имя — ..."
         },
         {
           "context": "statement",
           "it": "Il mio cognome è...",
           "en": "My surname is...",
-          "ru": "Моя фамилия..."
+          "ru": "Моя фамилия — ..."
         }
       ]
     },
@@ -354,7 +354,7 @@
     {
       "term": "direttrice",
       "en": "female director",
-      "ru": "директриса",
+      "ru": "директор",
       "type": {
         "en": "noun",
         "ru": "существительное"
@@ -366,7 +366,7 @@
       "ru": "учительский стол",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -375,7 +375,7 @@
       "ru": "тетрадь",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -384,7 +384,7 @@
       "ru": "рюкзак",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -393,7 +393,7 @@
       "ru": "фломастер",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -402,7 +402,7 @@
       "ru": "парта",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -411,7 +411,7 @@
       "ru": "линейка",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -420,7 +420,7 @@
       "ru": "ручка",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -429,7 +429,7 @@
       "ru": "ластик",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -438,7 +438,7 @@
       "ru": "карандаш",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -447,7 +447,7 @@
       "ru": "доска",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -456,7 +456,7 @@
       "ru": "стул",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -606,7 +606,7 @@
     {
       "term": "arrivederla",
       "en": "goodbye (formal)",
-      "ru": "до свидания (официальный / формальный)",
+      "ru": "до свидания (формально)",
       "type": {
         "en": "greeting",
         "ru": "приветствие"

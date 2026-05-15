@@ -11,16 +11,16 @@
         "Attività comunicativa: Quanti anni hai?"
       ],
       "en": [
-        "Comprensione orale: Ha il ragazzo?",
-        "Grammatica: verbo avere",
-        "Lessico: i numeri da 10 a 100",
-        "Attività comunicativa: Quanti anni hai?"
+        "Listening comprehension: Does she have a boyfriend?",
+        "Grammar: verb avere",
+        "Vocabulary: numbers from 10 to 100",
+        "Communicative activity: How old are you?"
       ],
       "ru": [
-        "Comprensione orale: Ha il ragazzo?",
-        "Grammatica: verbo avere",
-        "Lessico: i numeri da 10 a 100",
-        "Attività comunicativa: Quanti anni hai?"
+        "Аудирование: 'Ha il ragazzo?'",
+        "Грамматика: глагол avere",
+        "Лексика: числа от 10 до 100",
+        "Коммуникативное задание: quanti anni hai?"
       ]
     }
   },
@@ -273,7 +273,7 @@
       "ru": "ровесник / человек одного возраста",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -336,7 +336,7 @@
       "ru": "возраст",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -525,7 +525,7 @@
       "ru": "выходные",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -534,7 +534,7 @@
       "ru": "выходные",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -707,7 +707,7 @@
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / Дополните."
+      "ru": "Заполните / дополните."
     },
     {
       "it": "Completate con avere.",

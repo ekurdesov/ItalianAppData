@@ -11,16 +11,16 @@
         "Fonetica: gli - gn, sc"
       ],
       "en": [
-        "Comprensione orale: Ciao, io sono Alice",
-        "Aggettivi di nazionalità al plurale",
-        "Attività comunicativa: presentare",
-        "Fonetica: gli - gn, sc"
+        "Listening comprehension: Hi, I'm Alice",
+        "Plural nationality adjectives",
+        "Communicative activity: introducing someone",
+        "Phonetics: gli - gn, sc"
       ],
       "ru": [
-        "Comprensione orale: Ciao, io sono Alice",
-        "Aggettivi di nazionalità al plurale",
-        "Attività comunicativa: presentare",
-        "Fonetica: gli - gn, sc"
+        "Аудирование: 'Ciao, io sono Alice'",
+        "Прилагательные национальности во множественном числе",
+        "Коммуникативное задание: представить кого-то",
+        "Фонетика: gli - gn, sc"
       ]
     }
   },
@@ -456,7 +456,7 @@
     {
       "term": "arabo/a",
       "en": "Arab",
-      "ru": "arab / арабка",
+      "ru": "араб / арабка",
       "type": {
         "en": "nationality",
         "ru": "национальность"
@@ -612,7 +612,7 @@
       "ru": "семья",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -621,7 +621,7 @@
       "ru": "сын",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -630,7 +630,7 @@
       "ru": "дочь",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -639,7 +639,7 @@
       "ru": "бутылка",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -648,7 +648,7 @@
       "ru": "госпожа",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -657,7 +657,7 @@
       "ru": "ванная комната",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -666,7 +666,7 @@
       "ru": "сон; мечта",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -684,7 +684,7 @@
       "ru": "язык",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -693,7 +693,7 @@
       "ru": "банк",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -729,7 +729,7 @@
       "ru": "из Ливорно",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -746,7 +746,7 @@
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / Дополните."
+      "ru": "Заполните / дополните."
     },
     {
       "it": "Usate il dialogo come modello.",

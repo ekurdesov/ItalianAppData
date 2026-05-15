@@ -12,18 +12,18 @@
         "Fonetica: sc"
       ],
       "en": [
-        "Comprensione orale: incontri",
-        "Presentare una persona",
-        "Verbo stare",
-        "Attività comunicativa: come va?",
-        "Fonetica: sc"
+        "Listening comprehension: meetings",
+        "Introducing a person",
+        "Verb stare",
+        "Communicative activity: how is it going?",
+        "Phonetics: sc"
       ],
       "ru": [
-        "Comprensione orale: incontri",
-        "Presentare una persona",
-        "Verbo stare",
-        "Attività comunicativa: come va?",
-        "Fonetica: sc"
+        "Аудирование: встречи",
+        "Представление человека",
+        "Глагол stare",
+        "Коммуникативное задание: come va?",
+        "Фонетика: sc"
       ]
     }
   },
@@ -210,7 +210,7 @@
         {
           "it": "Piacere di conoscerti.",
           "en": "Nice to meet you. (informal)",
-          "ru": "Приятно познакомиться. (разговорный)"
+          "ru": "Приятно познакомиться. (неформально)"
         },
         {
           "it": "Piacere di conoscerla.",
@@ -429,7 +429,7 @@
     {
       "term": "le presento...",
       "en": "let me introduce ... to you (formal)",
-      "ru": "позвольте представить Вам... (официально)",
+      "ru": "позвольте представить вам... (официально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -456,7 +456,7 @@
     {
       "term": "piacere di conoscerti",
       "en": "nice to meet you (informal)",
-      "ru": "приятно познакомиться (разговорный)",
+      "ru": "приятно познакомиться (неформально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -618,7 +618,7 @@
     {
       "term": "ti saluto",
       "en": "I say goodbye to you (informal)",
-      "ru": "прощаюсь с тобой (разговорный)",
+      "ru": "прощаюсь с тобой (неформально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -759,7 +759,7 @@
         {
           "cue": {
             "en": "Ask how your friend is (informal)",
-            "ru": "Спросите друга о делах (разговорный)"
+            "ru": "Спросите друга о делах (неформально)"
           },
           "expected_it": "Come stai?"
         },
@@ -887,7 +887,7 @@
         {
           "cue": {
             "en": "Ask how they are (informal)",
-            "ru": "Спросите о делах (разговорный)"
+            "ru": "Спросите о делах (неформально)"
           },
           "expected_it": "Come stai?"
         },
@@ -964,7 +964,7 @@
         {
           "cue": {
             "en": "Ask where someone is from (informal)",
-            "ru": "Спросите, откуда кто-то (разговорный)"
+            "ru": "Спросите, откуда кто-то (неформально)"
           },
           "expected_it": "Di dove sei?"
         },

@@ -11,16 +11,16 @@
         "Fonetica: lettera Q"
       ],
       "en": [
-        "Comprensione orale: In giro per l'Italia",
-        "Le preposizioni",
-        "Attività comunicativa: Qual è il tuo numero?",
-        "Fonetica: lettera Q"
+        "Listening comprehension: Around Italy",
+        "Prepositions",
+        "Communicative activity: What is your number?",
+        "Phonetics: letter Q"
       ],
       "ru": [
-        "Comprensione orale: In giro per l'Italia",
-        "Le preposizioni",
-        "Attività comunicativa: Qual è il tuo numero?",
-        "Fonetica: lettera Q"
+        "Аудирование: In giro per l'Italia",
+        "Предлоги",
+        "Коммуникативное задание: Qual è il tuo numero?",
+        "Фонетика: буква Q"
       ]
     }
   },
@@ -112,7 +112,7 @@
       },
       "description": {
         "en": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking for a phone or cellphone number.",
-        "ru": "Итальянский язык различает неформальную форму 'tu' и официальную 'Lei' при запросе номера телефона или мобильного телефона."
+        "ru": "В итальянском языке различаются неформальная форма 'tu' и официальная форма 'Lei' при вопросе о номере телефона или мобильного."
       },
       "examples": [
         {
@@ -125,7 +125,7 @@
           "context": "formal",
           "it": "Qual è il Suo numero di telefono?",
           "en": "What is your telephone number? (formal)",
-          "ru": "Какой у вас номер телефона? (официальный / формальный)"
+          "ru": "Какой у вас номер телефона? (формально)"
         },
         {
           "context": "informal",
@@ -137,19 +137,19 @@
           "context": "formal",
           "it": "Qual è il Suo numero di cellulare?",
           "en": "What is your cellphone number? (formal)",
-          "ru": "Какой у вас номер мобильного? (официальный / формальный)"
+          "ru": "Какой у вас номер мобильного? (формально)"
         },
         {
           "context": "answer",
           "it": "Il mio numero di telefono è...",
           "en": "My telephone number is...",
-          "ru": "Мой номер телефона..."
+          "ru": "Мой номер телефона — ..."
         },
         {
           "context": "answer",
           "it": "Il mio numero di cellulare è...",
           "en": "My cellphone number is...",
-          "ru": "Мой номер мобильного..."
+          "ru": "Мой номер мобильного — ..."
         }
       ]
     },
@@ -212,7 +212,7 @@
       "ru": "телефон",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -221,7 +221,7 @@
       "ru": "мобильный телефон",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -254,7 +254,7 @@
     {
       "term": "qual è il Suo numero di telefono?",
       "en": "what is your telephone number? (formal)",
-      "ru": "какой у вас номер телефона? (официальный / формальный)",
+      "ru": "какой у вас номер телефона? (формально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -272,7 +272,7 @@
     {
       "term": "qual è il Suo numero di cellulare?",
       "en": "what is your cellphone number? (formal)",
-      "ru": "какой у вас номер мобильного? (официальный / формальный)",
+      "ru": "какой у вас номер мобильного? (формально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -563,7 +563,7 @@
       "ru": "тетрадь",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -572,7 +572,7 @@
       "ru": "вода",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -581,7 +581,7 @@
       "ru": "район",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -590,7 +590,7 @@
       "ru": "команда",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -599,7 +599,7 @@
       "ru": "перчатки",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -608,7 +608,7 @@
       "ru": "гид; путеводитель",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -669,7 +669,7 @@
     {
       "it": "Qual è il Suo numero di telefono?",
       "en": "What is your telephone number? (formal)",
-      "ru": "Какой у вас номер телефона? (официальный / формальный)"
+      "ru": "Какой у вас номер телефона? (формально)"
     },
     {
       "it": "Qual è il tuo numero di cellulare?",
@@ -679,7 +679,7 @@
     {
       "it": "Qual è il Suo numero di cellulare?",
       "en": "What is your cellphone number? (formal)",
-      "ru": "Какой у вас номер мобильного? (официальный / формальный)"
+      "ru": "Какой у вас номер мобильного? (формально)"
     }
   ],
   "dialogues": [

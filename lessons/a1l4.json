@@ -11,16 +11,16 @@
         "Fonetica: lettera G"
       ],
       "en": [
-        "Ripasso: essere e chiamarsi",
-        "Comprensione orale: 'Scusi, Lei come si chiama?'",
-        "Attività comunicativa: presentarsi",
-        "Fonetica: lettera G"
+        "Review: essere and chiamarsi",
+        "Listening comprehension: 'Excuse me, what is your name?'",
+        "Communicative activity: introducing yourself",
+        "Phonetics: letter G"
       ],
       "ru": [
-        "Ripasso: essere e chiamarsi",
-        "Comprensione orale: 'Scusi, Lei come si chiama?'",
-        "Attività comunicativa: presentarsi",
-        "Fonetica: lettera G"
+        "Повторение: essere и chiamarsi",
+        "Аудирование: 'Scusi, Lei come si chiama?'",
+        "Коммуникативное задание: представиться",
+        "Фонетика: буква G"
       ]
     }
   },
@@ -91,7 +91,7 @@
         {
           "it": "tu",
           "en": "you (informal singular)",
-          "ru": "ты (разговорный, единственное число)"
+          "ru": "ты (неформально, ед. ч.)"
         },
         {
           "it": "lui / lei / Lei",
@@ -157,13 +157,13 @@
           "context": "statement",
           "it": "Il mio nome è...",
           "en": "My name is...",
-          "ru": "Моё имя..."
+          "ru": "Моё имя — ..."
         },
         {
           "context": "statement",
           "it": "Il mio cognome è...",
           "en": "My surname is...",
-          "ru": "Моя фамилия..."
+          "ru": "Моя фамилия — ..."
         }
       ]
     },
@@ -184,7 +184,7 @@
         {
           "it": "Piacere di conoscerti.",
           "en": "Nice to meet you. (informal)",
-          "ru": "Приятно познакомиться. (разговорный)"
+          "ru": "Приятно познакомиться. (неформально)"
         },
         {
           "it": "Piacere di conoscerla.",
@@ -398,7 +398,7 @@
     {
       "term": "tu",
       "en": "you (informal singular)",
-      "ru": "ты (разговорный, единственное число)",
+      "ru": "ты (неформально, ед. ч.)",
       "type": {
         "en": "pronoun",
         "ru": "местоимение"
@@ -488,7 +488,7 @@
     {
       "term": "il mio nome è...",
       "en": "my name is...",
-      "ru": "моё имя...",
+      "ru": "моё имя — ...",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -497,7 +497,7 @@
     {
       "term": "il mio cognome è...",
       "en": "my surname is...",
-      "ru": "моя фамилия...",
+      "ru": "моя фамилия — ...",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -515,7 +515,7 @@
     {
       "term": "piacere di conoscerti",
       "en": "nice to meet you (informal)",
-      "ru": "приятно познакомиться (разговорный)",
+      "ru": "приятно познакомиться (неформально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -796,7 +796,7 @@
         {
           "cue": {
             "en": "Greet and ask for someone's name (informal)",
-            "ru": "Поздоровайтесь и спросите имя (разговорный)"
+            "ru": "Поздоровайтесь и спросите имя (неформально)"
           },
           "expected_it": "Ciao. Come ti chiami?"
         },
@@ -881,7 +881,7 @@
         {
           "cue": {
             "en": "Ask if someone is [name] (informal)",
-            "ru": "Спросите, правда ли что кого-то зовут [имя] (разговорный)"
+            "ru": "Спросите, правда ли что кого-то зовут [имя] (неформально)"
           },
           "expected_it": "Tu sei [nome]?"
         },

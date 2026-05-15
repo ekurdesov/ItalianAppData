@@ -11,10 +11,10 @@
         "Chiedere e dire che lingue parli"
       ],
       "en": [
-        "Ripasso: gioco dei verbi",
-        "Comprensione scritta: Annunci",
-        "Grammatica: articolo indeterminativo",
-        "Chiedere e dire che lingue parli"
+        "Review: verb game",
+        "Reading comprehension: Ads",
+        "Grammar: indefinite article",
+        "Asking which languages you speak"
       ],
       "ru": [
         "Повторение: gioco dei verbi",
@@ -42,7 +42,7 @@
         {
           "it": "un ragazzo",
           "en": "a boy",
-          "ru": "какой-то мальчик; один мальчик"
+          "ru": "мальчик"
         },
         {
           "it": "uno studente",
@@ -55,9 +55,9 @@
           "ru": "девушка"
         },
         {
-          "it": "un'autobus",
+          "it": "un autobus",
           "en": "a bus",
-          "ru": "подруга"
+          "ru": "автобус"
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "it": "un'amica",
           "en": "a female friend",
-          "ru": "автобус"
+          "ru": "подруга"
         }
       ]
     },
@@ -784,6 +784,47 @@
         "noi": "ci chiamiamo",
         "voi": "vi chiamate",
         "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "amare",
+      "translation": {
+        "en": "to love",
+        "ru": "любить"
+      },
+      "forms": {
+        "io": "amo",
+        "tu": "ami",
+        "lui/lei/Lei": "ama",
+        "noi": "amiamo",
+        "voi": "amate",
+        "loro": "amano"
       },
       "pronoun_labels": {
         "io": {

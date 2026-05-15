@@ -13,20 +13,20 @@
         "Fonetica: lettera Z"
       ],
       "en": [
-        "Ripasso: i numeri da 10 a 100",
-        "Ripasso: verbi avere ed essere",
-        "Ripasso e ampliamento: avere + sensazioni fisiche ed emotive",
-        "Attività comunicativa: Come ti chiami? — formale e informale",
-        "Attività comunicativa: Quante domande! — Qual è il tuo/Suo...?",
-        "Fonetica: lettera Z"
+        "Review: numbers from 10 to 100",
+        "Review: avere and essere",
+        "Review and expansion: avere + physical and emotional sensations",
+        "Communicative activity: What is your name? - formal and informal",
+        "Communicative activity: So many questions! - What is your...?",
+        "Phonetics: letter Z"
       ],
       "ru": [
-        "Ripasso: i numeri da 10 a 100",
-        "Ripasso: verbi avere ed essere",
-        "Ripasso e ampliamento: avere + sensazioni fisiche ed emotive",
-        "Attività comunicativa: Come ti chiami? — formale e informale",
-        "Attività comunicativa: Quante domande! — Qual è il tuo/Suo...?",
-        "Fonetica: lettera Z"
+        "Повторение: числа от 10 до 100",
+        "Повторение: avere и essere",
+        "Повторение и расширение: avere + физические и эмоциональные ощущения",
+        "Коммуникативное задание: Come ti chiami? - формально и неформально",
+        "Коммуникативное задание: Quante domande! - Qual è il tuo/Suo...?",
+        "Фонетика: буква Z"
       ]
     }
   },
@@ -461,7 +461,7 @@
     {
       "term": "il ragazzo",
       "en": "boy / boyfriend",
-      "ru": "парень / парень (бойфренд)",
+      "ru": "мальчик / парень",
       "type": {
         "en": "noun",
         "ru": "существительное"
@@ -470,7 +470,7 @@
     {
       "term": "la ragazza",
       "en": "girl / girlfriend",
-      "ru": "девушка / подруга (герлфренд)",
+      "ru": "девушка / возлюбленная",
       "type": {
         "en": "noun",
         "ru": "существительное"

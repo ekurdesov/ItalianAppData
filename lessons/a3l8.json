@@ -11,16 +11,16 @@
         "Attività comunicativa: Quante domande!"
       ],
       "en": [
-        "Ripasso: Com'è?",
-        "Comprensione orale: Nomi e cognomi italiani",
-        "Grammatica: essere VS esserci",
-        "Attività comunicativa: Quante domande!"
+        "Review: what is he/she like?",
+        "Listening comprehension: Italian first and last names",
+        "Grammar: essere vs esserci",
+        "Communicative activity: So many questions!"
       ],
       "ru": [
         "Повторение: Com'è?",
         "Аудирование: Nomi e cognomi italiani",
-        "Грамматика: essere VS esserci",
-        "Коммуникативная деятельность: Quante domande!"
+        "Грамматика: essere vs esserci",
+        "Коммуникативное задание: Quante domande!"
       ]
     }
   },
@@ -57,7 +57,7 @@
         {
           "it": "Al bar ci sono gli amici.",
           "en": "There are friends at the bar.",
-          "ru": "В баре есть друзья."
+          "ru": "Друзья в баре."
         }
       ]
     },

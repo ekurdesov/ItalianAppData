@@ -14,22 +14,22 @@
         "Fonetica: lettere D/T"
       ],
       "en": [
-        "Comprensione orale",
-        "Numeri da 0 a 10",
-        "Il sostantivo",
-        "L'aggettivo",
-        "Presentarsi",
-        "Salutare",
-        "Fonetica: lettere D/T"
+        "Listening comprehension",
+        "Numbers from 0 to 10",
+        "The noun",
+        "The adjective",
+        "Introducing yourself",
+        "Greeting",
+        "Phonetics: letters D/T"
       ],
       "ru": [
-        "Comprensione orale",
-        "Numeri da 0 a 10",
-        "Il sostantivo",
-        "L'aggettivo",
-        "Presentarsi",
-        "Salutare",
-        "Fonetica: lettere D/T"
+        "Аудирование",
+        "Числа от 0 до 10",
+        "Существительное",
+        "Прилагательное",
+        "Представиться",
+        "Приветствия",
+        "Фонетика: буквы D/T"
       ]
     }
   },
@@ -178,7 +178,7 @@
           "context": "statement",
           "it": "Il mio cognome è...",
           "en": "My surname is...",
-          "ru": "Моя фамилия..."
+          "ru": "Моя фамилия — ..."
         }
       ]
     },
@@ -224,7 +224,7 @@
           "context": "departure",
           "it": "Arrivederla!",
           "en": "Goodbye (formal)",
-          "ru": "До свидания (официальный / формальный)"
+          "ru": "До свидания (формально)"
         },
         {
           "context": "departure",
@@ -372,7 +372,7 @@
       "ru": "имя",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -381,7 +381,7 @@
       "ru": "фамилия",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -450,7 +450,7 @@
     {
       "term": "arrivederla",
       "en": "goodbye (formal)",
-      "ru": "до свидания (официальный / формальный)",
+      "ru": "до свидания (формально)",
       "type": {
         "en": "greeting",
         "ru": "приветствие"
@@ -522,7 +522,7 @@
     {
       "term": "direttrice",
       "en": "female director",
-      "ru": "директриса",
+      "ru": "директор",
       "type": {
         "en": "noun",
         "ru": "существительное"
@@ -579,7 +579,7 @@
       "ru": "чётный (о числе)",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -588,7 +588,7 @@
       "ru": "нечётный (о числе)",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -606,7 +606,7 @@
       "ru": "плюс; больше",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -615,7 +615,7 @@
       "ru": "равно; равный",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {

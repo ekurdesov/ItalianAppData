@@ -1,313 +1,500 @@
 """
-Extract verb conjugation tables from IT PDFs and patch existing en/ + ru/ JSONs.
-Also used as a library by the new-lesson processing script.
+Rebuild `verb_tables` in the merged `lessons/*.json` files.
 
-verb_tables schema added to each JSON:
-[
-  {
-    "infinitive": "essere",
-    "translation_en": "to be",
-    "translation_ru": "быть",
-    "forms": {
-      "io": "sono",
-      "tu": "sei",
-      "lui/lei/Lei": "è",
-      "noi": "siamo",
-      "voi": "siete",
-      "loro": "sono"
-    }
-  },
-  ...
-]
+The mapping below is based on a fresh PDF scan of `IT/*.pdf` on 2026-05-15.
+Priority is given to verb-drill slides and pages explicitly labeled `VERBI` or
+`verbo`, plus a small number of high-signal lesson verbs visible in the lesson
+texts (for example `amare` in L3-4).
 """
 
-import json, re, glob, os
-import pdfplumber
+from __future__ import annotations
 
-# ── Known verb paradigms (ground truth for all A1 verbs) ──────────────────────
+import json
+import os
+from collections import OrderedDict
+
+
 VERB_DATA = {
-    "essere": {
-        "translation_en": "to be",
-        "translation_ru": "быть",
-        "forms": {"io":"sono","tu":"sei","lui/lei/Lei":"è","noi":"siamo","voi":"siete","loro":"sono"}
-    },
-    "avere": {
-        "translation_en": "to have",
-        "translation_ru": "иметь",
-        "forms": {"io":"ho","tu":"hai","lui/lei/Lei":"ha","noi":"abbiamo","voi":"avete","loro":"hanno"}
-    },
-    "chiamarsi": {
-        "translation_en": "to be called",
-        "translation_ru": "называться / зваться",
-        "forms": {"io":"mi chiamo","tu":"ti chiami","lui/lei/Lei":"si chiama","noi":"ci chiamiamo","voi":"vi chiamate","loro":"si chiamano"}
-    },
-    "stare": {
-        "translation_en": "to stay / to be (health)",
-        "translation_ru": "находиться / чувствовать себя",
-        "forms": {"io":"sto","tu":"stai","lui/lei/Lei":"sta","noi":"stiamo","voi":"state","loro":"stanno"}
-    },
     "abitare": {
-        "translation_en": "to live / to reside",
-        "translation_ru": "жить / проживать",
-        "forms": {"io":"abito","tu":"abiti","lui/lei/Lei":"abita","noi":"abitiamo","voi":"abitate","loro":"abitano"}
+        "en": "to live / to reside",
+        "ru": "жить / проживать",
+        "forms": {"io": "abito", "tu": "abiti", "lui/lei/Lei": "abita", "noi": "abitiamo", "voi": "abitate", "loro": "abitano"},
     },
-    "parlare": {
-        "translation_en": "to speak",
-        "translation_ru": "говорить",
-        "forms": {"io":"parlo","tu":"parli","lui/lei/Lei":"parla","noi":"parliamo","voi":"parlate","loro":"parlano"}
-    },
-    "lavorare": {
-        "translation_en": "to work",
-        "translation_ru": "работать",
-        "forms": {"io":"lavoro","tu":"lavori","lui/lei/Lei":"lavora","noi":"lavoriamo","voi":"lavorate","loro":"lavorano"}
-    },
-    "studiare": {
-        "translation_en": "to study",
-        "translation_ru": "учиться / изучать",
-        "forms": {"io":"studio","tu":"studi","lui/lei/Lei":"studia","noi":"studiamo","voi":"studiate","loro":"studiano"}
-    },
-    "scrivere": {
-        "translation_en": "to write",
-        "translation_ru": "писать",
-        "forms": {"io":"scrivo","tu":"scrivi","lui/lei/Lei":"scrive","noi":"scriviamo","voi":"scrivete","loro":"scrivono"}
-    },
-    "leggere": {
-        "translation_en": "to read",
-        "translation_ru": "читать",
-        "forms": {"io":"leggo","tu":"leggi","lui/lei/Lei":"legge","noi":"leggiamo","voi":"leggete","loro":"leggono"}
-    },
-    "prendere": {
-        "translation_en": "to take",
-        "translation_ru": "брать; садиться на транспорт",
-        "forms": {"io":"prendo","tu":"prendi","lui/lei/Lei":"prende","noi":"prendiamo","voi":"prendete","loro":"prendono"}
-    },
-    "vivere": {
-        "translation_en": "to live",
-        "translation_ru": "жить",
-        "forms": {"io":"vivo","tu":"vivi","lui/lei/Lei":"vive","noi":"viviamo","voi":"vivete","loro":"vivono"}
-    },
-    "vendere": {
-        "translation_en": "to sell",
-        "translation_ru": "продавать",
-        "forms": {"io":"vendo","tu":"vendi","lui/lei/Lei":"vende","noi":"vendiamo","voi":"vendete","loro":"vendono"}
-    },
-    "mettere": {
-        "translation_en": "to put",
-        "translation_ru": "класть / ставить",
-        "forms": {"io":"metto","tu":"metti","lui/lei/Lei":"mette","noi":"mettiamo","voi":"mettete","loro":"mettono"}
-    },
-    "chiedere": {
-        "translation_en": "to ask",
-        "translation_ru": "спрашивать",
-        "forms": {"io":"chiedo","tu":"chiedi","lui/lei/Lei":"chiede","noi":"chiediamo","voi":"chiedete","loro":"chiedono"}
-    },
-    "rispondere": {
-        "translation_en": "to answer",
-        "translation_ru": "отвечать",
-        "forms": {"io":"rispondo","tu":"rispondi","lui/lei/Lei":"risponde","noi":"rispondiamo","voi":"rispondete","loro":"rispondono"}
-    },
-    "partire": {
-        "translation_en": "to leave / to depart",
-        "translation_ru": "уезжать / отправляться",
-        "forms": {"io":"parto","tu":"parti","lui/lei/Lei":"parte","noi":"partiamo","voi":"partite","loro":"partono"}
-    },
-    "sentire": {
-        "translation_en": "to hear / to feel",
-        "translation_ru": "слышать / чувствовать",
-        "forms": {"io":"sento","tu":"senti","lui/lei/Lei":"sente","noi":"sentiamo","voi":"sentite","loro":"sentono"}
-    },
-    "dormire": {
-        "translation_en": "to sleep",
-        "translation_ru": "спать",
-        "forms": {"io":"dormo","tu":"dormi","lui/lei/Lei":"dorme","noi":"dormiamo","voi":"dormite","loro":"dormono"}
-    },
-    "aprire": {
-        "translation_en": "to open",
-        "translation_ru": "открывать",
-        "forms": {"io":"apro","tu":"apri","lui/lei/Lei":"apre","noi":"apriamo","voi":"aprite","loro":"aprono"}
-    },
-    "preferire": {
-        "translation_en": "to prefer",
-        "translation_ru": "предпочитать",
-        "forms": {"io":"preferisco","tu":"preferisci","lui/lei/Lei":"preferisce","noi":"preferiamo","voi":"preferite","loro":"preferiscono"}
-    },
-    "capire": {
-        "translation_en": "to understand",
-        "translation_ru": "понимать",
-        "forms": {"io":"capisco","tu":"capisci","lui/lei/Lei":"capisce","noi":"capiamo","voi":"capite","loro":"capiscono"}
-    },
-    "finire": {
-        "translation_en": "to finish",
-        "translation_ru": "заканчивать",
-        "forms": {"io":"finisco","tu":"finisci","lui/lei/Lei":"finisce","noi":"finiamo","voi":"finite","loro":"finiscono"}
+    "amare": {
+        "en": "to love",
+        "ru": "любить",
+        "forms": {"io": "amo", "tu": "ami", "lui/lei/Lei": "ama", "noi": "amiamo", "voi": "amate", "loro": "amano"},
     },
     "andare": {
-        "translation_en": "to go",
-        "translation_ru": "идти / ехать",
-        "forms": {"io":"vado","tu":"vai","lui/lei/Lei":"va","noi":"andiamo","voi":"andate","loro":"vanno"}
+        "en": "to go",
+        "ru": "идти / ехать",
+        "forms": {"io": "vado", "tu": "vai", "lui/lei/Lei": "va", "noi": "andiamo", "voi": "andate", "loro": "vanno"},
     },
-    "fare": {
-        "translation_en": "to do / to make",
-        "translation_ru": "делать",
-        "forms": {"io":"faccio","tu":"fai","lui/lei/Lei":"fa","noi":"facciamo","voi":"fate","loro":"fanno"}
-    },
-    "bere": {
-        "translation_en": "to drink",
-        "translation_ru": "пить",
-        "forms": {"io":"bevo","tu":"bevi","lui/lei/Lei":"beve","noi":"beviamo","voi":"bevete","loro":"bevono"}
-    },
-    "venire": {
-        "translation_en": "to come",
-        "translation_ru": "приходить / приезжать",
-        "forms": {"io":"vengo","tu":"vieni","lui/lei/Lei":"viene","noi":"veniamo","voi":"venite","loro":"vengono"}
-    },
-    "potere": {
-        "translation_en": "to be able to / can",
-        "translation_ru": "мочь",
-        "forms": {"io":"posso","tu":"puoi","lui/lei/Lei":"può","noi":"possiamo","voi":"potete","loro":"possono"}
-    },
-    "volere": {
-        "translation_en": "to want",
-        "translation_ru": "хотеть",
-        "forms": {"io":"voglio","tu":"vuoi","lui/lei/Lei":"vuole","noi":"vogliamo","voi":"volete","loro":"vogliono"}
-    },
-    "dovere": {
-        "translation_en": "to have to / must",
-        "translation_ru": "должен",
-        "forms": {"io":"devo","tu":"devi","lui/lei/Lei":"deve","noi":"dobbiamo","voi":"dovete","loro":"devono"}
-    },
-    "sapere": {
-        "translation_en": "to know",
-        "translation_ru": "знать (уметь)",
-        "forms": {"io":"so","tu":"sai","lui/lei/Lei":"sa","noi":"sappiamo","voi":"sapete","loro":"sanno"}
-    },
-    "mangiare": {
-        "translation_en": "to eat",
-        "translation_ru": "есть / кушать",
-        "forms": {"io":"mangio","tu":"mangi","lui/lei/Lei":"mangia","noi":"mangiamo","voi":"mangiate","loro":"mangiano"}
-    },
-    "tornare": {
-        "translation_en": "to return",
-        "translation_ru": "возвращаться",
-        "forms": {"io":"torno","tu":"torni","lui/lei/Lei":"torna","noi":"torniamo","voi":"tornate","loro":"tornano"}
+    "aprire": {
+        "en": "to open",
+        "ru": "открывать",
+        "forms": {"io": "apro", "tu": "apri", "lui/lei/Lei": "apre", "noi": "apriamo", "voi": "aprite", "loro": "aprono"},
     },
     "arrivare": {
-        "translation_en": "to arrive",
-        "translation_ru": "приезжать / прибывать",
-        "forms": {"io":"arrivo","tu":"arrivi","lui/lei/Lei":"arriva","noi":"arriviamo","voi":"arrivate","loro":"arrivano"}
+        "en": "to arrive",
+        "ru": "приходить / приезжать",
+        "forms": {"io": "arrivo", "tu": "arrivi", "lui/lei/Lei": "arriva", "noi": "arriviamo", "voi": "arrivate", "loro": "arrivano"},
     },
-    "usare": {
-        "translation_en": "to use",
-        "translation_ru": "использовать",
-        "forms": {"io":"uso","tu":"usi","lui/lei/Lei":"usa","noi":"usiamo","voi":"usate","loro":"usano"}
+    "avere": {
+        "en": "to have",
+        "ru": "иметь",
+        "forms": {"io": "ho", "tu": "hai", "lui/lei/Lei": "ha", "noi": "abbiamo", "voi": "avete", "loro": "hanno"},
+    },
+    "bere": {
+        "en": "to drink",
+        "ru": "пить",
+        "forms": {"io": "bevo", "tu": "bevi", "lui/lei/Lei": "beve", "noi": "beviamo", "voi": "bevete", "loro": "bevono"},
+    },
+    "cambiare": {
+        "en": "to change",
+        "ru": "менять / изменять",
+        "forms": {"io": "cambio", "tu": "cambi", "lui/lei/Lei": "cambia", "noi": "cambiamo", "voi": "cambiate", "loro": "cambiano"},
+    },
+    "capire": {
+        "en": "to understand",
+        "ru": "понимать",
+        "forms": {"io": "capisco", "tu": "capisci", "lui/lei/Lei": "capisce", "noi": "capiamo", "voi": "capite", "loro": "capiscono"},
+    },
+    "chiamarsi": {
+        "en": "to be called",
+        "ru": "называться / зваться",
+        "forms": {"io": "mi chiamo", "tu": "ti chiami", "lui/lei/Lei": "si chiama", "noi": "ci chiamiamo", "voi": "vi chiamate", "loro": "si chiamano"},
+    },
+    "chiedere": {
+        "en": "to ask",
+        "ru": "спрашивать",
+        "forms": {"io": "chiedo", "tu": "chiedi", "lui/lei/Lei": "chiede", "noi": "chiediamo", "voi": "chiedete", "loro": "chiedono"},
     },
     "chiudere": {
-        "translation_en": "to close",
-        "translation_ru": "закрывать",
-        "forms": {"io":"chiudo","tu":"chiudi","lui/lei/Lei":"chiude","noi":"chiudiamo","voi":"chiudete","loro":"chiudono"}
+        "en": "to close",
+        "ru": "закрывать",
+        "forms": {"io": "chiudo", "tu": "chiudi", "lui/lei/Lei": "chiude", "noi": "chiudiamo", "voi": "chiudete", "loro": "chiudono"},
+    },
+    "comprare": {
+        "en": "to buy",
+        "ru": "покупать",
+        "forms": {"io": "compro", "tu": "compri", "lui/lei/Lei": "compra", "noi": "compriamo", "voi": "comprate", "loro": "comprano"},
     },
     "correre": {
-        "translation_en": "to run",
-        "translation_ru": "бежать / бегать",
-        "forms": {"io":"corro","tu":"corri","lui/lei/Lei":"corre","noi":"corriamo","voi":"correte","loro":"corrono"}
+        "en": "to run",
+        "ru": "бежать / бегать",
+        "forms": {"io": "corro", "tu": "corri", "lui/lei/Lei": "corre", "noi": "corriamo", "voi": "correte", "loro": "corrono"},
+    },
+    "credere": {
+        "en": "to believe",
+        "ru": "верить / считать",
+        "forms": {"io": "credo", "tu": "credi", "lui/lei/Lei": "crede", "noi": "crediamo", "voi": "credete", "loro": "credono"},
+    },
+    "dormire": {
+        "en": "to sleep",
+        "ru": "спать",
+        "forms": {"io": "dormo", "tu": "dormi", "lui/lei/Lei": "dorme", "noi": "dormiamo", "voi": "dormite", "loro": "dormono"},
+    },
+    "essere": {
+        "en": "to be",
+        "ru": "быть",
+        "forms": {"io": "sono", "tu": "sei", "lui/lei/Lei": "è", "noi": "siamo", "voi": "siete", "loro": "sono"},
+    },
+    "fare": {
+        "en": "to do / to make",
+        "ru": "делать / совершать",
+        "forms": {"io": "faccio", "tu": "fai", "lui/lei/Lei": "fa", "noi": "facciamo", "voi": "fate", "loro": "fanno"},
+    },
+    "finire": {
+        "en": "to finish",
+        "ru": "заканчивать",
+        "forms": {"io": "finisco", "tu": "finisci", "lui/lei/Lei": "finisce", "noi": "finiamo", "voi": "finite", "loro": "finiscono"},
+    },
+    "guardare": {
+        "en": "to look / to watch",
+        "ru": "смотреть",
+        "forms": {"io": "guardo", "tu": "guardi", "lui/lei/Lei": "guarda", "noi": "guardiamo", "voi": "guardate", "loro": "guardano"},
+    },
+    "guidare": {
+        "en": "to drive",
+        "ru": "водить машину",
+        "forms": {"io": "guido", "tu": "guidi", "lui/lei/Lei": "guida", "noi": "guidiamo", "voi": "guidate", "loro": "guidano"},
+    },
+    "imparare": {
+        "en": "to learn",
+        "ru": "учить / осваивать",
+        "forms": {"io": "imparo", "tu": "impari", "lui/lei/Lei": "impara", "noi": "impariamo", "voi": "imparate", "loro": "imparano"},
+    },
+    "indicare": {
+        "en": "to indicate / to show",
+        "ru": "указывать / показывать",
+        "forms": {"io": "indico", "tu": "indichi", "lui/lei/Lei": "indica", "noi": "indichiamo", "voi": "indicate", "loro": "indicano"},
+    },
+    "lavorare": {
+        "en": "to work",
+        "ru": "работать",
+        "forms": {"io": "lavoro", "tu": "lavori", "lui/lei/Lei": "lavora", "noi": "lavoriamo", "voi": "lavorate", "loro": "lavorano"},
+    },
+    "leggere": {
+        "en": "to read",
+        "ru": "читать",
+        "forms": {"io": "leggo", "tu": "leggi", "lui/lei/Lei": "legge", "noi": "leggiamo", "voi": "leggete", "loro": "leggono"},
+    },
+    "litigare": {
+        "en": "to argue / to quarrel",
+        "ru": "ссориться",
+        "forms": {"io": "litigo", "tu": "litighi", "lui/lei/Lei": "litiga", "noi": "litighiamo", "voi": "litigate", "loro": "litigano"},
+    },
+    "mangiare": {
+        "en": "to eat",
+        "ru": "есть / кушать",
+        "forms": {"io": "mangio", "tu": "mangi", "lui/lei/Lei": "mangia", "noi": "mangiamo", "voi": "mangiate", "loro": "mangiano"},
+    },
+    "mettere": {
+        "en": "to put",
+        "ru": "класть / ставить",
+        "forms": {"io": "metto", "tu": "metti", "lui/lei/Lei": "mette", "noi": "mettiamo", "voi": "mettete", "loro": "mettono"},
+    },
+    "parlare": {
+        "en": "to speak",
+        "ru": "говорить",
+        "forms": {"io": "parlo", "tu": "parli", "lui/lei/Lei": "parla", "noi": "parliamo", "voi": "parlate", "loro": "parlano"},
+    },
+    "partire": {
+        "en": "to leave / to depart",
+        "ru": "уезжать / отправляться",
+        "forms": {"io": "parto", "tu": "parti", "lui/lei/Lei": "parte", "noi": "partiamo", "voi": "partite", "loro": "partono"},
+    },
+    "passare": {
+        "en": "to spend / to pass",
+        "ru": "проводить / проходить",
+        "forms": {"io": "passo", "tu": "passi", "lui/lei/Lei": "passa", "noi": "passiamo", "voi": "passate", "loro": "passano"},
     },
     "perdere": {
-        "translation_en": "to lose",
-        "translation_ru": "терять",
-        "forms": {"io":"perdo","tu":"perdi","lui/lei/Lei":"perde","noi":"perdiamo","voi":"perdete","loro":"perdono"}
-    },
-    "ricevere": {
-        "translation_en": "to receive",
-        "translation_ru": "получать",
-        "forms": {"io":"ricevo","tu":"ricevi","lui/lei/Lei":"riceve","noi":"riceviamo","voi":"ricevete","loro":"ricevono"}
-    },
-    "vedere": {
-        "translation_en": "to see",
-        "translation_ru": "видеть",
-        "forms": {"io":"vedo","tu":"vedi","lui/lei/Lei":"vede","noi":"vediamo","voi":"vedete","loro":"vedono"}
+        "en": "to lose",
+        "ru": "терять",
+        "forms": {"io": "perdo", "tu": "perdi", "lui/lei/Lei": "perde", "noi": "perdiamo", "voi": "perdete", "loro": "perdono"},
     },
     "piacere": {
-        "translation_en": "to like / to please",
-        "translation_ru": "нравиться",
-        "forms": {"io":"piaccio","tu":"piaci","lui/lei/Lei":"piace","noi":"piacciamo","voi":"piacete","loro":"piacciono"}
+        "en": "to like / to please",
+        "ru": "нравиться",
+        "forms": {"io": "piaccio", "tu": "piaci", "lui/lei/Lei": "piace", "noi": "piacciamo", "voi": "piacete", "loro": "piacciono"},
+    },
+    "portare": {
+        "en": "to bring / to carry",
+        "ru": "приносить / носить",
+        "forms": {"io": "porto", "tu": "porti", "lui/lei/Lei": "porta", "noi": "portiamo", "voi": "portate", "loro": "portano"},
+    },
+    "potere": {
+        "en": "to be able to / can",
+        "ru": "мочь",
+        "forms": {"io": "posso", "tu": "puoi", "lui/lei/Lei": "può", "noi": "possiamo", "voi": "potete", "loro": "possono"},
+    },
+    "preferire": {
+        "en": "to prefer",
+        "ru": "предпочитать",
+        "forms": {"io": "preferisco", "tu": "preferisci", "lui/lei/Lei": "preferisce", "noi": "preferiamo", "voi": "preferite", "loro": "preferiscono"},
+    },
+    "prendere": {
+        "en": "to take",
+        "ru": "брать / заказывать / садиться на транспорт",
+        "forms": {"io": "prendo", "tu": "prendi", "lui/lei/Lei": "prende", "noi": "prendiamo", "voi": "prendete", "loro": "prendono"},
+    },
+    "preparare": {
+        "en": "to prepare",
+        "ru": "готовить / подготавливать",
+        "forms": {"io": "preparo", "tu": "prepari", "lui/lei/Lei": "prepara", "noi": "prepariamo", "voi": "preparate", "loro": "preparano"},
+    },
+    "presentare": {
+        "en": "to introduce / to present",
+        "ru": "представлять",
+        "forms": {"io": "presento", "tu": "presenti", "lui/lei/Lei": "presenta", "noi": "presentiamo", "voi": "presentate", "loro": "presentano"},
+    },
+    "pulire": {
+        "en": "to clean",
+        "ru": "чистить / убирать",
+        "forms": {"io": "pulisco", "tu": "pulisci", "lui/lei/Lei": "pulisce", "noi": "puliamo", "voi": "pulite", "loro": "puliscono"},
+    },
+    "regalare": {
+        "en": "to give as a gift",
+        "ru": "дарить",
+        "forms": {"io": "regalo", "tu": "regali", "lui/lei/Lei": "regala", "noi": "regaliamo", "voi": "regalate", "loro": "regalano"},
+    },
+    "restare": {
+        "en": "to stay / to remain",
+        "ru": "оставаться",
+        "forms": {"io": "resto", "tu": "resti", "lui/lei/Lei": "resta", "noi": "restiamo", "voi": "restate", "loro": "restano"},
+    },
+    "ricevere": {
+        "en": "to receive",
+        "ru": "получать",
+        "forms": {"io": "ricevo", "tu": "ricevi", "lui/lei/Lei": "riceve", "noi": "riceviamo", "voi": "ricevete", "loro": "ricevono"},
+    },
+    "rispondere": {
+        "en": "to answer",
+        "ru": "отвечать",
+        "forms": {"io": "rispondo", "tu": "rispondi", "lui/lei/Lei": "risponde", "noi": "rispondiamo", "voi": "rispondete", "loro": "rispondono"},
+    },
+    "salutare": {
+        "en": "to greet / to say hello to",
+        "ru": "приветствовать / здороваться с",
+        "forms": {"io": "saluto", "tu": "saluti", "lui/lei/Lei": "saluta", "noi": "salutiamo", "voi": "salutate", "loro": "salutano"},
+    },
+    "sapere": {
+        "en": "to know",
+        "ru": "знать / уметь",
+        "forms": {"io": "so", "tu": "sai", "lui/lei/Lei": "sa", "noi": "sappiamo", "voi": "sapete", "loro": "sanno"},
+    },
+    "scrivere": {
+        "en": "to write",
+        "ru": "писать",
+        "forms": {"io": "scrivo", "tu": "scrivi", "lui/lei/Lei": "scrive", "noi": "scriviamo", "voi": "scrivete", "loro": "scrivono"},
+    },
+    "sentire": {
+        "en": "to hear / to feel",
+        "ru": "слышать / чувствовать",
+        "forms": {"io": "sento", "tu": "senti", "lui/lei/Lei": "sente", "noi": "sentiamo", "voi": "sentite", "loro": "sentono"},
+    },
+    "stare": {
+        "en": "to stay / to be (health)",
+        "ru": "находиться / чувствовать себя",
+        "forms": {"io": "sto", "tu": "stai", "lui/lei/Lei": "sta", "noi": "stiamo", "voi": "state", "loro": "stanno"},
+    },
+    "stirare": {
+        "en": "to iron",
+        "ru": "гладить",
+        "forms": {"io": "stiro", "tu": "stiri", "lui/lei/Lei": "stira", "noi": "stiriamo", "voi": "stirate", "loro": "stirano"},
+    },
+    "studiare": {
+        "en": "to study",
+        "ru": "учиться / изучать",
+        "forms": {"io": "studio", "tu": "studi", "lui/lei/Lei": "studia", "noi": "studiamo", "voi": "studiate", "loro": "studiano"},
+    },
+    "tornare": {
+        "en": "to return",
+        "ru": "возвращаться",
+        "forms": {"io": "torno", "tu": "torni", "lui/lei/Lei": "torna", "noi": "torniamo", "voi": "tornate", "loro": "tornano"},
+    },
+    "usare": {
+        "en": "to use",
+        "ru": "использовать",
+        "forms": {"io": "uso", "tu": "usi", "lui/lei/Lei": "usa", "noi": "usiamo", "voi": "usate", "loro": "usano"},
+    },
+    "vendere": {
+        "en": "to sell",
+        "ru": "продавать",
+        "forms": {"io": "vendo", "tu": "vendi", "lui/lei/Lei": "vende", "noi": "vendiamo", "voi": "vendete", "loro": "vendono"},
+    },
+    "venire": {
+        "en": "to come",
+        "ru": "приходить / приезжать",
+        "forms": {"io": "vengo", "tu": "vieni", "lui/lei/Lei": "viene", "noi": "veniamo", "voi": "venite", "loro": "vengono"},
+    },
+    "viaggiare": {
+        "en": "to travel",
+        "ru": "путешествовать",
+        "forms": {"io": "viaggio", "tu": "viaggi", "lui/lei/Lei": "viaggia", "noi": "viaggiamo", "voi": "viaggiate", "loro": "viaggiano"},
+    },
+    "vivere": {
+        "en": "to live",
+        "ru": "жить",
+        "forms": {"io": "vivo", "tu": "vivi", "lui/lei/Lei": "vive", "noi": "viviamo", "voi": "vivete", "loro": "vivono"},
+    },
+    "volere": {
+        "en": "to want",
+        "ru": "хотеть",
+        "forms": {"io": "voglio", "tu": "vuoi", "lui/lei/Lei": "vuole", "noi": "vogliamo", "voi": "volete", "loro": "vogliono"},
     },
 }
 
-# ── Lesson → verbs mapping (derived from PDF content analysis) ────────────────
-LESSON_VERBS = {
-    "a1l1": ["essere","chiamarsi"],
-    "a1l2": ["essere","chiamarsi","stare"],
-    "a1l3": ["essere","chiamarsi"],
-    "a1l4": ["essere","chiamarsi"],
-    "a1l5": ["essere","avere"],
-    "a1l6": ["essere","avere"],
-    "a1l7": ["essere","avere"],
-    "a2l1": ["essere","chiamarsi","parlare"],
-    "a2l2": ["essere","chiamarsi","parlare"],
-    "a2l3": ["essere","chiamarsi","stare"],
-    "a2l4": ["essere","avere"],
-    "a2l5": ["essere","avere","stare"],
-    "a2l6": ["essere","avere","stare"],
-    "a2l7": ["essere","avere"],
-    "a3l1": ["essere","abitare"],
-    "a3l2": ["essere","abitare"],
-    "a3l3": ["essere","abitare","scrivere","leggere","prendere","partire","sentire","dormire","aprire","preferire"],
-    "a3l4": ["essere","avere","abitare","parlare","studiare","lavorare"],
-    "a3l5": ["essere","avere","abitare","parlare","studiare","lavorare"],
-    # new lessons
-    "a3l6": ["essere","avere","abitare","parlare","studiare","lavorare"],
-    "a3l7": ["essere","avere","abitare","parlare","studiare","lavorare","stare"],
-    "a3l8": ["essere","avere","stare"],
-    "a3l9": ["essere","avere","stare","parlare"],
-    "a4l1": ["essere","avere","andare","fare","prendere","lavorare"],
-    "a4l2": ["essere","avere","andare","fare","bere","prendere"],
-    "a4l3": ["essere","avere","andare","fare","bere","prendere","venire"],
-    "a4l4": ["essere","avere","andare","fare","bere","venire","potere","volere"],
+
+LESSON_VERBS = OrderedDict(
+    [
+        ("a1l1", ["essere", "chiamarsi"]),
+        ("a1l2", ["essere", "chiamarsi", "stare"]),
+        ("a1l3", ["essere", "chiamarsi"]),
+        ("a1l4", ["essere", "chiamarsi"]),
+        ("a1l5", ["essere", "avere", "chiamarsi"]),
+        ("a1l6", ["essere", "avere", "chiamarsi"]),
+        ("a1l7", ["essere", "avere"]),
+        ("a2l1", ["essere", "chiamarsi", "parlare"]),
+        ("a2l2", ["essere", "chiamarsi", "parlare"]),
+        ("a2l3", ["essere", "chiamarsi", "stare"]),
+        ("a2l4", ["essere", "avere", "stare"]),
+        ("a2l5", ["essere", "avere", "stare"]),
+        ("a2l6", ["essere", "avere", "stare"]),
+        ("a2l7", ["essere", "avere", "stare"]),
+        ("a3l1", ["essere", "avere", "abitare", "chiamarsi", "studiare"]),
+        ("a3l2", ["essere", "avere", "abitare"]),
+        (
+            "a3l3",
+            [
+                "essere",
+                "abitare",
+                "chiamarsi",
+                "scrivere",
+                "leggere",
+                "prendere",
+                "partire",
+                "sentire",
+                "dormire",
+                "aprire",
+                "preferire",
+                "vivere",
+                "vendere",
+                "mettere",
+                "chiedere",
+                "perdere",
+                "ricevere",
+                "arrivare",
+                "comprare",
+                "indicare",
+                "portare",
+                "preparare",
+                "presentare",
+                "regalare",
+                "stirare",
+                "cambiare",
+                "guardare",
+                "guidare",
+                "imparare",
+                "lavorare",
+                "passare",
+                "chiudere",
+                "correre",
+                "rispondere",
+            ],
+        ),
+        ("a3l4", ["essere", "avere", "abitare", "parlare", "studiare", "lavorare", "chiamarsi", "amare"]),
+        ("a3l5", ["essere", "avere", "abitare", "parlare", "studiare", "lavorare"]),
+        ("a3l6", ["essere", "avere", "abitare", "parlare", "studiare", "lavorare"]),
+        ("a3l7", ["essere", "avere", "abitare", "parlare", "studiare", "lavorare", "stare"]),
+        ("a3l8", ["essere", "avere", "stare", "chiamarsi", "abitare", "andare"]),
+        ("a3l9", ["essere", "avere", "stare", "parlare", "chiamarsi", "abitare", "andare"]),
+        (
+            "a4l1",
+            [
+                "essere",
+                "avere",
+                "andare",
+                "fare",
+                "prendere",
+                "lavorare",
+                "arrivare",
+                "chiudere",
+                "tornare",
+                "usare",
+                "guardare",
+                "litigare",
+                "mangiare",
+                "ricevere",
+                "salutare",
+                "bere",
+                "chiedere",
+                "credere",
+                "mettere",
+                "comprare",
+            ],
+        ),
+        ("a4l2", ["essere", "avere", "andare", "fare", "bere", "prendere"]),
+        (
+            "a4l3",
+            [
+                "essere",
+                "avere",
+                "andare",
+                "fare",
+                "bere",
+                "prendere",
+                "venire",
+                "preferire",
+                "capire",
+                "finire",
+                "mangiare",
+                "pulire",
+                "restare",
+                "viaggiare",
+            ],
+        ),
+        ("a4l4", ["essere", "avere", "andare", "fare", "bere", "venire", "potere", "volere", "preferire", "capire"]),
+    ]
+)
+
+
+PRONOUN_LABELS = {
+    "io": {"en": "I", "ru": "я"},
+    "tu": {"en": "you (sg.)", "ru": "ты"},
+    "lui/lei/Lei": {"en": "he/she/you (formal)", "ru": "он/она/Вы"},
+    "noi": {"en": "we", "ru": "мы"},
+    "voi": {"en": "you (pl.)", "ru": "вы"},
+    "loro": {"en": "they", "ru": "они"},
 }
 
 
-def make_verb_table(infinitive):
-    """Return a verb_tables entry dict for the given infinitive."""
-    d = VERB_DATA[infinitive]
+def make_verb_table(infinitive: str) -> dict:
+    data = VERB_DATA[infinitive]
     return {
         "infinitive": infinitive,
-        "translation_en": d["translation_en"],
-        "translation_ru": d["translation_ru"],
-        "forms": d["forms"]
+        "translation": {"en": data["en"], "ru": data["ru"]},
+        "forms": data["forms"],
+        "pronoun_labels": PRONOUN_LABELS,
     }
 
 
-def verb_tables_for_lesson(lesson_key):
-    """Return the verb_tables list for a lesson key like 'a3l3'."""
-    verbs = LESSON_VERBS.get(lesson_key, [])
-    return [make_verb_table(v) for v in verbs if v in VERB_DATA]
+def patch_lesson(lesson_path: str) -> int:
+    lesson_key = os.path.splitext(os.path.basename(lesson_path))[0]
+    desired = [make_verb_table(v) for v in LESSON_VERBS.get(lesson_key, [])]
 
-
-def patch_json_file(path, lesson_key):
-    """Add/replace verb_tables in a JSON file. Returns True if changed."""
-    with open(path) as f:
+    with open(lesson_path, "r", encoding="utf-8") as f:
         data = json.load(f)
-    tables = verb_tables_for_lesson(lesson_key)
-    if data.get("verb_tables") == tables:
-        return False
-    data["verb_tables"] = tables
-    with open(path, "w") as f:
+
+    changed = 0
+    if data.get("verb_tables") != desired:
+        data["verb_tables"] = desired
+        changed = 1
+
+    with open(lesson_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    return True
+        f.write("\n")
+
+    return changed
+
+
+def patch_index(index_path: str) -> int:
+    with open(index_path, "r", encoding="utf-8") as f:
+        index = json.load(f)
+
+    changed = 0
+    for lesson in index.get("lessons", []):
+        lesson_path = os.path.join("lessons", lesson["file"])
+        with open(lesson_path, "r", encoding="utf-8") as f:
+            lesson_json = json.load(f)
+        count = len(lesson_json.get("verb_tables", []))
+        if lesson.get("verb_table_count") != count:
+            lesson["verb_table_count"] = count
+            changed = 1
+
+    if index.get("generated_at") != "2026-05-15":
+        index["generated_at"] = "2026-05-15"
+        changed = 1
+
+    if changed:
+        with open(index_path, "w", encoding="utf-8") as f:
+            json.dump(index, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    return changed
+
+
+def main() -> None:
+    changed_lessons = 0
+    for lesson_key in LESSON_VERBS:
+        path = os.path.join("lessons", f"{lesson_key}.json")
+        if os.path.exists(path):
+            changed_lessons += patch_lesson(path)
+    changed_index = patch_index("index.json")
+    print(f"Updated {changed_lessons} lesson files.")
+    print(f"Index changed: {bool(changed_index)}")
 
 
 if __name__ == "__main__":
-    base = os.path.dirname(os.path.abspath(__file__))
-    changed = 0
-    for locale in ("en", "ru"):
-        for path in sorted(glob.glob(os.path.join(base, locale, "*.json"))):
-            key = os.path.splitext(os.path.basename(path))[0]  # e.g. "a3l3"
-            if key not in LESSON_VERBS:
-                print(f"  SKIP {path} (no mapping)")
-                continue
-            if patch_json_file(path, key):
-                print(f"  PATCHED {path}")
-                changed += 1
-            else:
-                print(f"  OK     {path}")
-    print(f"\nDone. {changed} files updated.")
+    main()

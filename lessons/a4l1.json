@@ -10,9 +10,9 @@
         "Chiedere e dire perché andiamo al bar"
       ],
       "en": [
-        "Comprensione scritta: Vado al bar",
-        "Grammatica: verbi in -are, -ere, -ire, verbi irregolari andare/fare",
-        "Chiedere e dire perché andiamo al bar"
+        "Reading comprehension: I'm going to the bar",
+        "Grammar: verbs in -are, -ere, -ire, irregular verbs andare/fare",
+        "Asking and saying why we go to the bar"
       ],
       "ru": [
         "Чтение: Vado al bar",
@@ -641,7 +641,7 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать"
+        "ru": "делать / совершать"
       },
       "forms": {
         "io": "faccio",
@@ -682,7 +682,7 @@
       "infinitive": "prendere",
       "translation": {
         "en": "to take",
-        "ru": "брать; садиться на транспорт"
+        "ru": "брать / заказывать / садиться на транспорт"
       },
       "forms": {
         "io": "prendo",
@@ -732,6 +732,580 @@
         "noi": "lavoriamo",
         "voi": "lavorate",
         "loro": "lavorano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "arrivare",
+      "translation": {
+        "en": "to arrive",
+        "ru": "приходить / приезжать"
+      },
+      "forms": {
+        "io": "arrivo",
+        "tu": "arrivi",
+        "lui/lei/Lei": "arriva",
+        "noi": "arriviamo",
+        "voi": "arrivate",
+        "loro": "arrivano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiudere",
+      "translation": {
+        "en": "to close",
+        "ru": "закрывать"
+      },
+      "forms": {
+        "io": "chiudo",
+        "tu": "chiudi",
+        "lui/lei/Lei": "chiude",
+        "noi": "chiudiamo",
+        "voi": "chiudete",
+        "loro": "chiudono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "tornare",
+      "translation": {
+        "en": "to return",
+        "ru": "возвращаться"
+      },
+      "forms": {
+        "io": "torno",
+        "tu": "torni",
+        "lui/lei/Lei": "torna",
+        "noi": "torniamo",
+        "voi": "tornate",
+        "loro": "tornano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "usare",
+      "translation": {
+        "en": "to use",
+        "ru": "использовать"
+      },
+      "forms": {
+        "io": "uso",
+        "tu": "usi",
+        "lui/lei/Lei": "usa",
+        "noi": "usiamo",
+        "voi": "usate",
+        "loro": "usano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "guardare",
+      "translation": {
+        "en": "to look / to watch",
+        "ru": "смотреть"
+      },
+      "forms": {
+        "io": "guardo",
+        "tu": "guardi",
+        "lui/lei/Lei": "guarda",
+        "noi": "guardiamo",
+        "voi": "guardate",
+        "loro": "guardano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "litigare",
+      "translation": {
+        "en": "to argue / to quarrel",
+        "ru": "ссориться"
+      },
+      "forms": {
+        "io": "litigo",
+        "tu": "litighi",
+        "lui/lei/Lei": "litiga",
+        "noi": "litighiamo",
+        "voi": "litigate",
+        "loro": "litigano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "mangiare",
+      "translation": {
+        "en": "to eat",
+        "ru": "есть / кушать"
+      },
+      "forms": {
+        "io": "mangio",
+        "tu": "mangi",
+        "lui/lei/Lei": "mangia",
+        "noi": "mangiamo",
+        "voi": "mangiate",
+        "loro": "mangiano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "ricevere",
+      "translation": {
+        "en": "to receive",
+        "ru": "получать"
+      },
+      "forms": {
+        "io": "ricevo",
+        "tu": "ricevi",
+        "lui/lei/Lei": "riceve",
+        "noi": "riceviamo",
+        "voi": "ricevete",
+        "loro": "ricevono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "salutare",
+      "translation": {
+        "en": "to greet / to say hello to",
+        "ru": "приветствовать / здороваться с"
+      },
+      "forms": {
+        "io": "saluto",
+        "tu": "saluti",
+        "lui/lei/Lei": "saluta",
+        "noi": "salutiamo",
+        "voi": "salutate",
+        "loro": "salutano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "bere",
+      "translation": {
+        "en": "to drink",
+        "ru": "пить"
+      },
+      "forms": {
+        "io": "bevo",
+        "tu": "bevi",
+        "lui/lei/Lei": "beve",
+        "noi": "beviamo",
+        "voi": "bevete",
+        "loro": "bevono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiedere",
+      "translation": {
+        "en": "to ask",
+        "ru": "спрашивать"
+      },
+      "forms": {
+        "io": "chiedo",
+        "tu": "chiedi",
+        "lui/lei/Lei": "chiede",
+        "noi": "chiediamo",
+        "voi": "chiedete",
+        "loro": "chiedono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "credere",
+      "translation": {
+        "en": "to believe",
+        "ru": "верить / считать"
+      },
+      "forms": {
+        "io": "credo",
+        "tu": "credi",
+        "lui/lei/Lei": "crede",
+        "noi": "crediamo",
+        "voi": "credete",
+        "loro": "credono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "mettere",
+      "translation": {
+        "en": "to put",
+        "ru": "класть / ставить"
+      },
+      "forms": {
+        "io": "metto",
+        "tu": "metti",
+        "lui/lei/Lei": "mette",
+        "noi": "mettiamo",
+        "voi": "mettete",
+        "loro": "mettono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "comprare",
+      "translation": {
+        "en": "to buy",
+        "ru": "покупать"
+      },
+      "forms": {
+        "io": "compro",
+        "tu": "compri",
+        "lui/lei/Lei": "compra",
+        "noi": "compriamo",
+        "voi": "comprate",
+        "loro": "comprano"
       },
       "pronoun_labels": {
         "io": {

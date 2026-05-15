@@ -11,10 +11,10 @@
         "Chiedere e dire l'indirizzo e lo stato civile"
       ],
       "en": [
-        "Ripasso: Intervista doppia",
-        "Grammatica: Dove abiti?",
-        "Comprensione orale: Una strana coppia",
-        "Chiedere e dire l'indirizzo e lo stato civile"
+        "Review: double interview",
+        "Grammar: Where do you live?",
+        "Listening comprehension: A strange couple",
+        "Asking for and giving an address and civil status"
       ],
       "ru": [
         "Повторение: Intervista doppia",
@@ -36,7 +36,7 @@
       },
       "description": {
         "en": "Italian uses adjective-based questions to ask whether someone is married, single, engaged, separated, divorced or widowed.",
-        "ru": "В итальянском для вопроса о семейном положении используются формы с прилагательными: married, single, engaged, separated, divorced, widowed."
+        "ru": "В итальянском для вопроса о семейном положении используются формы с прилагательными: женат / замужем, не женат / не замужем, помолвлен / помолвлена, в разводе, вдовец / вдова."
       },
       "examples": [
         {

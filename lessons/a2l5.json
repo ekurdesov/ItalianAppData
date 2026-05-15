@@ -13,20 +13,20 @@
         "Formale e informale: ripasso"
       ],
       "en": [
-        "Ripasso: i numeri da 10 a 100",
-        "Grammatica: verbi avere ed essere — ripasso e ampliamento",
-        "Lessico: avere + sensazioni fisiche ed emotive",
-        "Attività comunicativa: Come ti chiami? / Quanti anni hai? / Che numero hai?",
-        "Attività comunicativa: Quante domande!",
-        "Formale e informale: ripasso"
+        "Review: numbers from 10 to 100",
+        "Grammar: avere and essere - review and expansion",
+        "Vocabulary: avere + physical and emotional sensations",
+        "Communicative activity: What is your name? / How old are you? / What is your number?",
+        "Communicative activity: So many questions!",
+        "Formal and informal: review"
       ],
       "ru": [
-        "Ripasso: i numeri da 10 a 100",
-        "Grammatica: verbi avere ed essere — ripasso e ampliamento",
-        "Lessico: avere + sensazioni fisiche ed emotive",
-        "Attività comunicativa: Come ti chiami? / Quanti anni hai? / Che numero hai?",
-        "Attività comunicativa: Quante domande!",
-        "Formale e informale: ripasso"
+        "Повторение: числа от 10 до 100",
+        "Грамматика: avere и essere - повторение и расширение",
+        "Лексика: avere + физические и эмоциональные ощущения",
+        "Коммуникативное задание: Come ti chiami? / Quanti anni hai? / Che numero hai?",
+        "Коммуникативное задание: Quante domande!",
+        "Формальное и неформальное общение: повторение"
       ]
     }
   },
@@ -622,7 +622,7 @@
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / Дополните."
+      "ru": "Заполните / дополните."
     },
     {
       "it": "Cosa desideri quando...?",

@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "generated_at": "2026-05-14",
+  "generated_at": "2026-05-15",
   "locale_data_path": "lessons/{file}",
   "notes": "Lesson files live under lessons/. Each file contains all locales. Use the locale key (en/ru) to access translated fields.",
   "lessons": [
@@ -252,7 +252,7 @@
       "flashcard_count": 36,
       "language_rule_count": 5,
       "dialogue_count": 2,
-      "verb_table_count": 4
+      "verb_table_count": 5
     },
     {
       "id": "A1-L3-2",
@@ -284,7 +284,7 @@
       "flashcard_count": 28,
       "language_rule_count": 5,
       "dialogue_count": 2,
-      "verb_table_count": 11
+      "verb_table_count": 34
     },
     {
       "id": "A1-L3-4",
@@ -300,7 +300,7 @@
       "flashcard_count": 27,
       "language_rule_count": 5,
       "dialogue_count": 1,
-      "verb_table_count": 7
+      "verb_table_count": 8
     },
     {
       "id": "A1-L3-5",
@@ -395,7 +395,7 @@
       "flashcard_count": 22,
       "language_rule_count": 5,
       "dialogue_count": 1,
-      "verb_table_count": 6
+      "verb_table_count": 20
     },
     {
       "id": "A1-L4-2",
@@ -427,7 +427,7 @@
       "flashcard_count": 24,
       "language_rule_count": 5,
       "dialogue_count": 1,
-      "verb_table_count": 10
+      "verb_table_count": 14
     },
     {
       "id": "A1-L4-4",

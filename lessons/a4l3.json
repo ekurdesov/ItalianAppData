@@ -11,16 +11,16 @@
         "Attività comunicativa: E tu che cosa prendi?"
       ],
       "en": [
-        "Ripasso: Perché vai al bar?",
-        "Lessico: Bevande e spuntini",
-        "Comprensione orale: Al bar",
-        "Attività comunicativa: E tu che cosa prendi?"
+        "Review: Why do you go to the bar?",
+        "Vocabulary: drinks and snacks",
+        "Listening comprehension: At the bar",
+        "Communicative activity: And what are you having?"
       ],
       "ru": [
         "Повторение: Perché vai al bar?",
-        "Лексика: Bevande e spuntini",
+        "Лексика: bevande e spuntini",
         "Аудирование: Al bar",
-        "Коммуникативная деятельность: E tu che cosa prendi?"
+        "Коммуникативное задание: E tu che cosa prendi?"
       ]
     }
   },
@@ -635,7 +635,7 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать"
+        "ru": "делать / совершать"
       },
       "forms": {
         "io": "faccio",
@@ -717,7 +717,7 @@
       "infinitive": "prendere",
       "translation": {
         "en": "to take",
-        "ru": "брать; садиться на транспорт"
+        "ru": "брать / заказывать / садиться на транспорт"
       },
       "forms": {
         "io": "prendo",
@@ -890,6 +890,170 @@
         "noi": "finiamo",
         "voi": "finite",
         "loro": "finiscono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "mangiare",
+      "translation": {
+        "en": "to eat",
+        "ru": "есть / кушать"
+      },
+      "forms": {
+        "io": "mangio",
+        "tu": "mangi",
+        "lui/lei/Lei": "mangia",
+        "noi": "mangiamo",
+        "voi": "mangiate",
+        "loro": "mangiano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "pulire",
+      "translation": {
+        "en": "to clean",
+        "ru": "чистить / убирать"
+      },
+      "forms": {
+        "io": "pulisco",
+        "tu": "pulisci",
+        "lui/lei/Lei": "pulisce",
+        "noi": "puliamo",
+        "voi": "pulite",
+        "loro": "puliscono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "restare",
+      "translation": {
+        "en": "to stay / to remain",
+        "ru": "оставаться"
+      },
+      "forms": {
+        "io": "resto",
+        "tu": "resti",
+        "lui/lei/Lei": "resta",
+        "noi": "restiamo",
+        "voi": "restate",
+        "loro": "restano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "viaggiare",
+      "translation": {
+        "en": "to travel",
+        "ru": "путешествовать"
+      },
+      "forms": {
+        "io": "viaggio",
+        "tu": "viaggi",
+        "lui/lei/Lei": "viaggia",
+        "noi": "viaggiamo",
+        "voi": "viaggiate",
+        "loro": "viaggiano"
       },
       "pronoun_labels": {
         "io": {

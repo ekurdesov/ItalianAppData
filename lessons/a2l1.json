@@ -11,16 +11,16 @@
         "Fonetica: lettera S"
       ],
       "en": [
-        "Comprensione orale: La classe di Carla",
-        "Aggettivi di nazionalità",
-        "Attività comunicativa: Di dove sei?",
-        "Fonetica: lettera S"
+        "Listening comprehension: Carla's class",
+        "Nationality adjectives",
+        "Communicative activity: Where are you from?",
+        "Phonetics: letter S"
       ],
       "ru": [
-        "Comprensione orale: La classe di Carla",
-        "Aggettivi di nazionalità",
-        "Attività comunicativa: Di dove sei?",
-        "Fonetica: lettera S"
+        "Аудирование: класс Карлы",
+        "Прилагательные национальности",
+        "Коммуникативное задание: di dove sei?",
+        "Фонетика: буква S"
       ]
     }
   },
@@ -55,13 +55,13 @@
           "context": "formal",
           "it": "Di dov'è?",
           "en": "Where are you from? (formal)",
-          "ru": "Откуда вы? (официальный / формальный)"
+          "ru": "Откуда вы? (формально)"
         },
         {
           "context": "formal",
           "it": "E Lei?",
           "en": "And you? (formal)",
-          "ru": "А вы? (официальный / формальный)"
+          "ru": "А вы? (формально)"
         },
         {
           "context": "answer",
@@ -145,7 +145,7 @@
       "ru": "школа",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -154,7 +154,7 @@
       "ru": "аудитория; класс",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -163,7 +163,7 @@
       "ru": "класс; группа",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -172,7 +172,7 @@
       "ru": "урок; занятие",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -208,7 +208,7 @@
       "ru": "рюкзак",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -217,7 +217,7 @@
       "ru": "доска",
       "type": {
         "en": "classroom noun",
-        "ru": "слово из класса"
+        "ru": "лексика класса"
       }
     },
     {
@@ -250,7 +250,7 @@
     {
       "term": "di dov'è?",
       "en": "where are you from? (formal)",
-      "ru": "откуда вы? (официальный / формальный)",
+      "ru": "откуда вы? (формально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
@@ -550,7 +550,7 @@
       "ru": "вечер",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     },
     {
@@ -577,7 +577,7 @@
       "ru": "иностранец / иностранка; иностранный",
       "type": {
         "en": "vocabulary",
-        "ru": "слово / лексика"
+        "ru": "лексика"
       }
     }
   ],

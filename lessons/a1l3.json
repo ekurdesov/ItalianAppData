@@ -13,20 +13,20 @@
         "Fonetica: lettera C"
       ],
       "en": [
-        "Ripasso: salutare",
-        "Pronomi personali",
+        "Review: greetings",
+        "Personal pronouns",
         "Essere",
         "Chiamarsi",
-        "Attività comunicativa: presentarsi",
-        "Fonetica: lettera C"
+        "Communicative activity: introducing yourself",
+        "Phonetics: letter C"
       ],
       "ru": [
-        "Ripasso: salutare",
-        "Pronomi personali",
+        "Повторение: приветствия",
+        "Личные местоимения",
         "Essere",
         "Chiamarsi",
-        "Attività comunicativa: presentarsi",
-        "Fonetica: lettera C"
+        "Коммуникативное задание: представиться",
+        "Фонетика: буква C"
       ]
     }
   },
@@ -111,7 +111,7 @@
         {
           "it": "tu",
           "en": "you (informal singular)",
-          "ru": "ты (разговорный, единственное число)"
+          "ru": "ты (неформально, ед. ч.)"
         },
         {
           "it": "lui / lei",
@@ -619,7 +619,7 @@
     {
       "term": "ti saluto",
       "en": "I say goodbye to you (informal)",
-      "ru": "прощаюсь с тобой (разговорный)",
+      "ru": "прощаюсь с тобой (неформально)",
       "type": {
         "en": "phrase",
         "ru": "фраза"
