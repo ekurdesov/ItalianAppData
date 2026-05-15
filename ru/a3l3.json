@@ -230,6 +230,46 @@
       "term": "giorno",
       "definition": "день",
       "type": "время"
+    },
+    {
+      "term": "vivere",
+      "definition": "жить",
+      "type": "глагол"
+    },
+    {
+      "term": "chiedere",
+      "definition": "спрашивать",
+      "type": "глагол"
+    },
+    {
+      "term": "rispondere",
+      "definition": "отвечать",
+      "type": "глагол"
+    },
+    {
+      "term": "ricevere",
+      "definition": "получать",
+      "type": "глагол"
+    },
+    {
+      "term": "mettere",
+      "definition": "класть / ставить",
+      "type": "глагол"
+    },
+    {
+      "term": "correre",
+      "definition": "бежать / бегать",
+      "type": "глагол"
+    },
+    {
+      "term": "perdere",
+      "definition": "терять",
+      "type": "глагол"
+    },
+    {
+      "term": "leggere",
+      "definition": "читать",
+      "type": "глагол"
     }
   ],
   "classroom_instructions": [
@@ -348,6 +388,32 @@
         "noi": "siamo",
         "voi": "siete",
         "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -361,6 +427,71 @@
         "noi": "abitiamo",
         "voi": "abitate",
         "loro": "abitano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiamarsi",
+      "translation_en": "to be called",
+      "translation_ru": "называться / зваться",
+      "forms": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -374,6 +505,32 @@
         "noi": "scriviamo",
         "voi": "scrivete",
         "loro": "scrivono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -387,6 +544,32 @@
         "noi": "leggiamo",
         "voi": "leggete",
         "loro": "leggono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -400,6 +583,32 @@
         "noi": "prendiamo",
         "voi": "prendete",
         "loro": "prendono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -413,6 +622,32 @@
         "noi": "partiamo",
         "voi": "partite",
         "loro": "partono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -426,6 +661,32 @@
         "noi": "sentiamo",
         "voi": "sentite",
         "loro": "sentono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -439,6 +700,32 @@
         "noi": "dormiamo",
         "voi": "dormite",
         "loro": "dormono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -452,6 +739,32 @@
         "noi": "apriamo",
         "voi": "aprite",
         "loro": "aprono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -465,6 +778,32 @@
         "noi": "preferiamo",
         "voi": "preferite",
         "loro": "preferiscono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     }
   ]

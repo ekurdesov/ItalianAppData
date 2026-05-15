@@ -328,6 +328,32 @@
         "noi": "siamo",
         "voi": "siete",
         "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -341,7 +367,87 @@
         "noi": "ci chiamiamo",
         "voi": "vi chiamate",
         "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-1-01",
+      "title": "Piacere!",
+      "register": "informal",
+      "context": "Двое людей встречаются впервые и знакомятся.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao! Mi chiamo Luca. E tu?",
+          "translation": "Привет! Меня зовут Лука. А тебя?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ciao! Io sono Sofia. Piacere!",
+          "translation": "Привет! Я Софья. Приятно познакомиться!"
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere mio!",
+          "translation": "Мне тоже приятно!"
+        },
+        {
+          "speaker": "B",
+          "it": "Di dove sei, Luca?",
+          "translation": "Откуда ты, Лука?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono italiano, di Roma. E tu?",
+          "translation": "Я итальянец, из Рима. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono spagnola, di Madrid.",
+          "translation": "Я испанка, из Мадрида."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Представиться",
+          "expected_it": "Mi chiamo … / Sono …"
+        },
+        {
+          "cue": "Сказать «приятно познакомиться»",
+          "expected_it": "Piacere!"
+        },
+        {
+          "cue": "Сказать, откуда ты",
+          "expected_it": "Sono di …"
+        }
+      ]
     }
   ]
 }

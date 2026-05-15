@@ -1,12 +1,8 @@
 {
   "version": 6,
   "generated_at": "2026-05-14",
-  "locales": [
-    "en",
-    "ru"
-  ],
-  "locale_data_path": "{locale}/{file}",
-  "notes": "Lesson files live under en/ and ru/ subfolders. Load the appropriate subfolder based on the user's locale setting. Field 'translation' carries the localised meaning; field 'it' always contains Italian.",
+  "locale_data_path": "lessons/{file}",
+  "notes": "Lesson files live under lessons/. Each file contains all locales. Use the locale key (en/ru) to access translated fields.",
   "lessons": [
     {
       "id": "A1-L1-1",
@@ -20,7 +16,8 @@
       "file": "a1l1.json",
       "flashcard_count": 36,
       "language_rule_count": 4,
-      "dialogue_count": 0
+      "dialogue_count": 1,
+      "verb_table_count": 2
     },
     {
       "id": "A1-L1-2",
@@ -36,7 +33,8 @@
       "file": "a1l2.json",
       "flashcard_count": 44,
       "language_rule_count": 6,
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L1-3",
@@ -53,7 +51,8 @@
       "file": "a1l3.json",
       "flashcard_count": 47,
       "language_rule_count": 6,
-      "dialogue_count": 0
+      "dialogue_count": 1,
+      "verb_table_count": 2
     },
     {
       "id": "A1-L1-4",
@@ -68,7 +67,8 @@
       "file": "a1l4.json",
       "flashcard_count": 42,
       "language_rule_count": 7,
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "verb_table_count": 2
     },
     {
       "id": "A1-L1-5",
@@ -83,7 +83,8 @@
       "file": "a1l5.json",
       "flashcard_count": 53,
       "language_rule_count": 6,
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L1-6",
@@ -101,7 +102,8 @@
       "file": "a1l6.json",
       "flashcard_count": 49,
       "language_rule_count": 8,
-      "dialogue_count": 0
+      "dialogue_count": 1,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L1-7",
@@ -116,7 +118,8 @@
       "file": "a1l7.json",
       "flashcard_count": 47,
       "language_rule_count": 5,
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "verb_table_count": 2
     },
     {
       "id": "A1-L2-1",
@@ -131,7 +134,8 @@
       "file": "a2l1.json",
       "flashcard_count": 49,
       "language_rule_count": 4,
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L2-2",
@@ -146,7 +150,8 @@
       "file": "a2l2.json",
       "flashcard_count": 55,
       "language_rule_count": 6,
-      "dialogue_count": 3
+      "dialogue_count": 3,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L2-3",
@@ -163,7 +168,8 @@
       "file": "a2l3.json",
       "flashcard_count": 37,
       "language_rule_count": 6,
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L2-4",
@@ -178,7 +184,8 @@
       "file": "a2l4.json",
       "flashcard_count": 56,
       "language_rule_count": 4,
-      "dialogue_count": 3
+      "dialogue_count": 3,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L2-5",
@@ -195,7 +202,8 @@
       "file": "a2l5.json",
       "flashcard_count": 38,
       "language_rule_count": 5,
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L2-6",
@@ -210,9 +218,10 @@
         "Fonetica: lettera Z"
       ],
       "file": "a2l6.json",
-      "flashcard_count": 23,
+      "flashcard_count": 35,
       "language_rule_count": 5,
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L2-7",
@@ -227,7 +236,8 @@
       "file": "a2l7.json",
       "flashcard_count": 44,
       "language_rule_count": 4,
-      "dialogue_count": 0
+      "dialogue_count": 1,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L3-1",
@@ -241,7 +251,8 @@
       "file": "a3l1.json",
       "flashcard_count": 36,
       "language_rule_count": 5,
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "verb_table_count": 4
     },
     {
       "id": "A1-L3-2",
@@ -256,7 +267,8 @@
       "file": "a3l2.json",
       "flashcard_count": 33,
       "language_rule_count": 5,
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "verb_table_count": 3
     },
     {
       "id": "A1-L3-3",
@@ -269,9 +281,10 @@
         "Chiedere e dire l'indirizzo email"
       ],
       "file": "a3l3.json",
-      "flashcard_count": 20,
+      "flashcard_count": 28,
       "language_rule_count": 5,
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "verb_table_count": 11
     },
     {
       "id": "A1-L3-4",
@@ -284,9 +297,10 @@
         "Chiedere e dire che lingue parli"
       ],
       "file": "a3l4.json",
-      "flashcard_count": 20,
+      "flashcard_count": 27,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 7
     },
     {
       "id": "A1-L3-5",
@@ -299,9 +313,10 @@
         "Esprimere d'accordo e chiedere spiegazioni"
       ],
       "file": "a3l5.json",
-      "flashcard_count": 18,
+      "flashcard_count": 26,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 6
     },
     {
       "id": "A1-L3-6",
@@ -316,7 +331,8 @@
       "file": "a3l6.json",
       "flashcard_count": 30,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 6
     },
     {
       "id": "A1-L3-7",
@@ -331,7 +347,8 @@
       "file": "a3l7.json",
       "flashcard_count": 22,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 7
     },
     {
       "id": "A1-L3-8",
@@ -346,7 +363,8 @@
       "file": "a3l8.json",
       "flashcard_count": 20,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 6
     },
     {
       "id": "A1-L3-9",
@@ -361,7 +379,8 @@
       "file": "a3l9.json",
       "flashcard_count": 20,
       "language_rule_count": 5,
-      "dialogue_count": 0
+      "dialogue_count": 0,
+      "verb_table_count": 7
     },
     {
       "id": "A1-L4-1",
@@ -375,7 +394,8 @@
       "file": "a4l1.json",
       "flashcard_count": 22,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 6
     },
     {
       "id": "A1-L4-2",
@@ -390,7 +410,8 @@
       "file": "a4l2.json",
       "flashcard_count": 22,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 6
     },
     {
       "id": "A1-L4-3",
@@ -403,9 +424,10 @@
         "Attività comunicativa: E tu che cosa prendi?"
       ],
       "file": "a4l3.json",
-      "flashcard_count": 17,
+      "flashcard_count": 24,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 10
     },
     {
       "id": "A1-L4-4",
@@ -420,7 +442,8 @@
       "file": "a4l4.json",
       "flashcard_count": 21,
       "language_rule_count": 5,
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "verb_table_count": 10
     }
   ]
 }

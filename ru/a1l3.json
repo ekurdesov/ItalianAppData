@@ -544,6 +544,32 @@
         "noi": "siamo",
         "voi": "siete",
         "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
     },
     {
@@ -557,7 +583,87 @@
         "noi": "ci chiamiamo",
         "voi": "vi chiamate",
         "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
       }
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-3-01",
+      "title": "Come ti chiami?",
+      "register": "informal",
+      "context": "Два студента знакомятся, используя essere и chiamarsi.",
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao! Come ti chiami?",
+          "translation": "Привет! Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Anna. E tu, come ti chiami?",
+          "translation": "Меня зовут Анна. А тебя как зовут?"
+        },
+        {
+          "speaker": "A",
+          "it": "Io mi chiamo Marco. Sono italiano. E tu?",
+          "translation": "Меня зовут Марко. Я итальянец. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono russa, di Mosca.",
+          "translation": "Я русская, из Москвы."
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere, Anna!",
+          "translation": "Приятно познакомиться, Анна!"
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere, Marco!",
+          "translation": "Приятно познакомиться, Марко!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": "Спросить имя",
+          "expected_it": "Come ti chiami?"
+        },
+        {
+          "cue": "Назвать своё имя через chiamarsi",
+          "expected_it": "Mi chiamo …"
+        },
+        {
+          "cue": "Назвать свою национальность",
+          "expected_it": "Sono italiano/a / russo/a …"
+        }
+      ]
     }
   ]
 }
