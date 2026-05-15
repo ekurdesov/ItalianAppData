@@ -1,0 +1,976 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-5",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": {
+      "it": [
+        "Comprensione orale: 'Lei è Gianni'",
+        "Il sostantivo",
+        "Attività comunicativa: 'Sei la mia collega?'",
+        "Fonetica: lettere D/T"
+      ],
+      "en": [
+        "Comprensione orale: 'Lei è Gianni'",
+        "Il sostantivo",
+        "Attività comunicativa: 'Sei la mia collega?'",
+        "Fonetica: lettere D/T"
+      ],
+      "ru": [
+        "Comprensione orale: 'Lei è Gianni'",
+        "Il sostantivo",
+        "Attività comunicativa: 'Sei la mia collega?'",
+        "Fonetica: lettere D/T"
+      ]
+    }
+  },
+  "language_rules": [
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Affirmative, interrogative, and negative sentences",
+        "ru": "Утвердительные, вопросительные и отрицательные предложения"
+      },
+      "description": {
+        "en": "In Italian, the interrogative sentence keeps the same word order as the affirmative sentence but uses rising intonation. Negative sentences are formed by placing 'non' before the verb.",
+        "ru": "В итальянском языке вопросительное предложение сохраняет тот же порядок слов, что и утвердительное, но произносится с восходящей интонацией. Отрицательные предложения образуются путём постановки 'non' перед глаголом."
+      },
+      "examples": [
+        {
+          "it": "Lui è italiano.",
+          "en": "He is Italian.",
+          "ru": "Он итальянец."
+        },
+        {
+          "it": "Lui è italiano?",
+          "en": "Is he Italian?",
+          "ru": "Он итальянец?"
+        },
+        {
+          "it": "Lui non è italiano.",
+          "en": "He is not Italian.",
+          "ru": "Он не итальянец."
+        },
+        {
+          "it": "Sì. / No, lui non è italiano.",
+          "en": "Yes. / No, he is not Italian.",
+          "ru": "Да. / Нет, он не итальянец."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Noun gender by ending",
+        "ru": "Род существительного по окончанию"
+      },
+      "description": {
+        "en": "Italian nouns often indicate gender through their final vowel.",
+        "ru": "В итальянском языке существительные часто указывают на род через последнюю гласную."
+      }
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Noun gender by common suffix",
+        "ru": "Род существительного по типичным суффиксам"
+      },
+      "description": {
+        "en": "Some noun endings strongly predict grammatical gender.",
+        "ru": "Некоторые суффиксы существительных позволяют уверенно определить грамматический род."
+      }
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Introducing yourself and asking names",
+        "ru": "Знакомство и вопрос о имени"
+      },
+      "description": {
+        "en": "Italian uses informal 'tu' and formal 'Lei' forms for introductions.",
+        "ru": "В итальянском языке для знакомства используются неформальная форма 'tu' и формальная 'Lei'."
+      },
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Come ti chiami?",
+          "en": "What is your name?",
+          "ru": "Как тебя зовут?"
+        },
+        {
+          "context": "formal",
+          "it": "Come si chiama?",
+          "en": "What is your name? (formal)",
+          "ru": "Как вас зовут? (официальный / формальный)"
+        },
+        {
+          "context": "statement",
+          "it": "Mi chiamo Paolo.",
+          "en": "My name is Paolo.",
+          "ru": "Меня зовут Паоло."
+        },
+        {
+          "context": "statement",
+          "it": "Il mio nome è...",
+          "en": "My name is...",
+          "ru": "Моё имя..."
+        },
+        {
+          "context": "statement",
+          "it": "Il mio cognome è...",
+          "en": "My surname is...",
+          "ru": "Моя фамилия..."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Talking about classmates and colleagues",
+        "ru": "Разговор об одноклассниках и коллегах"
+      },
+      "description": {
+        "en": "Agreement in gender appears in role nouns and possessive phrases used in introductions.",
+        "ru": "Согласование по роду проявляется в названиях ролей и притяжательных конструкциях при знакомстве."
+      },
+      "examples": [
+        {
+          "it": "studente d'italiano / studentessa d'italiano",
+          "en": "male student of Italian / female student of Italian",
+          "ru": "студент итальянского / студентка итальянского"
+        },
+        {
+          "it": "il mio collega / la mia collega",
+          "en": "my male colleague / my female colleague",
+          "ru": "мой коллега / моя коллега"
+        },
+        {
+          "it": "il mio compagno di gruppo / la mia compagna di gruppo",
+          "en": "my male groupmate / my female groupmate",
+          "ru": "мой одногруппник / моя одногруппница"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Phonetics",
+        "ru": "Фонетика"
+      },
+      "rule": {
+        "en": "Letters D and T",
+        "ru": "Буквы D и T"
+      },
+      "description": {
+        "en": "The lesson includes recognition and pronunciation practice for the consonants D and T.",
+        "ru": "Урок включает практику распознавания и произношения согласных D и T."
+      },
+      "examples": [
+        {
+          "it": "D/T",
+          "en": "contrast between the sounds d and t",
+          "ru": "противопоставление звуков d и t"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "non",
+      "en": "not",
+      "ru": "не",
+      "type": {
+        "en": "grammar",
+        "ru": "грамматика"
+      }
+    },
+    {
+      "term": "studente",
+      "en": "male student",
+      "ru": "студент",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "studentessa",
+      "en": "female student",
+      "ru": "студентка",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "insegnante",
+      "en": "teacher",
+      "ru": "учитель / учительница",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "collega",
+      "en": "colleague",
+      "ru": "коллега",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "compagno di gruppo",
+      "en": "male groupmate",
+      "ru": "одногруппник",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "compagna di gruppo",
+      "en": "female groupmate",
+      "ru": "одногруппница",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "ragazzo",
+      "en": "boy",
+      "ru": "мальчик; парень",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "ragazza",
+      "en": "girl",
+      "ru": "девочка; девушка",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "treno",
+      "en": "train",
+      "ru": "поезд",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "macchina",
+      "en": "car",
+      "ru": "машина",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "bicchiere",
+      "en": "glass",
+      "ru": "стакан",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "pesce",
+      "en": "fish",
+      "ru": "рыба",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "carne",
+      "en": "meat",
+      "ru": "мясо",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "voce",
+      "en": "voice",
+      "ru": "голос",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "cameriere",
+      "en": "waiter",
+      "ru": "официант",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "ventilatore",
+      "en": "fan",
+      "ru": "вентилятор",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "colazione",
+      "en": "breakfast",
+      "ru": "завтрак",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "direttrice",
+      "en": "female director",
+      "ru": "директриса",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "cattedra",
+      "en": "teacher's desk",
+      "ru": "учительский стол",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "quaderno",
+      "en": "notebook",
+      "ru": "тетрадь",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "zaino",
+      "en": "backpack",
+      "ru": "рюкзак",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "pennarello",
+      "en": "marker",
+      "ru": "фломастер",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "banco",
+      "en": "desk",
+      "ru": "парта",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "righello",
+      "en": "ruler",
+      "ru": "линейка",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "penna",
+      "en": "pen",
+      "ru": "ручка",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "gomma",
+      "en": "eraser",
+      "ru": "ластик",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "matita",
+      "en": "pencil",
+      "ru": "карандаш",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "lavagna",
+      "en": "board",
+      "ru": "доска",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "sedia",
+      "en": "chair",
+      "ru": "стул",
+      "type": {
+        "en": "classroom noun",
+        "ru": "слово из класса"
+      }
+    },
+    {
+      "term": "bicchiere",
+      "en": "glass",
+      "ru": "стакан",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "televisore",
+      "en": "television",
+      "ru": "телевизор",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "giornale",
+      "en": "newspaper",
+      "ru": "газета",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "fiore",
+      "en": "flower",
+      "ru": "цветок",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "cane",
+      "en": "dog",
+      "ru": "собака",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "sapone",
+      "en": "soap",
+      "ru": "мыло",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "patente",
+      "en": "driver's license",
+      "ru": "водительские права",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "chiave",
+      "en": "key",
+      "ru": "ключ",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "notte",
+      "en": "night",
+      "ru": "ночь",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "calcolatrice",
+      "en": "calculator",
+      "ru": "калькулятор",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "torre",
+      "en": "tower",
+      "ru": "башня",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "ciao",
+      "en": "hi; bye",
+      "ru": "привет; пока",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buongiorno",
+      "en": "good morning; good day",
+      "ru": "доброе утро; добрый день",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buonasera",
+      "en": "good evening",
+      "ru": "добрый вечер",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "salve",
+      "en": "hello",
+      "ru": "здравствуйте",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "arrivederci",
+      "en": "goodbye",
+      "ru": "до свидания",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "arrivederla",
+      "en": "goodbye (formal)",
+      "ru": "до свидания (официальный / формальный)",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buona notte",
+      "en": "good night",
+      "ru": "спокойной ночи",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "a presto",
+      "en": "see you soon",
+      "ru": "до скорого",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buona lezione",
+      "en": "have a good lesson",
+      "ru": "хорошего урока",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "buona lezione anche a te",
+      "en": "have a good lesson too",
+      "ru": "и тебе хорошего урока",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "tutto a posto",
+      "en": "everything's fine; all good",
+      "ru": "всё в порядке",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "sono stanco/a",
+      "en": "I am tired",
+      "ru": "я устал / я устала",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate con essere o/e chiamarsi.",
+      "en": "Complete with 'essere' and/or 'chiamarsi'.",
+      "ru": "Заполните, используя 'essere' и/или 'chiamarsi'."
+    },
+    {
+      "it": "Osservate e rispondete.",
+      "en": "Observe and answer.",
+      "ru": "Посмотрите и ответьте."
+    },
+    {
+      "it": "Secondo me...",
+      "en": "In my opinion...",
+      "ru": "По-моему..."
+    },
+    {
+      "it": "Non lo so.",
+      "en": "I don't know.",
+      "ru": "Не знаю."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "en": "Read and check.",
+      "ru": "Прочитайте и проверьте."
+    },
+    {
+      "it": "Mettete in ordine.",
+      "en": "Put in order.",
+      "ru": "Расставьте по порядку."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "en": "Work in pairs.",
+      "ru": "Работайте в парах."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "en": "Listen and complete.",
+      "ru": "Послушайте и заполните."
+    },
+    {
+      "it": "Abbinate.",
+      "en": "Match.",
+      "ru": "Сопоставьте."
+    },
+    {
+      "it": "Buona lezione!",
+      "en": "Have a good lesson!",
+      "ru": "Хорошего урока!"
+    },
+    {
+      "it": "Come? Puoi ripetere, per favore?",
+      "en": "Sorry? Can you repeat, please?",
+      "ru": "Как? Можешь повторить, пожалуйста?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-5-01",
+      "title": "Buona lezione!",
+      "register": "informal",
+      "context": {
+        "en": "Two students greet each other at the start of an Italian class",
+        "ru": "Двое студентов приветствуют друг друга в начале урока итальянского"
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, mi chiamo Anna.",
+          "en": "Hi, my name is Anna.",
+          "ru": "Привет, меня зовут Анна."
+        },
+        {
+          "speaker": "B",
+          "it": "Ciao, Anna! Mi chiamo Luca. Buona lezione!",
+          "en": "Hi, Anna! My name is Luca. Have a good lesson!",
+          "ru": "Привет, Анна! Меня зовут Лука. Хорошего урока!"
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie, Luca. Buona lezione anche a te!",
+          "en": "Thanks, Luca. Have a good lesson too!",
+          "ru": "Спасибо, Лука. И тебе хорошего урока!"
+        },
+        {
+          "speaker": "B",
+          "it": "Grazie!",
+          "en": "Thanks!",
+          "ru": "Спасибо!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Introduce yourself at the start of a lesson",
+            "ru": "Представьтесь в начале урока"
+          },
+          "expected_it": "Ciao, mi chiamo [nome]."
+        },
+        {
+          "cue": {
+            "en": "Wish someone a good lesson",
+            "ru": "Пожелайте кому-то хорошего урока"
+          },
+          "expected_it": "Buona lezione!"
+        },
+        {
+          "cue": {
+            "en": "Wish the same back",
+            "ru": "Ответьте тем же"
+          },
+          "expected_it": "Buona lezione anche a te!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-5-02",
+      "title": "Sei la mia collega?",
+      "register": "informal",
+      "context": {
+        "en": "Two students in an Italian course introduce themselves and establish their role",
+        "ru": "Двое студентов на курсе итальянского знакомятся и выясняют свою роль"
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, come ti chiami?",
+          "en": "Hi, what's your name?",
+          "ru": "Привет, как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Carla. E tu?",
+          "en": "My name is Carla. And you?",
+          "ru": "Меня зовут Карла. А тебя?"
+        },
+        {
+          "speaker": "A",
+          "it": "Mi chiamo Stefano. Piacere. Tu sei studentessa d'italiano?",
+          "en": "My name is Stefano. Pleased to meet you. Are you a student of Italian?",
+          "ru": "Меня зовут Стефано. Приятно познакомиться. Ты студентка итальянского?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, e tu sei il mio compagno di gruppo?",
+          "en": "Yes, and are you my groupmate?",
+          "ru": "Да, а ты мой одногруппник?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì. Piacere di conoscerti!",
+          "en": "Yes. Nice to meet you!",
+          "ru": "Да. Приятно познакомиться!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Ask if someone is a student of Italian (informal)",
+            "ru": "Спросите, является ли кто-то студентом итальянского (неформально)"
+          },
+          "expected_it": "Tu sei studente/studentessa d'italiano?"
+        },
+        {
+          "cue": {
+            "en": "Ask if they are your groupmate",
+            "ru": "Спросите, является ли собеседник вашим одногруппником"
+          },
+          "expected_it": "Tu sei il mio compagno/la mia compagna di gruppo?"
+        },
+        {
+          "cue": {
+            "en": "Express pleasure at meeting them (informal)",
+            "ru": "Выразите радость от знакомства (неформально)"
+          },
+          "expected_it": "Piacere di conoscerti!"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation": {
+        "en": "to be",
+        "ru": "быть"
+      },
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation": {
+        "en": "to have",
+        "ru": "иметь"
+      },
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiamarsi",
+      "translation": {
+        "en": "to be called",
+        "ru": "называться / зваться"
+      },
+      "forms": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    }
+  ]
+}

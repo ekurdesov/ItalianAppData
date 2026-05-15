@@ -1,0 +1,892 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-3",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": {
+      "it": [
+        "Ripasso: salutare",
+        "Pronomi personali",
+        "Essere",
+        "Chiamarsi",
+        "Attività comunicativa: presentarsi",
+        "Fonetica: lettera C"
+      ],
+      "en": [
+        "Ripasso: salutare",
+        "Pronomi personali",
+        "Essere",
+        "Chiamarsi",
+        "Attività comunicativa: presentarsi",
+        "Fonetica: lettera C"
+      ],
+      "ru": [
+        "Ripasso: salutare",
+        "Pronomi personali",
+        "Essere",
+        "Chiamarsi",
+        "Attività comunicativa: presentarsi",
+        "Fonetica: lettera C"
+      ]
+    }
+  },
+  "language_rules": [
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Formal vs informal greetings",
+        "ru": "Официальные и разговорные приветствия"
+      },
+      "description": {
+        "en": "Italian uses different greeting and leave-taking forms depending on the situation and level of formality.",
+        "ru": "В итальянском языке формы приветствия и прощания различаются в зависимости от ситуации и степени официальности."
+      },
+      "examples": [
+        {
+          "context": "arrival informal",
+          "it": "Ciao!",
+          "en": "Hi!",
+          "ru": "Привет!"
+        },
+        {
+          "context": "arrival neutral/formal",
+          "it": "Buongiorno! / Buon dì!",
+          "en": "Good morning / good day!",
+          "ru": "Доброе утро / добрый день!"
+        },
+        {
+          "context": "arrival neutral/formal",
+          "it": "Buonasera!",
+          "en": "Good evening!",
+          "ru": "Добрый вечер!"
+        },
+        {
+          "context": "arrival formal",
+          "it": "Salve!",
+          "en": "Hello!",
+          "ru": "Здравствуйте!"
+        },
+        {
+          "context": "departure formal",
+          "it": "ArrivederLa!",
+          "en": "Goodbye (formal)",
+          "ru": "До свидания (официально)"
+        },
+        {
+          "context": "departure",
+          "it": "Arrivederci!",
+          "en": "Goodbye",
+          "ru": "До свидания"
+        },
+        {
+          "context": "departure",
+          "it": "A presto! / A dopo!",
+          "en": "See you soon / later!",
+          "ru": "До скорого / до встречи!"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Personal subject pronouns",
+        "ru": "Личные местоимения-подлежащие"
+      },
+      "description": {
+        "en": "The lesson practices the basic Italian subject pronouns used with 'essere' and 'chiamarsi'.",
+        "ru": "В уроке отрабатываются основные итальянские местоимения-подлежащие, используемые с глаголами «essere» и «chiamarsi»."
+      },
+      "examples": [
+        {
+          "it": "io",
+          "en": "I",
+          "ru": "я"
+        },
+        {
+          "it": "tu",
+          "en": "you (informal singular)",
+          "ru": "ты (разговорный, единственное число)"
+        },
+        {
+          "it": "lui / lei",
+          "en": "he / she",
+          "ru": "он / она"
+        },
+        {
+          "it": "noi",
+          "en": "we",
+          "ru": "мы"
+        },
+        {
+          "it": "voi",
+          "en": "you (plural)",
+          "ru": "вы (множественное число)"
+        },
+        {
+          "it": "loro",
+          "en": "they",
+          "ru": "они"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Present tense of essere",
+        "ru": "Настоящее время глагола essere"
+      },
+      "description": {
+        "en": "The verb 'essere' is used for identity and basic descriptions.",
+        "ru": "Глагол «essere» используется для обозначения идентичности и основных характеристик."
+      },
+      "conjugations": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      }
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Present tense of chiamarsi",
+        "ru": "Настоящее время глагола chiamarsi"
+      },
+      "description": {
+        "en": "The reflexive verb 'chiamarsi' is used to ask and say names.",
+        "ru": "Возвратный глагол «chiamarsi» используется для того, чтобы спросить и сказать имя."
+      },
+      "conjugations": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      }
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Introducing yourself and asking names",
+        "ru": "Знакомство и вопрос об имени"
+      },
+      "description": {
+        "en": "Italian uses different question and reaction forms for informal 'tu' and formal 'Lei'.",
+        "ru": "В итальянском языке используются разные формулы вопроса и реакции для разговорного «tu» и официального «Lei»."
+      },
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Come ti chiami?",
+          "en": "What is your name?",
+          "ru": "Как тебя зовут?"
+        },
+        {
+          "context": "formal",
+          "it": "Come si chiama?",
+          "en": "What is your name? (formal)",
+          "ru": "Как Вас зовут? (официально)"
+        },
+        {
+          "context": "statement",
+          "it": "Mi chiamo Paolo.",
+          "en": "My name is Paolo.",
+          "ru": "Меня зовут Паоло."
+        },
+        {
+          "context": "statement",
+          "it": "Sono Paolo.",
+          "en": "I am Paolo.",
+          "ru": "Я Паоло."
+        },
+        {
+          "context": "reaction informal",
+          "it": "Piacere di conoscerti.",
+          "en": "Nice to meet you.",
+          "ru": "Приятно познакомиться."
+        },
+        {
+          "context": "reaction formal",
+          "it": "Piacere di conoscerla.",
+          "en": "Nice to meet you. (formal)",
+          "ru": "Приятно познакомиться. (официально)"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Phonetics",
+        "ru": "Фонетика"
+      },
+      "rule": {
+        "en": "Pronunciation of letter C",
+        "ru": "Произношение буквы C"
+      },
+      "description": {
+        "en": "The sound of 'c' changes according to the following letter.",
+        "ru": "Звучание буквы «c» меняется в зависимости от следующей за ней буквы."
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "ciao",
+      "en": "hi; bye",
+      "ru": "привет; пока",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buongiorno",
+      "en": "good morning; good day",
+      "ru": "доброе утро; добрый день",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buon dì",
+      "en": "good day",
+      "ru": "добрый день",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buonasera",
+      "en": "good evening",
+      "ru": "добрый вечер",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "salve",
+      "en": "hello",
+      "ru": "здравствуйте",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "arrivederci",
+      "en": "goodbye",
+      "ru": "до свидания",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "arrivederla",
+      "en": "goodbye (formal)",
+      "ru": "до свидания (официально)",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buona notte",
+      "en": "good night",
+      "ru": "спокойной ночи",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "buona giornata",
+      "en": "have a nice day",
+      "ru": "хорошего дня",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "buona serata",
+      "en": "have a nice evening",
+      "ru": "хорошего вечера",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "buon fine settimana",
+      "en": "have a good weekend",
+      "ru": "хороших выходных",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "ci vediamo",
+      "en": "see you",
+      "ru": "увидимся",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "a presto",
+      "en": "see you soon",
+      "ru": "до скорого",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "a dopo",
+      "en": "see you later",
+      "ru": "до встречи",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "grazie",
+      "en": "thank you",
+      "ru": "спасибо",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "prego",
+      "en": "you're welcome",
+      "ru": "пожалуйста",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "anche a te",
+      "en": "to you too",
+      "ru": "и тебе тоже",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "novità?",
+      "en": "any news?",
+      "ru": "есть новости?",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "la solita vita",
+      "en": "the usual life",
+      "ru": "всё та же жизнь",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "niente di nuovo",
+      "en": "nothing new",
+      "ru": "ничего нового",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "nessuna",
+      "en": "none",
+      "ru": "никакая, ни одна",
+      "type": {
+        "en": "pronoun",
+        "ru": "местоимение"
+      }
+    },
+    {
+      "term": "mi chiamo",
+      "en": "my name is",
+      "ru": "меня зовут",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "ti chiami",
+      "en": "your name is / are you called",
+      "ru": "тебя зовут / как тебя зовут",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "si chiama",
+      "en": "his/her name is; your name is (formal)",
+      "ru": "его/её зовут; Вас зовут (официально)",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "ci chiamiamo",
+      "en": "our names are / we are called",
+      "ru": "нас зовут / мы называемся",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "vi chiamate",
+      "en": "your names are / you are called",
+      "ru": "вас зовут / вы называетесь",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "si chiamano",
+      "en": "their names are / they are called",
+      "ru": "их зовут / они называются",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "sono",
+      "en": "I am; they are",
+      "ru": "я есть; они есть",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "sei",
+      "en": "you are",
+      "ru": "ты есть",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "è",
+      "en": "he/she is; you are (formal)",
+      "ru": "он/она есть; Вы есть (официально)",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "siamo",
+      "en": "we are",
+      "ru": "мы есть",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "siete",
+      "en": "you all are",
+      "ru": "вы есть",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "come si scrive?",
+      "en": "how is it written?",
+      "ru": "как это пишется?",
+      "type": {
+        "en": "classroom phrase",
+        "ru": "учебная фраза"
+      }
+    },
+    {
+      "term": "che cosa significa?",
+      "en": "what does it mean?",
+      "ru": "что это значит?",
+      "type": {
+        "en": "classroom phrase",
+        "ru": "учебная фраза"
+      }
+    },
+    {
+      "term": "come si dice...?",
+      "en": "how do you say...?",
+      "ru": "как по-итальянски...?",
+      "type": {
+        "en": "classroom phrase",
+        "ru": "учебная фраза"
+      }
+    },
+    {
+      "term": "scusi, non ho capito",
+      "en": "sorry, I didn't understand",
+      "ru": "извините, я не понял/поняла",
+      "type": {
+        "en": "classroom phrase",
+        "ru": "учебная фраза"
+      }
+    },
+    {
+      "term": "può ripetere, per favore?",
+      "en": "can you repeat, please?",
+      "ru": "не могли бы Вы повторить, пожалуйста?",
+      "type": {
+        "en": "classroom phrase",
+        "ru": "учебная фраза"
+      }
+    },
+    {
+      "term": "pagina",
+      "en": "page",
+      "ru": "страница",
+      "type": {
+        "en": "classroom vocabulary",
+        "ru": "учебная лексика"
+      }
+    },
+    {
+      "term": "esercizio",
+      "en": "exercise",
+      "ru": "упражнение",
+      "type": {
+        "en": "classroom vocabulary",
+        "ru": "учебная лексика"
+      }
+    },
+    {
+      "term": "traccia",
+      "en": "track; prompt",
+      "ru": "дорожка; подсказка",
+      "type": {
+        "en": "classroom vocabulary",
+        "ru": "учебная лексика"
+      }
+    },
+    {
+      "term": "parola",
+      "en": "word",
+      "ru": "слово",
+      "type": {
+        "en": "classroom vocabulary",
+        "ru": "учебная лексика"
+      }
+    },
+    {
+      "term": "ti saluto",
+      "en": "I say goodbye to you (informal)",
+      "ru": "прощаюсь с тобой (разговорный)",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "la saluto",
+      "en": "I say goodbye to you (formal)",
+      "ru": "прощаюсь с Вами (официально)",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "a lunedì",
+      "en": "see you Monday",
+      "ru": "до понедельника",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "a venerdì",
+      "en": "see you Friday",
+      "ru": "до пятницы",
+      "type": {
+        "en": "greeting",
+        "ru": "приветствие"
+      }
+    },
+    {
+      "term": "come si pronuncia questa parola?",
+      "en": "how do you pronounce this word?",
+      "ru": "как произносится это слово?",
+      "type": {
+        "en": "classroom phrase",
+        "ru": "учебная фраза"
+      }
+    },
+    {
+      "term": "basta così",
+      "en": "that's enough; is that all?",
+      "ru": "достаточно; это всё?",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate.",
+      "en": "Complete.",
+      "ru": "Дополните."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "en": "Work in pairs.",
+      "ru": "Работайте в парах."
+    },
+    {
+      "it": "Guardate e rispondete.",
+      "en": "Look and answer.",
+      "ru": "Смотрите и отвечайте."
+    },
+    {
+      "it": "Abbinate.",
+      "en": "Match.",
+      "ru": "Сопоставьте."
+    },
+    {
+      "it": "Completate con il verbo essere.",
+      "en": "Complete with the verb 'essere'.",
+      "ru": "Дополните глаголом «essere»."
+    },
+    {
+      "it": "Presentate le persone.",
+      "en": "Introduce the people.",
+      "ru": "Представьте людей."
+    },
+    {
+      "it": "Leggete le parole.",
+      "en": "Read the words.",
+      "ru": "Читайте слова."
+    },
+    {
+      "it": "Come si scrive...?",
+      "en": "How do you spell/write ...?",
+      "ru": "Как пишется / произносится по буквам...?"
+    },
+    {
+      "it": "Che cosa significa...?",
+      "en": "What does ... mean?",
+      "ru": "Что значит...?"
+    },
+    {
+      "it": "Come si dice...?",
+      "en": "How do you say ...?",
+      "ru": "Как по-итальянски...?"
+    },
+    {
+      "it": "Scusi, non ho capito.",
+      "en": "Sorry, I didn't understand.",
+      "ru": "Извините, я не понял/поняла."
+    },
+    {
+      "it": "Scusi, può ripetere, per favore?",
+      "en": "Sorry, can you repeat, please?",
+      "ru": "Извините, не могли бы Вы повторить, пожалуйста?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-3-01",
+      "title": "Come ti chiami?",
+      "register": "informal",
+      "context": {
+        "en": "Two students introduce themselves using essere and chiamarsi.",
+        "ru": "Два студента знакомятся, используя essere и chiamarsi."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao! Come ti chiami?",
+          "en": "Hi! What is your name?",
+          "ru": "Привет! Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Anna. E tu, come ti chiami?",
+          "en": "My name is Anna. And you, what is your name?",
+          "ru": "Меня зовут Анна. А тебя как зовут?"
+        },
+        {
+          "speaker": "A",
+          "it": "Io mi chiamo Marco. Sono italiano. E tu?",
+          "en": "My name is Marco. I am Italian. And you?",
+          "ru": "Меня зовут Марко. Я итальянец. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono russa, di Mosca.",
+          "en": "I am Russian, from Moscow.",
+          "ru": "Я русская, из Москвы."
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere, Anna!",
+          "en": "Nice to meet you, Anna!",
+          "ru": "Приятно познакомиться, Анна!"
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere, Marco!",
+          "en": "Nice to meet you, Marco!",
+          "ru": "Приятно познакомиться, Марко!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Ask someone's name",
+            "ru": "Спросить имя"
+          },
+          "expected_it": "Come ti chiami?"
+        },
+        {
+          "cue": {
+            "en": "Say your name with chiamarsi",
+            "ru": "Назвать своё имя через chiamarsi"
+          },
+          "expected_it": "Mi chiamo …"
+        },
+        {
+          "cue": {
+            "en": "Say your nationality",
+            "ru": "Назвать свою национальность"
+          },
+          "expected_it": "Sono italiano/a / russo/a …"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation": {
+        "en": "to be",
+        "ru": "быть"
+      },
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiamarsi",
+      "translation": {
+        "en": "to be called",
+        "ru": "называться / зваться"
+      },
+      "forms": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-4",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": {
+      "it": [
+        "Ripasso: gioco dei verbi",
+        "Comprensione scritta: Annunci",
+        "Grammatica: articolo indeterminativo",
+        "Chiedere e dire che lingue parli"
+      ],
+      "en": [
+        "Ripasso: gioco dei verbi",
+        "Comprensione scritta: Annunci",
+        "Grammatica: articolo indeterminativo",
+        "Chiedere e dire che lingue parli"
+      ],
+      "ru": [
+        "Повторение: gioco dei verbi",
+        "Чтение: Annunci",
+        "Грамматика: неопределённый артикль",
+        "Спрашивать и говорить, на каких языках ты говоришь"
+      ]
+    }
+  },
+  "language_rules": [
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Indefinite articles in Italian",
+        "ru": "Неопределённые артикли в итальянском"
+      },
+      "description": {
+        "en": "Italian uses different indefinite articles depending on gender and the sound at the start of the noun.",
+        "ru": "В итальянском используются разные формы неопределённого артикля в зависимости от рода и начального звука существительного."
+      },
+      "examples": [
+        {
+          "it": "un ragazzo",
+          "en": "a boy",
+          "ru": "какой-то мальчик; один мальчик"
+        },
+        {
+          "it": "uno studente",
+          "en": "a student",
+          "ru": "студент"
+        },
+        {
+          "it": "una ragazza",
+          "en": "a girl",
+          "ru": "девушка"
+        },
+        {
+          "it": "un'autobus",
+          "en": "a bus",
+          "ru": "подруга"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Choosing un, uno, una, un'",
+        "ru": "Когда выбирать un, uno, una, un'"
+      },
+      "description": {
+        "en": "Use 'un' before most masculine nouns, 'uno' before masculine nouns starting with s+consonant, z, ps, gn, x, and 'una' or 'un'' before feminine nouns.",
+        "ru": "Форма 'un' употребляется перед большинством мужских существительных, 'uno' перед s + согласная, z, ps, gn, x, а 'una' и 'un'' перед женскими существительными."
+      },
+      "examples": [
+        {
+          "it": "uno straniero",
+          "en": "a foreigner",
+          "ru": "иностранец"
+        },
+        {
+          "it": "uno zoo",
+          "en": "a zoo",
+          "ru": "зоопарк"
+        },
+        {
+          "it": "una signora",
+          "en": "a lady",
+          "ru": "дама, женщина"
+        },
+        {
+          "it": "un'amica",
+          "en": "a female friend",
+          "ru": "автобус"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Asking which languages someone speaks",
+        "ru": "Как спросить, на каких языках говорит человек"
+      },
+      "description": {
+        "en": "To ask about languages, Italian commonly uses 'Che lingue parli?' or 'Che lingue studia?'.",
+        "ru": "Чтобы спросить о языках, по-итальянски обычно говорят 'Che lingue parli?' или 'Che lingue studia?'."
+      },
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Che lingue parli?",
+          "en": "What languages do you speak?",
+          "ru": "На каких языках ты говоришь?"
+        },
+        {
+          "context": "answer",
+          "it": "Parlo l'italiano, il tedesco e un po' lo spagnolo.",
+          "en": "I speak Italian, German and a little Spanish.",
+          "ru": "Я говорю по-итальянски, по-немецки и немного по-испански."
+        },
+        {
+          "context": "answer",
+          "it": "Parlo bene il francese, ma non lo spagnolo.",
+          "en": "I speak French well, but not Spanish.",
+          "ru": "Я хорошо говорю по-французски, но не по-испански."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Vocabulary",
+        "ru": "Лексика"
+      },
+      "rule": {
+        "en": "Family and personal profile words",
+        "ru": "Слова о семье и личном профиле"
+      },
+      "description": {
+        "en": "This lesson reuses personal-description language together with simple family references.",
+        "ru": "В уроке повторяются слова для описания человека и базовая семейная лексика."
+      },
+      "examples": [
+        {
+          "it": "padre",
+          "en": "father",
+          "ru": "отец"
+        },
+        {
+          "it": "madre",
+          "en": "mother",
+          "ru": "мать"
+        },
+        {
+          "it": "figlio",
+          "en": "son",
+          "ru": "сын"
+        },
+        {
+          "it": "sorella",
+          "en": "sister",
+          "ru": "сестра"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Reading",
+        "ru": "Чтение"
+      },
+      "rule": {
+        "en": "Short ads and profile-style texts",
+        "ru": "Короткие объявления и профили"
+      },
+      "description": {
+        "en": "Classified-style descriptions usually combine age, city, job, language skills, and what a person is looking for.",
+        "ru": "Текст формата объявления обычно сочетает возраст, город, работу, языки и то, что человек ищет."
+      },
+      "examples": [
+        {
+          "it": "Mi chiamo David. Ho 28 anni e sono australiano, ma abito e lavoro a Roma.",
+          "en": "My name is David. I am 28 and I am Australian, but I live and work in Rome.",
+          "ru": "Меня зовут Давид. Мне 28 лет, я австралиец, но живу и работаю в Риме."
+        },
+        {
+          "it": "Ciao, mi chiamo Cristina. Ho 27 anni, sono tedesca e cerco una ragazza italiana per uno scambio italo-tedesco.",
+          "en": "Hi, my name is Cristina. I am 27, I am German and I am looking for an Italian girl for an Italian-German exchange.",
+          "ru": "Привет, меня зовут Кристина. Мне 27 лет, я немка и ищу итальянскую девушку для итало-немецкого обмена."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "un",
+      "en": "a, an (masculine)",
+      "ru": "неопределённый артикль мужского рода",
+      "type": {
+        "en": "article",
+        "ru": "артикль"
+      }
+    },
+    {
+      "term": "uno",
+      "en": "a, an (masculine before special consonant groups)",
+      "ru": "неопределённый артикль мужского рода перед особыми сочетаниями",
+      "type": {
+        "en": "article",
+        "ru": "артикль"
+      }
+    },
+    {
+      "term": "una",
+      "en": "a, an (feminine)",
+      "ru": "неопределённый артикль женского рода",
+      "type": {
+        "en": "article",
+        "ru": "артикль"
+      }
+    },
+    {
+      "term": "un'",
+      "en": "a, an (feminine before vowel)",
+      "ru": "сокращённая форма женского артикля перед гласной",
+      "type": {
+        "en": "article",
+        "ru": "артикль"
+      }
+    },
+    {
+      "term": "studente",
+      "en": "student",
+      "ru": "студент",
+      "type": {
+        "en": "people",
+        "ru": "люди"
+      }
+    },
+    {
+      "term": "straniero",
+      "en": "foreigner",
+      "ru": "иностранец",
+      "type": {
+        "en": "people",
+        "ru": "люди"
+      }
+    },
+    {
+      "term": "amica",
+      "en": "female friend",
+      "ru": "подруга",
+      "type": {
+        "en": "people",
+        "ru": "люди"
+      }
+    },
+    {
+      "term": "ragazza italiana",
+      "en": "Italian girl",
+      "ru": "итальянская девушка",
+      "type": {
+        "en": "people",
+        "ru": "люди"
+      }
+    },
+    {
+      "term": "lingua",
+      "en": "language",
+      "ru": "язык",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "parlare",
+      "en": "to speak",
+      "ru": "говорить",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "italiano",
+      "en": "Italian",
+      "ru": "итальянский",
+      "type": {
+        "en": "language",
+        "ru": "язык"
+      }
+    },
+    {
+      "term": "tedesco",
+      "en": "German",
+      "ru": "немецкий",
+      "type": {
+        "en": "language",
+        "ru": "язык"
+      }
+    },
+    {
+      "term": "spagnolo",
+      "en": "Spanish",
+      "ru": "испанский",
+      "type": {
+        "en": "language",
+        "ru": "язык"
+      }
+    },
+    {
+      "term": "francese",
+      "en": "French",
+      "ru": "французский",
+      "type": {
+        "en": "language",
+        "ru": "язык"
+      }
+    },
+    {
+      "term": "scambio",
+      "en": "exchange",
+      "ru": "обмен",
+      "type": {
+        "en": "education",
+        "ru": "образование"
+      }
+    },
+    {
+      "term": "annuncio",
+      "en": "advert, listing",
+      "ru": "объявление",
+      "type": {
+        "en": "reading vocabulary",
+        "ru": "лексика чтения"
+      }
+    },
+    {
+      "term": "padre",
+      "en": "father",
+      "ru": "отец",
+      "type": {
+        "en": "family",
+        "ru": "семья"
+      }
+    },
+    {
+      "term": "madre",
+      "en": "mother",
+      "ru": "мать",
+      "type": {
+        "en": "family",
+        "ru": "семья"
+      }
+    },
+    {
+      "term": "figlio",
+      "en": "son",
+      "ru": "сын",
+      "type": {
+        "en": "family",
+        "ru": "семья"
+      }
+    },
+    {
+      "term": "sorella",
+      "en": "sister",
+      "ru": "сестра",
+      "type": {
+        "en": "family",
+        "ru": "семья"
+      }
+    },
+    {
+      "term": "un annuncio",
+      "en": "an advertisement",
+      "ru": "объявление",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "cercare",
+      "en": "to look for",
+      "ru": "искать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "trovare",
+      "en": "to find",
+      "ru": "находить",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "la lingua",
+      "en": "language",
+      "ru": "язык",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "il paese",
+      "en": "country",
+      "ru": "страна",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "madrelingua",
+      "en": "native speaker",
+      "ru": "носитель языка",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "il gioco dei verbi",
+      "en": "verb game",
+      "ru": "игра с глаголами",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Completate.",
+      "en": "Complete.",
+      "ru": "Дополните."
+    },
+    {
+      "it": "Abbinate.",
+      "en": "Match.",
+      "ru": "Сопоставьте."
+    },
+    {
+      "it": "Leggete e rispondete.",
+      "en": "Read and answer.",
+      "ru": "Прочитайте и ответьте."
+    },
+    {
+      "it": "Ascoltate.",
+      "en": "Listen.",
+      "ru": "Послушайте."
+    },
+    {
+      "it": "Comunicate in classe.",
+      "en": "Communicate in class.",
+      "ru": "Поработайте устно в классе."
+    },
+    {
+      "it": "Che lingue parli?",
+      "en": "What languages do you speak?",
+      "ru": "На каких языках ты говоришь?"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-4-01",
+      "title": "Che lingue parli?",
+      "register": "informal",
+      "context": {
+        "en": "Two classmates talk about the languages they know.",
+        "ru": "Два однокурсника говорят о языках, которые они знают."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Che lingue parli?",
+          "en": "What languages do you speak?",
+          "ru": "На каких языках ты говоришь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Parlo l'italiano, il tedesco e un po' lo spagnolo.",
+          "en": "I speak Italian, German and a little Spanish.",
+          "ru": "Я говорю по-итальянски, по-немецки и немного по-испански."
+        },
+        {
+          "speaker": "A",
+          "it": "Parli bene il francese?",
+          "en": "Do you speak French well?",
+          "ru": "Ты хорошо говоришь по-французски?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, non lo parlo bene.",
+          "en": "No, I don't speak it well.",
+          "ru": "Нет, я не очень хорошо на нём говорю."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Ask which languages someone speaks",
+            "ru": "Спросить, на каких языках говорит человек"
+          },
+          "expected_it": "Che lingue parli?"
+        },
+        {
+          "cue": {
+            "en": "Say you speak a language a little",
+            "ru": "Сказать, что вы немного говорите на языке"
+          },
+          "expected_it": "Parlo un po' lo/la ..."
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation": {
+        "en": "to be",
+        "ru": "быть"
+      },
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation": {
+        "en": "to have",
+        "ru": "иметь"
+      },
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "abitare",
+      "translation": {
+        "en": "to live / to reside",
+        "ru": "жить / проживать"
+      },
+      "forms": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "parlare",
+      "translation": {
+        "en": "to speak",
+        "ru": "говорить"
+      },
+      "forms": {
+        "io": "parlo",
+        "tu": "parli",
+        "lui/lei/Lei": "parla",
+        "noi": "parliamo",
+        "voi": "parlate",
+        "loro": "parlano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "studiare",
+      "translation": {
+        "en": "to study",
+        "ru": "учиться / изучать"
+      },
+      "forms": {
+        "io": "studio",
+        "tu": "studi",
+        "lui/lei/Lei": "studia",
+        "noi": "studiamo",
+        "voi": "studiate",
+        "loro": "studiano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "lavorare",
+      "translation": {
+        "en": "to work",
+        "ru": "работать"
+      },
+      "forms": {
+        "io": "lavoro",
+        "tu": "lavori",
+        "lui/lei/Lei": "lavora",
+        "noi": "lavoriamo",
+        "voi": "lavorate",
+        "loro": "lavorano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiamarsi",
+      "translation": {
+        "en": "to be called",
+        "ru": "называться / зваться"
+      },
+      "forms": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    }
+  ]
+}

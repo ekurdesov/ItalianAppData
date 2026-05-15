@@ -1,0 +1,912 @@
+{
+  "lesson_info": {
+    "id": "A1-L4-4",
+    "title": "Un incontro",
+    "level": "A1",
+    "objectives": {
+      "it": [
+        "Ripasso: Chiedi e rispondo",
+        "Comprensione orale: Offro io!",
+        "Grammatica: verbi irregolari (bere)",
+        "Attività comunicativa: Preferisci...?"
+      ],
+      "en": [
+        "Ripasso: Chiedi e rispondo",
+        "Comprensione orale: Offro io!",
+        "Grammatica: verbi irregolari (bere)",
+        "Attività comunicativa: Preferisci...?"
+      ],
+      "ru": [
+        "Повторение: Chiedi e rispondo",
+        "Аудирование: Offro io!",
+        "Грамматика: неправильные глаголы (bere)",
+        "Коммуникативная деятельность: Preferisci...?"
+      ]
+    }
+  },
+  "language_rules": [
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Irregular verb: bere",
+        "ru": "Неправильный глагол: bere"
+      },
+      "description": {
+        "en": "The verb 'bere' (to drink) is irregular. Its present-tense stem is 'bev-'.",
+        "ru": "Глагол «bere» (пить) неправильный. Основа в настоящем времени — «bev-»."
+      },
+      "conjugations": {
+        "io": "bevo",
+        "tu": "bevi",
+        "lui/lei/Lei": "beve",
+        "noi": "beviamo",
+        "voi": "bevete",
+        "loro": "bevono"
+      },
+      "examples": [
+        {
+          "it": "Io bevo il caffè, e tu che cosa bevi?",
+          "en": "I drink coffee, and what do you drink?",
+          "ru": "Я пью кофе, а ты что пьёшь?"
+        },
+        {
+          "it": "Noi beviamo delle bibite fresche.",
+          "en": "We drink cold drinks.",
+          "ru": "Мы пьём холодные напитки."
+        },
+        {
+          "it": "Marisa a colazione beve solo tè e mai latte.",
+          "en": "Marisa only drinks tea for breakfast and never milk.",
+          "ru": "Мариса на завтрак пьёт только чай и никогда молоко."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Review: -isc- verbs (preferire, capire)",
+        "ru": "Повторение: глаголы с -isc- (preferire, capire)"
+      },
+      "description": {
+        "en": "Consolidation of -ire verbs with the -isc- infix.",
+        "ru": "Закрепление глаголов на -ire с суффиксом -isc-."
+      },
+      "examples": [
+        {
+          "it": "Preferisci viaggiare in aereo o in treno?",
+          "en": "Do you prefer to travel by plane or by train?",
+          "ru": "Ты предпочитаешь путешествовать на самолёте или на поезде?"
+        },
+        {
+          "it": "Capite il cinese?",
+          "en": "Do you understand Chinese?",
+          "ru": "Вы понимаете китайский?"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Treating someone: Offro io!",
+        "ru": "Угощать: Offro io!"
+      },
+      "description": {
+        "en": "Expressions for offering to pay at the bar.",
+        "ru": "Выражения для предложения заплатить в баре."
+      },
+      "examples": [
+        {
+          "it": "Oggi offro io.",
+          "en": "Today it's my treat.",
+          "ru": "Сегодня угощаю я."
+        },
+        {
+          "it": "La prossima volta offri tu.",
+          "en": "Next time it's your treat.",
+          "ru": "В следующий раз угощаешь ты."
+        },
+        {
+          "it": "Che cosa prende Paola?",
+          "en": "What will Paola have?",
+          "ru": "Что будет Паола?"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Vocabulary",
+        "ru": "Лексика"
+      },
+      "rule": {
+        "en": "Types of coffee and bar food",
+        "ru": "Виды кофе и еда в баре"
+      },
+      "description": {
+        "en": "More specific bar vocabulary for types of coffee and food combinations.",
+        "ru": "Более конкретная лексика бара: виды кофе и сочетания блюд."
+      },
+      "examples": [
+        {
+          "it": "un caffè macchiato",
+          "en": "espresso with a dash of milk",
+          "ru": "эспрессо с каплей молока"
+        },
+        {
+          "it": "un caffè doppio",
+          "en": "double espresso",
+          "ru": "двойной эспрессо"
+        },
+        {
+          "it": "un caffè americano",
+          "en": "Americano (long black)",
+          "ru": "американо"
+        },
+        {
+          "it": "un tè freddo con limone",
+          "en": "iced tea with lemon",
+          "ru": "холодный чай с лимоном"
+        },
+        {
+          "it": "un tramezzino al tonno",
+          "en": "tuna sandwich",
+          "ru": "бутерброд с тунцом"
+        },
+        {
+          "it": "un panino al prosciutto",
+          "en": "ham roll",
+          "ru": "булочка с ветчиной"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Expressing preferences: Preferisci…?",
+        "ru": "Выражение предпочтений: Preferisci…?"
+      },
+      "description": {
+        "en": "Using preferire to ask and state preferences between two options.",
+        "ru": "Глагол «preferire» для вопросов и ответов о предпочтениях."
+      },
+      "examples": [
+        {
+          "context": "question",
+          "it": "Preferisci il mare o la montagna?",
+          "en": "Do you prefer the sea or the mountains?",
+          "ru": "Ты предпочитаешь море или горы?"
+        },
+        {
+          "context": "answer",
+          "it": "Preferisco il mare.",
+          "en": "I prefer the sea.",
+          "ru": "Я предпочитаю море."
+        },
+        {
+          "context": "formal",
+          "it": "Preferisce il mare o la montagna?",
+          "en": "Do you prefer the sea or the mountains? (formal)",
+          "ru": "Вы предпочитаете море или горы?"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "bere",
+      "en": "to drink",
+      "ru": "пить",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "bevo",
+      "en": "I drink",
+      "ru": "я пью",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "bevi",
+      "en": "you drink",
+      "ru": "ты пьёшь",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "beve",
+      "en": "he/she drinks",
+      "ru": "он/она пьёт",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "beviamo",
+      "en": "we drink",
+      "ru": "мы пьём",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "bevete",
+      "en": "you all drink",
+      "ru": "вы пьёте",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "bevono",
+      "en": "they drink",
+      "ru": "они пьют",
+      "type": {
+        "en": "verb form",
+        "ru": "форма глагола"
+      }
+    },
+    {
+      "term": "Offro io!",
+      "en": "It's my treat! / I'm paying!",
+      "ru": "Угощаю я! / Я плачу!",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "la prossima volta",
+      "en": "next time",
+      "ru": "в следующий раз",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "un caffè macchiato",
+      "en": "espresso with a dash of milk",
+      "ru": "эспрессо с каплей молока",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
+      "term": "un caffè doppio",
+      "en": "double espresso",
+      "ru": "двойной эспрессо",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
+      "term": "un caffè americano",
+      "en": "Americano",
+      "ru": "американо",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
+      "term": "un tè freddo con limone",
+      "en": "iced tea with lemon",
+      "ru": "холодный чай с лимоном",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
+      "term": "un panino al prosciutto",
+      "en": "ham roll",
+      "ru": "булочка с ветчиной",
+      "type": {
+        "en": "food",
+        "ru": "еда"
+      }
+    },
+    {
+      "term": "un tramezzino al tonno",
+      "en": "tuna sandwich",
+      "ru": "бутерброд с тунцом",
+      "type": {
+        "en": "food",
+        "ru": "еда"
+      }
+    },
+    {
+      "term": "il prosciutto cotto",
+      "en": "cooked ham",
+      "ru": "варёная ветчина",
+      "type": {
+        "en": "food",
+        "ru": "еда"
+      }
+    },
+    {
+      "term": "il prosciutto crudo",
+      "en": "cured ham",
+      "ru": "сыровяленая ветчина",
+      "type": {
+        "en": "food",
+        "ru": "еда"
+      }
+    },
+    {
+      "term": "la mozzarella",
+      "en": "mozzarella",
+      "ru": "моцарелла",
+      "type": {
+        "en": "food",
+        "ru": "еда"
+      }
+    },
+    {
+      "term": "avere fame",
+      "en": "to be hungry",
+      "ru": "быть голодным",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "avere sete",
+      "en": "to be thirsty",
+      "ru": "хотеть пить",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "avere fretta",
+      "en": "to be in a hurry",
+      "ru": "торопиться",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Mettete in ordine.",
+      "en": "Put in order.",
+      "ru": "Расставьте в правильном порядке."
+    },
+    {
+      "it": "Completate.",
+      "en": "Complete.",
+      "ru": "Дополните."
+    },
+    {
+      "it": "Leggete e verificate.",
+      "en": "Read and check.",
+      "ru": "Прочитайте и проверьте."
+    },
+    {
+      "it": "Formate le frasi.",
+      "en": "Form the sentences.",
+      "ru": "Составьте предложения."
+    },
+    {
+      "it": "Abbinate.",
+      "en": "Match.",
+      "ru": "Соедините."
+    },
+    {
+      "it": "Rispondete.",
+      "en": "Answer.",
+      "ru": "Ответьте."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L4-4-01",
+      "title": "Offro io!",
+      "register": "informal",
+      "context": {
+        "en": "Two friends at the bar order drinks and food; one offers to pay.",
+        "ru": "Двое друзей в баре заказывают напитки и еду; один предлагает заплатить."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Allora, che cosa prendi?",
+          "en": "So, what will you have?",
+          "ru": "Ну что, что ты будешь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Prendo un tramezzino con prosciutto cotto e un caffè macchiato.",
+          "en": "I'll have a ham sandwich and a macchiato.",
+          "ru": "Возьму бутерброд с варёной ветчиной и маккиато."
+        },
+        {
+          "speaker": "A",
+          "it": "Io prendo una piadina al formaggio e un succo di frutta.",
+          "en": "I'll have a cheese flatbread and a fruit juice.",
+          "ru": "Я возьму лепёшку с сыром и фруктовый сок."
+        },
+        {
+          "speaker": "B",
+          "it": "Quanto costa tutto?",
+          "en": "How much does it all cost?",
+          "ru": "Сколько всё стоит?"
+        },
+        {
+          "speaker": "A",
+          "it": "6,90 euro. Oggi offro io!",
+          "en": "6.90 euros. Today it's my treat!",
+          "ru": "6,90 евро. Сегодня угощаю я!"
+        },
+        {
+          "speaker": "B",
+          "it": "Grazie! La prossima volta offro io.",
+          "en": "Thank you! Next time it's my treat.",
+          "ru": "Спасибо! В следующий раз угощаю я."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Say you drink coffee",
+            "ru": "Сказать, что пьёшь кофе"
+          },
+          "expected_it": "Bevo un caffè."
+        },
+        {
+          "cue": {
+            "en": "Offer to pay",
+            "ru": "Предложить заплатить"
+          },
+          "expected_it": "Offro io!"
+        },
+        {
+          "cue": {
+            "en": "Ask what someone prefers",
+            "ru": "Спросить, что кто-то предпочитает"
+          },
+          "expected_it": "Preferisci …?"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation": {
+        "en": "to be",
+        "ru": "быть"
+      },
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation": {
+        "en": "to have",
+        "ru": "иметь"
+      },
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "andare",
+      "translation": {
+        "en": "to go",
+        "ru": "идти / ехать"
+      },
+      "forms": {
+        "io": "vado",
+        "tu": "vai",
+        "lui/lei/Lei": "va",
+        "noi": "andiamo",
+        "voi": "andate",
+        "loro": "vanno"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "fare",
+      "translation": {
+        "en": "to do / to make",
+        "ru": "делать"
+      },
+      "forms": {
+        "io": "faccio",
+        "tu": "fai",
+        "lui/lei/Lei": "fa",
+        "noi": "facciamo",
+        "voi": "fate",
+        "loro": "fanno"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "bere",
+      "translation": {
+        "en": "to drink",
+        "ru": "пить"
+      },
+      "forms": {
+        "io": "bevo",
+        "tu": "bevi",
+        "lui/lei/Lei": "beve",
+        "noi": "beviamo",
+        "voi": "bevete",
+        "loro": "bevono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "venire",
+      "translation": {
+        "en": "to come",
+        "ru": "приходить / приезжать"
+      },
+      "forms": {
+        "io": "vengo",
+        "tu": "vieni",
+        "lui/lei/Lei": "viene",
+        "noi": "veniamo",
+        "voi": "venite",
+        "loro": "vengono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "potere",
+      "translation": {
+        "en": "to be able to / can",
+        "ru": "мочь"
+      },
+      "forms": {
+        "io": "posso",
+        "tu": "puoi",
+        "lui/lei/Lei": "può",
+        "noi": "possiamo",
+        "voi": "potete",
+        "loro": "possono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "volere",
+      "translation": {
+        "en": "to want",
+        "ru": "хотеть"
+      },
+      "forms": {
+        "io": "voglio",
+        "tu": "vuoi",
+        "lui/lei/Lei": "vuole",
+        "noi": "vogliamo",
+        "voi": "volete",
+        "loro": "vogliono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "preferire",
+      "translation": {
+        "en": "to prefer",
+        "ru": "предпочитать"
+      },
+      "forms": {
+        "io": "preferisco",
+        "tu": "preferisci",
+        "lui/lei/Lei": "preferisce",
+        "noi": "preferiamo",
+        "voi": "preferite",
+        "loro": "preferiscono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "capire",
+      "translation": {
+        "en": "to understand",
+        "ru": "понимать"
+      },
+      "forms": {
+        "io": "capisco",
+        "tu": "capisci",
+        "lui/lei/Lei": "capisce",
+        "noi": "capiamo",
+        "voi": "capite",
+        "loro": "capiscono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    }
+  ]
+}

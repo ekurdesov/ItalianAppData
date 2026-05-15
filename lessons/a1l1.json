@@ -1,0 +1,684 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-1",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": {
+      "it": [
+        "Fare conoscenza",
+        "Parole e lettere",
+        "Fonetica: le vocali"
+      ],
+      "en": [
+        "Fare conoscenza",
+        "Parole e lettere",
+        "Fonetica: le vocali"
+      ],
+      "ru": [
+        "Fare conoscenza",
+        "Parole e lettere",
+        "Fonetica: le vocali"
+      ]
+    }
+  },
+  "language_rules": [
+    {
+      "category": {
+        "en": "Phonetics",
+        "ru": "Фонетика"
+      },
+      "rule": {
+        "en": "Italian vowel contrast",
+        "ru": "Различение итальянских гласных"
+      },
+      "description": {
+        "en": "Italian vowels must be pronounced clearly because small vowel changes can change meaning or even gender.",
+        "ru": "Итальянские гласные необходимо произносить чётко, поскольку небольшие изменения в звучании гласной могут менять смысл слова или даже его род."
+      },
+      "examples": [
+        {
+          "it": "colore / calore",
+          "en": "color / heat",
+          "ru": "цвет / тепло"
+        },
+        {
+          "it": "Paolo / Paola",
+          "en": "male name / female name",
+          "ru": "мужское имя / женское имя"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Phonetics",
+        "ru": "Фонетика"
+      },
+      "rule": {
+        "en": "Stressed final vowels with accents",
+        "ru": "Ударные конечные гласные с акцентом"
+      },
+      "description": {
+        "en": "Some Italian words carry a written accent on the final vowel, which signals the stressed syllable.",
+        "ru": "Некоторые итальянские слова имеют письменный акцент на последней гласной, который указывает на ударный слог."
+      },
+      "examples": [
+        {
+          "it": "caffè",
+          "en": "coffee",
+          "ru": "кофе"
+        },
+        {
+          "it": "città",
+          "en": "city",
+          "ru": "город"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Orthography",
+        "ru": "Орфография"
+      },
+      "rule": {
+        "en": "Italian spelling names letters and double consonants explicitly",
+        "ru": "Итальянское написание: буквы и двойные согласные"
+      },
+      "description": {
+        "en": "When spelling aloud, Italian uses letter names and marks double consonants with 'doppia' plus the consonant name.",
+        "ru": "При произнесении по буквам в итальянском используются названия букв, а двойные согласные обозначаются словом «doppia» и названием согласной."
+      },
+      "examples": [
+        {
+          "it": "cappuccino",
+          "en": "cappuccino",
+          "ru": "капучино"
+        },
+        {
+          "it": "Bologna",
+          "en": "Bologna",
+          "ru": "Болонья"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Orthography",
+        "ru": "Орфография"
+      },
+      "rule": {
+        "en": "The sound of 'ci' in number words",
+        "ru": "Звучание «ci» в числительных"
+      },
+      "description": {
+        "en": "In words like 'cinque', 'dieci', 'undici' and 'dodici', 'ci' is pronounced with the [tʃ] sound.",
+        "ru": "В словах «cinque», «dieci», «undici» и «dodici» сочетание «ci» произносится как звук [tʃ]."
+      },
+      "examples": [
+        {
+          "it": "cinque",
+          "en": "five",
+          "ru": "пять"
+        },
+        {
+          "it": "dieci",
+          "en": "ten",
+          "ru": "десять"
+        },
+        {
+          "it": "undici",
+          "en": "eleven",
+          "ru": "одиннадцать"
+        },
+        {
+          "it": "dodici",
+          "en": "twelve",
+          "ru": "двенадцать"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "uno",
+      "en": "one",
+      "ru": "один",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "due",
+      "en": "two",
+      "ru": "два",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "tre",
+      "en": "three",
+      "ru": "три",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "quattro",
+      "en": "four",
+      "ru": "четыре",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "cinque",
+      "en": "five",
+      "ru": "пять",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "sei",
+      "en": "six",
+      "ru": "шесть",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "sette",
+      "en": "seven",
+      "ru": "семь",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "otto",
+      "en": "eight",
+      "ru": "восемь",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "nove",
+      "en": "nine",
+      "ru": "девять",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "dieci",
+      "en": "ten",
+      "ru": "десять",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "undici",
+      "en": "eleven",
+      "ru": "одиннадцать",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "dodici",
+      "en": "twelve",
+      "ru": "двенадцать",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "stazione",
+      "en": "station",
+      "ru": "станция, вокзал",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "mare",
+      "en": "sea",
+      "ru": "море",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "gelato",
+      "en": "ice cream",
+      "ru": "мороженое",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "museo",
+      "en": "museum",
+      "ru": "музей",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "pasta",
+      "en": "pasta",
+      "ru": "паста",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "albergo",
+      "en": "hotel",
+      "ru": "гостиница",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "piazza",
+      "en": "square",
+      "ru": "площадь",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "vino",
+      "en": "wine",
+      "ru": "вино",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "mercato",
+      "en": "market",
+      "ru": "рынок",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "macchina",
+      "en": "car",
+      "ru": "машина, автомобиль",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "opera",
+      "en": "opera",
+      "ru": "опера",
+      "type": {
+        "en": "culture",
+        "ru": "культура"
+      }
+    },
+    {
+      "term": "treno",
+      "en": "train",
+      "ru": "поезд",
+      "type": {
+        "en": "vocabulary",
+        "ru": "лексика"
+      }
+    },
+    {
+      "term": "studente",
+      "en": "student",
+      "ru": "студент",
+      "type": {
+        "en": "people",
+        "ru": "люди"
+      }
+    },
+    {
+      "term": "insegnante",
+      "en": "teacher",
+      "ru": "учитель, преподаватель",
+      "type": {
+        "en": "people",
+        "ru": "люди"
+      }
+    },
+    {
+      "term": "leggere",
+      "en": "to read",
+      "ru": "читать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "parlare",
+      "en": "to speak",
+      "ru": "говорить, разговаривать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "ascoltare",
+      "en": "to listen",
+      "ru": "слушать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "scrivere",
+      "en": "to write",
+      "ru": "писать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "guardare",
+      "en": "to watch, to look at",
+      "ru": "смотреть, глядеть на",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "abbinare",
+      "en": "to match",
+      "ru": "соединять, сопоставлять",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "completare",
+      "en": "to complete",
+      "ru": "дополнять, заполнять",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "sottolineare",
+      "en": "to underline",
+      "ru": "подчёркивать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "pagina",
+      "en": "page",
+      "ru": "страница",
+      "type": {
+        "en": "classroom vocabulary",
+        "ru": "учебная лексика"
+      }
+    },
+    {
+      "term": "esercizio",
+      "en": "exercise",
+      "ru": "упражнение",
+      "type": {
+        "en": "classroom vocabulary",
+        "ru": "учебная лексика"
+      }
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Associate le parole alle immagini.",
+      "en": "Match the words to the pictures.",
+      "ru": "Соедините слова с картинками."
+    },
+    {
+      "it": "Verificate i risultati.",
+      "en": "Check the results.",
+      "ru": "Проверьте результаты."
+    },
+    {
+      "it": "Ordinate.",
+      "en": "Put in order.",
+      "ru": "Упорядочьте."
+    },
+    {
+      "it": "Ascoltate e ripetete.",
+      "en": "Listen and repeat.",
+      "ru": "Слушайте и повторяйте."
+    },
+    {
+      "it": "Leggete queste sigle in italiano.",
+      "en": "Read these abbreviations in Italian.",
+      "ru": "Читайте эти аббревиатуры по-итальянски."
+    },
+    {
+      "it": "Lavorate in coppia.",
+      "en": "Work in pairs.",
+      "ru": "Работайте в парах."
+    },
+    {
+      "it": "Fate lo spelling.",
+      "en": "Spell it out.",
+      "ru": "Произносите по буквам."
+    },
+    {
+      "it": "Seguite l'esempio.",
+      "en": "Follow the example.",
+      "ru": "Следуйте примеру."
+    },
+    {
+      "it": "Leggete le parole.",
+      "en": "Read the words.",
+      "ru": "Читайте слова."
+    },
+    {
+      "it": "Occhio alle vocali!",
+      "en": "Watch the vowels!",
+      "ru": "Следите за гласными!"
+    },
+    {
+      "it": "Leggete.",
+      "en": "Read.",
+      "ru": "Читайте."
+    },
+    {
+      "it": "Abbinate le parole alle immagini.",
+      "en": "Match the words to the pictures.",
+      "ru": "Соедините слова с картинками."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-1-01",
+      "title": "Piacere!",
+      "register": "informal",
+      "context": {
+        "en": "Two people meet for the first time and introduce themselves.",
+        "ru": "Двое людей встречаются впервые и знакомятся."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao! Mi chiamo Luca. E tu?",
+          "en": "Hi! My name is Luca. And you?",
+          "ru": "Привет! Меня зовут Лука. А тебя?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ciao! Io sono Sofia. Piacere!",
+          "en": "Hi! I am Sofia. Nice to meet you!",
+          "ru": "Привет! Я Софья. Приятно познакомиться!"
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere mio!",
+          "en": "The pleasure is mine!",
+          "ru": "Мне тоже приятно!"
+        },
+        {
+          "speaker": "B",
+          "it": "Di dove sei, Luca?",
+          "en": "Where are you from, Luca?",
+          "ru": "Откуда ты, Лука?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono italiano, di Roma. E tu?",
+          "en": "I am Italian, from Rome. And you?",
+          "ru": "Я итальянец, из Рима. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono spagnola, di Madrid.",
+          "en": "I am Spanish, from Madrid.",
+          "ru": "Я испанка, из Мадрида."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Introduce yourself",
+            "ru": "Представиться"
+          },
+          "expected_it": "Mi chiamo … / Sono …"
+        },
+        {
+          "cue": {
+            "en": "Say nice to meet you",
+            "ru": "Сказать «приятно познакомиться»"
+          },
+          "expected_it": "Piacere!"
+        },
+        {
+          "cue": {
+            "en": "Say where you are from",
+            "ru": "Сказать, откуда ты"
+          },
+          "expected_it": "Sono di …"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation": {
+        "en": "to be",
+        "ru": "быть"
+      },
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiamarsi",
+      "translation": {
+        "en": "to be called",
+        "ru": "называться / зваться"
+      },
+      "forms": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    }
+  ]
+}

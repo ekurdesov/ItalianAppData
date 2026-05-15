@@ -1,0 +1,1051 @@
+{
+  "lesson_info": {
+    "id": "A1-L3-3",
+    "title": "I vicini di casa",
+    "level": "A1",
+    "objectives": {
+      "it": [
+        "Ripasso: Dove abiti?",
+        "Comprensione scritta: Mi presento",
+        "Grammatica: verbi in -ere, -ire",
+        "Chiedere e dire l'indirizzo email"
+      ],
+      "en": [
+        "Ripasso: Dove abiti?",
+        "Comprensione scritta: Mi presento",
+        "Grammatica: verbi in -ere, -ire",
+        "Chiedere e dire l'indirizzo email"
+      ],
+      "ru": [
+        "Повторение: Dove abiti?",
+        "Чтение: Mi presento",
+        "Грамматика: глаголы на -ere, -ire",
+        "Спрашивать и сообщать адрес электронной почты"
+      ]
+    }
+  },
+  "language_rules": [
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Regular verbs in -ere",
+        "ru": "Правильные глаголы на -ere"
+      },
+      "description": {
+        "en": "Many common Italian verbs ending in -ere follow the present-tense pattern -o, -i, -e, -iamo, -ete, -ono.",
+        "ru": "Многие распространённые итальянские глаголы на -ere в настоящем времени имеют окончания -o, -i, -e, -iamo, -ete, -ono."
+      },
+      "conjugations": {
+        "io": "scrivo",
+        "tu": "scrivi",
+        "lui/lei/Lei": "scrive",
+        "noi": "scriviamo",
+        "voi": "scrivete",
+        "loro": "scrivono"
+      },
+      "examples": [
+        {
+          "it": "Mario scrive una lettera d'amore.",
+          "en": "Mario writes a love letter.",
+          "ru": "Марио пишет любовное письмо."
+        },
+        {
+          "it": "Giorgio vende molti gelati.",
+          "en": "Giorgio sells many ice creams.",
+          "ru": "Джорджо продаёт много мороженого."
+        },
+        {
+          "it": "Noi prendiamo l'autobus delle 7.",
+          "en": "We take the bus at seven.",
+          "ru": "Мы садимся на автобус в семь."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Regular verbs in -ire",
+        "ru": "Правильные глаголы на -ire"
+      },
+      "description": {
+        "en": "Regular verbs in -ire commonly form the present with -o, -i, -e, -iamo, -ite, -ono.",
+        "ru": "Правильные глаголы на -ire обычно образуют настоящее время по модели -o, -i, -e, -iamo, -ite, -ono."
+      },
+      "conjugations": {
+        "io": "parto",
+        "tu": "parti",
+        "lui/lei/Lei": "parte",
+        "noi": "partiamo",
+        "voi": "partite",
+        "loro": "partono"
+      },
+      "examples": [
+        {
+          "it": "Luca presenta gli amici all'insegnante.",
+          "en": "Luca introduces the friends to the teacher.",
+          "ru": "Лука представляет друзей преподавателю."
+        },
+        {
+          "it": "Gli amici di Andrea arrivano alle 10.",
+          "en": "Andrea's friends arrive at ten.",
+          "ru": "Друзья Андреа приходят к десяти."
+        },
+        {
+          "it": "Io compio gli anni in America.",
+          "en": "I celebrate my birthday in America.",
+          "ru": "Я праздную день рождения в Америке."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Asking and giving an email address",
+        "ru": "Как спросить и назвать электронный адрес"
+      },
+      "description": {
+        "en": "Italian commonly asks for an email with 'Qual è il tuo indirizzo email?' and states it with 'Il mio indirizzo email è...'.",
+        "ru": "В итальянском адрес электронной почты обычно спрашивают через 'Qual è il tuo indirizzo email?' и сообщают через 'Il mio indirizzo email è...'."
+      },
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Qual è il tuo indirizzo email?",
+          "en": "What is your email address?",
+          "ru": "Какой у тебя адрес электронной почты?"
+        },
+        {
+          "context": "informal",
+          "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
+          "en": "My email address is mario.rossi@gmail.com.",
+          "ru": "Мой адрес электронной почты: mario.rossi@gmail.com."
+        },
+        {
+          "context": "spelling",
+          "it": "Chiocciola, punto, trattino basso.",
+          "en": "At sign, dot, underscore.",
+          "ru": "Собачка, точка, нижнее подчёркивание."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Vocabulary",
+        "ru": "Лексика"
+      },
+      "rule": {
+        "en": "Symbols used in email addresses",
+        "ru": "Символы в электронном адресе"
+      },
+      "description": {
+        "en": "This lesson teaches the Italian names of the most common symbols needed to spell an email address.",
+        "ru": "В уроке отрабатываются итальянские названия самых частых символов, нужных для диктовки e-mail."
+      },
+      "examples": [
+        {
+          "it": "chiocciola",
+          "en": "at sign",
+          "ru": "собачка, знак @"
+        },
+        {
+          "it": "punto",
+          "en": "dot",
+          "ru": "точка"
+        },
+        {
+          "it": "trattino",
+          "en": "hyphen",
+          "ru": "дефис"
+        },
+        {
+          "it": "trattino basso",
+          "en": "underscore",
+          "ru": "нижнее подчёркивание"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Introducing yourself in a short profile",
+        "ru": "Короткое представление о себе"
+      },
+      "description": {
+        "en": "A simple self-introduction at A1 level often combines name, age, nationality, city, job or study, and interests.",
+        "ru": "На уровне A1 самопрезентация обычно объединяет имя, возраст, национальность, город, работу или учёбу и интересы."
+      },
+      "examples": [
+        {
+          "it": "Mi chiamo Oscar Bellini, sono argentino e lavoro in un'agenzia immobiliare.",
+          "en": "My name is Oscar Bellini, I am Argentinian and I work in an estate agency.",
+          "ru": "Меня зовут Оскар Беллини, я аргентинец и работаю в агентстве недвижимости."
+        },
+        {
+          "it": "Sono Lidia White, sono cuoca e il mio numero di cellulare è 349 5574634.",
+          "en": "I am Lidia White, I am a cook and my mobile number is 349 5574634.",
+          "ru": "Я Лидия Уайт, я повар, и мой номер мобильного телефона 349 5574634."
+        },
+        {
+          "it": "Mi chiamo Li Fang, il mio paese è la Cina e il mio nome utente è Lili08.",
+          "en": "My name is Li Fang, my country is China and my username is Lili08.",
+          "ru": "Меня зовут Ли Фан, моя страна Китай, а мой логин Lili08."
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "scrivere",
+      "en": "to write",
+      "ru": "писать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "vendere",
+      "en": "to sell",
+      "ru": "продавать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "prendere",
+      "en": "to take",
+      "ru": "брать; садиться на транспорт",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "partire",
+      "en": "to leave",
+      "ru": "уезжать, отправляться",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "sentire",
+      "en": "to hear, to feel",
+      "ru": "слышать; чувствовать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "dormire",
+      "en": "to sleep",
+      "ru": "спать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "preferire",
+      "en": "to prefer",
+      "ru": "предпочитать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "aprire",
+      "en": "to open",
+      "ru": "открывать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "indirizzo email",
+      "en": "email address",
+      "ru": "адрес электронной почты",
+      "type": {
+        "en": "digital vocabulary",
+        "ru": "цифровая лексика"
+      }
+    },
+    {
+      "term": "chiocciola",
+      "en": "at sign",
+      "ru": "знак @, собачка",
+      "type": {
+        "en": "digital vocabulary",
+        "ru": "цифровая лексика"
+      }
+    },
+    {
+      "term": "punto",
+      "en": "dot",
+      "ru": "точка",
+      "type": {
+        "en": "digital vocabulary",
+        "ru": "цифровая лексика"
+      }
+    },
+    {
+      "term": "trattino",
+      "en": "hyphen",
+      "ru": "дефис",
+      "type": {
+        "en": "digital vocabulary",
+        "ru": "цифровая лексика"
+      }
+    },
+    {
+      "term": "trattino basso",
+      "en": "underscore",
+      "ru": "нижнее подчёркивание",
+      "type": {
+        "en": "digital vocabulary",
+        "ru": "цифровая лексика"
+      }
+    },
+    {
+      "term": "nome utente",
+      "en": "username",
+      "ru": "имя пользователя, логин",
+      "type": {
+        "en": "digital vocabulary",
+        "ru": "цифровая лексика"
+      }
+    },
+    {
+      "term": "cellulare",
+      "en": "mobile phone",
+      "ru": "мобильный телефон",
+      "type": {
+        "en": "technology",
+        "ru": "техника"
+      }
+    },
+    {
+      "term": "agenzia immobiliare",
+      "en": "estate agency",
+      "ru": "агентство недвижимости",
+      "type": {
+        "en": "work",
+        "ru": "работа"
+      }
+    },
+    {
+      "term": "cuoca",
+      "en": "cook",
+      "ru": "повар",
+      "type": {
+        "en": "profession",
+        "ru": "профессия"
+      }
+    },
+    {
+      "term": "ingegnere",
+      "en": "engineer",
+      "ru": "инженер",
+      "type": {
+        "en": "profession",
+        "ru": "профессия"
+      }
+    },
+    {
+      "term": "pacco",
+      "en": "package",
+      "ru": "посылка, пакет",
+      "type": {
+        "en": "everyday vocabulary",
+        "ru": "бытовая лексика"
+      }
+    },
+    {
+      "term": "giorno",
+      "en": "day",
+      "ru": "день",
+      "type": {
+        "en": "time",
+        "ru": "время"
+      }
+    },
+    {
+      "term": "vivere",
+      "en": "to live",
+      "ru": "жить",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "chiedere",
+      "en": "to ask",
+      "ru": "спрашивать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "rispondere",
+      "en": "to answer",
+      "ru": "отвечать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "ricevere",
+      "en": "to receive",
+      "ru": "получать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "mettere",
+      "en": "to put",
+      "ru": "класть / ставить",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "correre",
+      "en": "to run",
+      "ru": "бежать / бегать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "perdere",
+      "en": "to lose",
+      "ru": "терять",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "leggere",
+      "en": "to read",
+      "ru": "читать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Leggete e rispondete.",
+      "en": "Read and answer.",
+      "ru": "Прочитайте и ответьте."
+    },
+    {
+      "it": "Completate.",
+      "en": "Complete.",
+      "ru": "Дополните."
+    },
+    {
+      "it": "Comunicate in classe.",
+      "en": "Communicate in class.",
+      "ru": "Поработайте устно в классе."
+    },
+    {
+      "it": "Chiedete l'indirizzo e-mail.",
+      "en": "Ask for the email address.",
+      "ru": "Спросите адрес электронной почты."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "en": "Listen and complete.",
+      "ru": "Послушайте и дополните."
+    },
+    {
+      "it": "Ripetete.",
+      "en": "Repeat.",
+      "ru": "Повторите."
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L3-3-01",
+      "title": "Mi presento",
+      "register": "neutral",
+      "context": {
+        "en": "Two classmates exchange a short self-introduction.",
+        "ru": "Два однокурсника кратко представляются друг другу."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, mi chiamo Oscar Bellini. Sono argentino e lavoro in un'agenzia immobiliare.",
+          "en": "Hi, my name is Oscar Bellini. I am Argentinian and I work in an estate agency.",
+          "ru": "Привет, меня зовут Оскар Беллини. Я аргентинец и работаю в агентстве недвижимости."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere. Io sono Lidia White, sono cuoca e abito a Londra.",
+          "en": "Nice to meet you. I am Lidia White, I am a cook and I live in London.",
+          "ru": "Очень приятно. Я Лидия Уайт, я повар и живу в Лондоне."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo numero di cellulare?",
+          "en": "What is your mobile number?",
+          "ru": "Какой у тебя номер мобильного?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è 349 5574634.",
+          "en": "My number is 349 5574634.",
+          "ru": "Мой номер 349 5574634."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Say your name and nationality",
+            "ru": "Сказать своё имя и национальность"
+          },
+          "expected_it": "Mi chiamo ... Sono ..."
+        },
+        {
+          "cue": {
+            "en": "Say your job",
+            "ru": "Сказать, кем вы работаете"
+          },
+          "expected_it": "Lavoro in ... / Sono ..."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-3-02",
+      "title": "Qual è il tuo indirizzo email?",
+      "register": "informal",
+      "context": {
+        "en": "Two people exchange email details.",
+        "ru": "Два человека обмениваются адресами электронной почты."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo indirizzo email?",
+          "en": "What is your email address?",
+          "ru": "Какой у тебя адрес электронной почты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
+          "en": "My email address is mario.rossi@gmail.com.",
+          "ru": "Мой адрес электронной почты mario.rossi@gmail.com."
+        },
+        {
+          "speaker": "A",
+          "it": "Come si scrive?",
+          "en": "How is it written?",
+          "ru": "Как это пишется?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mario punto rossi chiocciola gmail punto com.",
+          "en": "Mario dot rossi at gmail dot com.",
+          "ru": "Mario точка rossi собачка gmail точка com."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Ask for an email address",
+            "ru": "Спросить адрес электронной почты"
+          },
+          "expected_it": "Qual è il tuo indirizzo email?"
+        },
+        {
+          "cue": {
+            "en": "Spell the at sign",
+            "ru": "Назвать знак @"
+          },
+          "expected_it": "chiocciola"
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation": {
+        "en": "to be",
+        "ru": "быть"
+      },
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "abitare",
+      "translation": {
+        "en": "to live / to reside",
+        "ru": "жить / проживать"
+      },
+      "forms": {
+        "io": "abito",
+        "tu": "abiti",
+        "lui/lei/Lei": "abita",
+        "noi": "abitiamo",
+        "voi": "abitate",
+        "loro": "abitano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "chiamarsi",
+      "translation": {
+        "en": "to be called",
+        "ru": "называться / зваться"
+      },
+      "forms": {
+        "io": "mi chiamo",
+        "tu": "ti chiami",
+        "lui/lei/Lei": "si chiama",
+        "noi": "ci chiamiamo",
+        "voi": "vi chiamate",
+        "loro": "si chiamano"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "scrivere",
+      "translation": {
+        "en": "to write",
+        "ru": "писать"
+      },
+      "forms": {
+        "io": "scrivo",
+        "tu": "scrivi",
+        "lui/lei/Lei": "scrive",
+        "noi": "scriviamo",
+        "voi": "scrivete",
+        "loro": "scrivono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "leggere",
+      "translation": {
+        "en": "to read",
+        "ru": "читать"
+      },
+      "forms": {
+        "io": "leggo",
+        "tu": "leggi",
+        "lui/lei/Lei": "legge",
+        "noi": "leggiamo",
+        "voi": "leggete",
+        "loro": "leggono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "prendere",
+      "translation": {
+        "en": "to take",
+        "ru": "брать; садиться на транспорт"
+      },
+      "forms": {
+        "io": "prendo",
+        "tu": "prendi",
+        "lui/lei/Lei": "prende",
+        "noi": "prendiamo",
+        "voi": "prendete",
+        "loro": "prendono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "partire",
+      "translation": {
+        "en": "to leave / to depart",
+        "ru": "уезжать / отправляться"
+      },
+      "forms": {
+        "io": "parto",
+        "tu": "parti",
+        "lui/lei/Lei": "parte",
+        "noi": "partiamo",
+        "voi": "partite",
+        "loro": "partono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "sentire",
+      "translation": {
+        "en": "to hear / to feel",
+        "ru": "слышать / чувствовать"
+      },
+      "forms": {
+        "io": "sento",
+        "tu": "senti",
+        "lui/lei/Lei": "sente",
+        "noi": "sentiamo",
+        "voi": "sentite",
+        "loro": "sentono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "dormire",
+      "translation": {
+        "en": "to sleep",
+        "ru": "спать"
+      },
+      "forms": {
+        "io": "dormo",
+        "tu": "dormi",
+        "lui/lei/Lei": "dorme",
+        "noi": "dormiamo",
+        "voi": "dormite",
+        "loro": "dormono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "aprire",
+      "translation": {
+        "en": "to open",
+        "ru": "открывать"
+      },
+      "forms": {
+        "io": "apro",
+        "tu": "apri",
+        "lui/lei/Lei": "apre",
+        "noi": "apriamo",
+        "voi": "aprite",
+        "loro": "aprono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "preferire",
+      "translation": {
+        "en": "to prefer",
+        "ru": "предпочитать"
+      },
+      "forms": {
+        "io": "preferisco",
+        "tu": "preferisci",
+        "lui/lei/Lei": "preferisce",
+        "noi": "preferiamo",
+        "voi": "preferite",
+        "loro": "preferiscono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    }
+  ]
+}

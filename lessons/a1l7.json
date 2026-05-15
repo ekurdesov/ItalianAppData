@@ -1,0 +1,880 @@
+{
+  "lesson_info": {
+    "id": "A1-L1-7",
+    "title": "Piacere!",
+    "level": "A1",
+    "objectives": {
+      "it": [
+        "Comprensione orale: In giro per l'Italia",
+        "Le preposizioni",
+        "Attività comunicativa: Qual è il tuo numero?",
+        "Fonetica: lettera Q"
+      ],
+      "en": [
+        "Comprensione orale: In giro per l'Italia",
+        "Le preposizioni",
+        "Attività comunicativa: Qual è il tuo numero?",
+        "Fonetica: lettera Q"
+      ],
+      "ru": [
+        "Comprensione orale: In giro per l'Italia",
+        "Le preposizioni",
+        "Attività comunicativa: Qual è il tuo numero?",
+        "Fonetica: lettera Q"
+      ]
+    }
+  },
+  "language_rules": [
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Preposition 'di'",
+        "ru": "Предлог 'di'"
+      },
+      "description": {
+        "en": "The preposition 'di' is used for possession, belonging, and specification.",
+        "ru": "Предлог 'di' используется для выражения принадлежности, владения и уточнения."
+      }
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Demonstratives: questo, questa, questi, queste",
+        "ru": "Указательные местоимения: questo, questa, questi, queste"
+      },
+      "description": {
+        "en": "Demonstratives agree with the gender and number of the noun they modify.",
+        "ru": "Указательные местоимения согласуются с родом и числом существительного, к которому относятся."
+      },
+      "examples": [
+        {
+          "it": "questo libro",
+          "en": "this book",
+          "ru": "эта книга"
+        },
+        {
+          "it": "questa valigia",
+          "en": "this suitcase",
+          "ru": "этот чемодан"
+        },
+        {
+          "it": "questi ragazzi",
+          "en": "these boys",
+          "ru": "эти мальчики"
+        },
+        {
+          "it": "queste scarpe",
+          "en": "these shoes",
+          "ru": "эти туфли"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Prepositions 'a' and 'in'",
+        "ru": "Предлоги 'a' и 'in'"
+      },
+      "description": {
+        "en": "The lesson introduces the location prepositions 'a' and 'in', especially in talking about cities, regions, and places in Italy.",
+        "ru": "Урок знакомит с предлогами места 'a' и 'in', особенно в контексте разговора о городах, регионах и местах в Италии."
+      },
+      "examples": [
+        {
+          "it": "a Roma",
+          "en": "in/to Rome",
+          "ru": "в Риме / в Рим"
+        },
+        {
+          "it": "in Italia",
+          "en": "in Italy",
+          "ru": "в Италии"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Asking for a phone number: formal vs informal",
+        "ru": "Запрос номера телефона: официальная и неформальная формы"
+      },
+      "description": {
+        "en": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking for a phone or cellphone number.",
+        "ru": "Итальянский язык различает неформальную форму 'tu' и официальную 'Lei' при запросе номера телефона или мобильного телефона."
+      },
+      "examples": [
+        {
+          "context": "informal",
+          "it": "Qual è il tuo numero di telefono?",
+          "en": "What is your telephone number?",
+          "ru": "Какой у тебя номер телефона?"
+        },
+        {
+          "context": "formal",
+          "it": "Qual è il Suo numero di telefono?",
+          "en": "What is your telephone number? (formal)",
+          "ru": "Какой у вас номер телефона? (официальный / формальный)"
+        },
+        {
+          "context": "informal",
+          "it": "Qual è il tuo numero di cellulare?",
+          "en": "What is your cellphone number?",
+          "ru": "Какой у тебя номер мобильного?"
+        },
+        {
+          "context": "formal",
+          "it": "Qual è il Suo numero di cellulare?",
+          "en": "What is your cellphone number? (formal)",
+          "ru": "Какой у вас номер мобильного? (официальный / формальный)"
+        },
+        {
+          "context": "answer",
+          "it": "Il mio numero di telefono è...",
+          "en": "My telephone number is...",
+          "ru": "Мой номер телефона..."
+        },
+        {
+          "context": "answer",
+          "it": "Il mio numero di cellulare è...",
+          "en": "My cellphone number is...",
+          "ru": "Мой номер мобильного..."
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Phonetics",
+        "ru": "Фонетика"
+      },
+      "rule": {
+        "en": "Letter Q and related qu/gu combinations",
+        "ru": "Буква Q и сочетания qu/gu"
+      },
+      "description": {
+        "en": "In the lesson, 'qu' and some 'gu' combinations before vowels are practiced with a [kw] or [gw] sound.",
+        "ru": "На уроке отрабатываются сочетания 'qu' и некоторые сочетания 'gu' перед гласными, которые произносятся как [kw] или [gw]."
+      },
+      "examples": [
+        {
+          "it": "questo",
+          "en": "this",
+          "ru": "этот / эта"
+        },
+        {
+          "it": "quello",
+          "en": "that",
+          "ru": "тот / та"
+        },
+        {
+          "it": "qui",
+          "en": "here",
+          "ru": "здесь"
+        },
+        {
+          "it": "acqua",
+          "en": "water",
+          "ru": "вода"
+        },
+        {
+          "it": "quartiere",
+          "en": "neighborhood",
+          "ru": "район"
+        },
+        {
+          "it": "guardare",
+          "en": "to look",
+          "ru": "смотреть"
+        },
+        {
+          "it": "guidare",
+          "en": "to drive",
+          "ru": "водить машину"
+        }
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "term": "telefono",
+      "en": "telephone",
+      "ru": "телефон",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "cellulare",
+      "en": "cellphone",
+      "ru": "мобильный телефон",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "numero di telefono",
+      "en": "telephone number",
+      "ru": "номер телефона",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "numero di cellulare",
+      "en": "cellphone number",
+      "ru": "номер мобильного телефона",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "qual è il tuo numero di telefono?",
+      "en": "what is your telephone number?",
+      "ru": "какой у тебя номер телефона?",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "qual è il Suo numero di telefono?",
+      "en": "what is your telephone number? (formal)",
+      "ru": "какой у вас номер телефона? (официальный / формальный)",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "qual è il tuo numero di cellulare?",
+      "en": "what is your cellphone number?",
+      "ru": "какой у тебя номер мобильного?",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "qual è il Suo numero di cellulare?",
+      "en": "what is your cellphone number? (formal)",
+      "ru": "какой у вас номер мобильного? (официальный / формальный)",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "il mio numero di telefono è...",
+      "en": "my telephone number is...",
+      "ru": "мой номер телефона...",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "il mio numero di cellulare è...",
+      "en": "my cellphone number is...",
+      "ru": "мой номер мобильного...",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "di",
+      "en": "of",
+      "ru": "из; от; о",
+      "type": {
+        "en": "preposition",
+        "ru": "предлог"
+      }
+    },
+    {
+      "term": "a",
+      "en": "to; at; in",
+      "ru": "в; к; на",
+      "type": {
+        "en": "preposition",
+        "ru": "предлог"
+      }
+    },
+    {
+      "term": "in",
+      "en": "in; to",
+      "ru": "в; на",
+      "type": {
+        "en": "preposition",
+        "ru": "предлог"
+      }
+    },
+    {
+      "term": "questo",
+      "en": "this (masculine singular)",
+      "ru": "этот (мужской род, единственное число)",
+      "type": {
+        "en": "demonstrative",
+        "ru": "указательное"
+      }
+    },
+    {
+      "term": "questa",
+      "en": "this (feminine singular)",
+      "ru": "эта (женский род, единственное число)",
+      "type": {
+        "en": "demonstrative",
+        "ru": "указательное"
+      }
+    },
+    {
+      "term": "questi",
+      "en": "these (masculine plural)",
+      "ru": "эти (мужской род, множественное число)",
+      "type": {
+        "en": "demonstrative",
+        "ru": "указательное"
+      }
+    },
+    {
+      "term": "queste",
+      "en": "these (feminine plural)",
+      "ru": "эти (женский род, множественное число)",
+      "type": {
+        "en": "demonstrative",
+        "ru": "указательное"
+      }
+    },
+    {
+      "term": "libro",
+      "en": "book",
+      "ru": "книга",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "valigia",
+      "en": "suitcase",
+      "ru": "чемодан",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "ragazzi",
+      "en": "boys",
+      "ru": "мальчики; ребята",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "scarpe",
+      "en": "shoes",
+      "ru": "туфли; обувь",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "borsa",
+      "en": "bag",
+      "ru": "сумка",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "mare",
+      "en": "sea",
+      "ru": "море",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "isola",
+      "en": "island",
+      "ru": "остров",
+      "type": {
+        "en": "noun",
+        "ru": "существительное"
+      }
+    },
+    {
+      "term": "cartina d'Italia",
+      "en": "map of Italy",
+      "ru": "карта Италии",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "Nord",
+      "en": "north",
+      "ru": "север",
+      "type": {
+        "en": "geography",
+        "ru": "география"
+      }
+    },
+    {
+      "term": "Sud",
+      "en": "south",
+      "ru": "юг",
+      "type": {
+        "en": "geography",
+        "ru": "география"
+      }
+    },
+    {
+      "term": "regione",
+      "en": "region",
+      "ru": "регион",
+      "type": {
+        "en": "geography",
+        "ru": "география"
+      }
+    },
+    {
+      "term": "capitale",
+      "en": "capital city",
+      "ru": "столица",
+      "type": {
+        "en": "geography",
+        "ru": "география"
+      }
+    },
+    {
+      "term": "Roma",
+      "en": "Rome",
+      "ru": "Рим",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "Milano",
+      "en": "Milan",
+      "ru": "Милан",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "Verona",
+      "en": "Verona",
+      "ru": "Верона",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "Pisa",
+      "en": "Pisa",
+      "ru": "Пиза",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "Torino",
+      "en": "Turin",
+      "ru": "Турин",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "Agrigento",
+      "en": "Agrigento",
+      "ru": "Агридженто",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "Caserta",
+      "en": "Caserta",
+      "ru": "Казерта",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "L'Etna",
+      "en": "Mount Etna",
+      "ru": "Этна",
+      "type": {
+        "en": "place",
+        "ru": "место"
+      }
+    },
+    {
+      "term": "venti",
+      "en": "twenty",
+      "ru": "двадцать",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "quindici",
+      "en": "fifteen",
+      "ru": "пятнадцать",
+      "type": {
+        "en": "number",
+        "ru": "числительное"
+      }
+    },
+    {
+      "term": "quaderno",
+      "en": "notebook",
+      "ru": "тетрадь",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "acqua",
+      "en": "water",
+      "ru": "вода",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "quartiere",
+      "en": "neighborhood",
+      "ru": "район",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "squadra",
+      "en": "team",
+      "ru": "команда",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "guanti",
+      "en": "gloves",
+      "ru": "перчатки",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "guida",
+      "en": "guide",
+      "ru": "гид; путеводитель",
+      "type": {
+        "en": "vocabulary",
+        "ru": "слово / лексика"
+      }
+    },
+    {
+      "term": "guardare",
+      "en": "to look; to watch",
+      "ru": "смотреть; наблюдать",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    },
+    {
+      "term": "guidare",
+      "en": "to drive",
+      "ru": "водить машину",
+      "type": {
+        "en": "verb",
+        "ru": "глагол"
+      }
+    }
+  ],
+  "classroom_instructions": [
+    {
+      "it": "Lavorate in coppia.",
+      "en": "Work in pairs.",
+      "ru": "Работайте в парах."
+    },
+    {
+      "it": "Rispondete.",
+      "en": "Answer.",
+      "ru": "Ответьте."
+    },
+    {
+      "it": "Leggete e rispondete.",
+      "en": "Read and answer.",
+      "ru": "Прочитайте и ответьте."
+    },
+    {
+      "it": "Guardate e verificate.",
+      "en": "Look and check.",
+      "ru": "Посмотрите и проверьте."
+    },
+    {
+      "it": "Abbinate.",
+      "en": "Match.",
+      "ru": "Сопоставьте."
+    },
+    {
+      "it": "Leggete le parole.",
+      "en": "Read the words.",
+      "ru": "Прочитайте слова."
+    },
+    {
+      "it": "Qual è il tuo numero di telefono?",
+      "en": "What is your telephone number?",
+      "ru": "Какой у тебя номер телефона?"
+    },
+    {
+      "it": "Qual è il Suo numero di telefono?",
+      "en": "What is your telephone number? (formal)",
+      "ru": "Какой у вас номер телефона? (официальный / формальный)"
+    },
+    {
+      "it": "Qual è il tuo numero di cellulare?",
+      "en": "What is your cellphone number?",
+      "ru": "Какой у тебя номер мобильного?"
+    },
+    {
+      "it": "Qual è il Suo numero di cellulare?",
+      "en": "What is your cellphone number? (formal)",
+      "ru": "Какой у вас номер мобильного? (официальный / формальный)"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "D-A1L1-7-01",
+      "title": "Qual è il numero di telefono?",
+      "register": "informal",
+      "context": {
+        "en": "One student asks another for a third person's phone number",
+        "ru": "Один студент спрашивает другого о номере телефона третьего человека"
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, Paola! Qual è il numero di telefono di Fabrizio?",
+          "en": "Hi, Paola! What is Fabrizio's phone number?",
+          "ru": "Привет, Паола! Какой номер телефона у Фабрицио?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ciao, Giorgio! Il numero di telefono di Fabrizio è zero tre due, cinque sei sette, otto nove uno.",
+          "en": "Hi, Giorgio! Fabrizio's phone number is 032 567 891.",
+          "ru": "Привет, Джорджо! Номер телефона Фабрицио: 032 567 891."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie!",
+          "en": "Thank you!",
+          "ru": "Спасибо!"
+        },
+        {
+          "speaker": "B",
+          "it": "Prego!",
+          "en": "You're welcome!",
+          "ru": "Пожалуйста!"
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Ask for someone's phone number (informal)",
+            "ru": "Спросите чей-то номер телефона (неформально)"
+          },
+          "expected_it": "Qual è il tuo numero di telefono?"
+        },
+        {
+          "cue": {
+            "en": "Ask for a third person's phone number",
+            "ru": "Спросите номер телефона третьего человека"
+          },
+          "expected_it": "Qual è il numero di telefono di [nome]?"
+        },
+        {
+          "cue": {
+            "en": "Give a phone number",
+            "ru": "Назовите номер телефона"
+          },
+          "expected_it": "Il mio numero di telefono è [numero]."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-7-02",
+      "title": "Qual è il Suo numero? (formale)",
+      "register": "formal",
+      "context": {
+        "en": "A formal exchange asking for a cellphone number",
+        "ru": "Официальный обмен с просьбой назвать номер мобильного телефона"
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno. Qual è il Suo numero di cellulare?",
+          "en": "Good morning. What is your cellphone number?",
+          "ru": "Доброе утро. Какой у вас номер мобильного телефона?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero di cellulare è tre tre tre, uno due tre, quattro cinque sei.",
+          "en": "My cellphone number is 333 123 456.",
+          "ru": "Мой номер мобильного: 333 123 456."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie mille.",
+          "en": "Thank you very much.",
+          "ru": "Большое спасибо."
+        },
+        {
+          "speaker": "B",
+          "it": "Prego.",
+          "en": "You're welcome.",
+          "ru": "Пожалуйста."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Ask for someone's cellphone number (formal)",
+            "ru": "Спросите номер мобильного телефона (официально)"
+          },
+          "expected_it": "Qual è il Suo numero di cellulare?"
+        },
+        {
+          "cue": {
+            "en": "Give your cellphone number",
+            "ru": "Назовите свой номер мобильного"
+          },
+          "expected_it": "Il mio numero di cellulare è [numero]."
+        }
+      ]
+    }
+  ],
+  "verb_tables": [
+    {
+      "infinitive": "essere",
+      "translation": {
+        "en": "to be",
+        "ru": "быть"
+      },
+      "forms": {
+        "io": "sono",
+        "tu": "sei",
+        "lui/lei/Lei": "è",
+        "noi": "siamo",
+        "voi": "siete",
+        "loro": "sono"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    },
+    {
+      "infinitive": "avere",
+      "translation": {
+        "en": "to have",
+        "ru": "иметь"
+      },
+      "forms": {
+        "io": "ho",
+        "tu": "hai",
+        "lui/lei/Lei": "ha",
+        "noi": "abbiamo",
+        "voi": "avete",
+        "loro": "hanno"
+      },
+      "pronoun_labels": {
+        "io": {
+          "en": "I",
+          "ru": "я"
+        },
+        "tu": {
+          "en": "you (sg.)",
+          "ru": "ты"
+        },
+        "lui/lei/Lei": {
+          "en": "he/she/you (formal)",
+          "ru": "он/она/Вы"
+        },
+        "noi": {
+          "en": "we",
+          "ru": "мы"
+        },
+        "voi": {
+          "en": "you (pl.)",
+          "ru": "вы"
+        },
+        "loro": {
+          "en": "they",
+          "ru": "они"
+        }
+      }
+    }
+  ]
+}
