@@ -1,0 +1,92 @@
+[
+  {
+    "infinitive": "abitare",
+    "translation": {
+      "en": "to live / to reside",
+      "ru": "жить / проживать"
+    },
+    "forms": {
+      "io": "abito",
+      "tu": "abiti",
+      "lui/lei/Lei": "abita",
+      "noi": "abitiamo",
+      "voi": "abitate",
+      "loro": "abitano"
+    }
+  },
+  {
+    "infinitive": "ballare",
+    "translation": {
+      "en": "to dance",
+      "ru": "танцевать"
+    },
+    "forms": {
+      "io": "ballo",
+      "tu": "balli",
+      "lui/lei/Lei": "balla",
+      "noi": "balliamo",
+      "voi": "ballate",
+      "loro": "ballano"
+    }
+  },
+  {
+    "infinitive": "cantare",
+    "translation": {
+      "en": "to sing",
+      "ru": "петь"
+    },
+    "forms": {
+      "io": "canto",
+      "tu": "canti",
+      "lui/lei/Lei": "canta",
+      "noi": "cantiamo",
+      "voi": "cantate",
+      "loro": "cantano"
+    }
+  },
+  {
+    "infinitive": "dormire",
+    "translation": {
+      "en": "to sleep",
+      "ru": "спать"
+    },
+    "forms": {
+      "io": "dormo",
+      "tu": "dormi",
+      "lui/lei/Lei": "dorme",
+      "noi": "dormiamo",
+      "voi": "dormite",
+      "loro": "dormono"
+    }
+  },
+  {
+    "infinitive": "scrivere",
+    "translation": {
+      "en": "to write",
+      "ru": "писать"
+    },
+    "forms": {
+      "io": "scrivo",
+      "tu": "scrivi",
+      "lui/lei/Lei": "scrive",
+      "noi": "scriviamo",
+      "voi": "scrivete",
+      "loro": "scrivono"
+    }
+  },
+  {
+    "infinitive": "vedere",
+    "translation": {
+      "en": "to see",
+      "ru": "видеть"
+    },
+    "forms": {
+      "io": "vedo",
+      "tu": "vedi",
+      "lui/lei/Lei": "vede",
+      "noi": "vediamo",
+      "voi": "vedete",
+      "loro": "vedono"
+    }
+  }
+]
