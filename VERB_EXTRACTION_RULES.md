@@ -13,7 +13,7 @@ This repo no longer uses separate `en/` and `ru/` lesson trees.
 Verb extraction now targets:
 - `lessons/*.json`
 - `index.json`
-- optionally `library.json` after regeneration
+- `extra/verbs.json` when standalone paradigms are needed
 
 The extractor must write `verb_tables` in the merged lesson format:
 
@@ -31,14 +31,6 @@ The extractor must write `verb_tables` in the merged lesson format:
     "noi": "andiamo",
     "voi": "andate",
     "loro": "vanno"
-  },
-  "pronoun_labels": {
-    "io": { "en": "I", "ru": "я" },
-    "tu": { "en": "you (sg.)", "ru": "ты" },
-    "lui/lei/Lei": { "en": "he/she/you (formal)", "ru": "он/она/Вы" },
-    "noi": { "en": "we", "ru": "мы" },
-    "voi": { "en": "you (pl.)", "ru": "вы" },
-    "loro": { "en": "they", "ru": "они" }
   }
 }
 ```
@@ -178,13 +170,12 @@ Whenever `verb_tables` change:
 2. Update `index.json`
    - `verb_table_count` must equal `len(lesson.verb_tables)`
    - update `generated_at`
-3. Regenerate `library.json`
+3. Update `extra/verbs.json` if standalone paradigms are being maintained outside lesson files
 
 Command:
 
 ```bash
 python3 extract_verb_tables.py
-node build_library_json.js
 ```
 
 ## Validation Checklist
@@ -193,10 +184,10 @@ Before finishing:
 
 - all lesson JSON files parse
 - `index.json` parses
-- `library.json` parses after regeneration
+- `extra/verbs.json` parses when changed
 - `verb_table_count` values in `index.json` match real counts
 - no stale old-schema fields like `translation_en` or `translation_ru` remain in `verb_tables`
-- newly added verbs appear in both lesson JSON and `library.json`
+- newly added lesson verbs appear in the relevant lesson JSON files
 
 ## Common Past Failure Modes
 

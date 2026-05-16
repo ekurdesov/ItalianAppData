@@ -4,6 +4,7 @@ Current repo model
 - Lesson files live only in `lessons/`.
 - Each lesson JSON contains Italian source text plus English and Russian localized fields.
 - Do not create separate `en/` and `ru/` lesson trees.
+- `extra/verbs.json` stores standalone verb paradigms outside lesson files.
 
 Source location
 - New source PDFs arrive in `process/`.
@@ -38,7 +39,7 @@ Schema to keep
 - `dialogues` use:
   `id`, `title`, `register`, `context`, `turns`, optional `practice_prompts`
 - `verb_tables` use:
-  `infinitive`, `translation`, `forms`, `pronoun_labels`
+  `infinitive`, `translation`, `forms`
 
 How to read the PDFs
 - These slide PDFs are presentation exports, not clean textbook pages.
@@ -67,16 +68,18 @@ Verb rules
 - Rebuild verb tables with:
   `python3 extract_verb_tables.py`
 
-Library rules
-- `library.json` is generated, not hand-maintained.
-- Rebuild it with:
-  `node build_library_json.js`
+Extra verbs rules
+- `extra/verbs.json` is hand-maintained and stores standalone verb paradigms not tied to one lesson.
+- Keep its shape aligned with lesson `verb_tables` entries:
+  `infinitive`, `translation`, `forms`
 
 Index rules
 - After lesson changes, update `index.json`.
 - Each lesson entry must include:
   `id`, `title`, `level`, `objectives`, `file`,
   `flashcard_count`, `language_rule_count`, `dialogue_count`, `verb_table_count`
+- Top-level index metadata should also include:
+  `extra_verbs_data_path`
 - Counts must match the real lesson file.
 - Update `generated_at` when content changes materially.
 

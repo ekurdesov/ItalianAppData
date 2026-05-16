@@ -4,14 +4,14 @@
 
 ```
 index.json          master lesson index
-library.json        generated single-word Italian library
+extra/verbs.json    standalone extra verb paradigms
 lessons/{file}      one bilingual JSON per lesson (replaces en/ and ru/)
 ```
 
 Load path: `lessons/{file}` where `file` comes from `index.json`.  
 All locales are in a single file. Access translated fields with the locale key `"en"` or `"ru"`.
 
-`library.json` is a generated helper file for phrase-building and vocabulary reuse. It aggregates reusable single-word Italian entries from lesson flashcards, single-word rule examples, and verb tables.
+`extra/verbs.json` is an auxiliary verb resource with standalone conjugation tables that are not necessarily tied to one lesson file.
 
 ---
 
@@ -19,9 +19,10 @@ All locales are in a single file. Access translated fields with the locale key `
 
 ```json
 {
-  "version": 6,
+  "version": 7,
   "generated_at": "YYYY-MM-DD",
   "locale_data_path": "lessons/{file}",
+  "extra_verbs_data_path": "extra/verbs.json",
   "notes": "string",
   "lessons": [ LessonIndex ]
 }
@@ -154,14 +155,6 @@ All locales are in a single file. Access translated fields with the locale key `
     "noi":         "siamo",
     "voi":         "siete",
     "loro":        "sono"
-  },
-  "pronoun_labels": {
-    "io":          { "en": "I",                   "ru": "я"         },
-    "tu":          { "en": "you (sg.)",            "ru": "ты"        },
-    "lui/lei/Lei": { "en": "he/she/you (formal)",  "ru": "он/она/Вы" },
-    "noi":         { "en": "we",                   "ru": "мы"        },
-    "voi":         { "en": "you (pl.)",            "ru": "вы"        },
-    "loro":        { "en": "they",                 "ru": "они"       }
   }
 }
 ```
@@ -196,7 +189,7 @@ card.type[locale]  // localised type label
 for (const vt of lesson.verb_tables) {
   display(vt.infinitive, vt.translation[locale])
   for (const pronoun of Object.keys(vt.forms)) {
-    label  = vt.pronoun_labels[pronoun][locale]
+    label  = pronoun
     answer = vt.forms[pronoun]
   }
 }
@@ -213,44 +206,26 @@ dialogue.context[locale]
 
 ---
 
-## library.json
+## extra/verbs.json
+
+`extra/verbs.json` is an array of verb table objects using the same shape as lesson `verb_tables` entries:
 
 ```json
-{
-  "version": 1,
-  "generated_at": "YYYY-MM-DD",
-  "source": "lessons/*.json",
-  "notes": "string",
-  "item_count": 123,
-  "items": [LibraryItem]
-}
-```
-
-### LibraryItem
-
-```json
-{
-  "it": "caffè",
-  "en": ["coffee", "espresso"],
-  "ru": ["кофе", "эспрессо"],
-  "types": [
-    { "en": "drink", "ru": "напиток" }
-  ],
-  "forms": ["il caffè", "un caffè"],
-  "lessons": ["A1-L1-1", "A1-L4-2"],
-  "sources": [
-    {
-      "file": "a4l2.json",
-      "lesson_id": "A1-L4-2",
-      "kind": "flashcard",
-      "it": "il caffè"
+[
+  {
+    "infinitive": "vedere",
+    "translation": {
+      "en": "to see",
+      "ru": "видеть"
+    },
+    "forms": {
+      "io": "vedo",
+      "tu": "vedi",
+      "lui/lei/Lei": "vede",
+      "noi": "vediamo",
+      "voi": "vedete",
+      "loro": "vedono"
     }
-  ]
-}
-```
-
-`library.json` intentionally excludes multi-word phrases. Regenerate it with:
-
-```bash
-node build_library_json.js
+  }
+]
 ```

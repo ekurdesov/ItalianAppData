@@ -1,8 +1,9 @@
 {
-  "version": 6,
+  "version": 7,
   "generated_at": "2026-05-15",
   "locale_data_path": "lessons/{file}",
-  "notes": "Lesson files live under lessons/. Each file contains all locales. Use the locale key (en/ru) to access translated fields.",
+  "extra_verbs_data_path": "extra/verbs.json",
+  "notes": "Lesson files live under lessons/. Each file contains all locales. Use the locale key (en/ru) to access translated fields. Extra standalone verb paradigms live in extra/verbs.json.",
   "lessons": [
     {
       "id": "A1-L1-1",
@@ -395,7 +396,7 @@
       "flashcard_count": 22,
       "language_rule_count": 5,
       "dialogue_count": 1,
-      "verb_table_count": 20
+      "verb_table_count": 23
     },
     {
       "id": "A1-L4-2",

@@ -521,32 +521,6 @@
         "noi": "siamo",
         "voi": "siete",
         "loro": "sono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -562,32 +536,6 @@
         "noi": "abbiamo",
         "voi": "avete",
         "loro": "hanno"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -603,32 +551,6 @@
         "noi": "andiamo",
         "voi": "andate",
         "loro": "vanno"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -644,32 +566,6 @@
         "noi": "facciamo",
         "voi": "fate",
         "loro": "fanno"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -685,32 +581,6 @@
         "noi": "beviamo",
         "voi": "bevete",
         "loro": "bevono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -726,32 +596,6 @@
         "noi": "prendiamo",
         "voi": "prendete",
         "loro": "prendono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -767,32 +611,6 @@
         "noi": "veniamo",
         "voi": "venite",
         "loro": "vengono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -808,32 +626,6 @@
         "noi": "preferiamo",
         "voi": "preferite",
         "loro": "preferiscono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -849,32 +641,6 @@
         "noi": "capiamo",
         "voi": "capite",
         "loro": "capiscono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -890,32 +656,6 @@
         "noi": "finiamo",
         "voi": "finite",
         "loro": "finiscono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -931,32 +671,6 @@
         "noi": "mangiamo",
         "voi": "mangiate",
         "loro": "mangiano"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -972,32 +686,6 @@
         "noi": "puliamo",
         "voi": "pulite",
         "loro": "puliscono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -1013,32 +701,6 @@
         "noi": "restiamo",
         "voi": "restate",
         "loro": "restano"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -1054,32 +716,6 @@
         "noi": "viaggiamo",
         "voi": "viaggiate",
         "loro": "viaggiano"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     }
   ]

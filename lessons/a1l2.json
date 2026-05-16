@@ -992,32 +992,6 @@
         "noi": "siamo",
         "voi": "siete",
         "loro": "sono"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -1033,32 +1007,6 @@
         "noi": "ci chiamiamo",
         "voi": "vi chiamate",
         "loro": "si chiamano"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     },
     {
@@ -1074,32 +1022,6 @@
         "noi": "stiamo",
         "voi": "state",
         "loro": "stanno"
-      },
-      "pronoun_labels": {
-        "io": {
-          "en": "I",
-          "ru": "я"
-        },
-        "tu": {
-          "en": "you (sg.)",
-          "ru": "ты"
-        },
-        "lui/lei/Lei": {
-          "en": "he/she/you (formal)",
-          "ru": "он/она/Вы"
-        },
-        "noi": {
-          "en": "we",
-          "ru": "мы"
-        },
-        "voi": {
-          "en": "you (pl.)",
-          "ru": "вы"
-        },
-        "loro": {
-          "en": "they",
-          "ru": "они"
-        }
       }
     }
   ]

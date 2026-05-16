@@ -13,12 +13,11 @@ ItalianDataA1/
   IT/                      processed source PDFs
   lessons/                 merged lesson JSON files
   index.json               master lesson index
-  library.json             generated single-word vocabulary library
+  extra/verbs.json         standalone extra verb paradigms
   DATA_CONTRACT.md         canonical schema
   PROCESSING_RULES.txt     condensed workflow rules
   VERB_EXTRACTION_RULES.md verb-table extraction rules
   extract_verb_tables.py   rebuilds verb tables in lessons/*.json
-  build_library_json.js    rebuilds library.json
 ```
 
 ## Current lesson file model
@@ -85,12 +84,6 @@ If verb coverage changes:
 python3 extract_verb_tables.py
 ```
 
-If lesson vocabulary or verb tables change:
-
-```bash
-node build_library_json.js
-```
-
 ### 5. Update index.json
 
 `index.json` must reference:
@@ -99,6 +92,7 @@ node build_library_json.js
 - `language_rule_count`
 - `dialogue_count`
 - `verb_table_count`
+- `extra_verbs_data_path`
 
 `generated_at` should reflect the latest processing date.
 
@@ -121,7 +115,7 @@ Important:
 - no stale `translation_en` / `translation_ru` fields in `verb_tables`
 - no stale references to `en/` or `ru/` lesson trees
 - `index.json` counts match the real lesson file
-- `library.json` regenerated when its inputs change
+- `extra/verbs.json` stays aligned with the standalone verb inventory
 
 ## Practical rule
 

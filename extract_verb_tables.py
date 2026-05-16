@@ -125,6 +125,11 @@ VERB_DATA = {
         "ru": "учить / осваивать",
         "forms": {"io": "imparo", "tu": "impari", "lui/lei/Lei": "impara", "noi": "impariamo", "voi": "imparate", "loro": "imparano"},
     },
+    "invitare": {
+        "en": "to invite",
+        "ru": "приглашать",
+        "forms": {"io": "invito", "tu": "inviti", "lui/lei/Lei": "invita", "noi": "invitiamo", "voi": "invitate", "loro": "invitano"},
+    },
     "indicare": {
         "en": "to indicate / to show",
         "ru": "указывать / показывать",
@@ -394,6 +399,9 @@ LESSON_VERBS = OrderedDict(
                 "credere",
                 "mettere",
                 "comprare",
+                "venire",
+                "volere",
+                "invitare",
             ],
         ),
         ("a4l2", ["essere", "avere", "andare", "fare", "bere", "prendere"]),
@@ -421,23 +429,12 @@ LESSON_VERBS = OrderedDict(
 )
 
 
-PRONOUN_LABELS = {
-    "io": {"en": "I", "ru": "я"},
-    "tu": {"en": "you (sg.)", "ru": "ты"},
-    "lui/lei/Lei": {"en": "he/she/you (formal)", "ru": "он/она/Вы"},
-    "noi": {"en": "we", "ru": "мы"},
-    "voi": {"en": "you (pl.)", "ru": "вы"},
-    "loro": {"en": "they", "ru": "они"},
-}
-
-
 def make_verb_table(infinitive: str) -> dict:
     data = VERB_DATA[infinitive]
     return {
         "infinitive": infinitive,
         "translation": {"en": data["en"], "ru": data["ru"]},
         "forms": data["forms"],
-        "pronoun_labels": PRONOUN_LABELS,
     }
 
 
