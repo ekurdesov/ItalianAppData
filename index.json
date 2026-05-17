@@ -435,15 +435,16 @@
       "title": "Un incontro",
       "level": "A1",
       "objectives": [
-        "Ripasso: Chiedi e rispondo",
-        "Comprensione orale: Offro io!",
-        "Grammatica: verbi irregolari (bere)",
-        "Attività comunicativa: Preferisci...?"
+        "Lessico: bevande e spuntini",
+        "Comprensione orale: Al bar",
+        "Pragmatica: Offro io!",
+        "Grammatica: verbi irregolari (bere, volere)",
+        "Attività comunicativa: Per me... / Tu che cosa prendi?"
       ],
       "file": "a4l4.json",
-      "flashcard_count": 21,
-      "language_rule_count": 5,
-      "dialogue_count": 1,
+      "flashcard_count": 33,
+      "language_rule_count": 7,
+      "dialogue_count": 2,
       "verb_table_count": 10
     }
   ]

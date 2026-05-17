@@ -5,22 +5,25 @@
     "level": "A1",
     "objectives": {
       "it": [
-        "Ripasso: Chiedi e rispondo",
-        "Comprensione orale: Offro io!",
-        "Grammatica: verbi irregolari (bere)",
-        "Attività comunicativa: Preferisci...?"
+        "Lessico: bevande e spuntini",
+        "Comprensione orale: Al bar",
+        "Pragmatica: Offro io!",
+        "Grammatica: verbi irregolari (bere, volere)",
+        "Attività comunicativa: Per me... / Tu che cosa prendi?"
       ],
       "en": [
-        "Review: Ask and answer",
-        "Listening comprehension: It's my treat!",
-        "Grammar: irregular verbs (bere)",
-        "Communicative activity: Do you prefer...?"
+        "Vocabulary: drinks and snacks",
+        "Listening comprehension: At the bar",
+        "Pragmatics: It's my treat!",
+        "Grammar: irregular verbs (bere, volere)",
+        "Communicative activity: For me... / What are you having?"
       ],
       "ru": [
-        "Повторение: Chiedi e rispondo",
-        "Аудирование: Offro io!",
-        "Грамматика: неправильные глаголы (bere)",
-        "Коммуникативное задание: Preferisci...?"
+        "Лексика: напитки и перекусы",
+        "Аудирование: В баре",
+        "Прагматика: Offro io!",
+        "Грамматика: неправильные глаголы (bere, volere)",
+        "Коммуникативное задание: Per me... / Tu che cosa prendi?"
       ]
     }
   },
@@ -123,6 +126,42 @@
     },
     {
       "category": {
+        "en": "Pragmatics",
+        "ru": "Прагматика"
+      },
+      "rule": {
+        "en": "Ordering at the bar",
+        "ru": "Заказ в баре"
+      },
+      "description": {
+        "en": "Useful phrases for ordering, asking the price, and paying at the bar.",
+        "ru": "Полезные фразы для заказа, вопроса о цене и оплаты в баре."
+      },
+      "examples": [
+        {
+          "it": "Per me un cappuccino, per favore.",
+          "en": "A cappuccino for me, please.",
+          "ru": "Мне капучино, пожалуйста."
+        },
+        {
+          "it": "Vorrei pagare subito.",
+          "en": "I'd like to pay right away.",
+          "ru": "Я бы хотел(а) заплатить сразу."
+        },
+        {
+          "it": "Quant'è?",
+          "en": "How much is it?",
+          "ru": "Сколько с меня?"
+        },
+        {
+          "it": "Ecco a Lei.",
+          "en": "Here you are.",
+          "ru": "Вот, пожалуйста."
+        }
+      ]
+    },
+    {
+      "category": {
         "en": "Vocabulary",
         "ru": "Лексика"
       },
@@ -156,6 +195,26 @@
           "ru": "холодный чай с лимоном"
         },
         {
+          "it": "un cappuccino",
+          "en": "cappuccino",
+          "ru": "капучино"
+        },
+        {
+          "it": "un'aranciata",
+          "en": "orange soda",
+          "ru": "апельсиновая газировка"
+        },
+        {
+          "it": "un bicchiere di acqua minerale",
+          "en": "a glass of mineral water",
+          "ru": "стакан минеральной воды"
+        },
+        {
+          "it": "un succo di frutta con ghiaccio",
+          "en": "fruit juice with ice",
+          "ru": "фруктовый сок со льдом"
+        },
+        {
           "it": "un tramezzino al tonno",
           "en": "tuna sandwich",
           "ru": "бутерброд с тунцом"
@@ -164,6 +223,55 @@
           "it": "un panino al prosciutto",
           "en": "ham roll",
           "ru": "булочка с ветчиной"
+        },
+        {
+          "it": "un cornetto",
+          "en": "croissant",
+          "ru": "круассан"
+        },
+        {
+          "it": "un aperitivo",
+          "en": "aperitif / pre-dinner drink",
+          "ru": "аперитив"
+        }
+      ]
+    },
+    {
+      "category": {
+        "en": "Grammar",
+        "ru": "Грамматика"
+      },
+      "rule": {
+        "en": "Irregular verb: volere",
+        "ru": "Неправильный глагол: volere"
+      },
+      "description": {
+        "en": "The verb 'volere' (to want) is irregular and is often used to order or express what someone wants to do.",
+        "ru": "Глагол «volere» (хотеть) неправильный и часто используется, чтобы сделать заказ или сказать, что кто-то хочет сделать."
+      },
+      "conjugations": {
+        "io": "voglio",
+        "tu": "vuoi",
+        "lui/lei/Lei": "vuole",
+        "noi": "vogliamo",
+        "voi": "volete",
+        "loro": "vogliono"
+      },
+      "examples": [
+        {
+          "it": "Vuoi bere un caffè o un tè?",
+          "en": "Do you want to drink a coffee or a tea?",
+          "ru": "Ты хочешь выпить кофе или чай?"
+        },
+        {
+          "it": "Noi vogliamo andare in pizzeria stasera.",
+          "en": "We want to go to a pizzeria tonight.",
+          "ru": "Мы хотим сегодня вечером пойти в пиццерию."
+        },
+        {
+          "it": "I signori Rossi vogliono comprare un monolocale in centro.",
+          "en": "Mr. and Mrs. Rossi want to buy a studio apartment in the city center.",
+          "ru": "Супруги Росси хотят купить квартиру-студию в центре."
         }
       ]
     },
@@ -321,6 +429,42 @@
       }
     },
     {
+      "term": "un cappuccino",
+      "en": "cappuccino",
+      "ru": "капучино",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
+      "term": "un'aranciata",
+      "en": "orange soda",
+      "ru": "апельсиновая газировка",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
+      "term": "un bicchiere di acqua minerale",
+      "en": "a glass of mineral water",
+      "ru": "стакан минеральной воды",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
+      "term": "un succo di frutta con ghiaccio",
+      "en": "fruit juice with ice",
+      "ru": "фруктовый сок со льдом",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
+      }
+    },
+    {
       "term": "un panino al prosciutto",
       "en": "ham roll",
       "ru": "булочка с ветчиной",
@@ -336,6 +480,24 @@
       "type": {
         "en": "food",
         "ru": "еда"
+      }
+    },
+    {
+      "term": "un cornetto",
+      "en": "croissant",
+      "ru": "круассан",
+      "type": {
+        "en": "food",
+        "ru": "еда"
+      }
+    },
+    {
+      "term": "un aperitivo",
+      "en": "aperitif / pre-dinner drink",
+      "ru": "аперитив",
+      "type": {
+        "en": "drink",
+        "ru": "напиток"
       }
     },
     {
@@ -391,6 +553,60 @@
         "en": "phrase",
         "ru": "фраза"
       }
+    },
+    {
+      "term": "al banco",
+      "en": "at the counter",
+      "ru": "у стойки",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "al tavolo",
+      "en": "at the table",
+      "ru": "за столиком",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "Per me...",
+      "en": "For me... / I'll have...",
+      "ru": "Мне... / Я буду...",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "Vorrei pagare subito.",
+      "en": "I'd like to pay right away.",
+      "ru": "Я бы хотел(а) заплатить сразу.",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "Quant'è?",
+      "en": "How much is it?",
+      "ru": "Сколько с меня?",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
+    },
+    {
+      "term": "Ecco a Lei.",
+      "en": "Here you are.",
+      "ru": "Вот, пожалуйста.",
+      "type": {
+        "en": "phrase",
+        "ru": "фраза"
+      }
     }
   ],
   "classroom_instructions": [
@@ -423,6 +639,16 @@
       "it": "Rispondete.",
       "en": "Answer.",
       "ru": "Ответьте."
+    },
+    {
+      "it": "Osservate e rispondete.",
+      "en": "Observe and answer.",
+      "ru": "Посмотрите и ответьте."
+    },
+    {
+      "it": "Ascoltate e completate.",
+      "en": "Listen and complete.",
+      "ru": "Послушайте и дополните."
     }
   ],
   "dialogues": [
@@ -493,6 +719,70 @@
             "ru": "Спросить, что кто-то предпочитает"
           },
           "expected_it": "Preferisci …?"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L4-4-02",
+      "title": "Al bar",
+      "register": "informal",
+      "context": {
+        "en": "Two customers order at the bar and ask to pay immediately.",
+        "ru": "Двое посетителей делают заказ в баре и просят сразу рассчитаться."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno. Tu che cosa prendi?",
+          "en": "Good morning. What are you having?",
+          "ru": "Доброе утро. Что ты будешь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Per me un caffè macchiato, per favore.",
+          "en": "A macchiato for me, please.",
+          "ru": "Мне маккиато, пожалуйста."
+        },
+        {
+          "speaker": "A",
+          "it": "E per me un cappuccino e un cornetto.",
+          "en": "And for me a cappuccino and a croissant.",
+          "ru": "А мне капучино и круассан."
+        },
+        {
+          "speaker": "B",
+          "it": "Vorrei pagare subito. Quant'è?",
+          "en": "I'd like to pay right away. How much is it?",
+          "ru": "Я бы хотел(а) заплатить сразу. Сколько с меня?"
+        },
+        {
+          "speaker": "C",
+          "it": "Sono quattro euro. Ecco a Lei.",
+          "en": "It's four euros. Here you are.",
+          "ru": "С вас четыре евро. Вот, пожалуйста."
+        }
+      ],
+      "practice_prompts": [
+        {
+          "cue": {
+            "en": "Order a cappuccino",
+            "ru": "Заказать капучино"
+          },
+          "expected_it": "Per me un cappuccino, per favore."
+        },
+        {
+          "cue": {
+            "en": "Ask the price",
+            "ru": "Спросить цену"
+          },
+          "expected_it": "Quant'è?"
+        },
+        {
+          "cue": {
+            "en": "Say you want to pay right away",
+            "ru": "Сказать, что хочешь сразу заплатить"
+          },
+          "expected_it": "Vorrei pagare subito."
         }
       ]
     }
