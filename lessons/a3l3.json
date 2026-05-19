@@ -593,6 +593,328 @@
           "expected_it": "chiocciola"
         }
       ]
+    },
+    {
+      "id": "D-A1L3-3-03",
+      "title": "Email, lettura e compiti",
+      "register": "informal",
+      "context": {
+        "en": "Two classmates exchange email addresses and plan homework together.",
+        "ru": "Два одноклассника обмениваются адресами электронной почты и планируют домашнее задание."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, Sara. Hai l'indirizzo email della professoressa?",
+          "en": "Hi, Sara. Do you have the professor's email address?",
+          "ru": "Привет, Сара. У тебя есть адрес электронной почты преподавательницы?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ce l'ho nel quaderno.",
+          "en": "Yes, I have it in my notebook.",
+          "ru": "Да, он у меня в тетради."
+        },
+        {
+          "speaker": "A",
+          "it": "Puoi mandarmelo?",
+          "en": "Can you send it to me?",
+          "ru": "Можешь мне его прислать?"
+        },
+        {
+          "speaker": "B",
+          "it": "Certo. Qual è il tuo indirizzo email?",
+          "en": "Sure. What's your email address?",
+          "ru": "Конечно. Какой у тебя адрес электронной почты?"
+        },
+        {
+          "speaker": "A",
+          "it": "È marco punto rossi chiocciola email punto it.",
+          "en": "It's marco dot rossi at email dot it.",
+          "ru": "Это марко точка росси собака email точка it."
+        },
+        {
+          "speaker": "B",
+          "it": "Puoi ripetere lentamente?",
+          "en": "Can you repeat slowly?",
+          "ru": "Можешь повторить медленно?"
+        },
+        {
+          "speaker": "A",
+          "it": "Marco punto rossi chiocciola email punto it.",
+          "en": "Marco dot rossi at email dot it.",
+          "ru": "Марко точка росси собака email точка it."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Io sono sara punto bianchi chiocciola email punto it.",
+          "en": "Perfect. I'm sara dot bianchi at email dot it.",
+          "ru": "Отлично. Я — сара точка бьянки собака email точка it."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie. Che cosa dobbiamo fare per domani?",
+          "en": "Thanks. What do we have to do for tomorrow?",
+          "ru": "Спасибо. Что нам нужно сделать к завтра?"
+        },
+        {
+          "speaker": "B",
+          "it": "Dobbiamo leggere il testo e scrivere cinque frasi.",
+          "en": "We have to read the text and write five sentences.",
+          "ru": "Нам нужно прочитать текст и написать пять предложений."
+        },
+        {
+          "speaker": "A",
+          "it": "Io leggo il testo stasera.",
+          "en": "I'll read the text tonight.",
+          "ru": "Я прочитаю текст вечером."
+        },
+        {
+          "speaker": "B",
+          "it": "Io scrivo le frasi in biblioteca.",
+          "en": "I'll write the sentences in the library.",
+          "ru": "Я напишу предложения в библиотеке."
+        },
+        {
+          "speaker": "A",
+          "it": "Prendi appunti quando leggi?",
+          "en": "Do you take notes when you read?",
+          "ru": "Ты делаешь заметки, когда читаешь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, prendo sempre appunti.",
+          "en": "Yes, I always take notes.",
+          "ru": "Да, я всегда делаю заметки."
+        },
+        {
+          "speaker": "A",
+          "it": "Io non prendo molti appunti.",
+          "en": "I don't take many notes.",
+          "ru": "Я не делаю много заметок."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora studiamo insieme.",
+          "en": "Then let's study together.",
+          "ru": "Тогда давай учиться вместе."
+        },
+        {
+          "speaker": "A",
+          "it": "Va bene. A che ora vai in biblioteca?",
+          "en": "Okay. What time do you go to the library?",
+          "ru": "Хорошо. Во сколько ты идёшь в библиотеку?"
+        },
+        {
+          "speaker": "B",
+          "it": "Alle cinque.",
+          "en": "At five.",
+          "ru": "В пять."
+        },
+        {
+          "speaker": "A",
+          "it": "Posso venire con te?",
+          "en": "Can I come with you?",
+          "ru": "Можно мне пойти с тобой?"
+        },
+        {
+          "speaker": "B",
+          "it": "Certo. Porti il libro?",
+          "en": "Sure. Will you bring the book?",
+          "ru": "Конечно. Возьмёшь учебник?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, porto il libro e il dizionario.",
+          "en": "Yes, I'll bring the book and the dictionary.",
+          "ru": "Да, возьму учебник и словарь."
+        },
+        {
+          "speaker": "B",
+          "it": "Io porto il quaderno e una penna.",
+          "en": "I'll bring the notebook and a pen.",
+          "ru": "Я возьму тетрадь и ручку."
+        },
+        {
+          "speaker": "A",
+          "it": "Dopo scriviamo alla professoressa?",
+          "en": "Then shall we write to the professor?",
+          "ru": "Потом напишем преподавательнице?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, le mandiamo il compito.",
+          "en": "Yes, we'll send her the homework.",
+          "ru": "Да, отправим ей задание."
+        },
+        {
+          "speaker": "A",
+          "it": "Ottimo. Ci vediamo alle cinque.",
+          "en": "Great. See you at five.",
+          "ru": "Отлично. Увидимся в пять."
+        },
+        {
+          "speaker": "B",
+          "it": "A dopo, Marco.",
+          "en": "See you later, Marco.",
+          "ru": "До встречи, Марко."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-3-04",
+      "title": "Perché vai in biblioteca?",
+      "register": "informal",
+      "context": {
+        "en": "Two students discuss why they go places and what they do there.",
+        "ru": "Два студента обсуждают, куда они ходят и что там делают."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Dove vai adesso?",
+          "en": "Where are you going now?",
+          "ru": "Куда ты сейчас идёшь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vado in biblioteca.",
+          "en": "I'm going to the library.",
+          "ru": "Иду в библиотеку."
+        },
+        {
+          "speaker": "A",
+          "it": "Perché vai in biblioteca?",
+          "en": "Why are you going to the library?",
+          "ru": "Почему ты идёшь в библиотеку?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché studio italiano.",
+          "en": "Because I'm studying Italian.",
+          "ru": "Потому что учу итальянский."
+        },
+        {
+          "speaker": "A",
+          "it": "Che cosa fai lì?",
+          "en": "What do you do there?",
+          "ru": "Что ты там делаешь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Leggo, scrivo e prendo appunti.",
+          "en": "I read, write, and take notes.",
+          "ru": "Читаю, пишу и делаю заметки."
+        },
+        {
+          "speaker": "A",
+          "it": "Io vado al bar.",
+          "en": "I'm going to the bar.",
+          "ru": "Я иду в бар."
+        },
+        {
+          "speaker": "B",
+          "it": "Perché vai al bar?",
+          "en": "Why are you going to the bar?",
+          "ru": "Почему ты идёшь в бар?"
+        },
+        {
+          "speaker": "A",
+          "it": "Perché prendo un caffè e faccio i compiti.",
+          "en": "Because I get a coffee and do homework.",
+          "ru": "Потому что беру кофе и делаю домашнее задание."
+        },
+        {
+          "speaker": "B",
+          "it": "Il bar è tranquillo?",
+          "en": "Is the bar quiet?",
+          "ru": "В баре тихо?"
+        },
+        {
+          "speaker": "A",
+          "it": "A volte sì, a volte no.",
+          "en": "Sometimes yes, sometimes no.",
+          "ru": "Иногда да, иногда нет."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora forse la biblioteca è meglio.",
+          "en": "Then maybe the library is better.",
+          "ru": "Тогда, может, библиотека лучше."
+        },
+        {
+          "speaker": "A",
+          "it": "Hai ragione.",
+          "en": "You're right.",
+          "ru": "Ты прав."
+        },
+        {
+          "speaker": "B",
+          "it": "Vieni con me?",
+          "en": "Come with me?",
+          "ru": "Пойдёшь со мной?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ma prima prendo un caffè.",
+          "en": "Yes, but first I'll get a coffee.",
+          "ru": "Да, но сначала возьму кофе."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene. Io ti aspetto.",
+          "en": "Okay. I'll wait for you.",
+          "ru": "Хорошо. Я тебя подожду."
+        },
+        {
+          "speaker": "A",
+          "it": "Dove mi aspetti?",
+          "en": "Where will you wait for me?",
+          "ru": "Где ты меня подождёшь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Davanti alla biblioteca.",
+          "en": "In front of the library.",
+          "ru": "Перед библиотекой."
+        },
+        {
+          "speaker": "A",
+          "it": "A che ora?",
+          "en": "At what time?",
+          "ru": "Во сколько?"
+        },
+        {
+          "speaker": "B",
+          "it": "Alle quattro.",
+          "en": "At four.",
+          "ru": "В четыре."
+        },
+        {
+          "speaker": "A",
+          "it": "Perfetto. Porto il libro.",
+          "en": "Perfect. I'll bring the book.",
+          "ru": "Отлично. Возьму учебник."
+        },
+        {
+          "speaker": "B",
+          "it": "Io porto il dizionario.",
+          "en": "I'll bring the dictionary.",
+          "ru": "Я возьму словарь."
+        },
+        {
+          "speaker": "A",
+          "it": "Studiamo i verbi?",
+          "en": "Shall we study the verbs?",
+          "ru": "Будем учить глаголы?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, soprattutto andare e fare.",
+          "en": "Yes, especially andare and fare.",
+          "ru": "Да, особенно andare и fare."
+        }
+      ]
     }
   ],
   "verb_tables": [

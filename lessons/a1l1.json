@@ -595,6 +595,352 @@
           "expected_it": "Sono di …"
         }
       ]
+    },
+    {
+      "id": "D-A1L1-1-02",
+      "title": "Primo giorno nel corso di italiano",
+      "register": "informal",
+      "context": {
+        "en": "Two students meet on the first day of Italian class, introduce themselves, and talk about origin and language level.",
+        "ru": "Два студента знакомятся в первый день курса итальянского, представляются и говорят о происхождении и уровне языка."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, buongiorno! Sei nella classe di italiano?",
+          "en": "Hi, good morning! Are you in the Italian class?",
+          "ru": "Привет, доброе утро! Ты в классе итальянского?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, sono nella classe A1. E tu?",
+          "en": "Yes, I'm in the A1 class. And you?",
+          "ru": "Да, я в классе A1. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io. Mi chiamo Luca.",
+          "en": "Me too. My name is Luca.",
+          "ru": "Я тоже. Меня зовут Лука."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere, Luca. Io mi chiamo Anna.",
+          "en": "Nice to meet you, Luca. My name is Anna.",
+          "ru": "Приятно познакомиться, Лука. Меня зовут Анна."
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere mio, Anna. Sei nuova qui?",
+          "en": "My pleasure, Anna. Are you new here?",
+          "ru": "Мне тоже приятно, Анна. Ты здесь новенькая?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, sono nuova. E tu?",
+          "en": "Yes, I'm new. And you?",
+          "ru": "Да, я новенькая. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, anche io sono nuovo.",
+          "en": "Yes, I'm new too.",
+          "ru": "Да, я тоже новенький."
+        },
+        {
+          "speaker": "B",
+          "it": "Di dove sei?",
+          "en": "Where are you from?",
+          "ru": "Откуда ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono italiano, di Roma. E tu?",
+          "en": "I'm Italian, from Rome. And you?",
+          "ru": "Я итальянец, из Рима. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono russa, di Mosca.",
+          "en": "I'm Russian, from Moscow.",
+          "ru": "Я русская, из Москвы."
+        },
+        {
+          "speaker": "A",
+          "it": "Mosca è una città molto grande, vero?",
+          "en": "Moscow is a very big city, right?",
+          "ru": "Москва — очень большой город, правда?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, è grande e interessante. Roma è bella?",
+          "en": "Yes, it's big and interesting. Is Rome beautiful?",
+          "ru": "Да, большой и интересный. Рим красивый?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, Roma è bellissima, ma è anche caotica.",
+          "en": "Yes, Rome is very beautiful, but also chaotic.",
+          "ru": "Да, Рим очень красивый, но и хаотичный."
+        },
+        {
+          "speaker": "B",
+          "it": "Capisco. Parli inglese?",
+          "en": "I see. Do you speak English?",
+          "ru": "Понятно. Ты говоришь по-английски?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, parlo inglese e un po' spagnolo.",
+          "en": "Yes, I speak English and a little Spanish.",
+          "ru": "Да, говорю по-английски и немного по-испански."
+        },
+        {
+          "speaker": "B",
+          "it": "Io parlo russo, inglese e poco italiano.",
+          "en": "I speak Russian, English, and a little Italian.",
+          "ru": "Я говорю по-русски, по-английски и немного по-итальянски."
+        },
+        {
+          "speaker": "A",
+          "it": "Studi italiano da molto tempo?",
+          "en": "Have you been studying Italian for a long time?",
+          "ru": "Ты давно учишь итальянский?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, studio italiano da due settimane.",
+          "en": "No, I've been studying Italian for two weeks.",
+          "ru": "Нет, я учу итальянский две недели."
+        },
+        {
+          "speaker": "A",
+          "it": "Allora parli già bene.",
+          "en": "Then you already speak well.",
+          "ru": "Тогда ты уже хорошо говоришь."
+        },
+        {
+          "speaker": "B",
+          "it": "Grazie, ma faccio molti errori.",
+          "en": "Thanks, but I make many mistakes.",
+          "ru": "Спасибо, но я делаю много ошибок."
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io. Gli errori sono normali.",
+          "en": "Me too. Mistakes are normal.",
+          "ru": "Я тоже. Ошибки — это нормально."
+        },
+        {
+          "speaker": "B",
+          "it": "Hai il libro?",
+          "en": "Do you have the book?",
+          "ru": "У тебя есть учебник?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ho il libro e il quaderno.",
+          "en": "Yes, I have the book and the notebook.",
+          "ru": "Да, у меня есть учебник и тетрадь."
+        },
+        {
+          "speaker": "B",
+          "it": "Io ho il libro, ma non ho una penna.",
+          "en": "I have the book, but I don't have a pen.",
+          "ru": "У меня есть учебник, но нет ручки."
+        },
+        {
+          "speaker": "A",
+          "it": "Vuoi una penna?",
+          "en": "Do you want a pen?",
+          "ru": "Хочешь ручку?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, grazie mille.",
+          "en": "Yes, thank you very much.",
+          "ru": "Да, большое спасибо."
+        },
+        {
+          "speaker": "A",
+          "it": "Prego. Vuoi sederti qui?",
+          "en": "You're welcome. Do you want to sit here?",
+          "ru": "Пожалуйста. Хочешь сесть здесь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, volentieri.",
+          "en": "Yes, gladly.",
+          "ru": "Да, с удовольствием."
+        },
+        {
+          "speaker": "A",
+          "it": "Bene, comincia la lezione.",
+          "en": "Good, the lesson is starting.",
+          "ru": "Хорошо, урок начинается."
+        },
+        {
+          "speaker": "B",
+          "it": "Buona lezione, Luca!",
+          "en": "Have a good lesson, Luca!",
+          "ru": "Хорошего урока, Лука!"
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-1-03",
+      "title": "Lezione, aula e materiali",
+      "register": "informal",
+      "context": {
+        "en": "Two students prepare for class and review classroom objects and numbers.",
+        "ru": "Два студента готовятся к уроку и повторяют предметы в классе и числа."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, hai il libro?",
+          "en": "Hi, do you have the book?",
+          "ru": "Привет, у тебя есть учебник?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ho il libro. E tu?",
+          "en": "Yes, I have the book. And you?",
+          "ru": "Да, есть. А у тебя?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho il libro, ma non ho il quaderno.",
+          "en": "I have the book, but I don't have the notebook.",
+          "ru": "У меня есть учебник, но нет тетради."
+        },
+        {
+          "speaker": "B",
+          "it": "Vuoi un foglio?",
+          "en": "Do you want a sheet of paper?",
+          "ru": "Хочешь листок?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, grazie.",
+          "en": "Yes, thanks.",
+          "ru": "Да, спасибо."
+        },
+        {
+          "speaker": "B",
+          "it": "Hai una penna?",
+          "en": "Do you have a pen?",
+          "ru": "У тебя есть ручка?"
+        },
+        {
+          "speaker": "A",
+          "it": "No, ho solo una matita.",
+          "en": "No, I only have a pencil.",
+          "ru": "Нет, у меня только карандаш."
+        },
+        {
+          "speaker": "B",
+          "it": "Ho una penna in più.",
+          "en": "I have an extra pen.",
+          "ru": "У меня есть лишняя ручка."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie mille.",
+          "en": "Thank you very much.",
+          "ru": "Большое спасибо."
+        },
+        {
+          "speaker": "B",
+          "it": "Di nulla.",
+          "en": "You're welcome.",
+          "ru": "Не за что."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il numero dell'aula?",
+          "en": "What's the classroom number?",
+          "ru": "Какой номер аудитории?"
+        },
+        {
+          "speaker": "B",
+          "it": "È l'aula ventitré.",
+          "en": "It's classroom twenty-three.",
+          "ru": "Аудитория двадцать три."
+        },
+        {
+          "speaker": "A",
+          "it": "Ventitré? Io pensavo aula tredici.",
+          "en": "Twenty-three? I thought it was classroom thirteen.",
+          "ru": "Двадцать три? Я думал, аудитория тринадцать."
+        },
+        {
+          "speaker": "B",
+          "it": "No, oggi siamo nell'aula ventitré.",
+          "en": "No, today we're in classroom twenty-three.",
+          "ru": "Нет, сегодня мы в аудитории двадцать три."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti studenti ci sono?",
+          "en": "How many students are there?",
+          "ru": "Сколько студентов?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ci sono dodici studenti.",
+          "en": "There are twelve students.",
+          "ru": "Двенадцать студентов."
+        },
+        {
+          "speaker": "A",
+          "it": "La professoressa è già qui?",
+          "en": "Is the professor already here?",
+          "ru": "Преподавательница уже здесь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, è vicino alla lavagna.",
+          "en": "Yes, she's near the whiteboard.",
+          "ru": "Да, она у доски."
+        },
+        {
+          "speaker": "A",
+          "it": "Hai il dizionario?",
+          "en": "Do you have the dictionary?",
+          "ru": "У тебя есть словарь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ma uso anche il cellulare.",
+          "en": "Yes, but I also use my phone.",
+          "ru": "Да, но я ещё пользуюсь телефоном."
+        },
+        {
+          "speaker": "A",
+          "it": "Io preferisco il libro.",
+          "en": "I prefer the book.",
+          "ru": "Я предпочитаю книгу."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene. La lezione comincia.",
+          "en": "Okay. The lesson is starting.",
+          "ru": "Хорошо. Урок начинается."
+        },
+        {
+          "speaker": "A",
+          "it": "Allora sediamoci.",
+          "en": "Then let's sit down.",
+          "ru": "Тогда давай сядем."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, buona lezione.",
+          "en": "Yes, have a good lesson.",
+          "ru": "Да, хорошего урока."
+        }
+      ]
     }
   ],
   "verb_tables": [

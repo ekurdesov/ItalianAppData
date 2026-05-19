@@ -846,6 +846,173 @@
           "expected_it": "Piacere di conoscerti!"
         }
       ]
+    },
+    {
+      "id": "D-A1L1-5-03",
+      "title": "Compagni di gruppo",
+      "register": "informal",
+      "context": {
+        "en": "Two students become partners for a class assignment and divide the work.",
+        "ru": "Два студента становятся партнёрами по заданию и распределяют работу."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, sei la mia compagna di gruppo?",
+          "en": "Hi, are you my group partner?",
+          "ru": "Привет, ты моя напарница?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, credo di sì. Mi chiamo Carla.",
+          "en": "Yes, I think so. My name is Carla.",
+          "ru": "Да, думаю, да. Меня зовут Карла."
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere, Carla. Io mi chiamo Stefano.",
+          "en": "Nice to meet you, Carla. My name is Stefano.",
+          "ru": "Приятно познакомиться, Карла. Меня зовут Стефано."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere. Che cosa dobbiamo fare?",
+          "en": "Nice to meet you. What do we have to do?",
+          "ru": "Приятно. Что нам нужно сделать?"
+        },
+        {
+          "speaker": "A",
+          "it": "Dobbiamo leggere il testo e scrivere le risposte.",
+          "en": "We have to read the text and write the answers.",
+          "ru": "Нам нужно прочитать текст и написать ответы."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene. Tu leggi la prima parte?",
+          "en": "Okay. Will you read the first part?",
+          "ru": "Хорошо. Ты читаешь первую часть?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, io leggo e prendo appunti.",
+          "en": "Yes, I'll read and take notes.",
+          "ru": "Да, я читаю и делаю заметки."
+        },
+        {
+          "speaker": "B",
+          "it": "Io scrivo le risposte nel quaderno.",
+          "en": "I'll write the answers in the notebook.",
+          "ru": "Я пишу ответы в тетради."
+        },
+        {
+          "speaker": "A",
+          "it": "Hai una penna?",
+          "en": "Do you have a pen?",
+          "ru": "У тебя есть ручка?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ho due penne. Ne vuoi una?",
+          "en": "Yes, I have two pens. Do you want one?",
+          "ru": "Да, у меня две ручки. Хочешь одну?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, grazie. Io ho solo una matita.",
+          "en": "Yes, thanks. I only have a pencil.",
+          "ru": "Да, спасибо. У меня только карандаш."
+        },
+        {
+          "speaker": "B",
+          "it": "Hai il libro?",
+          "en": "Do you have the book?",
+          "ru": "У тебя есть учебник?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ho il libro, ma non ho il dizionario.",
+          "en": "Yes, I have the book, but I don't have the dictionary.",
+          "ru": "Да, у меня есть учебник, но нет словаря."
+        },
+        {
+          "speaker": "B",
+          "it": "Io ho il dizionario.",
+          "en": "I have the dictionary.",
+          "ru": "У меня есть словарь."
+        },
+        {
+          "speaker": "A",
+          "it": "Perfetto. Allora siamo pronti.",
+          "en": "Perfect. Then we're ready.",
+          "ru": "Отлично. Тогда мы готовы."
+        },
+        {
+          "speaker": "B",
+          "it": "Dopo la lezione vuoi studiare ancora?",
+          "en": "After the lesson, do you want to study more?",
+          "ru": "После урока хочешь ещё позаниматься?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, vado al bar alle cinque.",
+          "en": "Yes, I'm going to the bar at five.",
+          "ru": "Да, я иду в бар в пять."
+        },
+        {
+          "speaker": "B",
+          "it": "Anche io vado al bar.",
+          "en": "I'm going to the bar too.",
+          "ru": "Я тоже иду в бар."
+        },
+        {
+          "speaker": "A",
+          "it": "Che cosa prendi al bar?",
+          "en": "What do you get at the bar?",
+          "ru": "Что ты берёшь в баре?"
+        },
+        {
+          "speaker": "B",
+          "it": "Prendo un tè e una brioche.",
+          "en": "I get a tea and a brioche.",
+          "ru": "Беру чай и бриошь."
+        },
+        {
+          "speaker": "A",
+          "it": "Io prendo un caffè.",
+          "en": "I get a coffee.",
+          "ru": "Я беру кофе."
+        },
+        {
+          "speaker": "B",
+          "it": "Finiamo il compito lì?",
+          "en": "Shall we finish the homework there?",
+          "ru": "Закончим задание там?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, buona idea.",
+          "en": "Yes, good idea.",
+          "ru": "Да, хорошая идея."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora ci vediamo alle cinque.",
+          "en": "Then see you at five.",
+          "ru": "Тогда увидимся в пять."
+        },
+        {
+          "speaker": "A",
+          "it": "D'accordo.",
+          "en": "Agreed.",
+          "ru": "Договорились."
+        },
+        {
+          "speaker": "B",
+          "it": "A dopo, Stefano.",
+          "en": "See you later, Stefano.",
+          "ru": "До встречи, Стефано."
+        }
+      ]
     }
   ],
   "verb_tables": [

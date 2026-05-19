@@ -908,6 +908,185 @@
           "expected_it": "Ne ho [numero]."
         }
       ]
+    },
+    {
+      "id": "D-A1L2-4-04",
+      "title": "Come stai? Sensazioni e bisogni",
+      "register": "informal",
+      "context": {
+        "en": "Two students talk about hunger, thirst, tiredness, fear, and study plans.",
+        "ru": "Два студента говорят о голоде, жажде, усталости, страхе и планах на учёбу."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, Elena. Come stai oggi?",
+          "en": "Hi, Elena. How are you today?",
+          "ru": "Привет, Елена. Как ты сегодня?"
+        },
+        {
+          "speaker": "B",
+          "it": "Così così. Ho sonno e ho fame.",
+          "en": "So-so. I'm sleepy and hungry.",
+          "ru": "Так себе. Хочу спать и есть."
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io ho fame. Hai anche sete?",
+          "en": "I'm hungry too. Are you also thirsty?",
+          "ru": "Я тоже голодный. Ты ещё хочешь пить?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ho molta sete.",
+          "en": "Yes, I'm very thirsty.",
+          "ru": "Да, очень хочу пить."
+        },
+        {
+          "speaker": "A",
+          "it": "Ho una bottiglia d'acqua. Vuoi un po'?",
+          "en": "I have a bottle of water. Do you want some?",
+          "ru": "У меня есть бутылка воды. Хочешь немного?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, grazie. Sei molto gentile.",
+          "en": "Yes, thanks. You're very kind.",
+          "ru": "Да, спасибо. Ты очень добрый."
+        },
+        {
+          "speaker": "A",
+          "it": "Prego. Hai freddo?",
+          "en": "You're welcome. Are you cold?",
+          "ru": "Пожалуйста. Тебе холодно?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, ho caldo. L'aula è calda.",
+          "en": "No, I'm hot. The classroom is warm.",
+          "ru": "Нет, мне жарко. В аудитории тепло."
+        },
+        {
+          "speaker": "A",
+          "it": "È vero. Io ho anche mal di testa.",
+          "en": "That's true. I also have a headache.",
+          "ru": "Это правда. У меня ещё болит голова."
+        },
+        {
+          "speaker": "B",
+          "it": "Mi dispiace. Hai un esame oggi?",
+          "en": "I'm sorry. Do you have an exam today?",
+          "ru": "Мне жаль. У тебя сегодня экзамен?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ho l'esame di italiano.",
+          "en": "Yes, I have the Italian exam.",
+          "ru": "Да, у меня экзамен по итальянскому."
+        },
+        {
+          "speaker": "B",
+          "it": "Hai paura?",
+          "en": "Are you scared?",
+          "ru": "Ты боишься?"
+        },
+        {
+          "speaker": "A",
+          "it": "Un po'. Ho paura dei verbi.",
+          "en": "A little. I'm afraid of the verbs.",
+          "ru": "Немного. Боюсь глаголов."
+        },
+        {
+          "speaker": "B",
+          "it": "Io ho paura dei numeri.",
+          "en": "I'm afraid of the numbers.",
+          "ru": "Я боюсь чисел."
+        },
+        {
+          "speaker": "A",
+          "it": "Possiamo studiare insieme.",
+          "en": "We can study together.",
+          "ru": "Можем учиться вместе."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, volentieri. Quanti anni hai?",
+          "en": "Yes, gladly. How old are you?",
+          "ru": "Да, с удовольствием. Сколько тебе лет?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho ventotto anni. E tu?",
+          "en": "I'm twenty-eight. And you?",
+          "ru": "Мне двадцать восемь. А тебе?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho ventidue anni.",
+          "en": "I'm twenty-two.",
+          "ru": "Мне двадцать два."
+        },
+        {
+          "speaker": "A",
+          "it": "Bene, cominciamo con domande facili.",
+          "en": "Good, let's start with easy questions.",
+          "ru": "Хорошо, начнём с лёгких вопросов."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene. Qual è il tuo numero di telefono?",
+          "en": "Okay. What's your phone number?",
+          "ru": "Хорошо. Какой у тебя номер телефона?"
+        },
+        {
+          "speaker": "A",
+          "it": "Tre quattro cinque, due uno zero, nove otto sette.",
+          "en": "Three four five, two one zero, nine eight seven.",
+          "ru": "Три четыре пять, два один ноль, девять восемь семь."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Io ti chiamo dopo.",
+          "en": "Perfect. I'll call you later.",
+          "ru": "Отлично. Я тебе позвоню потом."
+        },
+        {
+          "speaker": "A",
+          "it": "Hai tempo alle cinque?",
+          "en": "Do you have time at five?",
+          "ru": "У тебя есть время в пять?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ho tempo alle cinque.",
+          "en": "Yes, I have time at five.",
+          "ru": "Да, у меня есть время в пять."
+        },
+        {
+          "speaker": "A",
+          "it": "Studiamo in biblioteca?",
+          "en": "Shall we study in the library?",
+          "ru": "Будем заниматься в библиотеке?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ma prima prendiamo un caffè.",
+          "en": "Yes, but first let's get a coffee.",
+          "ru": "Да, но сначала выпьем кофе."
+        },
+        {
+          "speaker": "A",
+          "it": "Buona idea. Ho bisogno di energia.",
+          "en": "Good idea. I need energy.",
+          "ru": "Хорошая идея. Мне нужна энергия."
+        },
+        {
+          "speaker": "B",
+          "it": "Anch'io. Andiamo dopo la lezione.",
+          "en": "Me too. Let's go after the lesson.",
+          "ru": "Мне тоже. Пойдём после урока."
+        }
+      ]
     }
   ],
   "verb_tables": [

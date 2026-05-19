@@ -976,6 +976,161 @@
           "expected_it": "Sono di [città]."
         }
       ]
+    },
+    {
+      "id": "D-A1L1-2-05",
+      "title": "Presentazione formale con la professoressa",
+      "register": "formal",
+      "context": {
+        "en": "A student speaks formally with a professor before class, exchanging personal information.",
+        "ru": "Студент формально общается с преподавателем перед уроком, обмениваясь личной информацией."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Buongiorno, professoressa. Come sta?",
+          "en": "Good morning, professor. How are you?",
+          "ru": "Доброе утро, профессор. Как Вы?"
+        },
+        {
+          "speaker": "B",
+          "it": "Buongiorno. Sto bene, grazie. E Lei?",
+          "en": "Good morning. I'm fine, thank you. And you?",
+          "ru": "Доброе утро. Хорошо, спасибо. А Вы?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sto abbastanza bene, grazie.",
+          "en": "I'm quite well, thank you.",
+          "ru": "Довольно хорошо, спасибо."
+        },
+        {
+          "speaker": "B",
+          "it": "Come si chiama?",
+          "en": "What is your name?",
+          "ru": "Как Вас зовут?"
+        },
+        {
+          "speaker": "A",
+          "it": "Mi chiamo Marco Rossi.",
+          "en": "My name is Marco Rossi.",
+          "ru": "Меня зовут Марко Росси."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere, Marco. Lei è studente d'italiano?",
+          "en": "Nice to meet you, Marco. Are you an Italian student?",
+          "ru": "Приятно познакомиться, Марко. Вы студент итальянского?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, sono studente del corso A1.",
+          "en": "Yes, I'm a student in the A1 course.",
+          "ru": "Да, я студент курса A1."
+        },
+        {
+          "speaker": "B",
+          "it": "Molto bene. È la Sua prima lezione?",
+          "en": "Very good. Is this your first lesson?",
+          "ru": "Очень хорошо. Это Ваш первый урок?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, è la mia prima lezione.",
+          "en": "Yes, it's my first lesson.",
+          "ru": "Да, это мой первый урок."
+        },
+        {
+          "speaker": "B",
+          "it": "Ha il libro?",
+          "en": "Do you have the book?",
+          "ru": "У Вас есть учебник?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ho il libro e il quaderno.",
+          "en": "Yes, I have the book and the notebook.",
+          "ru": "Да, у меня есть учебник и тетрадь."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Ha anche una penna?",
+          "en": "Perfect. Do you also have a pen?",
+          "ru": "Отлично. У Вас также есть ручка?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ho una penna blu.",
+          "en": "Yes, I have a blue pen.",
+          "ru": "Да, у меня есть синяя ручка."
+        },
+        {
+          "speaker": "B",
+          "it": "Bene. Quanti anni ha?",
+          "en": "Good. How old are you?",
+          "ru": "Хорошо. Сколько Вам лет?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho ventidue anni.",
+          "en": "I'm twenty-two years old.",
+          "ru": "Мне двадцать два года."
+        },
+        {
+          "speaker": "B",
+          "it": "E di dov'è?",
+          "en": "And where are you from?",
+          "ru": "А откуда Вы?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono di Milano, ma abito a Roma.",
+          "en": "I'm from Milan, but I live in Rome.",
+          "ru": "Я из Милана, но живу в Риме."
+        },
+        {
+          "speaker": "B",
+          "it": "Capisco. L'aula è questa, numero dodici.",
+          "en": "I see. The classroom is this one, number twelve.",
+          "ru": "Понятно. Аудитория вот эта, номер двенадцать."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie. La lezione comincia alle nove?",
+          "en": "Thank you. Does the lesson start at nine?",
+          "ru": "Спасибо. Урок начинается в девять?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, comincia alle nove in punto.",
+          "en": "Yes, it starts at nine sharp.",
+          "ru": "Да, начинается ровно в девять."
+        },
+        {
+          "speaker": "A",
+          "it": "Va bene. Posso sedermi qui?",
+          "en": "Okay. May I sit here?",
+          "ru": "Хорошо. Можно мне сесть здесь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Certo, prego.",
+          "en": "Of course, please.",
+          "ru": "Конечно, пожалуйста."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie, professoressa.",
+          "en": "Thank you, professor.",
+          "ru": "Спасибо, профессор."
+        },
+        {
+          "speaker": "B",
+          "it": "Prego, Marco. Buona lezione.",
+          "en": "You're welcome, Marco. Have a good lesson.",
+          "ru": "Пожалуйста, Марко. Хорошего урока."
+        }
+      ]
     }
   ],
   "verb_tables": [

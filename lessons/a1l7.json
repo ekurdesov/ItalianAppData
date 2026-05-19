@@ -791,6 +791,340 @@
           "expected_it": "Il mio numero di cellulare è [numero]."
         }
       ]
+    },
+    {
+      "id": "D-A1L1-7-03",
+      "title": "Numero di telefono e compito",
+      "register": "informal",
+      "context": {
+        "en": "Two classmates exchange phone numbers and plan to share homework notes.",
+        "ru": "Два одноклассника обмениваются номерами телефонов и планируют поделиться конспектами."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, Paola. Hai un minuto?",
+          "en": "Hi, Paola. Do you have a minute?",
+          "ru": "Привет, Паола. У тебя есть минутка?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ciao, Giorgio. Sì, certo.",
+          "en": "Hi, Giorgio. Yes, of course.",
+          "ru": "Привет, Джорджо. Да, конечно."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo numero di telefono?",
+          "en": "What's your phone number?",
+          "ru": "Какой у тебя номер телефона?"
+        },
+        {
+          "speaker": "B",
+          "it": "Il mio numero è tre tre tre, uno due tre, quattro cinque sei.",
+          "en": "My number is three three three, one two three, four five six.",
+          "ru": "Мой номер — три три три, один два три, четыре пять шесть."
+        },
+        {
+          "speaker": "A",
+          "it": "Aspetta, ripeto: tre tre tre, uno due tre, quattro cinque sei?",
+          "en": "Wait, I'll repeat: three three three, one two three, four five six?",
+          "ru": "Подожди, повторю: три три три, один два три, четыре пять шесть?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, esatto. E il tuo numero?",
+          "en": "Yes, exactly. And your number?",
+          "ru": "Да, точно. А твой номер?"
+        },
+        {
+          "speaker": "A",
+          "it": "Zero tre due, cinque sei sette, otto nove uno.",
+          "en": "Zero three two, five six seven, eight nine one.",
+          "ru": "Ноль три два, пять шесть семь, восемь девять один."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Come si scrive il tuo cognome?",
+          "en": "Perfect. How do you spell your surname?",
+          "ru": "Отлично. Как пишется твоя фамилия?"
+        },
+        {
+          "speaker": "A",
+          "it": "Rossi: erre, o, esse, esse, i.",
+          "en": "Rossi: R, O, S, S, I.",
+          "ru": "Росси: эрре, о, эссе, эссе, и."
+        },
+        {
+          "speaker": "B",
+          "it": "Grazie. Io sono Bianchi: bi, i, a, enne, ci, acca, i.",
+          "en": "Thanks. I'm Bianchi: B, I, A, N, C, H, I.",
+          "ru": "Спасибо. Я Бьянки: би, и, а, энне, чи, акка, и."
+        },
+        {
+          "speaker": "A",
+          "it": "Ho capito. Quanti anni hai?",
+          "en": "Got it. How old are you?",
+          "ru": "Понял. Сколько тебе лет?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho ventiquattro anni. E tu?",
+          "en": "I'm twenty-four. And you?",
+          "ru": "Мне двадцать четыре. А тебе?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho ventotto anni.",
+          "en": "I'm twenty-eight.",
+          "ru": "Мне двадцать восемь."
+        },
+        {
+          "speaker": "B",
+          "it": "Hai gli appunti della lezione?",
+          "en": "Do you have the lesson notes?",
+          "ru": "У тебя есть конспекты урока?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ho gli appunti sul verbo avere.",
+          "en": "Yes, I have notes on the verb avere.",
+          "ru": "Да, у меня есть конспекты по глаголу avere."
+        },
+        {
+          "speaker": "B",
+          "it": "Puoi mandarmi una foto?",
+          "en": "Can you send me a photo?",
+          "ru": "Можешь прислать мне фото?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ti mando una foto stasera.",
+          "en": "Yes, I'll send you a photo tonight.",
+          "ru": "Да, пришлю тебе фото вечером."
+        },
+        {
+          "speaker": "B",
+          "it": "Grazie. Io ti mando il compito.",
+          "en": "Thanks. I'll send you the homework.",
+          "ru": "Спасибо. Я пришлю тебе домашнее задание."
+        },
+        {
+          "speaker": "A",
+          "it": "Ottimo. A che ora studi?",
+          "en": "Great. What time do you study?",
+          "ru": "Отлично. Во сколько ты учишься?"
+        },
+        {
+          "speaker": "B",
+          "it": "Studio alle sette.",
+          "en": "I study at seven.",
+          "ru": "Учусь в семь."
+        },
+        {
+          "speaker": "A",
+          "it": "Allora ti scrivo alle sette.",
+          "en": "Then I'll write to you at seven.",
+          "ru": "Тогда напишу тебе в семь."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene, a dopo.",
+          "en": "Okay, see you later.",
+          "ru": "Хорошо, до встречи."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L1-7-04",
+      "title": "In giro per Roma",
+      "register": "informal",
+      "context": {
+        "en": "Two visitors navigate Rome using places, phone numbers, and c'è/ci sono.",
+        "ru": "Двое гостей ориентируются в Риме, используя названия мест, номера телефонов и c'è/ci sono."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Siamo a Roma, ma non so dov'è il bar.",
+          "en": "We're in Rome, but I don't know where the bar is.",
+          "ru": "Мы в Риме, но я не знаю, где бар."
+        },
+        {
+          "speaker": "B",
+          "it": "C'è un bar vicino alla piazza.",
+          "en": "There's a bar near the square.",
+          "ru": "Рядом с площадью есть бар."
+        },
+        {
+          "speaker": "A",
+          "it": "Dov'è la piazza?",
+          "en": "Where's the square?",
+          "ru": "Где площадь?"
+        },
+        {
+          "speaker": "B",
+          "it": "È a destra, dopo la farmacia.",
+          "en": "It's to the right, past the pharmacy.",
+          "ru": "Направо, после аптеки."
+        },
+        {
+          "speaker": "A",
+          "it": "C'è anche una libreria?",
+          "en": "Is there also a bookshop?",
+          "ru": "Там ещё есть книжный магазин?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, c'è una libreria piccola.",
+          "en": "Yes, there's a small bookshop.",
+          "ru": "Да, есть маленький книжный."
+        },
+        {
+          "speaker": "A",
+          "it": "Ci sono molti negozi?",
+          "en": "Are there many shops?",
+          "ru": "Там много магазинов?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ci sono negozi, una banca e un cinema.",
+          "en": "Yes, there are shops, a bank, and a cinema.",
+          "ru": "Да, есть магазины, банк и кинотеатр."
+        },
+        {
+          "speaker": "A",
+          "it": "Andiamo prima in libreria?",
+          "en": "Shall we go to the bookshop first?",
+          "ru": "Пойдём сначала в книжный?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ma dopo prendiamo un caffè.",
+          "en": "Yes, but then let's get a coffee.",
+          "ru": "Да, но потом выпьем кофе."
+        },
+        {
+          "speaker": "A",
+          "it": "Va bene. Hai il telefono?",
+          "en": "Okay. Do you have your phone?",
+          "ru": "Хорошо. У тебя есть телефон?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ho il cellulare.",
+          "en": "Yes, I have my mobile.",
+          "ru": "Да, у меня есть мобильный."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo numero?",
+          "en": "What's your number?",
+          "ru": "Какой у тебя номер?"
+        },
+        {
+          "speaker": "B",
+          "it": "Tre quattro cinque, otto sette sei, due uno zero.",
+          "en": "Three four five, eight seven six, two one zero.",
+          "ru": "Три четыре пять, восемь семь шесть, два один ноль."
+        },
+        {
+          "speaker": "A",
+          "it": "Ripeto: tre quattro cinque, otto sette sei, due uno zero?",
+          "en": "I'll repeat: three four five, eight seven six, two one zero?",
+          "ru": "Повторю: три четыре пять, восемь семь шесть, два один ноль?"
+        },
+        {
+          "speaker": "B",
+          "it": "Esatto.",
+          "en": "Exactly.",
+          "ru": "Точно."
+        },
+        {
+          "speaker": "A",
+          "it": "Ti chiamo se ci perdiamo.",
+          "en": "I'll call you if we get lost.",
+          "ru": "Позвоню тебе, если потеряемся."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene. Hai il mio nome nel cellulare?",
+          "en": "Okay. Do you have my name in your phone?",
+          "ru": "Хорошо. У тебя моё имя в телефоне?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, sei \"Marco Roma\".",
+          "en": "Yes, you're \"Marco Roma\".",
+          "ru": "Да, ты записан как «Марко Рим»."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Ora andiamo verso la piazza.",
+          "en": "Perfect. Now let's head to the square.",
+          "ru": "Отлично. Теперь пойдём к площади."
+        },
+        {
+          "speaker": "A",
+          "it": "La piazza è lontana?",
+          "en": "Is the square far?",
+          "ru": "Площадь далеко?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, è vicina.",
+          "en": "No, it's close.",
+          "ru": "Нет, близко."
+        },
+        {
+          "speaker": "A",
+          "it": "Dopo il bar, dove andiamo?",
+          "en": "After the bar, where do we go?",
+          "ru": "После бара куда пойдём?"
+        },
+        {
+          "speaker": "B",
+          "it": "Andiamo al cinema o al museo.",
+          "en": "Let's go to the cinema or the museum.",
+          "ru": "Пойдём в кино или в музей."
+        },
+        {
+          "speaker": "A",
+          "it": "Preferisco il museo.",
+          "en": "I prefer the museum.",
+          "ru": "Я предпочитаю музей."
+        },
+        {
+          "speaker": "B",
+          "it": "Anch'io. Il museo è vicino al bar.",
+          "en": "Me too. The museum is near the bar.",
+          "ru": "Я тоже. Музей рядом с баром."
+        },
+        {
+          "speaker": "A",
+          "it": "Ottimo. Allora facciamo così.",
+          "en": "Great. Then let's do that.",
+          "ru": "Отлично. Тогда так и сделаем."
+        },
+        {
+          "speaker": "B",
+          "it": "Prima libreria, poi bar, poi museo.",
+          "en": "First bookshop, then bar, then museum.",
+          "ru": "Сначала книжный, потом бар, потом музей."
+        },
+        {
+          "speaker": "A",
+          "it": "Perfetto.",
+          "en": "Perfect.",
+          "ru": "Отлично."
+        },
+        {
+          "speaker": "B",
+          "it": "Andiamo!",
+          "en": "Let's go!",
+          "ru": "Пойдём!"
+        }
+      ]
     }
   ],
   "verb_tables": [

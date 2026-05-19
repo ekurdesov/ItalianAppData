@@ -405,7 +405,199 @@
       "ru": "Ответьте."
     }
   ],
-  "dialogues": [],
+  "dialogues": [
+    {
+      "id": "D-A1L3-9-01",
+      "title": "Ripasso prima dell'esame",
+      "register": "informal",
+      "context": {
+        "en": "Two students review greetings, personal information, descriptions, residence, and bar vocabulary before an exam.",
+        "ru": "Два студента повторяют приветствия, личную информацию, описания, место жительства и лексику бара перед экзаменом."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, sei pronto per l'esame?",
+          "en": "Hi, are you ready for the exam?",
+          "ru": "Привет, ты готов к экзамену?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, ho un po' paura.",
+          "en": "No, I'm a bit scared.",
+          "ru": "Нет, немного боюсь."
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io. Facciamo ripasso insieme?",
+          "en": "Me too. Shall we review together?",
+          "ru": "Я тоже. Повторим вместе?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, volentieri.",
+          "en": "Yes, gladly.",
+          "ru": "Да, с удовольствием."
+        },
+        {
+          "speaker": "A",
+          "it": "Prima domanda: come ti chiami?",
+          "en": "First question: what's your name?",
+          "ru": "Первый вопрос: как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Davide. E tu?",
+          "en": "My name is Davide. And you?",
+          "ru": "Меня зовут Давиде. А тебя?"
+        },
+        {
+          "speaker": "A",
+          "it": "Mi chiamo Elena.",
+          "en": "My name is Elena.",
+          "ru": "Меня зовут Елена."
+        },
+        {
+          "speaker": "B",
+          "it": "Di dove sei?",
+          "en": "Where are you from?",
+          "ru": "Откуда ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono italiana, di Firenze. E tu?",
+          "en": "I'm Italian, from Florence. And you?",
+          "ru": "Я итальянка, из Флоренции. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono argentino, di Buenos Aires.",
+          "en": "I'm Argentinian, from Buenos Aires.",
+          "ru": "Я аргентинец, из Буэнос-Айреса."
+        },
+        {
+          "speaker": "A",
+          "it": "Quanti anni hai?",
+          "en": "How old are you?",
+          "ru": "Сколько тебе лет?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho ventisei anni. E tu?",
+          "en": "I'm twenty-six. And you?",
+          "ru": "Мне двадцать шесть. А тебе?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho ventiquattro anni.",
+          "en": "I'm twenty-four.",
+          "ru": "Мне двадцать четыре."
+        },
+        {
+          "speaker": "B",
+          "it": "Dove abiti?",
+          "en": "Where do you live?",
+          "ru": "Где ты живёшь?"
+        },
+        {
+          "speaker": "A",
+          "it": "Abito a Roma, in via Garibaldi.",
+          "en": "I live in Rome, on Via Garibaldi.",
+          "ru": "Живу в Риме, на улице Гарибальди."
+        },
+        {
+          "speaker": "B",
+          "it": "Io abito vicino all'università.",
+          "en": "I live near the university.",
+          "ru": "Я живу рядом с университетом."
+        },
+        {
+          "speaker": "A",
+          "it": "Com'è il tuo compagno di casa?",
+          "en": "What's your housemate like?",
+          "ru": "Какой у тебя сосед по квартире?"
+        },
+        {
+          "speaker": "B",
+          "it": "È alto, simpatico e parla inglese.",
+          "en": "He's tall, nice, and speaks English.",
+          "ru": "Он высокий, приятный и говорит по-английски."
+        },
+        {
+          "speaker": "A",
+          "it": "Ha gli occhiali?",
+          "en": "Does he wear glasses?",
+          "ru": "Он носит очки?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ha gli occhiali e i capelli scuri.",
+          "en": "Yes, he wears glasses and has dark hair.",
+          "ru": "Да, носит очки и у него тёмные волосы."
+        },
+        {
+          "speaker": "A",
+          "it": "Bene. Ora facciamo i verbi.",
+          "en": "Good. Now let's do the verbs.",
+          "ru": "Хорошо. Теперь давай глаголы."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene. Io vado, tu vai, lui va.",
+          "en": "Okay. I go, you go, he goes.",
+          "ru": "Хорошо. Io vado, tu vai, lui va."
+        },
+        {
+          "speaker": "A",
+          "it": "Noi andiamo, voi andate, loro vanno.",
+          "en": "We go, you all go, they go.",
+          "ru": "Noi andiamo, voi andate, loro vanno."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. E prendere?",
+          "en": "Perfect. And prendere?",
+          "ru": "Отлично. А prendere?"
+        },
+        {
+          "speaker": "A",
+          "it": "Io prendo, tu prendi, lui prende.",
+          "en": "I take, you take, he takes.",
+          "ru": "Io prendo, tu prendi, lui prende."
+        },
+        {
+          "speaker": "B",
+          "it": "Dopo l'esame che cosa prendi al bar?",
+          "en": "After the exam, what will you have at the bar?",
+          "ru": "После экзамена что возьмёшь в баре?"
+        },
+        {
+          "speaker": "A",
+          "it": "Prendo un cappuccino e una brioche.",
+          "en": "I'll have a cappuccino and a brioche.",
+          "ru": "Возьму капучино и бриошь."
+        },
+        {
+          "speaker": "B",
+          "it": "Io prendo un caffè e un cornetto.",
+          "en": "I'll have a coffee and a croissant.",
+          "ru": "Я возьму кофе и круассан."
+        },
+        {
+          "speaker": "A",
+          "it": "Se passiamo l'esame, offro io.",
+          "en": "If we pass the exam, it's my treat.",
+          "ru": "Если сдадим экзамен, угощаю я."
+        },
+        {
+          "speaker": "B",
+          "it": "D'accordo, allora dobbiamo passarlo!",
+          "en": "Deal, then we have to pass it!",
+          "ru": "Договорились, тогда мы должны его сдать!"
+        }
+      ]
+    }
+  ],
   "verb_tables": [
     {
       "infinitive": "essere",

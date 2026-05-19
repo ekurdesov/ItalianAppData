@@ -511,6 +511,197 @@
           "expected_it": "Dopo cena faccio …"
         }
       ]
+    },
+    {
+      "id": "D-A1L4-1-02",
+      "title": "Al bar",
+      "register": "informal",
+      "context": {
+        "en": "Two friends go to a bar, order drinks and snacks, and discuss preferences.",
+        "ru": "Двое друзей идут в бар, заказывают напитки и перекусы и обсуждают предпочтения."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, dove vai dopo la lezione?",
+          "en": "Hi, where are you going after the lesson?",
+          "ru": "Привет, куда ты идёшь после урока?"
+        },
+        {
+          "speaker": "B",
+          "it": "Vado al bar. E tu?",
+          "en": "I'm going to the bar. And you?",
+          "ru": "Иду в бар. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io vado al bar.",
+          "en": "I'm going to the bar too.",
+          "ru": "Я тоже иду в бар."
+        },
+        {
+          "speaker": "B",
+          "it": "Perché vai al bar?",
+          "en": "Why are you going to the bar?",
+          "ru": "Почему ты идёшь в бар?"
+        },
+        {
+          "speaker": "A",
+          "it": "Perché ho sonno e voglio un caffè.",
+          "en": "Because I'm sleepy and I want a coffee.",
+          "ru": "Потому что хочу спать и хочу кофе."
+        },
+        {
+          "speaker": "B",
+          "it": "Io ho fame e voglio un tramezzino.",
+          "en": "I'm hungry and I want a sandwich.",
+          "ru": "Я голодный и хочу бутерброд."
+        },
+        {
+          "speaker": "A",
+          "it": "Che cosa prendi di solito?",
+          "en": "What do you usually get?",
+          "ru": "Что ты обычно берёшь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Prendo un cappuccino e una brioche.",
+          "en": "I get a cappuccino and a brioche.",
+          "ru": "Беру капучино и бриошь."
+        },
+        {
+          "speaker": "A",
+          "it": "Io prendo un caffè macchiato.",
+          "en": "I get a macchiato.",
+          "ru": "Я беру маккиато."
+        },
+        {
+          "speaker": "B",
+          "it": "Vuoi anche acqua?",
+          "en": "Do you also want water?",
+          "ru": "Хочешь ещё воду?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, acqua naturale.",
+          "en": "Yes, still water.",
+          "ru": "Да, негазированную."
+        },
+        {
+          "speaker": "B",
+          "it": "Io preferisco acqua frizzante.",
+          "en": "I prefer sparkling water.",
+          "ru": "Я предпочитаю газированную."
+        },
+        {
+          "speaker": "A",
+          "it": "Preferisci la brioche alla marmellata o al cioccolato?",
+          "en": "Do you prefer the brioche with jam or chocolate?",
+          "ru": "Ты предпочитаешь бриошь с джемом или с шоколадом?"
+        },
+        {
+          "speaker": "B",
+          "it": "Al cioccolato. Tu?",
+          "en": "With chocolate. You?",
+          "ru": "С шоколадом. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Io preferisco il cornetto semplice.",
+          "en": "I prefer a plain croissant.",
+          "ru": "Я предпочитаю простой круассан."
+        },
+        {
+          "speaker": "B",
+          "it": "Possiamo ordinare adesso?",
+          "en": "Can we order now?",
+          "ru": "Можем заказать сейчас?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì. Scusi!",
+          "en": "Yes. Excuse me!",
+          "ru": "Да. Извините!"
+        },
+        {
+          "speaker": "B",
+          "it": "Vuoi pagare insieme o separati?",
+          "en": "Do you want to pay together or separately?",
+          "ru": "Хочешь платить вместе или раздельно?"
+        },
+        {
+          "speaker": "A",
+          "it": "Oggi offro io.",
+          "en": "Today it's my treat.",
+          "ru": "Сегодня угощаю я."
+        },
+        {
+          "speaker": "B",
+          "it": "Davvero? Grazie.",
+          "en": "Really? Thanks.",
+          "ru": "Правда? Спасибо."
+        },
+        {
+          "speaker": "A",
+          "it": "Prego. La prossima volta offri tu.",
+          "en": "You're welcome. Next time it's your treat.",
+          "ru": "Пожалуйста. В следующий раз угощаешь ты."
+        },
+        {
+          "speaker": "B",
+          "it": "D'accordo.",
+          "en": "Agreed.",
+          "ru": "Договорились."
+        },
+        {
+          "speaker": "A",
+          "it": "Dopo il caffè facciamo i compiti?",
+          "en": "After the coffee shall we do homework?",
+          "ru": "После кофе сделаем домашнее задание?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ho il libro nello zaino.",
+          "en": "Yes, I have the book in my backpack.",
+          "ru": "Да, у меня учебник в рюкзаке."
+        },
+        {
+          "speaker": "A",
+          "it": "Io ho il quaderno.",
+          "en": "I have the notebook.",
+          "ru": "У меня тетрадь."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Studiamo i verbi?",
+          "en": "Perfect. Shall we study the verbs?",
+          "ru": "Отлично. Будем учить глаголы?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, andare, fare, bere e prendere.",
+          "en": "Yes, andare, fare, bere, and prendere.",
+          "ru": "Да, andare, fare, bere и prendere."
+        },
+        {
+          "speaker": "B",
+          "it": "Bene. Io prendo il cappuccino e tu cominci.",
+          "en": "Good. I'll get the cappuccino and you start.",
+          "ru": "Хорошо. Я возьму капучино, а ты начинай."
+        },
+        {
+          "speaker": "A",
+          "it": "Va bene.",
+          "en": "Okay.",
+          "ru": "Хорошо."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora, \"io vado, tu vai...\"",
+          "en": "So, \"io vado, tu vai...\"",
+          "ru": "Итак, «io vado, tu vai...»"
+        }
+      ]
     }
   ],
   "verb_tables": [

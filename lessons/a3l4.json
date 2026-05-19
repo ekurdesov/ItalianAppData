@@ -522,6 +522,161 @@
           "expected_it": "Parlo un po' lo/la ..."
         }
       ]
+    },
+    {
+      "id": "D-A1L3-4-02",
+      "title": "Che lingue parli?",
+      "register": "informal",
+      "context": {
+        "en": "Two classmates compare languages and ask for explanations about grammar.",
+        "ru": "Два одноклассника сравнивают языки и просят объяснить грамматику."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, Marta. Che lingue parli?",
+          "en": "Hi, Marta. What languages do you speak?",
+          "ru": "Привет, Марта. На каких языках ты говоришь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Parlo italiano, inglese e un po' francese.",
+          "en": "I speak Italian, English, and a little French.",
+          "ru": "Говорю по-итальянски, по-английски и немного по-французски."
+        },
+        {
+          "speaker": "A",
+          "it": "Io parlo russo, inglese e studio italiano.",
+          "en": "I speak Russian, English, and I'm studying Italian.",
+          "ru": "Я говорю по-русски, по-английски и учу итальянский."
+        },
+        {
+          "speaker": "B",
+          "it": "Il russo è difficile?",
+          "en": "Is Russian difficult?",
+          "ru": "Русский сложный?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, un po'. L'italiano è difficile per te?",
+          "en": "Yes, a little. Is Italian difficult for you?",
+          "ru": "Да, немного. Итальянский для тебя сложный?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, soprattutto gli articoli.",
+          "en": "Yes, especially the articles.",
+          "ru": "Да, особенно артикли."
+        },
+        {
+          "speaker": "A",
+          "it": "Sono d'accordo. Anche per me sono difficili.",
+          "en": "I agree. They're difficult for me too.",
+          "ru": "Согласен. Для меня тоже сложные."
+        },
+        {
+          "speaker": "B",
+          "it": "Perché studi italiano?",
+          "en": "Why are you studying Italian?",
+          "ru": "Почему ты учишь итальянский?"
+        },
+        {
+          "speaker": "A",
+          "it": "Perché amo l'Italia.",
+          "en": "Because I love Italy.",
+          "ru": "Потому что люблю Италию."
+        },
+        {
+          "speaker": "B",
+          "it": "Io studio italiano per viaggiare.",
+          "en": "I'm studying Italian to travel.",
+          "ru": "Я учу итальянский, чтобы путешествовать."
+        },
+        {
+          "speaker": "A",
+          "it": "Non capisco una cosa.",
+          "en": "I don't understand something.",
+          "ru": "Я не понимаю одну вещь."
+        },
+        {
+          "speaker": "B",
+          "it": "Dimmi.",
+          "en": "Tell me.",
+          "ru": "Скажи."
+        },
+        {
+          "speaker": "A",
+          "it": "Quando uso \"un\" e quando uso \"una\"?",
+          "en": "When do I use \"un\" and when do I use \"una\"?",
+          "ru": "Когда использовать «un», а когда «una»?"
+        },
+        {
+          "speaker": "B",
+          "it": "Dipende dal genere della parola.",
+          "en": "It depends on the gender of the word.",
+          "ru": "Зависит от рода слова."
+        },
+        {
+          "speaker": "A",
+          "it": "Ah, quindi \"un libro\" ma \"una penna\"?",
+          "en": "Ah, so \"un libro\" but \"una penna\"?",
+          "ru": "А, значит «un libro», но «una penna»?"
+        },
+        {
+          "speaker": "B",
+          "it": "Esatto.",
+          "en": "Exactly.",
+          "ru": "Точно."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie, adesso capisco.",
+          "en": "Thanks, now I understand.",
+          "ru": "Спасибо, теперь понимаю."
+        },
+        {
+          "speaker": "B",
+          "it": "Tu puoi aiutarmi con la pronuncia?",
+          "en": "Can you help me with pronunciation?",
+          "ru": "Ты можешь помочь мне с произношением?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, certo.",
+          "en": "Yes, of course.",
+          "ru": "Да, конечно."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora facciamo pratica insieme.",
+          "en": "Then let's practice together.",
+          "ru": "Тогда давай практиковаться вместе."
+        },
+        {
+          "speaker": "A",
+          "it": "Io leggo una frase e tu ascolti.",
+          "en": "I'll read a sentence and you listen.",
+          "ru": "Я читаю предложение, а ты слушаешь."
+        },
+        {
+          "speaker": "B",
+          "it": "Poi io leggo e tu correggi.",
+          "en": "Then I'll read and you correct.",
+          "ru": "Потом я читаю, а ты исправляешь."
+        },
+        {
+          "speaker": "A",
+          "it": "Perfetto.",
+          "en": "Perfect.",
+          "ru": "Отлично."
+        },
+        {
+          "speaker": "B",
+          "it": "Cominciamo adesso?",
+          "en": "Shall we start now?",
+          "ru": "Начнём сейчас?"
+        }
+      ]
     }
   ],
   "verb_tables": [

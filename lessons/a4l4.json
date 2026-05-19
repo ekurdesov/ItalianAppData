@@ -785,6 +785,149 @@
           "expected_it": "Vorrei pagare subito."
         }
       ]
+    },
+    {
+      "id": "D-A1L4-4-03",
+      "title": "Offro io",
+      "register": "informal",
+      "context": {
+        "en": "Two friends politely argue about who pays at the bar.",
+        "ru": "Двое друзей вежливо спорят, кто платит в баре."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Per me un caffè e una brioche.",
+          "en": "For me a coffee and a brioche.",
+          "ru": "Мне кофе и бриошь."
+        },
+        {
+          "speaker": "B",
+          "it": "Io prendo un tè e un cornetto.",
+          "en": "I'll have a tea and a croissant.",
+          "ru": "Я возьму чай и круассан."
+        },
+        {
+          "speaker": "A",
+          "it": "Vuoi anche acqua?",
+          "en": "Do you also want water?",
+          "ru": "Хочешь ещё воду?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, grazie. Acqua naturale.",
+          "en": "Yes, thanks. Still water.",
+          "ru": "Да, спасибо. Негазированную."
+        },
+        {
+          "speaker": "A",
+          "it": "Bene. Pago io.",
+          "en": "Good. I'll pay.",
+          "ru": "Хорошо. Я плачу."
+        },
+        {
+          "speaker": "B",
+          "it": "No, no, pago io.",
+          "en": "No, no, I'll pay.",
+          "ru": "Нет, нет, я плачу."
+        },
+        {
+          "speaker": "A",
+          "it": "Dai, oggi offro io.",
+          "en": "Come on, today it's my treat.",
+          "ru": "Давай, сегодня угощаю я."
+        },
+        {
+          "speaker": "B",
+          "it": "Sei sicuro?",
+          "en": "Are you sure?",
+          "ru": "Ты уверен?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, certo.",
+          "en": "Yes, of course.",
+          "ru": "Да, конечно."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora grazie.",
+          "en": "Then thanks.",
+          "ru": "Тогда спасибо."
+        },
+        {
+          "speaker": "A",
+          "it": "Prego. La prossima volta offri tu.",
+          "en": "You're welcome. Next time it's your treat.",
+          "ru": "Пожалуйста. В следующий раз угощаешь ты."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene, la prossima volta offro io.",
+          "en": "Okay, next time it's my treat.",
+          "ru": "Хорошо, в следующий раз угощаю я."
+        },
+        {
+          "speaker": "A",
+          "it": "Dopo il bar torni a casa?",
+          "en": "After the bar are you going home?",
+          "ru": "После бара ты идёшь домой?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, vado in biblioteca.",
+          "en": "No, I'm going to the library.",
+          "ru": "Нет, иду в библиотеку."
+        },
+        {
+          "speaker": "A",
+          "it": "Perché?",
+          "en": "Why?",
+          "ru": "Почему?"
+        },
+        {
+          "speaker": "B",
+          "it": "Perché devo studiare italiano.",
+          "en": "Because I have to study Italian.",
+          "ru": "Потому что мне нужно учить итальянский."
+        },
+        {
+          "speaker": "A",
+          "it": "Posso venire con te?",
+          "en": "Can I come with you?",
+          "ru": "Можно мне пойти с тобой?"
+        },
+        {
+          "speaker": "B",
+          "it": "Certo, studiamo insieme.",
+          "en": "Sure, let's study together.",
+          "ru": "Конечно, будем учиться вместе."
+        },
+        {
+          "speaker": "A",
+          "it": "Perfetto. Hai il libro?",
+          "en": "Perfect. Do you have the book?",
+          "ru": "Отлично. У тебя есть учебник?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ho il libro e gli appunti.",
+          "en": "Yes, I have the book and the notes.",
+          "ru": "Да, у меня есть учебник и конспекты."
+        },
+        {
+          "speaker": "A",
+          "it": "Bene, allora finiamo il caffè.",
+          "en": "Good, then let's finish the coffee.",
+          "ru": "Хорошо, тогда допьём кофе."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, poi andiamo.",
+          "en": "Yes, then let's go.",
+          "ru": "Да, потом пойдём."
+        }
+      ]
     }
   ],
   "verb_tables": [

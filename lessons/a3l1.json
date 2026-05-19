@@ -667,6 +667,376 @@
           "expected_it": "Abito a [città], in [regione], in [Paese]."
         }
       ]
+    },
+    {
+      "id": "D-A1L3-1-03",
+      "title": "Dove abiti?",
+      "register": "informal",
+      "context": {
+        "en": "Two neighbors meet and exchange address, floor, and personal details.",
+        "ru": "Два соседа знакомятся и обмениваются адресами, этажами и личными данными."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, sei nuovo nel palazzo?",
+          "en": "Hi, are you new in the building?",
+          "ru": "Привет, ты новенький в доме?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, mi chiamo Matteo.",
+          "en": "Yes, my name is Matteo.",
+          "ru": "Да, меня зовут Маттео."
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere, Matteo. Io sono Chiara.",
+          "en": "Nice to meet you, Matteo. I'm Chiara.",
+          "ru": "Приятно познакомиться, Маттео. Я Кьяра."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere, Chiara. Tu abiti qui?",
+          "en": "Nice to meet you, Chiara. Do you live here?",
+          "ru": "Приятно, Кьяра. Ты здесь живёшь?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, abito al terzo piano.",
+          "en": "Yes, I live on the third floor.",
+          "ru": "Да, живу на третьем этаже."
+        },
+        {
+          "speaker": "B",
+          "it": "Io abito al secondo piano.",
+          "en": "I live on the second floor.",
+          "ru": "Я живу на втором этаже."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo interno?",
+          "en": "What's your apartment number?",
+          "ru": "Какой у тебя номер квартиры?"
+        },
+        {
+          "speaker": "B",
+          "it": "Interno quattro. E il tuo?",
+          "en": "Apartment four. And yours?",
+          "ru": "Квартира четыре. А твой?"
+        },
+        {
+          "speaker": "A",
+          "it": "Interno sette.",
+          "en": "Apartment seven.",
+          "ru": "Квартира семь."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora siamo vicini di casa.",
+          "en": "Then we're neighbors.",
+          "ru": "Тогда мы соседи."
+        },
+        {
+          "speaker": "A",
+          "it": "Sì. Qual è il tuo indirizzo completo?",
+          "en": "Yes. What's your full address?",
+          "ru": "Да. Какой у тебя полный адрес?"
+        },
+        {
+          "speaker": "B",
+          "it": "Via Garibaldi, numero quindici.",
+          "en": "Via Garibaldi, number fifteen.",
+          "ru": "Улица Гарибальди, номер пятнадцать."
+        },
+        {
+          "speaker": "A",
+          "it": "Anche il mio. Da quanto tempo abiti qui?",
+          "en": "Mine too. How long have you lived here?",
+          "ru": "У меня тоже. Как давно ты здесь живёшь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Da una settimana.",
+          "en": "For a week.",
+          "ru": "Неделю."
+        },
+        {
+          "speaker": "A",
+          "it": "Ti piace il quartiere?",
+          "en": "Do you like the neighborhood?",
+          "ru": "Тебе нравится район?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, mi piace molto.",
+          "en": "Yes, I like it a lot.",
+          "ru": "Да, мне очень нравится."
+        },
+        {
+          "speaker": "A",
+          "it": "Qui vicino c'è un bar buono.",
+          "en": "There's a good bar nearby.",
+          "ru": "Рядом есть хороший бар."
+        },
+        {
+          "speaker": "B",
+          "it": "Davvero? Dov'è?",
+          "en": "Really? Where is it?",
+          "ru": "Правда? Где он?"
+        },
+        {
+          "speaker": "A",
+          "it": "È in piazza, vicino alla farmacia.",
+          "en": "It's in the square, near the pharmacy.",
+          "ru": "На площади, рядом с аптекой."
+        },
+        {
+          "speaker": "B",
+          "it": "C'è anche una libreria?",
+          "en": "Is there also a bookshop?",
+          "ru": "Там ещё есть книжный?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, c'è una libreria piccola.",
+          "en": "Yes, there's a small bookshop.",
+          "ru": "Да, есть маленький книжный."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Io studio italiano.",
+          "en": "Perfect. I'm studying Italian.",
+          "ru": "Отлично. Я учу итальянский."
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io studio italiano.",
+          "en": "I'm studying Italian too.",
+          "ru": "Я тоже учу итальянский."
+        },
+        {
+          "speaker": "B",
+          "it": "Sei sposata?",
+          "en": "Are you married?",
+          "ru": "Ты замужем?"
+        },
+        {
+          "speaker": "A",
+          "it": "No, sono single. E tu?",
+          "en": "No, I'm single. And you?",
+          "ru": "Нет, я не замужем. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Anch'io sono single.",
+          "en": "I'm single too.",
+          "ru": "Я тоже не женат."
+        },
+        {
+          "speaker": "A",
+          "it": "Vuoi prendere un caffè domani?",
+          "en": "Do you want to get a coffee tomorrow?",
+          "ru": "Хочешь выпить кофе завтра?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, volentieri.",
+          "en": "Yes, gladly.",
+          "ru": "Да, с удовольствием."
+        },
+        {
+          "speaker": "A",
+          "it": "Allora ci vediamo alle dieci.",
+          "en": "Then see you at ten.",
+          "ru": "Тогда увидимся в десять."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto, a domani.",
+          "en": "Perfect, see you tomorrow.",
+          "ru": "Отлично, до завтра."
+        }
+      ]
+    },
+    {
+      "id": "D-A1L3-1-04",
+      "title": "Alla festa di Chiara",
+      "register": "informal",
+      "context": {
+        "en": "Two guests meet at a party, identify people, and decide whom to greet.",
+        "ru": "Двое гостей знакомятся на вечеринке, определяют людей и решают, к кому подойти."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, sei alla festa di Chiara?",
+          "en": "Hi, are you at Chiara's party?",
+          "ru": "Привет, ты на вечеринке Кьяры?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, sono un amico di Chiara.",
+          "en": "Yes, I'm a friend of Chiara's.",
+          "ru": "Да, я друг Кьяры."
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere, io sono Laura.",
+          "en": "Nice to meet you, I'm Laura.",
+          "ru": "Приятно познакомиться, я Лаура."
+        },
+        {
+          "speaker": "B",
+          "it": "Piacere, Laura. Io sono Paolo.",
+          "en": "Nice to meet you, Laura. I'm Paolo.",
+          "ru": "Приятно, Лаура. Я Паоло."
+        },
+        {
+          "speaker": "A",
+          "it": "C'è molta gente qui.",
+          "en": "There are a lot of people here.",
+          "ru": "Здесь много людей."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ci sono molti studenti.",
+          "en": "Yes, there are many students.",
+          "ru": "Да, много студентов."
+        },
+        {
+          "speaker": "A",
+          "it": "Conosci Chiara?",
+          "en": "Do you know Chiara?",
+          "ru": "Ты знаешь Кьяру?"
+        },
+        {
+          "speaker": "B",
+          "it": "Non ancora. Com'è?",
+          "en": "Not yet. What does she look like?",
+          "ru": "Ещё нет. Как она выглядит?"
+        },
+        {
+          "speaker": "A",
+          "it": "È alta, mora e molto simpatica.",
+          "en": "She's tall, dark-haired, and very nice.",
+          "ru": "Она высокая, тёмноволосая и очень приятная."
+        },
+        {
+          "speaker": "B",
+          "it": "Ha un vestito blu?",
+          "en": "Is she wearing a blue dress?",
+          "ru": "На ней синее платье?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ha un vestito blu.",
+          "en": "Yes, she's wearing a blue dress.",
+          "ru": "Да, на ней синее платье."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora è la ragazza vicino alla finestra?",
+          "en": "Then is she the girl near the window?",
+          "ru": "Тогда это девушка у окна?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, è lei.",
+          "en": "Yes, that's her.",
+          "ru": "Да, это она."
+        },
+        {
+          "speaker": "B",
+          "it": "Andiamo a salutarla?",
+          "en": "Shall we go say hi to her?",
+          "ru": "Пойдём поздороваемся?"
+        },
+        {
+          "speaker": "A",
+          "it": "Certo, ma prima vuoi qualcosa da bere?",
+          "en": "Sure, but first do you want something to drink?",
+          "ru": "Конечно, но сначала хочешь что-нибудь выпить?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, grazie. C'è acqua?",
+          "en": "Yes, thanks. Is there water?",
+          "ru": "Да, спасибо. Есть вода?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, c'è acqua in cucina.",
+          "en": "Yes, there's water in the kitchen.",
+          "ru": "Да, вода на кухне."
+        },
+        {
+          "speaker": "B",
+          "it": "Ci sono anche succhi?",
+          "en": "Are there juices too?",
+          "ru": "Соки тоже есть?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ci sono succo d'arancia e succo di mela.",
+          "en": "Yes, there's orange juice and apple juice.",
+          "ru": "Да, есть апельсиновый и яблочный сок."
+        },
+        {
+          "speaker": "B",
+          "it": "Prendo un succo d'arancia.",
+          "en": "I'll have an orange juice.",
+          "ru": "Возьму апельсиновый сок."
+        },
+        {
+          "speaker": "A",
+          "it": "Io prendo acqua.",
+          "en": "I'll have water.",
+          "ru": "Я возьму воду."
+        },
+        {
+          "speaker": "B",
+          "it": "Dopo parliamo con Chiara?",
+          "en": "Then shall we talk to Chiara?",
+          "ru": "Потом поговорим с Кьярой?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì. Lei studia italiano con noi.",
+          "en": "Yes. She studies Italian with us.",
+          "ru": "Да. Она учит итальянский с нами."
+        },
+        {
+          "speaker": "B",
+          "it": "Perfetto. Voglio presentarmi.",
+          "en": "Perfect. I want to introduce myself.",
+          "ru": "Отлично. Хочу представиться."
+        },
+        {
+          "speaker": "A",
+          "it": "Ti presento io.",
+          "en": "I'll introduce you.",
+          "ru": "Я тебя представлю."
+        },
+        {
+          "speaker": "B",
+          "it": "Grazie, sei gentile.",
+          "en": "Thanks, you're kind.",
+          "ru": "Спасибо, ты добрая."
+        },
+        {
+          "speaker": "A",
+          "it": "Andiamo in cucina?",
+          "en": "Shall we go to the kitchen?",
+          "ru": "Пойдём на кухню?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, andiamo.",
+          "en": "Yes, let's go.",
+          "ru": "Да, пойдём."
+        }
+      ]
     }
   ],
   "verb_tables": [

@@ -667,6 +667,161 @@
           "expected_it": "Il mio indirizzo è [via/piazza/corso], [numero]."
         }
       ]
+    },
+    {
+      "id": "D-A1L3-2-03",
+      "title": "Una strana coppia di vicini",
+      "register": "informal",
+      "context": {
+        "en": "Two neighbors discuss people in the building and ask for clarification.",
+        "ru": "Два соседа обсуждают людей в доме и уточняют информацию."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Hai visto il nuovo vicino?",
+          "en": "Have you seen the new neighbor?",
+          "ru": "Ты видел нового соседа?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ma non so come si chiama.",
+          "en": "Yes, but I don't know his name.",
+          "ru": "Да, но не знаю, как его зовут."
+        },
+        {
+          "speaker": "A",
+          "it": "Credo che si chiami Davide.",
+          "en": "I think his name is Davide.",
+          "ru": "Думаю, его зовут Давиде."
+        },
+        {
+          "speaker": "B",
+          "it": "Davide? Il ragazzo alto?",
+          "en": "Davide? The tall guy?",
+          "ru": "Давиде? Высокий парень?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, alto, moro e con gli occhiali.",
+          "en": "Yes, tall, dark-haired, and with glasses.",
+          "ru": "Да, высокий, тёмноволосый и в очках."
+        },
+        {
+          "speaker": "B",
+          "it": "Non sono d'accordo. Il ragazzo con gli occhiali si chiama Marco.",
+          "en": "I disagree. The guy with glasses is called Marco.",
+          "ru": "Не согласен. Парня в очках зовут Марко."
+        },
+        {
+          "speaker": "A",
+          "it": "Davvero? Allora chi è Davide?",
+          "en": "Really? Then who is Davide?",
+          "ru": "Правда? Тогда кто такой Давиде?"
+        },
+        {
+          "speaker": "B",
+          "it": "Davide è basso e biondo.",
+          "en": "Davide is short and blond.",
+          "ru": "Давиде невысокий и блондин."
+        },
+        {
+          "speaker": "A",
+          "it": "Ah, adesso capisco.",
+          "en": "Ah, now I understand.",
+          "ru": "А, теперь понимаю."
+        },
+        {
+          "speaker": "B",
+          "it": "Perché chiedi?",
+          "en": "Why do you ask?",
+          "ru": "Почему спрашиваешь?"
+        },
+        {
+          "speaker": "A",
+          "it": "Perché abita accanto a me.",
+          "en": "Because he lives next to me.",
+          "ru": "Потому что он живёт рядом со мной."
+        },
+        {
+          "speaker": "B",
+          "it": "In che interno?",
+          "en": "In which apartment?",
+          "ru": "В какой квартире?"
+        },
+        {
+          "speaker": "A",
+          "it": "Interno cinque.",
+          "en": "Apartment five.",
+          "ru": "Квартира пять."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora sì, è Davide.",
+          "en": "Then yes, it's Davide.",
+          "ru": "Тогда да, это Давиде."
+        },
+        {
+          "speaker": "A",
+          "it": "Parla italiano?",
+          "en": "Does he speak Italian?",
+          "ru": "Он говорит по-итальянски?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, parla italiano e inglese.",
+          "en": "Yes, he speaks Italian and English.",
+          "ru": "Да, говорит по-итальянски и по-английски."
+        },
+        {
+          "speaker": "A",
+          "it": "Studia con noi?",
+          "en": "Does he study with us?",
+          "ru": "Он учится с нами?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, lavora in centro.",
+          "en": "No, he works downtown.",
+          "ru": "Нет, он работает в центре."
+        },
+        {
+          "speaker": "A",
+          "it": "Interessante. È simpatico?",
+          "en": "Interesting. Is he nice?",
+          "ru": "Интересно. Он приятный?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, molto simpatico.",
+          "en": "Yes, very nice.",
+          "ru": "Да, очень приятный."
+        },
+        {
+          "speaker": "A",
+          "it": "Voglio presentarmi.",
+          "en": "I want to introduce myself.",
+          "ru": "Хочу представиться."
+        },
+        {
+          "speaker": "B",
+          "it": "Possiamo salutarlo domani.",
+          "en": "We can say hi to him tomorrow.",
+          "ru": "Можем поздороваться с ним завтра."
+        },
+        {
+          "speaker": "A",
+          "it": "Buona idea.",
+          "en": "Good idea.",
+          "ru": "Хорошая идея."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, così conosci il tuo vicino.",
+          "en": "Yes, that way you'll know your neighbor.",
+          "ru": "Да, так ты познакомишься с соседом."
+        }
+      ]
     }
   ],
   "verb_tables": [

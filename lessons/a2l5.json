@@ -951,6 +951,197 @@
           "expected_it": "Vorrei andare a letto."
         }
       ]
+    },
+    {
+      "id": "D-A1L2-5-05",
+      "title": "Intervista doppia",
+      "register": "informal",
+      "context": {
+        "en": "Two classmates interview each other using names, age, phone, address, and feelings.",
+        "ru": "Два одноклассника берут друг у друга интервью: имя, возраст, телефон, адрес и самочувствие."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Facciamo l'intervista doppia?",
+          "en": "Shall we do the double interview?",
+          "ru": "Сделаем двойное интервью?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, cominciamo.",
+          "en": "Yes, let's start.",
+          "ru": "Да, начнём."
+        },
+        {
+          "speaker": "A",
+          "it": "Come ti chiami?",
+          "en": "What's your name?",
+          "ru": "Как тебя зовут?"
+        },
+        {
+          "speaker": "B",
+          "it": "Mi chiamo Francesca. E tu?",
+          "en": "My name is Francesca. And you?",
+          "ru": "Меня зовут Франческа. А тебя?"
+        },
+        {
+          "speaker": "A",
+          "it": "Mi chiamo Roberto.",
+          "en": "My name is Roberto.",
+          "ru": "Меня зовут Роберто."
+        },
+        {
+          "speaker": "B",
+          "it": "Quanti anni hai?",
+          "en": "How old are you?",
+          "ru": "Сколько тебе лет?"
+        },
+        {
+          "speaker": "A",
+          "it": "Ho venticinque anni. E tu?",
+          "en": "I'm twenty-five. And you?",
+          "ru": "Мне двадцать пять. А тебе?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ho ventitré anni.",
+          "en": "I'm twenty-three.",
+          "ru": "Мне двадцать три."
+        },
+        {
+          "speaker": "A",
+          "it": "Di dove sei?",
+          "en": "Where are you from?",
+          "ru": "Откуда ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono di Torino.",
+          "en": "I'm from Turin.",
+          "ru": "Я из Турина."
+        },
+        {
+          "speaker": "A",
+          "it": "Io sono di Bari.",
+          "en": "I'm from Bari.",
+          "ru": "Я из Бари."
+        },
+        {
+          "speaker": "B",
+          "it": "Dove abiti adesso?",
+          "en": "Where do you live now?",
+          "ru": "Где ты сейчас живёшь?"
+        },
+        {
+          "speaker": "A",
+          "it": "Abito a Roma, in via Verdi.",
+          "en": "I live in Rome, on Via Verdi.",
+          "ru": "Живу в Риме, на улице Верди."
+        },
+        {
+          "speaker": "B",
+          "it": "Che numero?",
+          "en": "What number?",
+          "ru": "Какой номер?"
+        },
+        {
+          "speaker": "A",
+          "it": "Numero otto. E tu?",
+          "en": "Number eight. And you?",
+          "ru": "Номер восемь. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Abito in via Dante, numero dieci.",
+          "en": "I live on Via Dante, number ten.",
+          "ru": "Живу на улице Данте, номер десять."
+        },
+        {
+          "speaker": "A",
+          "it": "Qual è il tuo numero di telefono?",
+          "en": "What's your phone number?",
+          "ru": "Какой у тебя номер телефона?"
+        },
+        {
+          "speaker": "B",
+          "it": "Tre due zero, cinque cinque cinque, sei sei sei.",
+          "en": "Three two zero, five five five, six six six.",
+          "ru": "Три два ноль, пять пять пять, шесть шесть шесть."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie. Come stai oggi?",
+          "en": "Thanks. How are you today?",
+          "ru": "Спасибо. Как ты сегодня?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sto bene, ma ho sonno.",
+          "en": "I'm fine, but I'm sleepy.",
+          "ru": "Хорошо, но хочу спать."
+        },
+        {
+          "speaker": "A",
+          "it": "Anch'io ho sonno.",
+          "en": "I'm sleepy too.",
+          "ru": "Я тоже хочу спать."
+        },
+        {
+          "speaker": "B",
+          "it": "Hai fame?",
+          "en": "Are you hungry?",
+          "ru": "Ты голодный?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ho fame e sete.",
+          "en": "Yes, I'm hungry and thirsty.",
+          "ru": "Да, хочу есть и пить."
+        },
+        {
+          "speaker": "B",
+          "it": "Dopo la lezione andiamo al bar?",
+          "en": "After the lesson shall we go to the bar?",
+          "ru": "После урока пойдём в бар?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, volentieri.",
+          "en": "Yes, gladly.",
+          "ru": "Да, с удовольствием."
+        },
+        {
+          "speaker": "B",
+          "it": "Che cosa prendi?",
+          "en": "What will you have?",
+          "ru": "Что ты возьмёшь?"
+        },
+        {
+          "speaker": "A",
+          "it": "Prendo un caffè e un panino.",
+          "en": "I'll have a coffee and a sandwich.",
+          "ru": "Возьму кофе и панини."
+        },
+        {
+          "speaker": "B",
+          "it": "Io prendo un tè.",
+          "en": "I'll have a tea.",
+          "ru": "Я возьму чай."
+        },
+        {
+          "speaker": "A",
+          "it": "Perfetto. Intervista finita?",
+          "en": "Perfect. Interview done?",
+          "ru": "Отлично. Интервью закончено?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, grazie per le risposte.",
+          "en": "Yes, thanks for the answers.",
+          "ru": "Да, спасибо за ответы."
+        }
+      ]
     }
   ],
   "verb_tables": [

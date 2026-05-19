@@ -612,6 +612,197 @@
           "expected_it": "Sono … Ho i capelli … e gli occhi …"
         }
       ]
+    },
+    {
+      "id": "D-A1L3-6-02",
+      "title": "Indovina chi",
+      "register": "informal",
+      "context": {
+        "en": "Two classmates describe people in class and guess who they are.",
+        "ru": "Два одноклассника описывают людей в классе и угадывают, кто это."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Facciamo un gioco: indovina chi è.",
+          "en": "Let's play a game: guess who it is.",
+          "ru": "Давай поиграем: угадай, кто это."
+        },
+        {
+          "speaker": "B",
+          "it": "Va bene. È uno studente o una studentessa?",
+          "en": "Okay. Is it a male or female student?",
+          "ru": "Хорошо. Это студент или студентка?"
+        },
+        {
+          "speaker": "A",
+          "it": "È uno studente.",
+          "en": "It's a male student.",
+          "ru": "Это студент."
+        },
+        {
+          "speaker": "B",
+          "it": "È alto?",
+          "en": "Is he tall?",
+          "ru": "Он высокий?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, è alto.",
+          "en": "Yes, he's tall.",
+          "ru": "Да, высокий."
+        },
+        {
+          "speaker": "B",
+          "it": "È magro?",
+          "en": "Is he thin?",
+          "ru": "Он худой?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, è alto e magro.",
+          "en": "Yes, he's tall and thin.",
+          "ru": "Да, высокий и худой."
+        },
+        {
+          "speaker": "B",
+          "it": "Ha i capelli scuri?",
+          "en": "Does he have dark hair?",
+          "ru": "У него тёмные волосы?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ha i capelli scuri e corti.",
+          "en": "Yes, he has short dark hair.",
+          "ru": "Да, у него тёмные короткие волосы."
+        },
+        {
+          "speaker": "B",
+          "it": "Ha gli occhiali?",
+          "en": "Does he wear glasses?",
+          "ru": "Он носит очки?"
+        },
+        {
+          "speaker": "A",
+          "it": "No, non ha gli occhiali.",
+          "en": "No, he doesn't wear glasses.",
+          "ru": "Нет, он не носит очки."
+        },
+        {
+          "speaker": "B",
+          "it": "Parla spagnolo?",
+          "en": "Does he speak Spanish?",
+          "ru": "Он говорит по-испански?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, parla spagnolo e italiano.",
+          "en": "Yes, he speaks Spanish and Italian.",
+          "ru": "Да, говорит по-испански и по-итальянски."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora è Marco?",
+          "en": "Then is it Marco?",
+          "ru": "Тогда это Марко?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, bravo! È Marco.",
+          "en": "Yes, well done! It's Marco.",
+          "ru": "Да, молодец! Это Марко."
+        },
+        {
+          "speaker": "B",
+          "it": "Ora tocca a me.",
+          "en": "Now it's my turn.",
+          "ru": "Теперь моя очередь."
+        },
+        {
+          "speaker": "A",
+          "it": "Va bene. È una studentessa?",
+          "en": "Okay. Is it a female student?",
+          "ru": "Хорошо. Это студентка?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, è una studentessa.",
+          "en": "Yes, it's a female student.",
+          "ru": "Да, это студентка."
+        },
+        {
+          "speaker": "A",
+          "it": "È bionda?",
+          "en": "Is she blonde?",
+          "ru": "Она блондинка?"
+        },
+        {
+          "speaker": "B",
+          "it": "No, è mora.",
+          "en": "No, she's dark-haired.",
+          "ru": "Нет, она тёмноволосая."
+        },
+        {
+          "speaker": "A",
+          "it": "Ha gli occhi verdi?",
+          "en": "Does she have green eyes?",
+          "ru": "У неё зелёные глаза?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ha gli occhi verdi.",
+          "en": "Yes, she has green eyes.",
+          "ru": "Да, у неё зелёные глаза."
+        },
+        {
+          "speaker": "A",
+          "it": "Porta gli occhiali?",
+          "en": "Does she wear glasses?",
+          "ru": "Она носит очки?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, porta gli occhiali.",
+          "en": "Yes, she wears glasses.",
+          "ru": "Да, она носит очки."
+        },
+        {
+          "speaker": "A",
+          "it": "Nella classe ci sono due ragazze così.",
+          "en": "There are two girls like that in the class.",
+          "ru": "В классе две такие девушки."
+        },
+        {
+          "speaker": "B",
+          "it": "Questa ragazza abita vicino all'università.",
+          "en": "This girl lives near the university.",
+          "ru": "Эта девушка живёт рядом с университетом."
+        },
+        {
+          "speaker": "A",
+          "it": "È Sara?",
+          "en": "Is it Sara?",
+          "ru": "Это Сара?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, è Sara.",
+          "en": "Yes, it's Sara.",
+          "ru": "Да, это Сара."
+        },
+        {
+          "speaker": "A",
+          "it": "Bello questo gioco.",
+          "en": "This game is fun.",
+          "ru": "Классная игра."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, aiuta a ripassare il lessico.",
+          "en": "Yes, it helps review vocabulary.",
+          "ru": "Да, помогает повторить лексику."
+        }
+      ]
     }
   ],
   "verb_tables": [

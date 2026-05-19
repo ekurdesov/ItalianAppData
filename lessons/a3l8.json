@@ -496,6 +496,149 @@
           "expected_it": "Qual è il tuo numero di telefono?"
         }
       ]
+    },
+    {
+      "id": "D-A1L3-8-02",
+      "title": "Nomi e cognomi italiani",
+      "register": "informal",
+      "context": {
+        "en": "Two students talk about names, surnames, spelling, and confusion in class.",
+        "ru": "Два студента говорят об именах, фамилиях, правописании и путанице в классе."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Come si scrive il tuo cognome?",
+          "en": "How do you spell your surname?",
+          "ru": "Как пишется твоя фамилия?"
+        },
+        {
+          "speaker": "B",
+          "it": "Bianchi: bi, i, a, enne, ci, acca, i.",
+          "en": "Bianchi: B, I, A, N, C, H, I.",
+          "ru": "Бьянки: би, и, а, энне, чи, акка, и."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie. Il mio cognome è Rossi.",
+          "en": "Thanks. My surname is Rossi.",
+          "ru": "Спасибо. Моя фамилия Росси."
+        },
+        {
+          "speaker": "B",
+          "it": "Rossi è un cognome italiano molto comune.",
+          "en": "Rossi is a very common Italian surname.",
+          "ru": "Росси — очень распространённая итальянская фамилия."
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, e anche Bianchi è comune.",
+          "en": "Yes, and Bianchi is common too.",
+          "ru": "Да, и Бьянки тоже распространённая."
+        },
+        {
+          "speaker": "B",
+          "it": "In classe ci sono due Rossi?",
+          "en": "Are there two Rossis in the class?",
+          "ru": "В классе два Росси?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, ci sono Marco Rossi e Laura Rossi.",
+          "en": "Yes, there are Marco Rossi and Laura Rossi.",
+          "ru": "Да, есть Марко Росси и Лаура Росси."
+        },
+        {
+          "speaker": "B",
+          "it": "Allora c'è un po' di confusione.",
+          "en": "Then there's a bit of confusion.",
+          "ru": "Тогда есть небольшая путаница."
+        },
+        {
+          "speaker": "A",
+          "it": "Esatto. La professoressa usa anche i nomi.",
+          "en": "Exactly. The professor uses first names too.",
+          "ru": "Точно. Преподавательница использует и имена."
+        },
+        {
+          "speaker": "B",
+          "it": "Marco Rossi è alto?",
+          "en": "Is Marco Rossi tall?",
+          "ru": "Марко Росси высокий?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sì, è alto e moro.",
+          "en": "Yes, he's tall and dark-haired.",
+          "ru": "Да, высокий и тёмноволосый."
+        },
+        {
+          "speaker": "B",
+          "it": "Laura Rossi è bionda?",
+          "en": "Is Laura Rossi blonde?",
+          "ru": "Лаура Росси блондинка?"
+        },
+        {
+          "speaker": "A",
+          "it": "No, è mora e ha gli occhi verdi.",
+          "en": "No, she's dark-haired and has green eyes.",
+          "ru": "Нет, она тёмноволосая и у неё зелёные глаза."
+        },
+        {
+          "speaker": "B",
+          "it": "Ora capisco.",
+          "en": "Now I understand.",
+          "ru": "Теперь понимаю."
+        },
+        {
+          "speaker": "A",
+          "it": "Come si chiama il ragazzo nuovo?",
+          "en": "What's the new guy's name?",
+          "ru": "Как зовут нового парня?"
+        },
+        {
+          "speaker": "B",
+          "it": "Si chiama Andrea Conti.",
+          "en": "His name is Andrea Conti.",
+          "ru": "Его зовут Андреа Конти."
+        },
+        {
+          "speaker": "A",
+          "it": "Conti con la ci?",
+          "en": "Conti with a C?",
+          "ru": "Конти с «чи»?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, ci, o, enne, ti, i.",
+          "en": "Yes, C, O, N, T, I.",
+          "ru": "Да, чи, о, энне, ти, и."
+        },
+        {
+          "speaker": "A",
+          "it": "Grazie. Scrivo tutto nel quaderno.",
+          "en": "Thanks. I'll write everything in my notebook.",
+          "ru": "Спасибо. Запишу всё в тетрадь."
+        },
+        {
+          "speaker": "B",
+          "it": "Ottima idea.",
+          "en": "Great idea.",
+          "ru": "Отличная идея."
+        },
+        {
+          "speaker": "A",
+          "it": "I nomi italiani sono interessanti.",
+          "en": "Italian names are interesting.",
+          "ru": "Итальянские имена интересные."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, e aiutano a fare pratica con l'alfabeto.",
+          "en": "Yes, and they help practice the alphabet.",
+          "ru": "Да, и помогают практиковать алфавит."
+        }
+      ]
     }
   ],
   "verb_tables": [

@@ -745,6 +745,173 @@
           "expected_it": "E Lei?"
         }
       ]
+    },
+    {
+      "id": "D-A1L2-1-03",
+      "title": "Di dove sei e che lingue parli?",
+      "register": "informal",
+      "context": {
+        "en": "Two students talk about origin, nationality, languages, and reasons for studying Italian.",
+        "ru": "Два студента говорят о происхождении, национальности, языках и причинах изучения итальянского."
+      },
+      "turns": [
+        {
+          "speaker": "A",
+          "it": "Ciao, io sono Antonio. E tu?",
+          "en": "Hi, I'm Antonio. And you?",
+          "ru": "Привет, я Антонио. А ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Ciao, Antonio. Mi chiamo Yuki.",
+          "en": "Hi, Antonio. My name is Yuki.",
+          "ru": "Привет, Антонио. Меня зовут Юки."
+        },
+        {
+          "speaker": "A",
+          "it": "Piacere, Yuki. Di dove sei?",
+          "en": "Nice to meet you, Yuki. Where are you from?",
+          "ru": "Приятно познакомиться, Юки. Откуда ты?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sono giapponese, di Tokyo. E tu?",
+          "en": "I'm Japanese, from Tokyo. And you?",
+          "ru": "Я японка, из Токио. А ты?"
+        },
+        {
+          "speaker": "A",
+          "it": "Sono cinese, di Pechino.",
+          "en": "I'm Chinese, from Beijing.",
+          "ru": "Я китаец, из Пекина."
+        },
+        {
+          "speaker": "B",
+          "it": "Parli italiano da molto tempo?",
+          "en": "Have you been speaking Italian for a long time?",
+          "ru": "Ты давно говоришь по-итальянски?"
+        },
+        {
+          "speaker": "A",
+          "it": "No, studio italiano da poco.",
+          "en": "No, I've been studying Italian for a short time.",
+          "ru": "Нет, я учу итальянский недавно."
+        },
+        {
+          "speaker": "B",
+          "it": "Anch'io. Parlo solo un po' italiano.",
+          "en": "Me too. I only speak a little Italian.",
+          "ru": "Я тоже. Говорю только немного по-итальянски."
+        },
+        {
+          "speaker": "A",
+          "it": "Che lingue parli?",
+          "en": "What languages do you speak?",
+          "ru": "На каких языках ты говоришь?"
+        },
+        {
+          "speaker": "B",
+          "it": "Parlo giapponese, inglese e un po' italiano.",
+          "en": "I speak Japanese, English, and a little Italian.",
+          "ru": "Говорю по-японски, по-английски и немного по-итальянски."
+        },
+        {
+          "speaker": "A",
+          "it": "Io parlo cinese, inglese e studio italiano.",
+          "en": "I speak Chinese, English, and I'm studying Italian.",
+          "ru": "Я говорю по-китайски, по-английски и учу итальянский."
+        },
+        {
+          "speaker": "B",
+          "it": "Perché studi italiano?",
+          "en": "Why are you studying Italian?",
+          "ru": "Почему ты учишь итальянский?"
+        },
+        {
+          "speaker": "A",
+          "it": "Perché amo l'Italia e la musica italiana.",
+          "en": "Because I love Italy and Italian music.",
+          "ru": "Потому что люблю Италию и итальянскую музыку."
+        },
+        {
+          "speaker": "B",
+          "it": "Io studio italiano perché voglio viaggiare.",
+          "en": "I'm studying Italian because I want to travel.",
+          "ru": "Я учу итальянский, потому что хочу путешествовать."
+        },
+        {
+          "speaker": "A",
+          "it": "Vuoi andare a Roma?",
+          "en": "Do you want to go to Rome?",
+          "ru": "Хочешь поехать в Рим?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, voglio andare a Roma e Firenze.",
+          "en": "Yes, I want to go to Rome and Florence.",
+          "ru": "Да, хочу поехать в Рим и Флоренцию."
+        },
+        {
+          "speaker": "A",
+          "it": "Firenze è molto bella, dicono.",
+          "en": "Florence is very beautiful, they say.",
+          "ru": "Флоренция очень красивая, говорят."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì. Tu vuoi visitare Tokyo?",
+          "en": "Yes. Do you want to visit Tokyo?",
+          "ru": "Да. А ты хочешь побывать в Токио?"
+        },
+        {
+          "speaker": "A",
+          "it": "Certo. Voglio vedere Tokyo e Kyoto.",
+          "en": "Of course. I want to see Tokyo and Kyoto.",
+          "ru": "Конечно. Хочу увидеть Токио и Киото."
+        },
+        {
+          "speaker": "B",
+          "it": "Questa è la nostra compagna, Carla.",
+          "en": "This is our classmate, Carla.",
+          "ru": "Это наша одноклассница, Карла."
+        },
+        {
+          "speaker": "A",
+          "it": "Carla è italiana?",
+          "en": "Is Carla Italian?",
+          "ru": "Карла итальянка?"
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, è italiana, di Napoli.",
+          "en": "Yes, she's Italian, from Naples.",
+          "ru": "Да, она итальянка, из Неаполя."
+        },
+        {
+          "speaker": "A",
+          "it": "Allora può aiutarci con la pronuncia.",
+          "en": "Then she can help us with pronunciation.",
+          "ru": "Тогда она может помочь нам с произношением."
+        },
+        {
+          "speaker": "B",
+          "it": "Sì, chiediamo a lei dopo la lezione.",
+          "en": "Yes, let's ask her after the lesson.",
+          "ru": "Да, спросим её после урока."
+        },
+        {
+          "speaker": "A",
+          "it": "Ottima idea.",
+          "en": "Great idea.",
+          "ru": "Отличная идея."
+        },
+        {
+          "speaker": "B",
+          "it": "Andiamo a salutarla?",
+          "en": "Shall we go say hi to her?",
+          "ru": "Пойдём поздороваемся с ней?"
+        }
+      ]
     }
   ],
   "verb_tables": [
