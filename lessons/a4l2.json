@@ -21,6 +21,12 @@
         "Лексика: bevande e spuntini",
         "Аудирование: Al bar",
         "Коммуникативное задание: E tu che cosa prendi?"
+      ],
+      "es": [
+        "Reseña: ¿Qué están haciendo?",
+        "Vocabulario: bebidas y snacks.",
+        "Comprensión auditiva: en el bar",
+        "Actividad comunicativa: ¿Y tú qué estás tomando?"
       ]
     }
   },
@@ -28,204 +34,243 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Review: fare expressions",
-        "ru": "Повторение: выражения с fare"
+        "ru": "Повторение: выражения с fare",
+        "es": "Revisión: expresiones de tarifas"
       },
       "description": {
         "en": "The verb 'fare' is used in many fixed expressions about daily activities. Review of all key 'fare + noun' combinations.",
-        "ru": "Глагол «fare» используется во многих устойчивых выражениях о повседневных делах. Повторение всех ключевых сочетаний «fare + существительное»."
+        "ru": "Глагол «fare» используется во многих устойчивых выражениях о повседневных делах. Повторение всех ключевых сочетаний «fare + существительное».",
+        "es": "El verbo 'fare' se utiliza en muchas expresiones fijas sobre las actividades diarias. Revisión de todas las combinaciones clave de 'tarifa + sustantivo'."
       },
       "examples": [
         {
           "it": "Fate colazione con il caffè o con il tè?",
           "en": "Do you have breakfast with coffee or tea?",
-          "ru": "Вы завтракаете с кофе или чаем?"
+          "ru": "Вы завтракаете с кофе или чаем?",
+          "es": "¿Desayunas con café o té?"
         },
         {
           "it": "Fate la doccia la mattina o la sera?",
           "en": "Do you take a shower in the morning or in the evening?",
-          "ru": "Вы принимаете душ утром или вечером?"
+          "ru": "Вы принимаете душ утром или вечером?",
+          "es": "¿Te duchas por la mañana o por la noche?"
         },
         {
           "it": "Fate la spesa al mercato o al supermercato?",
           "en": "Do you do the shopping at the market or at the supermarket?",
-          "ru": "Вы делаете покупки на рынке или в супермаркете?"
+          "ru": "Вы делаете покупки на рынке или в супермаркете?",
+          "es": "¿Haces las compras en el mercado o en el supermercado?"
         },
         {
           "it": "Fate molte foto in vacanza?",
           "en": "Do you take many photos on holiday?",
-          "ru": "Вы много фотографируете в отпуске?"
+          "ru": "Вы много фотографируете в отпуске?",
+          "es": "¿Haces muchas fotos en vacaciones?"
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Drinks: bevande",
-        "ru": "Напитки: bevande"
+        "ru": "Напитки: bevande",
+        "es": "Bebidas: bebida"
       },
       "description": {
         "en": "Key vocabulary for drinks ordered at an Italian bar.",
-        "ru": "Основная лексика для напитков, которые заказывают в итальянском баре."
+        "ru": "Основная лексика для напитков, которые заказывают в итальянском баре.",
+        "es": "Vocabulario clave para bebidas pedidas en un bar italiano."
       },
       "examples": [
         {
           "it": "un caffè / un espresso",
           "en": "an espresso",
-          "ru": "кофе / эспрессо"
+          "ru": "кофе / эспрессо",
+          "es": "un expreso"
         },
         {
           "it": "un cappuccino",
           "en": "a cappuccino",
-          "ru": "капучино"
+          "ru": "капучино",
+          "es": "un capuchino"
         },
         {
           "it": "un tè",
           "en": "a tea",
-          "ru": "чай"
+          "ru": "чай",
+          "es": "un te"
         },
         {
           "it": "un'aranciata",
           "en": "an orange soda",
-          "ru": "апельсиновая газировка"
+          "ru": "апельсиновая газировка",
+          "es": "un refresco de naranja"
         },
         {
           "it": "un succo di frutta",
           "en": "a fruit juice",
-          "ru": "фруктовый сок"
+          "ru": "фруктовый сок",
+          "es": "un jugo de fruta"
         },
         {
           "it": "un bicchiere di acqua minerale",
           "en": "a glass of mineral water",
-          "ru": "стакан минеральной воды"
+          "ru": "стакан минеральной воды",
+          "es": "un vaso de agua mineral"
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Snacks: spuntini",
-        "ru": "Закуски: spuntini"
+        "ru": "Закуски: spuntini",
+        "es": "Aperitivos: spuntini"
       },
       "description": {
         "en": "Key vocabulary for food items available at an Italian bar.",
-        "ru": "Основная лексика для еды, которую можно купить в итальянском баре."
+        "ru": "Основная лексика для еды, которую можно купить в итальянском баре.",
+        "es": "Vocabulario clave para los alimentos disponibles en un bar italiano."
       },
       "examples": [
         {
           "it": "un cornetto",
           "en": "a croissant",
-          "ru": "круассан"
+          "ru": "круассан",
+          "es": "un croissant"
         },
         {
           "it": "un panino",
           "en": "a sandwich",
-          "ru": "бутерброд"
+          "ru": "бутерброд",
+          "es": "un sándwich"
         },
         {
           "it": "un tramezzino",
           "en": "a triangular sandwich",
-          "ru": "треугольный бутерброд"
+          "ru": "треугольный бутерброд",
+          "es": "un sándwich triangular"
         },
         {
           "it": "una piadina",
           "en": "a flatbread wrap",
-          "ru": "лепёшка с начинкой"
+          "ru": "лепёшка с начинкой",
+          "es": "una envoltura de pan plano"
         },
         {
           "it": "un toast",
           "en": "a toasted sandwich",
-          "ru": "горячий бутерброд"
+          "ru": "горячий бутерброд",
+          "es": "un sándwich tostado"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Ordering at the bar: E tu che cosa prendi?",
-        "ru": "Заказ в баре: E tu che cosa prendi?"
+        "ru": "Заказ в баре: E tu che cosa prendi?",
+        "es": "Pedir en el bar: E tu che cosa prendi?"
       },
       "description": {
         "en": "Asking and saying what you will have at the bar.",
-        "ru": "Как спросить и сказать, что вы будете заказывать в баре."
+        "ru": "Как спросить и сказать, что вы будете заказывать в баре.",
+        "es": "Preguntar y decir qué tomarás en el bar."
       },
       "examples": [
         {
           "context": "question",
           "it": "Che cosa prendi?",
           "en": "What will you have?",
-          "ru": "Что ты будешь?"
+          "ru": "Что ты будешь?",
+          "es": "¿Qué tendrás?"
         },
         {
           "context": "answer",
           "it": "Prendo un cappuccino e un cornetto.",
           "en": "I'll have a cappuccino and a croissant.",
-          "ru": "Я возьму капучино и круассан."
+          "ru": "Я возьму капучино и круассан.",
+          "es": "Tomaré un capuchino y un croissant."
         },
         {
           "context": "question",
           "it": "Come bevanda prendi…?",
           "en": "As a drink, will you have…?",
-          "ru": "Что ты будешь пить?"
+          "ru": "Что ты будешь пить?",
+          "es": "Como bebida, ¿tendrás…?"
         },
         {
           "context": "answer",
           "it": "Come spuntino prendo un tramezzino.",
           "en": "As a snack I'll have a triangular sandwich.",
-          "ru": "На закуску возьму треугольный бутерброд."
+          "ru": "На закуску возьму треугольный бутерброд.",
+          "es": "Como merienda tomaré un sándwich triangular."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Bar furniture and staff",
-        "ru": "Мебель и персонал бара"
+        "ru": "Мебель и персонал бара",
+        "es": "Mobiliario y personal de bar"
       },
       "description": {
         "en": "Vocabulary for the physical layout of an Italian bar.",
-        "ru": "Лексика для описания интерьера итальянского бара."
+        "ru": "Лексика для описания интерьера итальянского бара.",
+        "es": "Vocabulario para la distribución física de un bar italiano."
       },
       "examples": [
         {
           "it": "il banco",
           "en": "the counter",
-          "ru": "стойка бара"
+          "ru": "стойка бара",
+          "es": "el mostrador"
         },
         {
           "it": "il tavolino",
           "en": "the small table",
-          "ru": "столик"
+          "ru": "столик",
+          "es": "la mesa pequeña"
         },
         {
           "it": "la cassa",
           "en": "the till / cash desk",
-          "ru": "касса"
+          "ru": "касса",
+          "es": "la caja registradora"
         },
         {
           "it": "il barista",
           "en": "the barista / bar person",
-          "ru": "бариста"
+          "ru": "бариста",
+          "es": "el barista/persona del bar"
         },
         {
           "it": "la macchina per il caffè",
           "en": "the coffee machine",
-          "ru": "кофемашина"
+          "ru": "кофемашина",
+          "es": "la maquina de cafe"
         }
       ]
     }
@@ -237,8 +282,10 @@
       "ru": "напиток",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "bebida, bebida"
     },
     {
       "term": "lo spuntino",
@@ -246,8 +293,10 @@
       "ru": "закуска, перекус",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "bocadillo"
     },
     {
       "term": "il caffè",
@@ -255,8 +304,10 @@
       "ru": "кофе / эспрессо",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "café / expreso"
     },
     {
       "term": "il cappuccino",
@@ -264,8 +315,10 @@
       "ru": "капучино",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "capuchino"
     },
     {
       "term": "il tè",
@@ -273,8 +326,10 @@
       "ru": "чай",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "té"
     },
     {
       "term": "l'aranciata",
@@ -282,8 +337,10 @@
       "ru": "апельсиновая газировка",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "refresco de naranja"
     },
     {
       "term": "il succo di frutta",
@@ -291,8 +348,10 @@
       "ru": "фруктовый сок",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "zumo de frutas"
     },
     {
       "term": "l'acqua minerale",
@@ -300,8 +359,10 @@
       "ru": "минеральная вода",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "agua mineral"
     },
     {
       "term": "il cornetto",
@@ -309,8 +370,10 @@
       "ru": "круассан",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "cuerno"
     },
     {
       "term": "il panino",
@@ -318,8 +381,10 @@
       "ru": "бутерброд",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "sándwich, panecillo"
     },
     {
       "term": "il tramezzino",
@@ -327,8 +392,10 @@
       "ru": "треугольный бутерброд",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "sándwich triangular"
     },
     {
       "term": "la piadina",
@@ -336,8 +403,10 @@
       "ru": "лепёшка с начинкой",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "envoltura de pan plano"
     },
     {
       "term": "il toast",
@@ -345,8 +414,10 @@
       "ru": "горячий бутерброд",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "sándwich tostado"
     },
     {
       "term": "il banco",
@@ -354,8 +425,10 @@
       "ru": "стойка бара",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "barra de bar"
     },
     {
       "term": "il tavolino",
@@ -363,8 +436,10 @@
       "ru": "столик",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "mesita"
     },
     {
       "term": "la cassa",
@@ -372,8 +447,10 @@
       "ru": "касса",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "caja registradora"
     },
     {
       "term": "il barista",
@@ -381,8 +458,10 @@
       "ru": "бариста",
       "type": {
         "en": "profession",
-        "ru": "профессия"
-      }
+        "ru": "профессия",
+        "es": "profesión"
+      },
+      "es": "barista, persona de bar"
     },
     {
       "term": "pagare alla cassa",
@@ -390,8 +469,10 @@
       "ru": "платить в кассе",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "pagar en caja"
     },
     {
       "term": "stare in compagnia",
@@ -399,8 +480,10 @@
       "ru": "проводить время в компании",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "pasar tiempo con los demás"
     },
     {
       "term": "Che cosa prendi?",
@@ -408,8 +491,10 @@
       "ru": "Что ты будешь?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Qué tendrás?"
     },
     {
       "term": "Prendo…",
@@ -417,8 +502,10 @@
       "ru": "Я возьму…",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tendré…"
     },
     {
       "term": "il pisolino",
@@ -426,35 +513,42 @@
       "ru": "дневной сон, тихий час",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "siesta"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Osservate e rispondete.",
       "en": "Look and answer.",
-      "ru": "Посмотрите и ответьте."
+      "ru": "Посмотрите и ответьте.",
+      "es": "Mira y responde."
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Соедините."
+      "ru": "Соедините.",
+      "es": "Fósforo."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     },
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Ответьте."
+      "ru": "Ответьте.",
+      "es": "Respuesta."
     },
     {
       "it": "Che cosa prendete?",
       "en": "What will you have?",
-      "ru": "Что вы будете?"
+      "ru": "Что вы будете?",
+      "es": "¿Qué tendrás?"
     }
   ],
   "dialogues": [
@@ -464,59 +558,68 @@
       "register": "informal",
       "context": {
         "en": "Two friends are at the bar and order drinks and snacks.",
-        "ru": "Двое друзей в баре заказывают напитки и закуски."
+        "ru": "Двое друзей в баре заказывают напитки и закуски.",
+        "es": "Dos amigos están en el bar y piden bebidas y bocadillos."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Allora, che cosa prendi?",
           "en": "So, what will you have?",
-          "ru": "Ну что, что ты будешь?"
+          "ru": "Ну что, что ты будешь?",
+          "es": "Entonces, ¿qué tendrás?"
         },
         {
           "speaker": "B",
           "it": "Prendo un cappuccino e un cornetto. E tu?",
           "en": "I'll have a cappuccino and a croissant. And you?",
-          "ru": "Я возьму капучино и круассан. А ты?"
+          "ru": "Я возьму капучино и круассан. А ты?",
+          "es": "Tomaré un capuchino y un croissant. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Io prendo un caffè e un tramezzino al tonno.",
           "en": "I'll have an espresso and a tuna sandwich.",
-          "ru": "Я возьму эспрессо и бутерброд с тунцом."
+          "ru": "Я возьму эспрессо и бутерброд с тунцом.",
+          "es": "Tomaré un espresso y un sándwich de atún."
         },
         {
           "speaker": "B",
           "it": "Paghiamo alla cassa?",
           "en": "Shall we pay at the till?",
-          "ru": "Платим в кассе?"
+          "ru": "Платим в кассе?",
+          "es": "¿Pagamos en caja?"
         },
         {
           "speaker": "A",
           "it": "Sì, oggi offro io!",
           "en": "Yes, today it's my treat!",
-          "ru": "Да, сегодня угощаю я!"
+          "ru": "Да, сегодня угощаю я!",
+          "es": "¡Sí, hoy es mi regalo!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask what someone will have",
-            "ru": "Спросить, что кто-то будет"
+            "ru": "Спросить, что кто-то будет",
+            "es": "Preguntar qué tendrá alguien"
           },
           "expected_it": "Che cosa prendi?"
         },
         {
           "cue": {
             "en": "Order a drink and a snack",
-            "ru": "Заказать напиток и закуску"
+            "ru": "Заказать напиток и закуску",
+            "es": "Pide una bebida y un snack"
           },
           "expected_it": "Prendo un/una … e un/una …"
         },
         {
           "cue": {
             "en": "Say it is your treat",
-            "ru": "Сказать, что угощаешь"
+            "ru": "Сказать, что угощаешь",
+            "es": "Di que es tu regalo"
           },
           "expected_it": "Oggi offro io!"
         }
@@ -528,7 +631,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -543,7 +647,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -558,7 +663,8 @@
       "infinitive": "andare",
       "translation": {
         "en": "to go",
-        "ru": "идти / ехать"
+        "ru": "идти / ехать",
+        "es": "ir"
       },
       "forms": {
         "io": "vado",
@@ -573,7 +679,8 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать / совершать"
+        "ru": "делать / совершать",
+        "es": "hacer / hacer"
       },
       "forms": {
         "io": "faccio",
@@ -588,7 +695,8 @@
       "infinitive": "bere",
       "translation": {
         "en": "to drink",
-        "ru": "пить"
+        "ru": "пить",
+        "es": "beber"
       },
       "forms": {
         "io": "bevo",
@@ -603,7 +711,8 @@
       "infinitive": "prendere",
       "translation": {
         "en": "to take",
-        "ru": "брать / заказывать / садиться на транспорт"
+        "ru": "брать / заказывать / садиться на транспорт",
+        "es": "tomar"
       },
       "forms": {
         "io": "prendo",

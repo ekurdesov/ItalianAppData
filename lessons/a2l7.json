@@ -21,6 +21,12 @@
         "Грамматика: определённые артикли",
         "Аудирование: L'italiano nel mondo",
         "Чтение: L'italiano nel mondo"
+      ],
+      "es": [
+        "Revisión: ¿es o tiene?",
+        "Gramática: artículos definidos",
+        "Comprensión auditiva: el italiano en el mundo",
+        "Comprensión lectora: el italiano en el mundo"
       ]
     }
   },
@@ -28,100 +34,120 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "essere vs avere in everyday descriptions",
-        "ru": "essere и avere в повседневных описаниях"
+        "ru": "essere и avere в повседневных описаниях",
+        "es": "essere vs avere en las descripciones cotidianas"
       },
       "description": {
         "en": "Italian uses 'essere' with adjectives and 'avere' with many physical or emotional states expressed as nouns.",
-        "ru": "В итальянском языке 'essere' употребляется с прилагательными, а 'avere' — со многими физическими и эмоциональными состояниями, выраженными существительными."
+        "ru": "В итальянском языке 'essere' употребляется с прилагательными, а 'avere' — со многими физическими и эмоциональными состояниями, выраженными существительными.",
+        "es": "El italiano utiliza 'essere' con adjetivos y 'avere' con muchos estados físicos o emocionales expresados ​​como sustantivos."
       },
       "examples": [
         {
           "it": "Sono triste.",
           "en": "I am sad.",
-          "ru": "Мне грустно."
+          "ru": "Мне грустно.",
+          "es": "Estoy triste."
         },
         {
           "it": "Sono contento/a.",
           "en": "I am happy.",
-          "ru": "Я рад / рада."
+          "ru": "Я рад / рада.",
+          "es": "Yo estoy feliz."
         },
         {
           "it": "Ho fame.",
           "en": "I am hungry.",
-          "ru": "Я голоден / голодна."
+          "ru": "Я голоден / голодна.",
+          "es": "Estoy hambriento."
         },
         {
           "it": "Hai sete?",
           "en": "Are you thirsty?",
-          "ru": "Ты хочешь пить?"
+          "ru": "Ты хочешь пить?",
+          "es": "¿Tienes sed?"
         },
         {
           "it": "Abbiamo fretta.",
           "en": "We are in a hurry.",
-          "ru": "Мы спешим."
+          "ru": "Мы спешим.",
+          "es": "Tenemos prisa."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Definite articles in the singular",
-        "ru": "Определённые артикли в единственном числе"
+        "ru": "Определённые артикли в единственном числе",
+        "es": "Artículos definidos en singular."
       },
       "description": {
         "en": "Italian definite articles agree with the noun in gender and number. In the singular, the main forms are 'il', 'lo', 'la' and 'l''.",
-        "ru": "Итальянские определённые артикли согласуются с существительным по роду и числу. В единственном числе основные формы: 'il', 'lo', 'la' и 'l''."
+        "ru": "Итальянские определённые артикли согласуются с существительным по роду и числу. В единственном числе основные формы: 'il', 'lo', 'la' и 'l''.",
+        "es": "Los artículos definidos italianos concuerdan con el sustantivo en género y número. En singular, las formas principales son 'il', 'lo', 'la' y 'l''."
       }
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Definite articles in the plural",
-        "ru": "Определённые артикли во множественном числе"
+        "ru": "Определённые артикли во множественном числе",
+        "es": "Artículos definidos en plural."
       },
       "description": {
         "en": "Plural definite articles also agree with the noun. The main forms are 'i', 'gli' and 'le'.",
-        "ru": "Во множественном числе определённые артикли тоже согласуются с существительным. Основные формы: 'i', 'gli' и 'le'."
+        "ru": "Во множественном числе определённые артикли тоже согласуются с существительным. Основные формы: 'i', 'gli' и 'le'.",
+        "es": "Los artículos definidos en plural también concuerdan con el sustantivo. Las formas principales son 'i', 'gli' y 'le'."
       }
     },
     {
       "category": {
         "en": "Culture",
-        "ru": "Культура"
+        "ru": "Культура",
+        "es": "Cultura"
       },
       "rule": {
         "en": "Italian in the world",
-        "ru": "Итальянский язык в мире"
+        "ru": "Итальянский язык в мире",
+        "es": "italiano en el mundo"
       },
       "description": {
         "en": "The lesson presents Italian as a world language connected with travel, culture, design, food, music and art.",
-        "ru": "В уроке итальянский язык представлен как мировой язык, связанный с путешествиями, культурой, дизайном, едой, музыкой и искусством."
+        "ru": "В уроке итальянский язык представлен как мировой язык, связанный с путешествиями, культурой, дизайном, едой, музыкой и искусством.",
+        "es": "La lección presenta el italiano como un idioma mundial relacionado con los viajes, la cultura, el diseño, la comida, la música y el arte."
       },
       "examples": [
         {
           "it": "L'italiano è parlato in tutto il mondo.",
           "en": "Italian is spoken all over the world.",
-          "ru": "На итальянском говорят по всему миру."
+          "ru": "На итальянском говорят по всему миру.",
+          "es": "El italiano se habla en todo el mundo."
         },
         {
           "it": "L'italiano è parlato in Europa, in America, in Africa, in Australia e in Giappone.",
           "en": "Italian is spoken in Europe, America, Africa, Australia and Japan.",
-          "ru": "На итальянском говорят в Европе, Америке, Африке, Австралии и Японии."
+          "ru": "На итальянском говорят в Европе, Америке, Африке, Австралии и Японии.",
+          "es": "El italiano se habla en Europa, América, África, Australia y Japón."
         },
         {
           "it": "L'italiano è importante per il design, la letteratura, il cinema e la musica.",
           "en": "Italian is important for design, literature, cinema and music.",
-          "ru": "Итальянский важен для дизайна, литературы, кино и музыки."
+          "ru": "Итальянский важен для дизайна, литературы, кино и музыки.",
+          "es": "El italiano es importante para el diseño, la literatura, el cine y la música."
         }
       ]
     }
@@ -133,8 +159,10 @@
       "ru": "грустный / грустная",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "triste"
     },
     {
       "term": "contento/a",
@@ -142,8 +170,10 @@
       "ru": "довольный / довольная, рад / рада",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "feliz, complacido"
     },
     {
       "term": "arrabbiato/a",
@@ -151,8 +181,10 @@
       "ru": "сердитый / сердитая",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "enojado"
     },
     {
       "term": "tranquillo/a",
@@ -160,8 +192,10 @@
       "ru": "спокойный / спокойная",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "calma"
     },
     {
       "term": "fame",
@@ -169,8 +203,10 @@
       "ru": "голод",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "hambre"
     },
     {
       "term": "sete",
@@ -178,8 +214,10 @@
       "ru": "жажда",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "sed"
     },
     {
       "term": "voglia di studiare",
@@ -187,8 +225,10 @@
       "ru": "желание учиться; желание заниматься",
       "type": {
         "en": "expression",
-        "ru": "выражение"
-      }
+        "ru": "выражение",
+        "es": "expresión"
+      },
+      "es": "deseo de estudiar; tener ganas de estudiar"
     },
     {
       "term": "freddo",
@@ -196,8 +236,10 @@
       "ru": "холод",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "frío"
     },
     {
       "term": "caldo",
@@ -205,8 +247,10 @@
       "ru": "жара, тепло",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "calor"
     },
     {
       "term": "fretta",
@@ -214,8 +258,10 @@
       "ru": "спешка",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "apurarse"
     },
     {
       "term": "tempo",
@@ -223,8 +269,10 @@
       "ru": "время",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "tiempo"
     },
     {
       "term": "sigaretta",
@@ -232,8 +280,10 @@
       "ru": "сигарета",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "cigarrillo"
     },
     {
       "term": "villa",
@@ -241,8 +291,10 @@
       "ru": "вилла",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "villa"
     },
     {
       "term": "automobile",
@@ -250,8 +302,10 @@
       "ru": "автомобиль",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "auto"
     },
     {
       "term": "bottiglia",
@@ -259,8 +313,10 @@
       "ru": "бутылка",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "botella"
     },
     {
       "term": "esame",
@@ -268,8 +324,10 @@
       "ru": "экзамен",
       "type": {
         "en": "classroom vocabulary",
-        "ru": "учебная лексика"
-      }
+        "ru": "учебная лексика",
+        "es": "vocabulario del aula"
+      },
+      "es": "examen"
     },
     {
       "term": "zio",
@@ -277,8 +335,10 @@
       "ru": "дядя",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "tío"
     },
     {
       "term": "quaderno",
@@ -286,8 +346,10 @@
       "ru": "тетрадь",
       "type": {
         "en": "classroom vocabulary",
-        "ru": "учебная лексика"
-      }
+        "ru": "учебная лексика",
+        "es": "vocabulario del aula"
+      },
+      "es": "computadora portátil"
     },
     {
       "term": "lezione",
@@ -295,8 +357,10 @@
       "ru": "урок, занятие",
       "type": {
         "en": "classroom vocabulary",
-        "ru": "учебная лексика"
-      }
+        "ru": "учебная лексика",
+        "es": "vocabulario del aula"
+      },
+      "es": "lección"
     },
     {
       "term": "ragazza",
@@ -304,8 +368,10 @@
       "ru": "девушка",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "chica"
     },
     {
       "term": "panino",
@@ -313,8 +379,10 @@
       "ru": "бутерброд, сэндвич",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "sándwich"
     },
     {
       "term": "ragazzo",
@@ -322,8 +390,10 @@
       "ru": "парень, юноша",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "chico"
     },
     {
       "term": "pizza",
@@ -331,8 +401,10 @@
       "ru": "пицца",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "pizza"
     },
     {
       "term": "treno",
@@ -340,8 +412,10 @@
       "ru": "поезд",
       "type": {
         "en": "transport",
-        "ru": "транспорт"
-      }
+        "ru": "транспорт",
+        "es": "transporte"
+      },
+      "es": "tren"
     },
     {
       "term": "mamma",
@@ -349,8 +423,10 @@
       "ru": "мама",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "mamá"
     },
     {
       "term": "professoressa",
@@ -358,8 +434,10 @@
       "ru": "преподавательница",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "profesora / profesora"
     },
     {
       "term": "ospedale",
@@ -367,8 +445,10 @@
       "ru": "больница",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "hospital"
     },
     {
       "term": "gelato",
@@ -376,8 +456,10 @@
       "ru": "мороженое",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "helado"
     },
     {
       "term": "orologio",
@@ -385,8 +467,10 @@
       "ru": "часы",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "reloj, reloj"
     },
     {
       "term": "gomma",
@@ -394,8 +478,10 @@
       "ru": "ластик",
       "type": {
         "en": "classroom vocabulary",
-        "ru": "учебная лексика"
-      }
+        "ru": "учебная лексика",
+        "es": "vocabulario del aula"
+      },
+      "es": "borrador"
     },
     {
       "term": "studente",
@@ -403,8 +489,10 @@
       "ru": "студент",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "alumno"
     },
     {
       "term": "amica",
@@ -412,8 +500,10 @@
       "ru": "подруга",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "amiga"
     },
     {
       "term": "matita",
@@ -421,8 +511,10 @@
       "ru": "карандаш",
       "type": {
         "en": "classroom vocabulary",
-        "ru": "учебная лексика"
-      }
+        "ru": "учебная лексика",
+        "es": "vocabulario del aula"
+      },
+      "es": "lápiz"
     },
     {
       "term": "casa",
@@ -430,8 +522,10 @@
       "ru": "дом",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "casa, hogar"
     },
     {
       "term": "amico",
@@ -439,8 +533,10 @@
       "ru": "друг",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "amigo"
     },
     {
       "term": "ufficio",
@@ -448,8 +544,10 @@
       "ru": "офис",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "oficina"
     },
     {
       "term": "vino",
@@ -457,8 +555,10 @@
       "ru": "вино",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "vino"
     },
     {
       "term": "cappuccino",
@@ -466,8 +566,10 @@
       "ru": "капучино",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "capuchino"
     },
     {
       "term": "design",
@@ -475,8 +577,10 @@
       "ru": "дизайн",
       "type": {
         "en": "culture",
-        "ru": "культура"
-      }
+        "ru": "культура",
+        "es": "cultura"
+      },
+      "es": "diseño"
     },
     {
       "term": "opera d'arte",
@@ -484,8 +588,10 @@
       "ru": "произведение искусства",
       "type": {
         "en": "culture",
-        "ru": "культура"
-      }
+        "ru": "культура",
+        "es": "cultura"
+      },
+      "es": "obra de arte"
     },
     {
       "term": "monumento",
@@ -493,8 +599,10 @@
       "ru": "памятник, монумент",
       "type": {
         "en": "culture",
-        "ru": "культура"
-      }
+        "ru": "культура",
+        "es": "cultura"
+      },
+      "es": "monumento"
     },
     {
       "term": "letteratura",
@@ -502,8 +610,10 @@
       "ru": "литература",
       "type": {
         "en": "culture",
-        "ru": "культура"
-      }
+        "ru": "культура",
+        "es": "cultura"
+      },
+      "es": "literatura"
     },
     {
       "term": "cinema",
@@ -511,8 +621,10 @@
       "ru": "кино",
       "type": {
         "en": "culture",
-        "ru": "культура"
-      }
+        "ru": "культура",
+        "es": "cultura"
+      },
+      "es": "cine, película"
     },
     {
       "term": "nominare",
@@ -520,60 +632,72 @@
       "ru": "называть",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "nombrar"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Ответьте."
+      "ru": "Ответьте.",
+      "es": "Respuesta."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     },
     {
       "it": "Leggete.",
       "en": "Read.",
-      "ru": "Прочитайте."
+      "ru": "Прочитайте.",
+      "es": "Leer."
     },
     {
       "it": "Mettete in ordine.",
       "en": "Put in order.",
-      "ru": "Расположите по порядку."
+      "ru": "Расположите по порядку.",
+      "es": "Ordenar."
     },
     {
       "it": "Indicate.",
       "en": "Indicate.",
-      "ru": "Укажите."
+      "ru": "Укажите.",
+      "es": "Indicar."
     },
     {
       "it": "Guardate e abbinate.",
       "en": "Look and match.",
-      "ru": "Посмотрите и сопоставьте."
+      "ru": "Посмотрите и сопоставьте.",
+      "es": "Mira y combina."
     },
     {
       "it": "E tu? In questo momento ...",
       "en": "And you? At this moment ...",
-      "ru": "А ты? В этот момент ..."
+      "ru": "А ты? В этот момент ...",
+      "es": "¿Y tú? En este momento..."
     },
     {
       "it": "Dopo la lezione ...",
       "en": "After the lesson ...",
-      "ru": "После урока ..."
+      "ru": "После урока ...",
+      "es": "Después de la lección..."
     },
     {
       "it": "Sì o no?",
       "en": "Yes or no?",
-      "ru": "Да или нет?"
+      "ru": "Да или нет?",
+      "es": "¿Sí o no?"
     },
     {
       "it": "Di che nazionalità sono?",
       "en": "What nationality are they?",
-      "ru": "Какой они национальности?"
+      "ru": "Какой они национальности?",
+      "es": "¿De qué nacionalidad son?"
     }
   ],
   "dialogues": [
@@ -583,59 +707,68 @@
       "register": "informal",
       "context": {
         "en": "Two students discuss Italian around the world and practise definite articles.",
-        "ru": "Два студента обсуждают итальянский язык в мире и тренируют определённые артикли."
+        "ru": "Два студента обсуждают итальянский язык в мире и тренируют определённые артикли.",
+        "es": "Dos estudiantes discuten italiano en todo el mundo y practican artículos definidos."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Sai che l'italiano è parlato in molti paesi del mondo?",
           "en": "Did you know that Italian is spoken in many countries of the world?",
-          "ru": "Ты знаешь, что на итальянском говорят во многих странах мира?"
+          "ru": "Ты знаешь, что на итальянском говорят во многих странах мира?",
+          "es": "¿Sabías que en muchos países del mundo se habla italiano?"
         },
         {
           "speaker": "B",
           "it": "Sì! Per esempio, in Argentina ci sono molti italiani.",
           "en": "Yes! For example, in Argentina there are many Italians.",
-          "ru": "Да! Например, в Аргентине много итальянцев."
+          "ru": "Да! Например, в Аргентине много итальянцев.",
+          "es": "¡Sí! Por ejemplo, en Argentina hay muchos italianos."
         },
         {
           "speaker": "A",
           "it": "E anche negli Stati Uniti. Il cognome Ferrari è molto famoso.",
           "en": "And also in the United States. The surname Ferrari is very famous.",
-          "ru": "И в США тоже. Фамилия Феррари очень известна."
+          "ru": "И в США тоже. Фамилия Феррари очень известна.",
+          "es": "Y también en Estados Unidos. El apellido Ferrari es muy famoso."
         },
         {
           "speaker": "B",
           "it": "È vero. Hai il libro di italiano?",
           "en": "That's true. Do you have the Italian book?",
-          "ru": "Это правда. У тебя есть учебник итальянского?"
+          "ru": "Это правда. У тебя есть учебник итальянского?",
+          "es": "Eso es cierto. ¿Tienes el libro italiano?"
         },
         {
           "speaker": "A",
           "it": "Sì, ho il libro e il dizionario.",
           "en": "Yes, I have the book and the dictionary.",
-          "ru": "Да, у меня есть учебник и словарь."
+          "ru": "Да, у меня есть учебник и словарь.",
+          "es": "Sí, tengo el libro y el diccionario."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask if someone has the book",
-            "ru": "Спросить, есть ли у кого-то книга"
+            "ru": "Спросить, есть ли у кого-то книга",
+            "es": "Preguntar si alguien tiene el libro."
           },
           "expected_it": "Hai il libro?"
         },
         {
           "cue": {
             "en": "Say you have the book and the dictionary",
-            "ru": "Сказать, что у тебя есть книга и словарь"
+            "ru": "Сказать, что у тебя есть книга и словарь",
+            "es": "Di que tienes el libro y el diccionario."
           },
           "expected_it": "Ho il libro e il dizionario."
         },
         {
           "cue": {
             "en": "Use the definite article with a masculine noun",
-            "ru": "Использовать определённый артикль с существительным мужского рода"
+            "ru": "Использовать определённый артикль с существительным мужского рода",
+            "es": "Usa el artículo definido con un sustantivo masculino."
           },
           "expected_it": "il / lo / l' + noun"
         }
@@ -647,7 +780,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -662,7 +796,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -677,7 +812,8 @@
       "infinitive": "stare",
       "translation": {
         "en": "to stay / to be (health)",
-        "ru": "находиться / чувствовать себя"
+        "ru": "находиться / чувствовать себя",
+        "es": "quedarse / estar (salud)"
       },
       "forms": {
         "io": "sto",

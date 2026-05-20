@@ -21,6 +21,12 @@
         "Прилагательные национальности",
         "Коммуникативное задание: di dove sei?",
         "Фонетика: буква S"
+      ],
+      "es": [
+        "Comprensión auditiva: la clase de Carla",
+        "Adjetivos de nacionalidad",
+        "Actividad comunicativa: ¿De dónde eres?",
+        "Fonética: letra S"
       ]
     }
   },
@@ -28,113 +34,134 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Asking and stating origin",
-        "ru": "Вопрос о происхождении и ответ на него"
+        "ru": "Вопрос о происхождении и ответ на него",
+        "es": "Preguntar y declarar origen"
       },
       "description": {
         "en": "Italian distinguishes informal 'tu' and formal 'Lei' when asking where someone is from.",
-        "ru": "Итальянский язык различает неформальную форму 'tu' и официальную 'Lei' при вопросе о том, откуда человек."
+        "ru": "Итальянский язык различает неформальную форму 'tu' и официальную 'Lei' при вопросе о том, откуда человек.",
+        "es": "El italiano distingue el 'tu' informal y el 'Lei' formal cuando se pregunta de dónde es alguien."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Di dove sei?",
           "en": "Where are you from?",
-          "ru": "Откуда ты?"
+          "ru": "Откуда ты?",
+          "es": "¿De dónde eres?"
         },
         {
           "context": "informal",
           "it": "E tu?",
           "en": "And you?",
-          "ru": "А ты?"
+          "ru": "А ты?",
+          "es": "¿Y tú?"
         },
         {
           "context": "formal",
           "it": "Di dov'è?",
           "en": "Where are you from? (formal)",
-          "ru": "Откуда вы? (формально)"
+          "ru": "Откуда вы? (формально)",
+          "es": "¿De dónde eres? (formal)"
         },
         {
           "context": "formal",
           "it": "E Lei?",
           "en": "And you? (formal)",
-          "ru": "А вы? (формально)"
+          "ru": "А вы? (формально)",
+          "es": "¿Y tú? (formal)"
         },
         {
           "context": "answer",
           "it": "Sono di Milano.",
           "en": "I am from Milan.",
-          "ru": "Я из Милана."
+          "ru": "Я из Милана.",
+          "es": "Soy de Milán."
         },
         {
           "context": "answer",
           "it": "Sono italiano.",
           "en": "I am Italian.",
-          "ru": "Я итальянец."
+          "ru": "Я итальянец.",
+          "es": "Soy italiano."
         },
         {
           "context": "answer",
           "it": "Sono italiano, di Milano.",
           "en": "I am Italian, from Milan.",
-          "ru": "Я итальянец, из Милана."
+          "ru": "Я итальянец, из Милана.",
+          "es": "Soy italiana, de Milán."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Nationality adjectives agree in gender",
-        "ru": "Прилагательные национальности согласуются по роду"
+        "ru": "Прилагательные национальности согласуются по роду",
+        "es": "Los adjetivos de nacionalidad concuerdan en género."
       },
       "description": {
         "en": "Nationality adjectives change endings to agree with masculine or feminine nouns.",
-        "ru": "Прилагательные национальности меняют окончания в соответствии с родом существительного — мужским или женским."
+        "ru": "Прилагательные национальности меняют окончания в соответствии с родом существительного — мужским или женским.",
+        "es": "Los adjetivos de nacionalidad cambian las terminaciones para coincidir con los sustantivos masculinos o femeninos."
       }
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Origin from cities uses 'di'",
-        "ru": "Происхождение из города с предлогом 'di'"
+        "ru": "Происхождение из города с предлогом 'di'",
+        "es": "El origen de las ciudades usa 'di'"
       },
       "description": {
         "en": "To say where someone is from, Italian commonly uses 'essere di' plus a city or place.",
-        "ru": "Для указания на то, откуда кто-то, в итальянском языке обычно используется 'essere di' с названием города или места."
+        "ru": "Для указания на то, откуда кто-то, в итальянском языке обычно используется 'essere di' с названием города или места.",
+        "es": "Para decir de dónde es alguien, el italiano suele utilizar \"essere di\" más una ciudad o lugar."
       },
       "examples": [
         {
           "it": "Juan è di Madrid.",
           "en": "Juan is from Madrid.",
-          "ru": "Хуан из Мадрида."
+          "ru": "Хуан из Мадрида.",
+          "es": "Juan es de Madrid."
         },
         {
           "it": "John è di New York.",
           "en": "John is from New York.",
-          "ru": "Джон из Нью-Йорка."
+          "ru": "Джон из Нью-Йорка.",
+          "es": "John es de Nueva York."
         }
       ]
     },
     {
       "category": {
         "en": "Phonetics",
-        "ru": "Фонетика"
+        "ru": "Фонетика",
+        "es": "Fonética"
       },
       "rule": {
         "en": "Letter S can be voiced or voiceless",
-        "ru": "Буква S может быть звонкой или глухой"
+        "ru": "Буква S может быть звонкой или глухой",
+        "es": "La letra S puede ser sonora o sorda."
       },
       "description": {
         "en": "Italian 's' may be pronounced as [z] or [s] depending on the word.",
-        "ru": "Итальянская 's' может произноситься как [z] или [s] в зависимости от слова."
+        "ru": "Итальянская 's' может произноситься как [z] или [s] в зависимости от слова.",
+        "es": "La 's' italiana puede pronunciarse como [z] o [s] dependiendo de la palabra."
       }
     }
   ],
@@ -145,8 +172,10 @@
       "ru": "школа",
       "type": {
         "en": "classroom noun",
-        "ru": "лексика класса"
-      }
+        "ru": "лексика класса",
+        "es": "aula sustantivo"
+      },
+      "es": "escuela"
     },
     {
       "term": "aula",
@@ -154,8 +183,10 @@
       "ru": "аудитория; класс",
       "type": {
         "en": "classroom noun",
-        "ru": "лексика класса"
-      }
+        "ru": "лексика класса",
+        "es": "aula sustantivo"
+      },
+      "es": "aula"
     },
     {
       "term": "classe",
@@ -163,8 +194,10 @@
       "ru": "класс; группа",
       "type": {
         "en": "classroom noun",
-        "ru": "лексика класса"
-      }
+        "ru": "лексика класса",
+        "es": "aula sustantivo"
+      },
+      "es": "clase"
     },
     {
       "term": "lezione",
@@ -172,8 +205,10 @@
       "ru": "урок; занятие",
       "type": {
         "en": "classroom noun",
-        "ru": "лексика класса"
-      }
+        "ru": "лексика класса",
+        "es": "aula sustantivo"
+      },
+      "es": "lección"
     },
     {
       "term": "studente",
@@ -181,8 +216,10 @@
       "ru": "студент",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "alumno"
     },
     {
       "term": "professoressa",
@@ -190,8 +227,10 @@
       "ru": "преподавательница; профессор (женщина)",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "profesora / profesora"
     },
     {
       "term": "insegnante",
@@ -199,8 +238,10 @@
       "ru": "учитель / учительница",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "maestro"
     },
     {
       "term": "zaino",
@@ -208,8 +249,10 @@
       "ru": "рюкзак",
       "type": {
         "en": "classroom noun",
-        "ru": "лексика класса"
-      }
+        "ru": "лексика класса",
+        "es": "aula sustantivo"
+      },
+      "es": "mochila"
     },
     {
       "term": "lavagna",
@@ -217,8 +260,10 @@
       "ru": "доска",
       "type": {
         "en": "classroom noun",
-        "ru": "лексика класса"
-      }
+        "ru": "лексика класса",
+        "es": "aula sustantivo"
+      },
+      "es": "junta"
     },
     {
       "term": "provenienza",
@@ -226,8 +271,10 @@
       "ru": "происхождение; откуда родом",
       "type": {
         "en": "grammar vocabulary",
-        "ru": "грамматическая лексика"
-      }
+        "ru": "грамматическая лексика",
+        "es": "vocabulario de gramática"
+      },
+      "es": "origen, procedencia"
     },
     {
       "term": "nazionalità",
@@ -235,8 +282,10 @@
       "ru": "национальность",
       "type": {
         "en": "grammar vocabulary",
-        "ru": "грамматическая лексика"
-      }
+        "ru": "грамматическая лексика",
+        "es": "vocabulario de gramática"
+      },
+      "es": "nacionalidad"
     },
     {
       "term": "di dove sei?",
@@ -244,8 +293,10 @@
       "ru": "откуда ты?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿de dónde eres?"
     },
     {
       "term": "di dov'è?",
@@ -253,8 +304,10 @@
       "ru": "откуда вы? (формально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿de dónde eres? (formal)"
     },
     {
       "term": "sono di Milano",
@@ -262,8 +315,10 @@
       "ru": "я из Милана",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "soy de milan"
     },
     {
       "term": "sono italiano",
@@ -271,8 +326,10 @@
       "ru": "я итальянец",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Soy italiano"
     },
     {
       "term": "americano/a",
@@ -280,8 +337,10 @@
       "ru": "американец / американка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Americano"
     },
     {
       "term": "australiano/a",
@@ -289,8 +348,10 @@
       "ru": "австралиец / австралийка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "australiano"
     },
     {
       "term": "argentino/a",
@@ -298,8 +359,10 @@
       "ru": "аргентинец / аргентинка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "argentino"
     },
     {
       "term": "austriaco/a",
@@ -307,8 +370,10 @@
       "ru": "австриец / австрийка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "austriaco"
     },
     {
       "term": "brasiliano/a",
@@ -316,8 +381,10 @@
       "ru": "бразилец / бразильянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "brasileño"
     },
     {
       "term": "canadese",
@@ -325,8 +392,10 @@
       "ru": "канадец / канадка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "canadiense"
     },
     {
       "term": "cinese",
@@ -334,8 +403,10 @@
       "ru": "китаец / китаянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Chino"
     },
     {
       "term": "coreano/a",
@@ -343,8 +414,10 @@
       "ru": "кореец / кореянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "coreano"
     },
     {
       "term": "egiziano/a",
@@ -352,8 +425,10 @@
       "ru": "египтянин / египтянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "egipcio"
     },
     {
       "term": "francese",
@@ -361,8 +436,10 @@
       "ru": "француз / француженка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Francés"
     },
     {
       "term": "giapponese",
@@ -370,8 +447,10 @@
       "ru": "японец / японка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "japonés"
     },
     {
       "term": "greco/a",
@@ -379,8 +458,10 @@
       "ru": "грек / гречанка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Griego"
     },
     {
       "term": "indiano/a",
@@ -388,8 +469,10 @@
       "ru": "индиец / индианка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "indio"
     },
     {
       "term": "inglese",
@@ -397,8 +480,10 @@
       "ru": "англичанин / англичанка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Inglés"
     },
     {
       "term": "messicano/a",
@@ -406,8 +491,10 @@
       "ru": "мексиканец / мексиканка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "mexicano"
     },
     {
       "term": "norvegese",
@@ -415,8 +502,10 @@
       "ru": "норвежец / норвежка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "noruego"
     },
     {
       "term": "polacco/a",
@@ -424,8 +513,10 @@
       "ru": "поляк / полька",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Polaco"
     },
     {
       "term": "russo/a",
@@ -433,8 +524,10 @@
       "ru": "русский / русская",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "ruso"
     },
     {
       "term": "senegalese",
@@ -442,8 +535,10 @@
       "ru": "сенегалец / сенегалка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "senegalés"
     },
     {
       "term": "spagnolo/a",
@@ -451,8 +546,10 @@
       "ru": "испанец / испанка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Español"
     },
     {
       "term": "svedese",
@@ -460,8 +557,10 @@
       "ru": "швед / шведка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "sueco"
     },
     {
       "term": "tedesco/a",
@@ -469,8 +568,10 @@
       "ru": "немец / немка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Alemán"
     },
     {
       "term": "tunisino/a",
@@ -478,8 +579,10 @@
       "ru": "тунисец / тунисянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "tunecino"
     },
     {
       "term": "bielorusso/a",
@@ -487,8 +590,10 @@
       "ru": "белорус / белоруска",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "bielorruso"
     },
     {
       "term": "moldavo/a",
@@ -496,8 +601,10 @@
       "ru": "молдаванин / молдаванка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "moldavo"
     },
     {
       "term": "svizzero/a",
@@ -505,8 +612,10 @@
       "ru": "швейцарец / швейцарка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "suizo"
     },
     {
       "term": "aver ragione",
@@ -514,8 +623,10 @@
       "ru": "быть правым / правой",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener razón"
     },
     {
       "term": "oppure",
@@ -523,8 +634,10 @@
       "ru": "или",
       "type": {
         "en": "connector",
-        "ru": "союз"
-      }
+        "ru": "союз",
+        "es": "conector"
+      },
+      "es": "o"
     },
     {
       "term": "sì",
@@ -532,8 +645,10 @@
       "ru": "да",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Sí"
     },
     {
       "term": "adesso",
@@ -541,8 +656,10 @@
       "ru": "сейчас",
       "type": {
         "en": "adverb",
-        "ru": "наречие"
-      }
+        "ru": "наречие",
+        "es": "adverbio"
+      },
+      "es": "ahora"
     },
     {
       "term": "sera",
@@ -550,8 +667,10 @@
       "ru": "вечер",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "noche"
     },
     {
       "term": "una pronta guarigione",
@@ -559,8 +678,10 @@
       "ru": "скорейшего выздоровления",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "que te mejores pronto"
     },
     {
       "term": "italiano/a",
@@ -568,8 +689,10 @@
       "ru": "итальянец / итальянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "italiano"
     },
     {
       "term": "straniero/a",
@@ -577,50 +700,60 @@
       "ru": "иностранец / иностранка; иностранный",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "extranjero; extranjero"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Сопоставьте."
+      "ru": "Сопоставьте.",
+      "es": "Fósforo."
     },
     {
       "it": "Ascoltate e rispondete.",
       "en": "Listen and answer.",
-      "ru": "Послушайте и ответьте."
+      "ru": "Послушайте и ответьте.",
+      "es": "Escuche y responda."
     },
     {
       "it": "Leggete e verificate.",
       "en": "Read and check.",
-      "ru": "Прочитайте и проверьте."
+      "ru": "Прочитайте и проверьте.",
+      "es": "Lee y comprueba."
     },
     {
       "it": "Leggete e rispondete.",
       "en": "Read and answer.",
-      "ru": "Прочитайте и ответьте."
+      "ru": "Прочитайте и ответьте.",
+      "es": "Lee y responde."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните."
+      "ru": "Заполните.",
+      "es": "Completo."
     },
     {
       "it": "Completate con -o, -a, -e.",
       "en": "Complete with -o, -a, -e.",
-      "ru": "Заполните, используя окончания -o, -a, -e."
+      "ru": "Заполните, используя окончания -o, -a, -e.",
+      "es": "Completar con -o, -a, -e."
     },
     {
       "it": "Secondo me...",
       "en": "In my opinion...",
-      "ru": "По-моему..."
+      "ru": "По-моему...",
+      "es": "En mi opinión..."
     },
     {
       "it": "Leggete le parole.",
       "en": "Read the words.",
-      "ru": "Прочитайте слова."
+      "ru": "Прочитайте слова.",
+      "es": "Lee las palabras."
     }
   ],
   "dialogues": [
@@ -630,59 +763,68 @@
       "register": "informal",
       "context": {
         "en": "Two students in an Italian class exchange origins",
-        "ru": "Двое студентов на уроке итальянского рассказывают друг другу о своём происхождении"
+        "ru": "Двое студентов на уроке итальянского рассказывают друг другу о своём происхождении",
+        "es": "Dos estudiantes en una clase de italiano intercambian orígenes"
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao! Mi chiamo Antonio. E tu?",
           "en": "Hi! My name is Antonio. And you?",
-          "ru": "Привет! Меня зовут Антонио. А тебя?"
+          "ru": "Привет! Меня зовут Антонио. А тебя?",
+          "es": "¡Hola! Mi nombre es Antonio. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Io sono Yuki. Piacere!",
           "en": "I am Yuki. Pleased to meet you!",
-          "ru": "Я Юки. Приятно познакомиться!"
+          "ru": "Я Юки. Приятно познакомиться!",
+          "es": "Soy Yuki. ¡Encantado de conocerte!"
         },
         {
           "speaker": "A",
           "it": "Di dove sei, Yuki?",
           "en": "Where are you from, Yuki?",
-          "ru": "Откуда ты, Юки?"
+          "ru": "Откуда ты, Юки?",
+          "es": "¿De dónde eres, Yuki?"
         },
         {
           "speaker": "B",
           "it": "Sono giapponese, di Tokyo. E tu?",
           "en": "I am Japanese, from Tokyo. And you?",
-          "ru": "Я японка, из Токио. А ты?"
+          "ru": "Я японка, из Токио. А ты?",
+          "es": "Soy japonés, de Tokio. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Sono di Pechino. Sono cinese.",
           "en": "I am from Beijing. I am Chinese.",
-          "ru": "Я из Пекина. Я китаец."
+          "ru": "Я из Пекина. Я китаец.",
+          "es": "Soy de Pekín. Soy Chino."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask where someone is from (informal)",
-            "ru": "Спросите, откуда человек (неформально)"
+            "ru": "Спросите, откуда человек (неформально)",
+            "es": "Preguntar de dónde es alguien (informal)"
           },
           "expected_it": "Di dove sei?"
         },
         {
           "cue": {
             "en": "Say your nationality and city of origin",
-            "ru": "Назовите свою национальность и город происхождения"
+            "ru": "Назовите свою национальность и город происхождения",
+            "es": "Di tu nacionalidad y ciudad de origen."
           },
           "expected_it": "Sono [nazionalità], di [città]."
         },
         {
           "cue": {
             "en": "Ask back (informal)",
-            "ru": "Спросите в ответ (неформально)"
+            "ru": "Спросите в ответ (неформально)",
+            "es": "Preguntar de nuevo (informal)"
           },
           "expected_it": "E tu?"
         }
@@ -694,53 +836,61 @@
       "register": "formal",
       "context": {
         "en": "A formal exchange about nationality at a professional event",
-        "ru": "Официальный разговор о национальности на профессиональном мероприятии"
+        "ru": "Официальный разговор о национальности на профессиональном мероприятии",
+        "es": "Un intercambio formal sobre nacionalidad en un evento profesional."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Buongiorno. Lei è straniero?",
           "en": "Good morning. Are you a foreigner?",
-          "ru": "Доброе утро. Вы иностранец?"
+          "ru": "Доброе утро. Вы иностранец?",
+          "es": "Buen día. ¿Eres extranjero?"
         },
         {
           "speaker": "B",
           "it": "Sì, sono americano, di New York. E Lei?",
           "en": "Yes, I am American, from New York. And you?",
-          "ru": "Да, я американец, из Нью-Йорка. А вы?"
+          "ru": "Да, я американец, из Нью-Йорка. А вы?",
+          "es": "Sí, soy estadounidense, de Nueva York. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Sono italiano, di Roma.",
           "en": "I am Italian, from Rome.",
-          "ru": "Я итальянец, из Рима."
+          "ru": "Я итальянец, из Рима.",
+          "es": "Soy italiana, de Roma."
         },
         {
           "speaker": "B",
           "it": "Roma! È una città bellissima!",
           "en": "Rome! It is a beautiful city!",
-          "ru": "Рим! Это прекрасный город!"
+          "ru": "Рим! Это прекрасный город!",
+          "es": "¡Roma! ¡Es una ciudad hermosa!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask where someone is from (formal)",
-            "ru": "Спросите, откуда человек (официально)"
+            "ru": "Спросите, откуда человек (официально)",
+            "es": "Preguntar de dónde es alguien (formal)"
           },
           "expected_it": "Di dov'è?"
         },
         {
           "cue": {
             "en": "Say you are American from New York",
-            "ru": "Скажите, что вы американец / американка из Нью-Йорка"
+            "ru": "Скажите, что вы американец / американка из Нью-Йорка",
+            "es": "Di que eres estadounidense de Nueva York"
           },
           "expected_it": "Sono americano/a, di New York."
         },
         {
           "cue": {
             "en": "Ask back (formal)",
-            "ru": "Спросите в ответ (официально)"
+            "ru": "Спросите в ответ (официально)",
+            "es": "Preguntar de nuevo (formal)"
           },
           "expected_it": "E Lei?"
         }
@@ -752,164 +902,191 @@
       "register": "informal",
       "context": {
         "en": "Two students talk about origin, nationality, languages, and reasons for studying Italian.",
-        "ru": "Два студента говорят о происхождении, национальности, языках и причинах изучения итальянского."
+        "ru": "Два студента говорят о происхождении, национальности, языках и причинах изучения итальянского.",
+        "es": "Dos estudiantes hablan sobre origen, nacionalidad, idiomas y motivos para estudiar italiano."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, io sono Antonio. E tu?",
           "en": "Hi, I'm Antonio. And you?",
-          "ru": "Привет, я Антонио. А ты?"
+          "ru": "Привет, я Антонио. А ты?",
+          "es": "Hola, soy antonio. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Ciao, Antonio. Mi chiamo Yuki.",
           "en": "Hi, Antonio. My name is Yuki.",
-          "ru": "Привет, Антонио. Меня зовут Юки."
+          "ru": "Привет, Антонио. Меня зовут Юки.",
+          "es": "Hola Antonio. Mi nombre es Yuki."
         },
         {
           "speaker": "A",
           "it": "Piacere, Yuki. Di dove sei?",
           "en": "Nice to meet you, Yuki. Where are you from?",
-          "ru": "Приятно познакомиться, Юки. Откуда ты?"
+          "ru": "Приятно познакомиться, Юки. Откуда ты?",
+          "es": "Encantado de conocerte, Yuki. ¿De dónde eres?"
         },
         {
           "speaker": "B",
           "it": "Sono giapponese, di Tokyo. E tu?",
           "en": "I'm Japanese, from Tokyo. And you?",
-          "ru": "Я японка, из Токио. А ты?"
+          "ru": "Я японка, из Токио. А ты?",
+          "es": "Soy japonés, de Tokio. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Sono cinese, di Pechino.",
           "en": "I'm Chinese, from Beijing.",
-          "ru": "Я китаец, из Пекина."
+          "ru": "Я китаец, из Пекина.",
+          "es": "Soy chino, de Beijing."
         },
         {
           "speaker": "B",
           "it": "Parli italiano da molto tempo?",
           "en": "Have you been speaking Italian for a long time?",
-          "ru": "Ты давно говоришь по-итальянски?"
+          "ru": "Ты давно говоришь по-итальянски?",
+          "es": "¿Hablas italiano desde hace mucho tiempo?"
         },
         {
           "speaker": "A",
           "it": "No, studio italiano da poco.",
           "en": "No, I've been studying Italian for a short time.",
-          "ru": "Нет, я учу итальянский недавно."
+          "ru": "Нет, я учу итальянский недавно.",
+          "es": "No, llevo poco tiempo estudiando italiano."
         },
         {
           "speaker": "B",
           "it": "Anch'io. Parlo solo un po' italiano.",
           "en": "Me too. I only speak a little Italian.",
-          "ru": "Я тоже. Говорю только немного по-итальянски."
+          "ru": "Я тоже. Говорю только немного по-итальянски.",
+          "es": "Yo también. Sólo hablo un poco de italiano."
         },
         {
           "speaker": "A",
           "it": "Che lingue parli?",
           "en": "What languages do you speak?",
-          "ru": "На каких языках ты говоришь?"
+          "ru": "На каких языках ты говоришь?",
+          "es": "¿Qué idiomas hablas?"
         },
         {
           "speaker": "B",
           "it": "Parlo giapponese, inglese e un po' italiano.",
           "en": "I speak Japanese, English, and a little Italian.",
-          "ru": "Говорю по-японски, по-английски и немного по-итальянски."
+          "ru": "Говорю по-японски, по-английски и немного по-итальянски.",
+          "es": "Hablo japonés, inglés y un poco de italiano."
         },
         {
           "speaker": "A",
           "it": "Io parlo cinese, inglese e studio italiano.",
           "en": "I speak Chinese, English, and I'm studying Italian.",
-          "ru": "Я говорю по-китайски, по-английски и учу итальянский."
+          "ru": "Я говорю по-китайски, по-английски и учу итальянский.",
+          "es": "Hablo chino, inglés y estoy estudiando italiano."
         },
         {
           "speaker": "B",
           "it": "Perché studi italiano?",
           "en": "Why are you studying Italian?",
-          "ru": "Почему ты учишь итальянский?"
+          "ru": "Почему ты учишь итальянский?",
+          "es": "¿Por qué estás estudiando italiano?"
         },
         {
           "speaker": "A",
           "it": "Perché amo l'Italia e la musica italiana.",
           "en": "Because I love Italy and Italian music.",
-          "ru": "Потому что люблю Италию и итальянскую музыку."
+          "ru": "Потому что люблю Италию и итальянскую музыку.",
+          "es": "Porque amo Italia y la música italiana."
         },
         {
           "speaker": "B",
           "it": "Io studio italiano perché voglio viaggiare.",
           "en": "I'm studying Italian because I want to travel.",
-          "ru": "Я учу итальянский, потому что хочу путешествовать."
+          "ru": "Я учу итальянский, потому что хочу путешествовать.",
+          "es": "Estoy estudiando italiano porque quiero viajar."
         },
         {
           "speaker": "A",
           "it": "Vuoi andare a Roma?",
           "en": "Do you want to go to Rome?",
-          "ru": "Хочешь поехать в Рим?"
+          "ru": "Хочешь поехать в Рим?",
+          "es": "¿Quieres ir a Roma?"
         },
         {
           "speaker": "B",
           "it": "Sì, voglio andare a Roma e Firenze.",
           "en": "Yes, I want to go to Rome and Florence.",
-          "ru": "Да, хочу поехать в Рим и Флоренцию."
+          "ru": "Да, хочу поехать в Рим и Флоренцию.",
+          "es": "Sí, quiero ir a Roma y Florencia."
         },
         {
           "speaker": "A",
           "it": "Firenze è molto bella, dicono.",
           "en": "Florence is very beautiful, they say.",
-          "ru": "Флоренция очень красивая, говорят."
+          "ru": "Флоренция очень красивая, говорят.",
+          "es": "Florencia es muy bonita, dicen."
         },
         {
           "speaker": "B",
           "it": "Sì. Tu vuoi visitare Tokyo?",
           "en": "Yes. Do you want to visit Tokyo?",
-          "ru": "Да. А ты хочешь побывать в Токио?"
+          "ru": "Да. А ты хочешь побывать в Токио?",
+          "es": "Sí. ¿Quieres visitar Tokio?"
         },
         {
           "speaker": "A",
           "it": "Certo. Voglio vedere Tokyo e Kyoto.",
           "en": "Of course. I want to see Tokyo and Kyoto.",
-          "ru": "Конечно. Хочу увидеть Токио и Киото."
+          "ru": "Конечно. Хочу увидеть Токио и Киото.",
+          "es": "Por supuesto. Quiero ver Tokio y Kioto."
         },
         {
           "speaker": "B",
           "it": "Questa è la nostra compagna, Carla.",
           "en": "This is our classmate, Carla.",
-          "ru": "Это наша одноклассница, Карла."
+          "ru": "Это наша одноклассница, Карла.",
+          "es": "Esta es nuestra compañera de clase, Carla."
         },
         {
           "speaker": "A",
           "it": "Carla è italiana?",
           "en": "Is Carla Italian?",
-          "ru": "Карла итальянка?"
+          "ru": "Карла итальянка?",
+          "es": "¿Carla es italiana?"
         },
         {
           "speaker": "B",
           "it": "Sì, è italiana, di Napoli.",
           "en": "Yes, she's Italian, from Naples.",
-          "ru": "Да, она итальянка, из Неаполя."
+          "ru": "Да, она итальянка, из Неаполя.",
+          "es": "Sí, ella es italiana, de Nápoles."
         },
         {
           "speaker": "A",
           "it": "Allora può aiutarci con la pronuncia.",
           "en": "Then she can help us with pronunciation.",
-          "ru": "Тогда она может помочь нам с произношением."
+          "ru": "Тогда она может помочь нам с произношением.",
+          "es": "Entonces ella puede ayudarnos con la pronunciación."
         },
         {
           "speaker": "B",
           "it": "Sì, chiediamo a lei dopo la lezione.",
           "en": "Yes, let's ask her after the lesson.",
-          "ru": "Да, спросим её после урока."
+          "ru": "Да, спросим её после урока.",
+          "es": "Sí, preguntémosle después de la lección."
         },
         {
           "speaker": "A",
           "it": "Ottima idea.",
           "en": "Great idea.",
-          "ru": "Отличная идея."
+          "ru": "Отличная идея.",
+          "es": "Gran idea."
         },
         {
           "speaker": "B",
           "it": "Andiamo a salutarla?",
           "en": "Shall we go say hi to her?",
-          "ru": "Пойдём поздороваемся с ней?"
+          "ru": "Пойдём поздороваемся с ней?",
+          "es": "¿Vamos a saludarla?"
         }
       ]
     }
@@ -919,7 +1096,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -934,7 +1112,8 @@
       "infinitive": "chiamarsi",
       "translation": {
         "en": "to be called",
-        "ru": "называться / зваться"
+        "ru": "называться / зваться",
+        "es": "ser llamado"
       },
       "forms": {
         "io": "mi chiamo",
@@ -949,7 +1128,8 @@
       "infinitive": "parlare",
       "translation": {
         "en": "to speak",
-        "ru": "говорить"
+        "ru": "говорить",
+        "es": "hablar"
       },
       "forms": {
         "io": "parlo",

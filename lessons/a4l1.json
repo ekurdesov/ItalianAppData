@@ -18,6 +18,11 @@
         "Чтение: Vado al bar",
         "Грамматика: глаголы на -are, -ere, -ire, неправильные глаголы andare/fare",
         "Спрашивать и говорить, зачем мы идём в бар"
+      ],
+      "es": [
+        "Comprensión lectora: voy al bar",
+        "Gramática: verbos en -are, -ere, -ire, verbos irregulares andare/fare",
+        "Preguntar y decir por qué vamos al bar."
       ]
     }
   },
@@ -25,15 +30,18 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Regular verbs in -are (review)",
-        "ru": "Правильные глаголы на -are (повторение)"
+        "ru": "Правильные глаголы на -are (повторение)",
+        "es": "Verbos regulares en -are (repaso)"
       },
       "description": {
         "en": "Regular -are verbs follow the pattern -o, -i, -a, -iamo, -ate, -ano in the present tense.",
-        "ru": "Правильные глаголы на -are в настоящем времени имеют окончания -o, -i, -a, -iamo, -ate, -ano."
+        "ru": "Правильные глаголы на -are в настоящем времени имеют окончания -o, -i, -a, -iamo, -ate, -ano.",
+        "es": "Los verbos regulares -are siguen el patrón -o, -i, -a, -iamo, -ate, -ano en tiempo presente."
       },
       "conjugations": {
         "io": "lavoro",
@@ -47,32 +55,38 @@
         {
           "it": "Stefano lavora al bar.",
           "en": "Stefano works at the bar.",
-          "ru": "Стефано работает в баре."
+          "ru": "Стефано работает в баре.",
+          "es": "Stefano trabaja en el bar."
         },
         {
           "it": "Monica arriva tardi in ufficio.",
           "en": "Monica arrives late at the office.",
-          "ru": "Моника приходит в офис поздно."
+          "ru": "Моника приходит в офис поздно.",
+          "es": "Mónica llega tarde a la oficina."
         },
         {
           "it": "I vicini di casa litigano spesso.",
           "en": "The neighbours argue often.",
-          "ru": "Соседи часто ссорятся."
+          "ru": "Соседи часто ссорятся.",
+          "es": "Los vecinos discuten a menudo."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Regular verbs in -ere (review)",
-        "ru": "Правильные глаголы на -ere (повторение)"
+        "ru": "Правильные глаголы на -ere (повторение)",
+        "es": "Verbos regulares en -ere (repaso)"
       },
       "description": {
         "en": "Regular -ere verbs follow the pattern -o, -i, -e, -iamo, -ete, -ono.",
-        "ru": "Правильные глаголы на -ere в настоящем времени имеют окончания -o, -i, -e, -iamo, -ete, -ono."
+        "ru": "Правильные глаголы на -ere в настоящем времени имеют окончания -o, -i, -e, -iamo, -ete, -ono.",
+        "es": "Los verbos regulares -ere siguen el patrón -o, -i, -e, -iamo, -ete, -ono."
       },
       "conjugations": {
         "io": "prendo",
@@ -86,32 +100,38 @@
         {
           "it": "Stefano prende l'autobus per andare al lavoro.",
           "en": "Stefano takes the bus to go to work.",
-          "ru": "Стефано едет на автобусе на работу."
+          "ru": "Стефано едет на автобусе на работу.",
+          "es": "Stefano toma el autobús para ir a trabajar."
         },
         {
           "it": "Il bar chiude alle 8.",
           "en": "The bar closes at 8.",
-          "ru": "Бар закрывается в 8."
+          "ru": "Бар закрывается в 8.",
+          "es": "El bar cierra a las 8."
         },
         {
           "it": "La mia famiglia riceve molti pacchi.",
           "en": "My family receives many parcels.",
-          "ru": "Моя семья получает много посылок."
+          "ru": "Моя семья получает много посылок.",
+          "es": "Mi familia recibe muchos paquetes."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Irregular verb: andare",
-        "ru": "Неправильный глагол: andare"
+        "ru": "Неправильный глагол: andare",
+        "es": "Verbo irregular: andare"
       },
       "description": {
         "en": "The verb 'andare' (to go) is irregular in the present tense.",
-        "ru": "Глагол «andare» (идти/ехать) неправильный в настоящем времени."
+        "ru": "Глагол «andare» (идти/ехать) неправильный в настоящем времени.",
+        "es": "El verbo 'andare' (ir) es irregular en tiempo presente."
       },
       "conjugations": {
         "io": "vado",
@@ -125,32 +145,38 @@
         {
           "it": "La mattina Piero va in ufficio alle nove.",
           "en": "In the morning Piero goes to the office at nine.",
-          "ru": "Утром Пьеро идёт в офис в девять."
+          "ru": "Утром Пьеро идёт в офис в девять.",
+          "es": "Por la mañana Piero va a la oficina a las nueve."
         },
         {
           "it": "Ogni sera vado in piscina con Marina.",
           "en": "Every evening I go to the pool with Marina.",
-          "ru": "Каждый вечер я хожу в бассейн с Мариной."
+          "ru": "Каждый вечер я хожу в бассейн с Мариной.",
+          "es": "Todas las noches voy a la piscina con Marina."
         },
         {
           "it": "Andate a cena al ristorante sabato?",
           "en": "Are you going to dinner at the restaurant on Saturday?",
-          "ru": "Вы идёте ужинать в ресторан в субботу?"
+          "ru": "Вы идёте ужинать в ресторан в субботу?",
+          "es": "¿Vas a cenar al restaurante el sábado?"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Irregular verb: fare",
-        "ru": "Неправильный глагол: fare"
+        "ru": "Неправильный глагол: fare",
+        "es": "Verbo irregular: tarifa"
       },
       "description": {
         "en": "The verb 'fare' (to do / to make) is irregular. It is used in many fixed expressions.",
-        "ru": "Глагол «fare» (делать) неправильный. Используется во многих устойчивых выражениях."
+        "ru": "Глагол «fare» (делать) неправильный. Используется во многих устойчивых выражениях.",
+        "es": "El verbo 'fare' (to do/to make) es irregular. Se utiliza en muchas expresiones fijas."
       },
       "conjugations": {
         "io": "faccio",
@@ -164,53 +190,63 @@
         {
           "it": "Tutte le mattine Roberto fa colazione con un cornetto e un cappuccino.",
           "en": "Every morning Roberto has breakfast with a croissant and a cappuccino.",
-          "ru": "Каждое утро Роберто завтракает круассаном и капучино."
+          "ru": "Каждое утро Роберто завтракает круассаном и капучино.",
+          "es": "Todas las mañanas Roberto desayuna con un croissant y un capuchino."
         },
         {
           "it": "Noi facciamo belle fotografie.",
           "en": "We take beautiful photos.",
-          "ru": "Мы делаем красивые фотографии."
+          "ru": "Мы делаем красивые фотографии.",
+          "es": "Tomamos hermosas fotos."
         },
         {
           "it": "Cosa fate dopo cena?",
           "en": "What do you do after dinner?",
-          "ru": "Что вы делаете после ужина?"
+          "ru": "Что вы делаете после ужина?",
+          "es": "¿Qué haces después de cenar?"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Saying why you go to the bar",
-        "ru": "Сказать, зачем идёшь в бар"
+        "ru": "Сказать, зачем идёшь в бар",
+        "es": "Diciendo porque vas al bar"
       },
       "description": {
         "en": "Use 'Vado al bar per + infinitive' to explain the purpose of going to the bar.",
-        "ru": "Конструкция «Vado al bar per + инфинитив» объясняет цель похода в бар."
+        "ru": "Конструкция «Vado al bar per + инфинитив» объясняет цель похода в бар.",
+        "es": "Utilice 'Vado al bar per + infinitivo' para explicar el propósito de ir al bar."
       },
       "examples": [
         {
           "it": "Vado al bar per fare colazione.",
           "en": "I go to the bar to have breakfast.",
-          "ru": "Я иду в бар позавтракать."
+          "ru": "Я иду в бар позавтракать.",
+          "es": "Voy al bar a desayunar."
         },
         {
           "it": "Vado al bar per incontrare gli amici.",
           "en": "I go to the bar to meet friends.",
-          "ru": "Я иду в бар встретиться с друзьями."
+          "ru": "Я иду в бар встретиться с друзьями.",
+          "es": "Voy al bar para encontrarme con amigos."
         },
         {
           "it": "Vado al bar per fare una pausa.",
           "en": "I go to the bar to take a break.",
-          "ru": "Я иду в бар сделать перерыв."
+          "ru": "Я иду в бар сделать перерыв.",
+          "es": "Voy al bar a tomar un descanso."
         },
         {
           "it": "Vado al bar per leggere il giornale.",
           "en": "I go to the bar to read the newspaper.",
-          "ru": "Я иду в бар почитать газету."
+          "ru": "Я иду в бар почитать газету.",
+          "es": "Voy al bar a leer el periódico."
         }
       ]
     }
@@ -222,8 +258,10 @@
       "ru": "идти / ехать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "ir"
     },
     {
       "term": "fare",
@@ -231,8 +269,10 @@
       "ru": "делать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "hacer / hacer"
     },
     {
       "term": "il bar",
@@ -240,8 +280,10 @@
       "ru": "бар, кафе",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "bar, cafetería"
     },
     {
       "term": "fare colazione",
@@ -249,8 +291,10 @@
       "ru": "завтракать",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "desayunar"
     },
     {
       "term": "fare una pausa",
@@ -258,8 +302,10 @@
       "ru": "сделать перерыв",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tomar un descanso"
     },
     {
       "term": "fare una passeggiata",
@@ -267,8 +313,10 @@
       "ru": "прогуляться",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "salir a caminar"
     },
     {
       "term": "fare la spesa",
@@ -276,8 +324,10 @@
       "ru": "делать покупки (продукты)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "hacer las compras"
     },
     {
       "term": "fare la doccia",
@@ -285,8 +335,10 @@
       "ru": "принять душ",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tomar una ducha"
     },
     {
       "term": "fare fotografie",
@@ -294,8 +346,10 @@
       "ru": "фотографировать",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tomar fotos"
     },
     {
       "term": "fare un giro",
@@ -303,8 +357,10 @@
       "ru": "прокатиться / прогуляться",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "dar un paseo / dar un paseo"
     },
     {
       "term": "l'aperitivo",
@@ -312,8 +368,10 @@
       "ru": "аперитив",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "aperitivo"
     },
     {
       "term": "il cornetto",
@@ -321,8 +379,10 @@
       "ru": "круассан",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "cuerno"
     },
     {
       "term": "il panino",
@@ -330,8 +390,10 @@
       "ru": "бутерброд, булочка",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "sándwich, panecillo"
     },
     {
       "term": "il giornale",
@@ -339,8 +401,10 @@
       "ru": "газета",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "periódico"
     },
     {
       "term": "la piscina",
@@ -348,8 +412,10 @@
       "ru": "бассейн",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "piscina"
     },
     {
       "term": "l'ufficio",
@@ -357,8 +423,10 @@
       "ru": "офис",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "oficina"
     },
     {
       "term": "la mensa",
@@ -366,8 +434,10 @@
       "ru": "столовая",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "cantina"
     },
     {
       "term": "il meccanico",
@@ -375,8 +445,10 @@
       "ru": "механик",
       "type": {
         "en": "profession",
-        "ru": "профессия"
-      }
+        "ru": "профессия",
+        "es": "profesión"
+      },
+      "es": "mecánico"
     },
     {
       "term": "la segretaria",
@@ -384,8 +456,10 @@
       "ru": "секретарь",
       "type": {
         "en": "profession",
-        "ru": "профессия"
-      }
+        "ru": "профессия",
+        "es": "profesión"
+      },
+      "es": "secretario"
     },
     {
       "term": "le patatine",
@@ -393,8 +467,10 @@
       "ru": "чипсы",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "patatas fritas, patatas fritas"
     },
     {
       "term": "le olive",
@@ -402,8 +478,10 @@
       "ru": "оливки",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "aceitunas"
     },
     {
       "term": "per + infinito",
@@ -411,40 +489,48 @@
       "ru": "чтобы (цель)",
       "type": {
         "en": "grammar structure",
-        "ru": "грамматическая конструкция"
-      }
+        "ru": "грамматическая конструкция",
+        "es": "estructura gramatical"
+      },
+      "es": "para (propósito)"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Leggete.",
       "en": "Read.",
-      "ru": "Прочитайте."
+      "ru": "Прочитайте.",
+      "es": "Leer."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     },
     {
       "it": "Completate con il verbo andare.",
       "en": "Complete with the verb andare.",
-      "ru": "Дополните глаголом andare."
+      "ru": "Дополните глаголом andare.",
+      "es": "Completa con el verbo andare."
     },
     {
       "it": "Completate con il verbo fare.",
       "en": "Complete with the verb fare.",
-      "ru": "Дополните глаголом fare."
+      "ru": "Дополните глаголом fare.",
+      "es": "Completa con el verbo tarifa."
     },
     {
       "it": "Abbinate le forme e i pronomi.",
       "en": "Match the forms and the pronouns.",
-      "ru": "Соедините формы и местоимения."
+      "ru": "Соедините формы и местоимения.",
+      "es": "Relaciona las formas y los pronombres."
     },
     {
       "it": "Andate volentieri al bar?",
       "en": "Do you like going to the bar?",
-      "ru": "Вы охотно ходите в бар?"
+      "ru": "Вы охотно ходите в бар?",
+      "es": "¿Te gusta ir al bar?"
     }
   ],
   "dialogues": [
@@ -454,59 +540,68 @@
       "register": "informal",
       "context": {
         "en": "Students discuss why they go to the bar, using 'per + infinitive'.",
-        "ru": "Студенты обсуждают, зачем ходят в бар, используя конструкцию «per + инфинитив»."
+        "ru": "Студенты обсуждают, зачем ходят в бар, используя конструкцию «per + инфинитив».",
+        "es": "Los estudiantes discuten por qué van al bar usando 'per + infinitivo'."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Perché vai al bar?",
           "en": "Why do you go to the bar?",
-          "ru": "Зачем ты ходишь в бар?"
+          "ru": "Зачем ты ходишь в бар?",
+          "es": "¿Por qué vas al bar?"
         },
         {
           "speaker": "B",
           "it": "Vado al bar per fare colazione e leggere il giornale. E tu?",
           "en": "I go to the bar to have breakfast and read the newspaper. And you?",
-          "ru": "Я хожу в бар позавтракать и почитать газету. А ты?"
+          "ru": "Я хожу в бар позавтракать и почитать газету. А ты?",
+          "es": "Voy al bar a desayunar y leer el periódico. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Io vado al bar per incontrare gli amici e prendere un aperitivo.",
           "en": "I go to the bar to meet friends and have an aperitif.",
-          "ru": "Я хожу в бар встретиться с друзьями и выпить аперитив."
+          "ru": "Я хожу в бар встретиться с друзьями и выпить аперитив.",
+          "es": "Voy al bar a quedar con amigos y tomar un aperitivo."
         },
         {
           "speaker": "B",
           "it": "Andate spesso al bar?",
           "en": "Do you go to the bar often?",
-          "ru": "Вы часто ходите в бар?"
+          "ru": "Вы часто ходите в бар?",
+          "es": "¿Vas a menudo al bar?"
         },
         {
           "speaker": "A",
           "it": "Sì, andiamo quasi ogni giorno.",
           "en": "Yes, we go almost every day.",
-          "ru": "Да, мы ходим почти каждый день."
+          "ru": "Да, мы ходим почти каждый день.",
+          "es": "Sí, vamos casi todos los días."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Say you go to the bar to have breakfast",
-            "ru": "Сказать, что идёшь в бар позавтракать"
+            "ru": "Сказать, что идёшь в бар позавтракать",
+            "es": "Di que vas al bar a desayunar"
           },
           "expected_it": "Vado al bar per fare colazione."
         },
         {
           "cue": {
             "en": "Ask where someone goes in the morning",
-            "ru": "Спросить, куда кто-то идёт утром"
+            "ru": "Спросить, куда кто-то идёт утром",
+            "es": "Preguntar adónde va alguien por la mañana."
           },
           "expected_it": "Dove vai la mattina?"
         },
         {
           "cue": {
             "en": "Say what you do after dinner",
-            "ru": "Сказать, что делаешь после ужина"
+            "ru": "Сказать, что делаешь после ужина",
+            "es": "Di lo que haces después de cenar."
           },
           "expected_it": "Dopo cena faccio …"
         }
@@ -518,188 +613,219 @@
       "register": "informal",
       "context": {
         "en": "Two friends go to a bar, order drinks and snacks, and discuss preferences.",
-        "ru": "Двое друзей идут в бар, заказывают напитки и перекусы и обсуждают предпочтения."
+        "ru": "Двое друзей идут в бар, заказывают напитки и перекусы и обсуждают предпочтения.",
+        "es": "Dos amigos van a un bar, piden bebidas y bocadillos y discuten sus preferencias."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, dove vai dopo la lezione?",
           "en": "Hi, where are you going after the lesson?",
-          "ru": "Привет, куда ты идёшь после урока?"
+          "ru": "Привет, куда ты идёшь после урока?",
+          "es": "Hola, ¿adónde irás después de la lección?"
         },
         {
           "speaker": "B",
           "it": "Vado al bar. E tu?",
           "en": "I'm going to the bar. And you?",
-          "ru": "Иду в бар. А ты?"
+          "ru": "Иду в бар. А ты?",
+          "es": "Voy al bar. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Anch'io vado al bar.",
           "en": "I'm going to the bar too.",
-          "ru": "Я тоже иду в бар."
+          "ru": "Я тоже иду в бар.",
+          "es": "Yo también voy al bar."
         },
         {
           "speaker": "B",
           "it": "Perché vai al bar?",
           "en": "Why are you going to the bar?",
-          "ru": "Почему ты идёшь в бар?"
+          "ru": "Почему ты идёшь в бар?",
+          "es": "¿Por qué vas al bar?"
         },
         {
           "speaker": "A",
           "it": "Perché ho sonno e voglio un caffè.",
           "en": "Because I'm sleepy and I want a coffee.",
-          "ru": "Потому что хочу спать и хочу кофе."
+          "ru": "Потому что хочу спать и хочу кофе.",
+          "es": "Porque tengo sueño y quiero un café."
         },
         {
           "speaker": "B",
           "it": "Io ho fame e voglio un tramezzino.",
           "en": "I'm hungry and I want a sandwich.",
-          "ru": "Я голодный и хочу бутерброд."
+          "ru": "Я голодный и хочу бутерброд.",
+          "es": "Tengo hambre y quiero un sándwich."
         },
         {
           "speaker": "A",
           "it": "Che cosa prendi di solito?",
           "en": "What do you usually get?",
-          "ru": "Что ты обычно берёшь?"
+          "ru": "Что ты обычно берёшь?",
+          "es": "¿Qué sueles conseguir?"
         },
         {
           "speaker": "B",
           "it": "Prendo un cappuccino e una brioche.",
           "en": "I get a cappuccino and a brioche.",
-          "ru": "Беру капучино и бриошь."
+          "ru": "Беру капучино и бриошь.",
+          "es": "Pido un capuchino y un brioche."
         },
         {
           "speaker": "A",
           "it": "Io prendo un caffè macchiato.",
           "en": "I get a macchiato.",
-          "ru": "Я беру маккиато."
+          "ru": "Я беру маккиато.",
+          "es": "Consigo un macchiato."
         },
         {
           "speaker": "B",
           "it": "Vuoi anche acqua?",
           "en": "Do you also want water?",
-          "ru": "Хочешь ещё воду?"
+          "ru": "Хочешь ещё воду?",
+          "es": "¿También quieres agua?"
         },
         {
           "speaker": "A",
           "it": "Sì, acqua naturale.",
           "en": "Yes, still water.",
-          "ru": "Да, негазированную."
+          "ru": "Да, негазированную.",
+          "es": "Sí, agua sin gas."
         },
         {
           "speaker": "B",
           "it": "Io preferisco acqua frizzante.",
           "en": "I prefer sparkling water.",
-          "ru": "Я предпочитаю газированную."
+          "ru": "Я предпочитаю газированную.",
+          "es": "Prefiero agua con gas."
         },
         {
           "speaker": "A",
           "it": "Preferisci la brioche alla marmellata o al cioccolato?",
           "en": "Do you prefer the brioche with jam or chocolate?",
-          "ru": "Ты предпочитаешь бриошь с джемом или с шоколадом?"
+          "ru": "Ты предпочитаешь бриошь с джемом или с шоколадом?",
+          "es": "¿Prefieres el brioche con mermelada o chocolate?"
         },
         {
           "speaker": "B",
           "it": "Al cioccolato. Tu?",
           "en": "With chocolate. You?",
-          "ru": "С шоколадом. А ты?"
+          "ru": "С шоколадом. А ты?",
+          "es": "Con chocolate. ¿Tú?"
         },
         {
           "speaker": "A",
           "it": "Io preferisco il cornetto semplice.",
           "en": "I prefer a plain croissant.",
-          "ru": "Я предпочитаю простой круассан."
+          "ru": "Я предпочитаю простой круассан.",
+          "es": "Prefiero un croissant simple."
         },
         {
           "speaker": "B",
           "it": "Possiamo ordinare adesso?",
           "en": "Can we order now?",
-          "ru": "Можем заказать сейчас?"
+          "ru": "Можем заказать сейчас?",
+          "es": "¿Podemos ordenar ahora?"
         },
         {
           "speaker": "A",
           "it": "Sì. Scusi!",
           "en": "Yes. Excuse me!",
-          "ru": "Да. Извините!"
+          "ru": "Да. Извините!",
+          "es": "Sí. ¡Disculpe!"
         },
         {
           "speaker": "B",
           "it": "Vuoi pagare insieme o separati?",
           "en": "Do you want to pay together or separately?",
-          "ru": "Хочешь платить вместе или раздельно?"
+          "ru": "Хочешь платить вместе или раздельно?",
+          "es": "¿Quieres pagar juntos o por separado?"
         },
         {
           "speaker": "A",
           "it": "Oggi offro io.",
           "en": "Today it's my treat.",
-          "ru": "Сегодня угощаю я."
+          "ru": "Сегодня угощаю я.",
+          "es": "Hoy es mi regalo."
         },
         {
           "speaker": "B",
           "it": "Davvero? Grazie.",
           "en": "Really? Thanks.",
-          "ru": "Правда? Спасибо."
+          "ru": "Правда? Спасибо.",
+          "es": "¿En realidad? Gracias."
         },
         {
           "speaker": "A",
           "it": "Prego. La prossima volta offri tu.",
           "en": "You're welcome. Next time it's your treat.",
-          "ru": "Пожалуйста. В следующий раз угощаешь ты."
+          "ru": "Пожалуйста. В следующий раз угощаешь ты.",
+          "es": "De nada. La próxima vez será tu regalo."
         },
         {
           "speaker": "B",
           "it": "D'accordo.",
           "en": "Agreed.",
-          "ru": "Договорились."
+          "ru": "Договорились.",
+          "es": "Acordado."
         },
         {
           "speaker": "A",
           "it": "Dopo il caffè facciamo i compiti?",
           "en": "After the coffee shall we do homework?",
-          "ru": "После кофе сделаем домашнее задание?"
+          "ru": "После кофе сделаем домашнее задание?",
+          "es": "Después del café ¿hacemos los deberes?"
         },
         {
           "speaker": "B",
           "it": "Sì, ho il libro nello zaino.",
           "en": "Yes, I have the book in my backpack.",
-          "ru": "Да, у меня учебник в рюкзаке."
+          "ru": "Да, у меня учебник в рюкзаке.",
+          "es": "Sí, tengo el libro en mi mochila."
         },
         {
           "speaker": "A",
           "it": "Io ho il quaderno.",
           "en": "I have the notebook.",
-          "ru": "У меня тетрадь."
+          "ru": "У меня тетрадь.",
+          "es": "Tengo el cuaderno."
         },
         {
           "speaker": "B",
           "it": "Perfetto. Studiamo i verbi?",
           "en": "Perfect. Shall we study the verbs?",
-          "ru": "Отлично. Будем учить глаголы?"
+          "ru": "Отлично. Будем учить глаголы?",
+          "es": "Perfecto. ¿Estudiamos los verbos?"
         },
         {
           "speaker": "A",
           "it": "Sì, andare, fare, bere e prendere.",
           "en": "Yes, andare, fare, bere, and prendere.",
-          "ru": "Да, andare, fare, bere и prendere."
+          "ru": "Да, andare, fare, bere и prendere.",
+          "es": "Sí, andare, fare, bere y prendere."
         },
         {
           "speaker": "B",
           "it": "Bene. Io prendo il cappuccino e tu cominci.",
           "en": "Good. I'll get the cappuccino and you start.",
-          "ru": "Хорошо. Я возьму капучино, а ты начинай."
+          "ru": "Хорошо. Я возьму капучино, а ты начинай.",
+          "es": "Bien. Yo voy por el capuchino y tú empiezas."
         },
         {
           "speaker": "A",
           "it": "Va bene.",
           "en": "Okay.",
-          "ru": "Хорошо."
+          "ru": "Хорошо.",
+          "es": "Bueno."
         },
         {
           "speaker": "B",
           "it": "Allora, \"io vado, tu vai...\"",
           "en": "So, \"io vado, tu vai...\"",
-          "ru": "Итак, «io vado, tu vai...»"
+          "ru": "Итак, «io vado, tu vai...»",
+          "es": "Entonces, \"io vado, tu vai...\""
         }
       ]
     }
@@ -709,7 +835,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -724,7 +851,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -739,7 +867,8 @@
       "infinitive": "andare",
       "translation": {
         "en": "to go",
-        "ru": "идти / ехать"
+        "ru": "идти / ехать",
+        "es": "ir"
       },
       "forms": {
         "io": "vado",
@@ -754,7 +883,8 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать / совершать"
+        "ru": "делать / совершать",
+        "es": "hacer / hacer"
       },
       "forms": {
         "io": "faccio",
@@ -769,7 +899,8 @@
       "infinitive": "prendere",
       "translation": {
         "en": "to take",
-        "ru": "брать / заказывать / садиться на транспорт"
+        "ru": "брать / заказывать / садиться на транспорт",
+        "es": "tomar"
       },
       "forms": {
         "io": "prendo",
@@ -784,7 +915,8 @@
       "infinitive": "lavorare",
       "translation": {
         "en": "to work",
-        "ru": "работать"
+        "ru": "работать",
+        "es": "trabajar"
       },
       "forms": {
         "io": "lavoro",
@@ -799,7 +931,8 @@
       "infinitive": "arrivare",
       "translation": {
         "en": "to arrive",
-        "ru": "приходить / приезжать"
+        "ru": "приходить / приезжать",
+        "es": "llegar"
       },
       "forms": {
         "io": "arrivo",
@@ -814,7 +947,8 @@
       "infinitive": "chiudere",
       "translation": {
         "en": "to close",
-        "ru": "закрывать"
+        "ru": "закрывать",
+        "es": "cerrar"
       },
       "forms": {
         "io": "chiudo",
@@ -829,7 +963,8 @@
       "infinitive": "tornare",
       "translation": {
         "en": "to return",
-        "ru": "возвращаться"
+        "ru": "возвращаться",
+        "es": "regresar"
       },
       "forms": {
         "io": "torno",
@@ -844,7 +979,8 @@
       "infinitive": "usare",
       "translation": {
         "en": "to use",
-        "ru": "использовать"
+        "ru": "использовать",
+        "es": "usar"
       },
       "forms": {
         "io": "uso",
@@ -859,7 +995,8 @@
       "infinitive": "guardare",
       "translation": {
         "en": "to look / to watch",
-        "ru": "смотреть"
+        "ru": "смотреть",
+        "es": "mirar / mirar"
       },
       "forms": {
         "io": "guardo",
@@ -874,7 +1011,8 @@
       "infinitive": "litigare",
       "translation": {
         "en": "to argue / to quarrel",
-        "ru": "ссориться"
+        "ru": "ссориться",
+        "es": "discutir / pelear"
       },
       "forms": {
         "io": "litigo",
@@ -889,7 +1027,8 @@
       "infinitive": "mangiare",
       "translation": {
         "en": "to eat",
-        "ru": "есть / кушать"
+        "ru": "есть / кушать",
+        "es": "comer"
       },
       "forms": {
         "io": "mangio",
@@ -904,7 +1043,8 @@
       "infinitive": "ricevere",
       "translation": {
         "en": "to receive",
-        "ru": "получать"
+        "ru": "получать",
+        "es": "recibir"
       },
       "forms": {
         "io": "ricevo",
@@ -919,7 +1059,8 @@
       "infinitive": "salutare",
       "translation": {
         "en": "to greet / to say hello to",
-        "ru": "приветствовать / здороваться с"
+        "ru": "приветствовать / здороваться с",
+        "es": "saludar / saludar a"
       },
       "forms": {
         "io": "saluto",
@@ -934,7 +1075,8 @@
       "infinitive": "bere",
       "translation": {
         "en": "to drink",
-        "ru": "пить"
+        "ru": "пить",
+        "es": "beber"
       },
       "forms": {
         "io": "bevo",
@@ -949,7 +1091,8 @@
       "infinitive": "chiedere",
       "translation": {
         "en": "to ask",
-        "ru": "спрашивать"
+        "ru": "спрашивать",
+        "es": "preguntar"
       },
       "forms": {
         "io": "chiedo",
@@ -964,7 +1107,8 @@
       "infinitive": "credere",
       "translation": {
         "en": "to believe",
-        "ru": "верить / считать"
+        "ru": "верить / считать",
+        "es": "creer"
       },
       "forms": {
         "io": "credo",
@@ -979,7 +1123,8 @@
       "infinitive": "mettere",
       "translation": {
         "en": "to put",
-        "ru": "класть / ставить"
+        "ru": "класть / ставить",
+        "es": "poner"
       },
       "forms": {
         "io": "metto",
@@ -994,7 +1139,8 @@
       "infinitive": "comprare",
       "translation": {
         "en": "to buy",
-        "ru": "покупать"
+        "ru": "покупать",
+        "es": "comprar"
       },
       "forms": {
         "io": "compro",
@@ -1009,7 +1155,8 @@
       "infinitive": "venire",
       "translation": {
         "en": "to come",
-        "ru": "приходить / приезжать"
+        "ru": "приходить / приезжать",
+        "es": "venir"
       },
       "forms": {
         "io": "vengo",
@@ -1024,7 +1171,8 @@
       "infinitive": "volere",
       "translation": {
         "en": "to want",
-        "ru": "хотеть"
+        "ru": "хотеть",
+        "es": "querer"
       },
       "forms": {
         "io": "voglio",
@@ -1039,7 +1187,8 @@
       "infinitive": "invitare",
       "translation": {
         "en": "to invite",
-        "ru": "приглашать"
+        "ru": "приглашать",
+        "es": "invitar"
       },
       "forms": {
         "io": "invito",

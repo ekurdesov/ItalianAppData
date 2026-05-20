@@ -21,6 +21,12 @@
         "Грамматика: Dove abiti?",
         "Аудирование: Una strana coppia",
         "Спрашивать и говорить об адресе и семейном положении"
+      ],
+      "es": [
+        "Reseña: doble entrevista",
+        "Gramática: ¿Dónde vives?",
+        "Comprensión auditiva: Una pareja extraña",
+        "Pedir y dar dirección y estado civil"
       ]
     }
   },
@@ -28,186 +34,221 @@
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking about civil status",
-        "ru": "Как спрашивать о семейном положении"
+        "ru": "Как спрашивать о семейном положении",
+        "es": "Preguntar sobre el estado civil"
       },
       "description": {
         "en": "Italian uses adjective-based questions to ask whether someone is married, single, engaged, separated, divorced or widowed.",
-        "ru": "В итальянском для вопроса о семейном положении используются формы с прилагательными: женат / замужем, не женат / не замужем, помолвлен / помолвлена, в разводе, вдовец / вдова."
+        "ru": "В итальянском для вопроса о семейном положении используются формы с прилагательными: женат / замужем, не женат / не замужем, помолвлен / помолвлена, в разводе, вдовец / вдова.",
+        "es": "El italiano utiliza preguntas basadas en adjetivos para preguntar si alguien está casado, soltero, comprometido, separado, divorciado o viudo."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Sei sposato/a?",
           "en": "Are you married?",
-          "ru": "Ты женат / замужем?"
+          "ru": "Ты женат / замужем?",
+          "es": "¿Está casado?"
         },
         {
           "context": "formal",
           "it": "È sposato/a?",
           "en": "Are you married? (formal)",
-          "ru": "Вы женаты / замужем?"
+          "ru": "Вы женаты / замужем?",
+          "es": "¿Está casado? (formal)"
         },
         {
           "it": "Sono sposata con Marco da vent'anni.",
           "en": "I have been married to Marco for twenty years.",
-          "ru": "Я замужем за Марко уже двадцать лет."
+          "ru": "Я замужем за Марко уже двадцать лет.",
+          "es": "Estoy casada con Marco desde hace veinte años."
         },
         {
           "it": "Ho un ragazzo. / Ho una ragazza.",
           "en": "I have a boyfriend. / I have a girlfriend.",
-          "ru": "У меня есть парень. / У меня есть девушка."
+          "ru": "У меня есть парень. / У меня есть девушка.",
+          "es": "Tengo novio. / Tengo novia."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking for an address: informal vs formal",
-        "ru": "Как спросить адрес: неформально и официально"
+        "ru": "Как спросить адрес: неформально и официально",
+        "es": "Solicitar una dirección: informal versus formal"
       },
       "description": {
         "en": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking where someone lives and what their address is.",
-        "ru": "В итальянском различаются неформальное 'tu' и официальное 'Lei', когда спрашивают, где человек живёт и каков его адрес."
+        "ru": "В итальянском различаются неформальное 'tu' и официальное 'Lei', когда спрашивают, где человек живёт и каков его адрес.",
+        "es": "El italiano distingue entre 'tu' informal y 'Lei' formal cuando se pregunta dónde vive alguien y cuál es su dirección."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Dove abiti?",
           "en": "Where do you live?",
-          "ru": "Где ты живёшь?"
+          "ru": "Где ты живёшь?",
+          "es": "¿Dónde vive?"
         },
         {
           "context": "formal",
           "it": "Dove abita?",
           "en": "Where do you live? (formal)",
-          "ru": "Где Вы живёте?"
+          "ru": "Где Вы живёте?",
+          "es": "¿Dónde vive? (formal)"
         },
         {
           "context": "informal",
           "it": "Qual è il tuo indirizzo?",
           "en": "What is your address?",
-          "ru": "Какой у тебя адрес?"
+          "ru": "Какой у тебя адрес?",
+          "es": "¿Cuál es su dirección?"
         },
         {
           "context": "formal",
           "it": "Qual è il Suo indirizzo?",
           "en": "What is your address? (formal)",
-          "ru": "Какой у Вас адрес?"
+          "ru": "Какой у Вас адрес?",
+          "es": "¿Cuál es su dirección? (formal)"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Saying an address",
-        "ru": "Как назвать адрес"
+        "ru": "Как назвать адрес",
+        "es": "diciendo una dirección"
       },
       "description": {
         "en": "Addresses are commonly given with the pattern 'abitare a + city + in + street + number' or by stating the address directly.",
-        "ru": "Адрес часто сообщается по модели 'abitare a + город + in + улица + номер' или прямой формулой с 'indirizzo'."
+        "ru": "Адрес часто сообщается по модели 'abitare a + город + in + улица + номер' или прямой формулой с 'indirizzo'.",
+        "es": "Las direcciones se dan comúnmente con el patrón 'abitare a + ciudad + en + calle + número' o indicando la dirección directamente."
       },
       "examples": [
         {
           "it": "Abito a Roma in via Garibaldi, 8.",
           "en": "I live in Rome at Via Garibaldi 8.",
-          "ru": "Я живу в Риме, на улице Гарибальди, дом 8."
+          "ru": "Я живу в Риме, на улице Гарибальди, дом 8.",
+          "es": "Vivo en Roma en Via Garibaldi 8."
         },
         {
           "it": "Il mio indirizzo è via Garibaldi, 8.",
           "en": "My address is Via Garibaldi 8.",
-          "ru": "Мой адрес: улица Гарибальди, дом 8."
+          "ru": "Мой адрес: улица Гарибальди, дом 8.",
+          "es": "Mi dirección es Via Garibaldi 8."
         },
         {
           "it": "Alice abita a Roma in via Brescia, 68.",
           "en": "Alice lives in Rome at Via Brescia 68.",
-          "ru": "Аличе живёт в Риме, на улице Брешиа, дом 68."
+          "ru": "Аличе живёт в Риме, на улице Брешиа, дом 68.",
+          "es": "Alice vive en Roma en Via Brescia 68."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Useful address words",
-        "ru": "Полезные слова для адреса"
+        "ru": "Полезные слова для адреса",
+        "es": "Palabras de dirección útiles"
       },
       "description": {
         "en": "Italian addresses often include road-type nouns and a house number.",
-        "ru": "В итальянских адресах часто используются существительные для типа улицы и номер дома."
+        "ru": "В итальянских адресах часто используются существительные для типа улицы и номер дома.",
+        "es": "Las direcciones italianas suelen incluir sustantivos tipo carretera y un número de casa."
       },
       "examples": [
         {
           "it": "via",
           "en": "street",
-          "ru": "улица"
+          "ru": "улица",
+          "es": "calle"
         },
         {
           "it": "piazza",
           "en": "square",
-          "ru": "площадь"
+          "ru": "площадь",
+          "es": "cuadrado"
         },
         {
           "it": "corso",
           "en": "avenue",
-          "ru": "проспект"
+          "ru": "проспект",
+          "es": "avenida"
         },
         {
           "it": "vicolo",
           "en": "lane, alley",
-          "ru": "переулок"
+          "ru": "переулок",
+          "es": "carril, callejón"
         },
         {
           "it": "numero civico",
           "en": "house number",
-          "ru": "номер дома"
+          "ru": "номер дома",
+          "es": "numero de casa"
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Neighbour and household context",
-        "ru": "Соседи и бытовой контекст дома"
+        "ru": "Соседи и бытовой контекст дома",
+        "es": "Contexto del vecino y del hogar"
       },
       "description": {
         "en": "The lesson introduces vocabulary for neighbours and everyday building-life interactions.",
-        "ru": "В уроке появляется лексика, связанная с соседями и повседневными ситуациями в доме."
+        "ru": "В уроке появляется лексика, связанная с соседями и повседневными ситуациями в доме.",
+        "es": "La lección presenta vocabulario para los vecinos y las interacciones cotidianas entre el edificio y la vida."
       },
       "examples": [
         {
           "it": "vicino di casa",
           "en": "neighbour",
-          "ru": "сосед"
+          "ru": "сосед",
+          "es": "vecino"
         },
         {
           "it": "chi abita nello stesso palazzo",
           "en": "someone who lives in the same building",
-          "ru": "тот, кто живёт в том же доме"
+          "ru": "тот, кто живёт в том же доме",
+          "es": "alguien que vive en el mismo edificio"
         },
         {
           "it": "avviso postale",
           "en": "postal notice",
-          "ru": "почтовое уведомление"
+          "ru": "почтовое уведомление",
+          "es": "aviso postal"
         },
         {
           "it": "pacco",
           "en": "package",
-          "ru": "посылка"
+          "ru": "посылка",
+          "es": "paquete"
         }
       ]
     }
@@ -219,8 +260,10 @@
       "ru": "сосед",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "vecino"
     },
     {
       "term": "palazzo",
@@ -228,8 +271,10 @@
       "ru": "дом, здание",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "edificio"
     },
     {
       "term": "indirizzo",
@@ -237,8 +282,10 @@
       "ru": "адрес",
       "type": {
         "en": "grammar vocabulary",
-        "ru": "грамматическая лексика"
-      }
+        "ru": "грамматическая лексика",
+        "es": "vocabulario de gramática"
+      },
+      "es": "DIRECCIÓN"
     },
     {
       "term": "via",
@@ -246,8 +293,10 @@
       "ru": "улица",
       "type": {
         "en": "address vocabulary",
-        "ru": "лексика адреса"
-      }
+        "ru": "лексика адреса",
+        "es": "vocabulario de direcciones"
+      },
+      "es": "calle"
     },
     {
       "term": "piazza",
@@ -255,8 +304,10 @@
       "ru": "площадь",
       "type": {
         "en": "address vocabulary",
-        "ru": "лексика адреса"
-      }
+        "ru": "лексика адреса",
+        "es": "vocabulario de direcciones"
+      },
+      "es": "cuadrado"
     },
     {
       "term": "corso",
@@ -264,8 +315,10 @@
       "ru": "проспект",
       "type": {
         "en": "address vocabulary",
-        "ru": "лексика адреса"
-      }
+        "ru": "лексика адреса",
+        "es": "vocabulario de direcciones"
+      },
+      "es": "avenida"
     },
     {
       "term": "vicolo",
@@ -273,8 +326,10 @@
       "ru": "переулок",
       "type": {
         "en": "address vocabulary",
-        "ru": "лексика адреса"
-      }
+        "ru": "лексика адреса",
+        "es": "vocabulario de direcciones"
+      },
+      "es": "carril, callejón"
     },
     {
       "term": "numero civico",
@@ -282,8 +337,10 @@
       "ru": "номер дома",
       "type": {
         "en": "address vocabulary",
-        "ru": "лексика адреса"
-      }
+        "ru": "лексика адреса",
+        "es": "vocabulario de direcciones"
+      },
+      "es": "numero de casa"
     },
     {
       "term": "stato civile",
@@ -291,8 +348,10 @@
       "ru": "семейное положение",
       "type": {
         "en": "grammar vocabulary",
-        "ru": "грамматическая лексика"
-      }
+        "ru": "грамматическая лексика",
+        "es": "vocabulario de gramática"
+      },
+      "es": "estado civil, estado civil"
     },
     {
       "term": "sposato/a",
@@ -300,8 +359,10 @@
       "ru": "женат / замужем",
       "type": {
         "en": "civil status",
-        "ru": "семейное положение"
-      }
+        "ru": "семейное положение",
+        "es": "estado civil"
+      },
+      "es": "casado"
     },
     {
       "term": "single",
@@ -309,8 +370,10 @@
       "ru": "холостой / незамужняя; одинокий / одинокая",
       "type": {
         "en": "civil status",
-        "ru": "семейное положение"
-      }
+        "ru": "семейное положение",
+        "es": "estado civil"
+      },
+      "es": "soltero"
     },
     {
       "term": "fidanzato/a",
@@ -318,8 +381,10 @@
       "ru": "помолвлен / помолвлена; в отношениях",
       "type": {
         "en": "civil status",
-        "ru": "семейное положение"
-      }
+        "ru": "семейное положение",
+        "es": "estado civil"
+      },
+      "es": "comprometido; en una relación"
     },
     {
       "term": "separato/a",
@@ -327,8 +392,10 @@
       "ru": "в раздельном проживании",
       "type": {
         "en": "civil status",
-        "ru": "семейное положение"
-      }
+        "ru": "семейное положение",
+        "es": "estado civil"
+      },
+      "es": "apartado"
     },
     {
       "term": "divorziato/a",
@@ -336,8 +403,10 @@
       "ru": "разведён / разведена",
       "type": {
         "en": "civil status",
-        "ru": "семейное положение"
-      }
+        "ru": "семейное положение",
+        "es": "estado civil"
+      },
+      "es": "divorciado"
     },
     {
       "term": "vedovo/a",
@@ -345,8 +414,10 @@
       "ru": "вдовец / вдова",
       "type": {
         "en": "civil status",
-        "ru": "семейное положение"
-      }
+        "ru": "семейное положение",
+        "es": "estado civil"
+      },
+      "es": "viudo"
     },
     {
       "term": "partner",
@@ -354,8 +425,10 @@
       "ru": "партнёр / партнёрша",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "pareja"
     },
     {
       "term": "ragazzo",
@@ -363,8 +436,10 @@
       "ru": "парень; молодой человек",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "novio"
     },
     {
       "term": "ragazza",
@@ -372,8 +447,10 @@
       "ru": "девушка",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "novia"
     },
     {
       "term": "autobus",
@@ -381,8 +458,10 @@
       "ru": "автобус",
       "type": {
         "en": "transport",
-        "ru": "транспорт"
-      }
+        "ru": "транспорт",
+        "es": "transporte"
+      },
+      "es": "autobús"
     },
     {
       "term": "metro",
@@ -390,8 +469,10 @@
       "ru": "метро",
       "type": {
         "en": "transport",
-        "ru": "транспорт"
-      }
+        "ru": "транспорт",
+        "es": "transporte"
+      },
+      "es": "metro"
     },
     {
       "term": "a piedi",
@@ -399,8 +480,10 @@
       "ru": "пешком",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "a pie"
     },
     {
       "term": "cognome",
@@ -408,8 +491,10 @@
       "ru": "фамилия",
       "type": {
         "en": "personal details",
-        "ru": "личные данные"
-      }
+        "ru": "личные данные",
+        "es": "datos personales"
+      },
+      "es": "apellido"
     },
     {
       "term": "capelli",
@@ -417,8 +502,10 @@
       "ru": "волосы",
       "type": {
         "en": "body",
-        "ru": "тело"
-      }
+        "ru": "тело",
+        "es": "cuerpo"
+      },
+      "es": "cabello"
     },
     {
       "term": "nero",
@@ -426,8 +513,10 @@
       "ru": "чёрный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "negro"
     },
     {
       "term": "gelato al cioccolato",
@@ -435,8 +524,10 @@
       "ru": "шоколадное мороженое",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "helado de chocolate"
     },
     {
       "term": "pacco",
@@ -444,8 +535,10 @@
       "ru": "посылка",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "paquete"
     },
     {
       "term": "avviso postale",
@@ -453,8 +546,10 @@
       "ru": "почтовое уведомление",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "aviso postal"
     },
     {
       "term": "Svizzera",
@@ -462,8 +557,10 @@
       "ru": "Швейцария",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Suiza"
     },
     {
       "term": "Brescia",
@@ -471,8 +568,10 @@
       "ru": "Брешиа",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "Brescia"
     },
     {
       "term": "litigare",
@@ -480,8 +579,10 @@
       "ru": "ссориться",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "discutir, pelear"
     },
     {
       "term": "strano/a",
@@ -489,8 +590,10 @@
       "ru": "странный / странная",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "extraño"
     },
     {
       "term": "coppia",
@@ -498,8 +601,10 @@
       "ru": "пара",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "pareja"
     },
     {
       "term": "torna a casa",
@@ -507,55 +612,66 @@
       "ru": "возвращается домой",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "regresa a casa"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Ответьте."
+      "ru": "Ответьте.",
+      "es": "Respuesta."
     },
     {
       "it": "Osservate e completate.",
       "en": "Observe and complete.",
-      "ru": "Посмотрите и дополните."
+      "ru": "Посмотрите и дополните.",
+      "es": "Observa y completa."
     },
     {
       "it": "Ascoltate e segnate.",
       "en": "Listen and mark.",
-      "ru": "Послушайте и отметьте."
+      "ru": "Послушайте и отметьте.",
+      "es": "Escuche y marque."
     },
     {
       "it": "Osservate e rispondete.",
       "en": "Observe and answer.",
-      "ru": "Посмотрите и ответьте."
+      "ru": "Посмотрите и ответьте.",
+      "es": "Observa y responde."
     },
     {
       "it": "Guardate e rispondete.",
       "en": "Watch and answer.",
-      "ru": "Посмотрите и ответьте."
+      "ru": "Посмотрите и ответьте.",
+      "es": "Mira y responde."
     },
     {
       "it": "Leggete e verificate.",
       "en": "Read and check.",
-      "ru": "Прочитайте и проверьте."
+      "ru": "Прочитайте и проверьте.",
+      "es": "Lee y comprueba."
     },
     {
       "it": "Continuate.",
       "en": "Continue.",
-      "ru": "Продолжите."
+      "ru": "Продолжите.",
+      "es": "Continuar."
     },
     {
       "it": "Usate le parole in blu del dialogo.",
       "en": "Use the blue words from the dialogue.",
-      "ru": "Используйте слова, выделенные синим, из диалога."
+      "ru": "Используйте слова, выделенные синим, из диалога.",
+      "es": "Utilice las palabras azules del diálogo."
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Сопоставьте."
+      "ru": "Сопоставьте.",
+      "es": "Fósforo."
     }
   ],
   "dialogues": [
@@ -565,53 +681,61 @@
       "register": "neutral",
       "context": {
         "en": "Two people answer questions about civil status and relationship situation.",
-        "ru": "Два человека отвечают на вопросы о семейном положении и отношениях."
+        "ru": "Два человека отвечают на вопросы о семейном положении и отношениях.",
+        "es": "Dos personas responden preguntas sobre el estado civil y la situación sentimental."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Sei sposata?",
           "en": "Are you married?",
-          "ru": "Ты замужем?"
+          "ru": "Ты замужем?",
+          "es": "¿Está casado?"
         },
         {
           "speaker": "B",
           "it": "Sì, sono sposata con Marco da vent'anni.",
           "en": "Yes, I have been married to Marco for twenty years.",
-          "ru": "Да, я замужем за Марко уже двадцать лет."
+          "ru": "Да, я замужем за Марко уже двадцать лет.",
+          "es": "Sí, estoy casada con Marco desde hace veinte años."
         },
         {
           "speaker": "A",
           "it": "E tua sorella?",
           "en": "And your sister?",
-          "ru": "А твоя сестра?"
+          "ru": "А твоя сестра?",
+          "es": "¿Y tu hermana?"
         },
         {
           "speaker": "B",
           "it": "No, è single, ma ha un ragazzo.",
           "en": "No, she is single, but she has a boyfriend.",
-          "ru": "Нет, она не замужем, но у неё есть парень."
+          "ru": "Нет, она не замужем, но у неё есть парень.",
+          "es": "No, ella es soltera, pero tiene novio."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask if someone is married",
-            "ru": "Спросить, женат ли человек"
+            "ru": "Спросить, женат ли человек",
+            "es": "Preguntar si alguien está casado"
           },
           "expected_it": "Sei sposato/a?"
         },
         {
           "cue": {
             "en": "Say you are single",
-            "ru": "Сказать, что вы не в браке"
+            "ru": "Сказать, что вы не в браке",
+            "es": "di que estas soltero"
           },
           "expected_it": "Sono single."
         },
         {
           "cue": {
             "en": "Say you have a boyfriend/girlfriend",
-            "ru": "Сказать, что у вас есть парень или девушка"
+            "ru": "Сказать, что у вас есть парень или девушка",
+            "es": "Di que tienes novio/novia"
           },
           "expected_it": "Ho un ragazzo. / Ho una ragazza."
         }
@@ -623,46 +747,53 @@
       "register": "informal",
       "context": {
         "en": "Two neighbours exchange address details.",
-        "ru": "Два соседа обмениваются адресами."
+        "ru": "Два соседа обмениваются адресами.",
+        "es": "Dos vecinos intercambian datos de dirección."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Dove abiti?",
           "en": "Where do you live?",
-          "ru": "Где ты живёшь?"
+          "ru": "Где ты живёшь?",
+          "es": "¿Dónde vive?"
         },
         {
           "speaker": "B",
           "it": "Abito a Torino, in corso Umberto 10.",
           "en": "I live in Turin, at Corso Umberto 10.",
-          "ru": "Я живу в Турине, на проспекте Умберто, 10."
+          "ru": "Я живу в Турине, на проспекте Умберто, 10.",
+          "es": "Vivo en Turín, en Corso Umberto 10."
         },
         {
           "speaker": "A",
           "it": "Qual è il tuo indirizzo a Milano?",
           "en": "What is your address in Milan?",
-          "ru": "Какой у тебя адрес в Милане?"
+          "ru": "Какой у тебя адрес в Милане?",
+          "es": "¿Cuál es su dirección en Milán?"
         },
         {
           "speaker": "B",
           "it": "Il mio indirizzo è via Canonica 7.",
           "en": "My address is Via Canonica 7.",
-          "ru": "Мой адрес: улица Каноника, 7."
+          "ru": "Мой адрес: улица Каноника, 7.",
+          "es": "Mi dirección es Via Canonica 7."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask for someone's address",
-            "ru": "Спросить адрес"
+            "ru": "Спросить адрес",
+            "es": "pedir la dirección de alguien"
           },
           "expected_it": "Qual è il tuo indirizzo?"
         },
         {
           "cue": {
             "en": "State your address",
-            "ru": "Назвать свой адрес"
+            "ru": "Назвать свой адрес",
+            "es": "Indique su dirección"
           },
           "expected_it": "Il mio indirizzo è [via/piazza/corso], [numero]."
         }
@@ -674,152 +805,177 @@
       "register": "informal",
       "context": {
         "en": "Two neighbors discuss people in the building and ask for clarification.",
-        "ru": "Два соседа обсуждают людей в доме и уточняют информацию."
+        "ru": "Два соседа обсуждают людей в доме и уточняют информацию.",
+        "es": "Dos vecinos hablan sobre la gente del edificio y piden aclaraciones."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Hai visto il nuovo vicino?",
           "en": "Have you seen the new neighbor?",
-          "ru": "Ты видел нового соседа?"
+          "ru": "Ты видел нового соседа?",
+          "es": "¿Has visto al nuevo vecino?"
         },
         {
           "speaker": "B",
           "it": "Sì, ma non so come si chiama.",
           "en": "Yes, but I don't know his name.",
-          "ru": "Да, но не знаю, как его зовут."
+          "ru": "Да, но не знаю, как его зовут.",
+          "es": "Sí, pero no sé su nombre."
         },
         {
           "speaker": "A",
           "it": "Credo che si chiami Davide.",
           "en": "I think his name is Davide.",
-          "ru": "Думаю, его зовут Давиде."
+          "ru": "Думаю, его зовут Давиде.",
+          "es": "Creo que su nombre es Davide."
         },
         {
           "speaker": "B",
           "it": "Davide? Il ragazzo alto?",
           "en": "Davide? The tall guy?",
-          "ru": "Давиде? Высокий парень?"
+          "ru": "Давиде? Высокий парень?",
+          "es": "¿David? ¿El tipo alto?"
         },
         {
           "speaker": "A",
           "it": "Sì, alto, moro e con gli occhiali.",
           "en": "Yes, tall, dark-haired, and with glasses.",
-          "ru": "Да, высокий, тёмноволосый и в очках."
+          "ru": "Да, высокий, тёмноволосый и в очках.",
+          "es": "Sí, alto, moreno y con gafas."
         },
         {
           "speaker": "B",
           "it": "Non sono d'accordo. Il ragazzo con gli occhiali si chiama Marco.",
           "en": "I disagree. The guy with glasses is called Marco.",
-          "ru": "Не согласен. Парня в очках зовут Марко."
+          "ru": "Не согласен. Парня в очках зовут Марко.",
+          "es": "No estoy de acuerdo. El chico de las gafas se llama Marco."
         },
         {
           "speaker": "A",
           "it": "Davvero? Allora chi è Davide?",
           "en": "Really? Then who is Davide?",
-          "ru": "Правда? Тогда кто такой Давиде?"
+          "ru": "Правда? Тогда кто такой Давиде?",
+          "es": "¿En realidad? ¿Entonces quién es Davide?"
         },
         {
           "speaker": "B",
           "it": "Davide è basso e biondo.",
           "en": "Davide is short and blond.",
-          "ru": "Давиде невысокий и блондин."
+          "ru": "Давиде невысокий и блондин.",
+          "es": "Davide es bajo y rubio."
         },
         {
           "speaker": "A",
           "it": "Ah, adesso capisco.",
           "en": "Ah, now I understand.",
-          "ru": "А, теперь понимаю."
+          "ru": "А, теперь понимаю.",
+          "es": "Ah, ahora lo entiendo."
         },
         {
           "speaker": "B",
           "it": "Perché chiedi?",
           "en": "Why do you ask?",
-          "ru": "Почему спрашиваешь?"
+          "ru": "Почему спрашиваешь?",
+          "es": "¿Por qué lo preguntas?"
         },
         {
           "speaker": "A",
           "it": "Perché abita accanto a me.",
           "en": "Because he lives next to me.",
-          "ru": "Потому что он живёт рядом со мной."
+          "ru": "Потому что он живёт рядом со мной.",
+          "es": "Porque vive a mi lado."
         },
         {
           "speaker": "B",
           "it": "In che interno?",
           "en": "In which apartment?",
-          "ru": "В какой квартире?"
+          "ru": "В какой квартире?",
+          "es": "¿En qué apartamento?"
         },
         {
           "speaker": "A",
           "it": "Interno cinque.",
           "en": "Apartment five.",
-          "ru": "Квартира пять."
+          "ru": "Квартира пять.",
+          "es": "Apartamento cinco."
         },
         {
           "speaker": "B",
           "it": "Allora sì, è Davide.",
           "en": "Then yes, it's Davide.",
-          "ru": "Тогда да, это Давиде."
+          "ru": "Тогда да, это Давиде.",
+          "es": "Entonces sí, es Davide."
         },
         {
           "speaker": "A",
           "it": "Parla italiano?",
           "en": "Does he speak Italian?",
-          "ru": "Он говорит по-итальянски?"
+          "ru": "Он говорит по-итальянски?",
+          "es": "¿Habla italiano?"
         },
         {
           "speaker": "B",
           "it": "Sì, parla italiano e inglese.",
           "en": "Yes, he speaks Italian and English.",
-          "ru": "Да, говорит по-итальянски и по-английски."
+          "ru": "Да, говорит по-итальянски и по-английски.",
+          "es": "Sí, habla italiano e inglés."
         },
         {
           "speaker": "A",
           "it": "Studia con noi?",
           "en": "Does he study with us?",
-          "ru": "Он учится с нами?"
+          "ru": "Он учится с нами?",
+          "es": "¿Estudia con nosotros?"
         },
         {
           "speaker": "B",
           "it": "No, lavora in centro.",
           "en": "No, he works downtown.",
-          "ru": "Нет, он работает в центре."
+          "ru": "Нет, он работает в центре.",
+          "es": "No, trabaja en el centro."
         },
         {
           "speaker": "A",
           "it": "Interessante. È simpatico?",
           "en": "Interesting. Is he nice?",
-          "ru": "Интересно. Он приятный?"
+          "ru": "Интересно. Он приятный?",
+          "es": "Interesante. ¿Es amable?"
         },
         {
           "speaker": "B",
           "it": "Sì, molto simpatico.",
           "en": "Yes, very nice.",
-          "ru": "Да, очень приятный."
+          "ru": "Да, очень приятный.",
+          "es": "Sí, muy bonito."
         },
         {
           "speaker": "A",
           "it": "Voglio presentarmi.",
           "en": "I want to introduce myself.",
-          "ru": "Хочу представиться."
+          "ru": "Хочу представиться.",
+          "es": "Quiero presentarme."
         },
         {
           "speaker": "B",
           "it": "Possiamo salutarlo domani.",
           "en": "We can say hi to him tomorrow.",
-          "ru": "Можем поздороваться с ним завтра."
+          "ru": "Можем поздороваться с ним завтра.",
+          "es": "Podemos saludarlo mañana."
         },
         {
           "speaker": "A",
           "it": "Buona idea.",
           "en": "Good idea.",
-          "ru": "Хорошая идея."
+          "ru": "Хорошая идея.",
+          "es": "Buena idea."
         },
         {
           "speaker": "B",
           "it": "Sì, così conosci il tuo vicino.",
           "en": "Yes, that way you'll know your neighbor.",
-          "ru": "Да, так ты познакомишься с соседом."
+          "ru": "Да, так ты познакомишься с соседом.",
+          "es": "Sí, así conocerás a tu vecino."
         }
       ]
     }
@@ -829,7 +985,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -844,7 +1001,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -859,7 +1017,8 @@
       "infinitive": "abitare",
       "translation": {
         "en": "to live / to reside",
-        "ru": "жить / проживать"
+        "ru": "жить / проживать",
+        "es": "vivir / residir"
       },
       "forms": {
         "io": "abito",

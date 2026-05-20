@@ -21,6 +21,12 @@
         "Аудирование: Il mistero",
         "Грамматика: неопределённый артикль",
         "Выражать согласие и просить объяснений"
+      ],
+      "es": [
+        "Reseña: idiomas y países.",
+        "Comprensión auditiva: El misterio",
+        "Gramática: artículo indefinido",
+        "Expresar acuerdo y pedir explicaciones."
       ]
     }
   },
@@ -28,165 +34,197 @@
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Agreeing with someone",
-        "ru": "Как выразить согласие"
+        "ru": "Как выразить согласие",
+        "es": "estar de acuerdo con alguien"
       },
       "description": {
         "en": "Italian has short expressions for showing agreement or partial agreement in conversation.",
-        "ru": "В разговоре по-итальянски есть короткие формулы, чтобы показать согласие или частичное согласие."
+        "ru": "В разговоре по-итальянски есть короткие формулы, чтобы показать согласие или частичное согласие.",
+        "es": "El italiano tiene expresiones cortas para mostrar acuerdo o acuerdo parcial en una conversación."
       },
       "examples": [
         {
           "it": "Hai ragione.",
           "en": "You are right.",
-          "ru": "Ты прав / права."
+          "ru": "Ты прав / права.",
+          "es": "Tienes razón."
         },
         {
           "it": "Sono d'accordo.",
           "en": "I agree.",
-          "ru": "Я согласен / согласна."
+          "ru": "Я согласен / согласна.",
+          "es": "Estoy de acuerdo."
         },
         {
           "it": "È vero.",
           "en": "It's true.",
-          "ru": "Это правда."
+          "ru": "Это правда.",
+          "es": "Es cierto."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Expressing doubt or asking for clarification",
-        "ru": "Как выразить сомнение и попросить пояснение"
+        "ru": "Как выразить сомнение и попросить пояснение",
+        "es": "Expresar dudas o pedir aclaraciones."
       },
       "description": {
         "en": "When something is unclear, Italian often uses short formulas to ask for repetition, explanation, or confirmation.",
-        "ru": "Если что-то непонятно, часто используются короткие формулы для просьбы повторить, объяснить или уточнить."
+        "ru": "Если что-то непонятно, часто используются короткие формулы для просьбы повторить, объяснить или уточнить.",
+        "es": "Cuando algo no está claro, el italiano suele utilizar fórmulas breves para pedir repetición, explicación o confirmación."
       },
       "examples": [
         {
           "it": "Perché?",
           "en": "Why?",
-          "ru": "Почему?"
+          "ru": "Почему?",
+          "es": "¿Por qué?"
         },
         {
           "it": "Che vuoi dire?",
           "en": "What do you mean?",
-          "ru": "Что ты имеешь в виду?"
+          "ru": "Что ты имеешь в виду?",
+          "es": "¿Qué quieres decir?"
         },
         {
           "it": "Non ho capito.",
           "en": "I didn't understand.",
-          "ru": "Я не понял / не поняла."
+          "ru": "Я не понял / не поняла.",
+          "es": "No entendí."
         },
         {
           "it": "Puoi ripetere, per favore?",
           "en": "Can you repeat, please?",
-          "ru": "Можешь повторить, пожалуйста?"
+          "ru": "Можешь повторить, пожалуйста?",
+          "es": "¿Puedes repetir, por favor?"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Indefinite article review in connected text",
-        "ru": "Повторение неопределённого артикля в связном тексте"
+        "ru": "Повторение неопределённого артикля в связном тексте",
+        "es": "Revisión de artículo indefinido en texto conectado."
       },
       "description": {
         "en": "The lesson revises the indefinite article inside longer sentences and short mystery-style descriptions.",
-        "ru": "В уроке снова отрабатывается неопределённый артикль внутри более длинных фраз и описаний в стиле загадки."
+        "ru": "В уроке снова отрабатывается неопределённый артикль внутри более длинных фраз и описаний в стиле загадки.",
+        "es": "La lección revisa el artículo indefinido dentro de oraciones más largas y descripciones breves de estilo misterioso."
       },
       "examples": [
         {
           "it": "Anna ha un'amica di Parigi.",
           "en": "Anna has a friend from Paris.",
-          "ru": "У Анны есть подруга из Парижа."
+          "ru": "У Анны есть подруга из Парижа.",
+          "es": "Anna tiene una amiga de París."
         },
         {
           "it": "Lo spagnolo usa un articolo.",
           "en": "Spanish uses an article.",
-          "ru": "В испанском используется артикль."
+          "ru": "В испанском используется артикль.",
+          "es": "El español utiliza un artículo."
         },
         {
           "it": "Perché in abito parlo l'italiano Italia.",
           "en": "Because in the sentence I use the article with Italian and Italy.",
-          "ru": "Потому что в этом предложении я использую артикль с итальянским и Италией."
+          "ru": "Потому что в этом предложении я использую артикль с итальянским и Италией.",
+          "es": "Porque en la frase uso el artículo con italiano e Italia."
         }
       ]
     },
     {
       "category": {
         "en": "Listening",
-        "ru": "Аудирование"
+        "ru": "Аудирование",
+        "es": "Escuchando"
       },
       "rule": {
         "en": "Understanding a short mystery conversation",
-        "ru": "Понимание короткого разговора-загадки"
+        "ru": "Понимание короткого разговора-загадки",
+        "es": "Comprender una breve conversación misteriosa"
       },
       "description": {
         "en": "The listening task focuses on following a simple conversation about a suspicious situation and identifying what happened.",
-        "ru": "Задание на аудирование тренирует понимание простого разговора о подозрительной ситуации и поиск того, что произошло."
+        "ru": "Задание на аудирование тренирует понимание простого разговора о подозрительной ситуации и поиск того, что произошло.",
+        "es": "La tarea de escucha se centra en seguir una conversación sencilla sobre una situación sospechosa e identificar lo sucedido."
       },
       "examples": [
         {
           "it": "Bruno chiede informazioni sui vicini di casa di Anna.",
           "en": "Bruno asks for information about Anna's neighbours.",
-          "ru": "Бруно спрашивает о соседях Анны."
+          "ru": "Бруно спрашивает о соседях Анны.",
+          "es": "Bruno pide información sobre los vecinos de Anna."
         },
         {
           "it": "Il signor Ferrari non è mai in casa.",
           "en": "Mr Ferrari is never at home.",
-          "ru": "Синьор Феррари никогда не бывает дома."
+          "ru": "Синьор Феррари никогда не бывает дома.",
+          "es": "El señor Ferrari nunca está en casa."
         },
         {
           "it": "Tutti i pacchi arrivano dalla Svizzera.",
           "en": "All the packages arrive from Switzerland.",
-          "ru": "Все посылки приходят из Швейцарии."
+          "ru": "Все посылки приходят из Швейцарии.",
+          "es": "Todos los paquetes llegan desde Suiza."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Words for suspicion and investigation",
-        "ru": "Слова для темы загадки и наблюдения"
+        "ru": "Слова для темы загадки и наблюдения",
+        "es": "Palabras para sospecha e investigación."
       },
       "description": {
         "en": "The lesson introduces everyday words linked to mystery, neighbours, packages, and strange behaviour.",
-        "ru": "В уроке появляется бытовая лексика, связанная с загадкой, соседями, посылками и странным поведением."
+        "ru": "В уроке появляется бытовая лексика, связанная с загадкой, соседями, посылками и странным поведением.",
+        "es": "La lección introduce palabras cotidianas relacionadas con el misterio, los vecinos, los paquetes y los comportamientos extraños."
       },
       "examples": [
         {
           "it": "mistero",
           "en": "mystery",
-          "ru": "загадка, тайна"
+          "ru": "загадка, тайна",
+          "es": "misterio"
         },
         {
           "it": "vicino di casa",
           "en": "neighbour",
-          "ru": "сосед"
+          "ru": "сосед",
+          "es": "vecino"
         },
         {
           "it": "pacco",
           "en": "package",
-          "ru": "посылка"
+          "ru": "посылка",
+          "es": "paquete"
         },
         {
           "it": "strano",
           "en": "strange",
-          "ru": "странный"
+          "ru": "странный",
+          "es": "extraño"
         }
       ]
     }
@@ -198,8 +236,10 @@
       "ru": "тайна, загадка",
       "type": {
         "en": "story vocabulary",
-        "ru": "лексика сюжета"
-      }
+        "ru": "лексика сюжета",
+        "es": "vocabulario de la historia"
+      },
+      "es": "misterio"
     },
     {
       "term": "strano",
@@ -207,8 +247,10 @@
       "ru": "странный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "extraño"
     },
     {
       "term": "vicino di casa",
@@ -216,8 +258,10 @@
       "ru": "сосед",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "vecino"
     },
     {
       "term": "pacco",
@@ -225,8 +269,10 @@
       "ru": "посылка",
       "type": {
         "en": "everyday vocabulary",
-        "ru": "бытовая лексика"
-      }
+        "ru": "бытовая лексика",
+        "es": "vocabulario cotidiano"
+      },
+      "es": "paquete"
     },
     {
       "term": "indizio",
@@ -234,8 +280,10 @@
       "ru": "улика, подсказка",
       "type": {
         "en": "story vocabulary",
-        "ru": "лексика сюжета"
-      }
+        "ru": "лексика сюжета",
+        "es": "vocabulario de la historia"
+      },
+      "es": "clave"
     },
     {
       "term": "spiegazione",
@@ -243,8 +291,10 @@
       "ru": "объяснение",
       "type": {
         "en": "communication",
-        "ru": "общение"
-      }
+        "ru": "общение",
+        "es": "comunicación"
+      },
+      "es": "explicación"
     },
     {
       "term": "accordo",
@@ -252,8 +302,10 @@
       "ru": "согласие",
       "type": {
         "en": "communication",
-        "ru": "общение"
-      }
+        "ru": "общение",
+        "es": "comunicación"
+      },
+      "es": "acuerdo"
     },
     {
       "term": "hai ragione",
@@ -261,8 +313,10 @@
       "ru": "ты прав / права",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tienes razón"
     },
     {
       "term": "sono d'accordo",
@@ -270,8 +324,10 @@
       "ru": "я согласен / согласна",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Estoy de acuerdo"
     },
     {
       "term": "è vero",
@@ -279,8 +335,10 @@
       "ru": "это правда",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "es cierto"
     },
     {
       "term": "perché?",
@@ -288,8 +346,10 @@
       "ru": "почему?",
       "type": {
         "en": "question",
-        "ru": "вопрос"
-      }
+        "ru": "вопрос",
+        "es": "pregunta"
+      },
+      "es": "¿por qué?"
     },
     {
       "term": "che vuoi dire?",
@@ -297,8 +357,10 @@
       "ru": "что ты имеешь в виду?",
       "type": {
         "en": "question",
-        "ru": "вопрос"
-      }
+        "ru": "вопрос",
+        "es": "pregunta"
+      },
+      "es": "¿qué quieres decir?"
     },
     {
       "term": "non ho capito",
@@ -306,8 +368,10 @@
       "ru": "я не понял / не поняла",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "no entendí"
     },
     {
       "term": "puoi ripetere?",
@@ -315,8 +379,10 @@
       "ru": "можешь повторить?",
       "type": {
         "en": "question",
-        "ru": "вопрос"
-      }
+        "ru": "вопрос",
+        "es": "pregunta"
+      },
+      "es": "¿puedes repetir?"
     },
     {
       "term": "Svizzera",
@@ -324,8 +390,10 @@
       "ru": "Швейцария",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Suiza"
     },
     {
       "term": "Austria",
@@ -333,8 +401,10 @@
       "ru": "Австрия",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Austria"
     },
     {
       "term": "Belgio",
@@ -342,8 +412,10 @@
       "ru": "Бельгия",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Bélgica"
     },
     {
       "term": "Romania",
@@ -351,8 +423,10 @@
       "ru": "Румыния",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Rumania"
     },
     {
       "term": "il mistero",
@@ -360,8 +434,10 @@
       "ru": "тайна, загадка",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "misterio"
     },
     {
       "term": "Hai ragione.",
@@ -369,8 +445,10 @@
       "ru": "Ты прав(а).",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Tienes razón."
     },
     {
       "term": "Sono d'accordo.",
@@ -378,8 +456,10 @@
       "ru": "Я согласен/согласна.",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Estoy de acuerdo."
     },
     {
       "term": "È vero.",
@@ -387,8 +467,10 @@
       "ru": "Это правда.",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Es cierto."
     },
     {
       "term": "Non ho capito.",
@@ -396,8 +478,10 @@
       "ru": "Я не понял(а).",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "No entendí."
     },
     {
       "term": "Puoi ripetere?",
@@ -405,8 +489,10 @@
       "ru": "Можешь повторить?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Puedes repetir?"
     },
     {
       "term": "Che vuoi dire?",
@@ -414,8 +500,10 @@
       "ru": "Что ты имеешь в виду?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Qué quieres decir?"
     },
     {
       "term": "il vicino di casa",
@@ -423,40 +511,48 @@
       "ru": "сосед",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "vecino"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Vero o falso?",
       "en": "True or false?",
-      "ru": "Верно или неверно?"
+      "ru": "Верно или неверно?",
+      "es": "¿Verdadero o falso?"
     },
     {
       "it": "Leggete e verificate.",
       "en": "Read and check.",
-      "ru": "Прочитайте и проверьте."
+      "ru": "Прочитайте и проверьте.",
+      "es": "Lee y comprueba."
     },
     {
       "it": "Ascoltate e completate.",
       "en": "Listen and complete.",
-      "ru": "Послушайте и дополните."
+      "ru": "Послушайте и дополните.",
+      "es": "Escucha y completa."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     },
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Ответьте."
+      "ru": "Ответьте.",
+      "es": "Respuesta."
     },
     {
       "it": "Motivate la risposta.",
       "en": "Explain the answer.",
-      "ru": "Объясните ответ."
+      "ru": "Объясните ответ.",
+      "es": "Explica la respuesta."
     }
   ],
   "dialogues": [
@@ -466,46 +562,53 @@
       "register": "neutral",
       "context": {
         "en": "Bruno and Anna discuss strange things happening in the building.",
-        "ru": "Бруно и Анна обсуждают странные события в доме."
+        "ru": "Бруно и Анна обсуждают странные события в доме.",
+        "es": "Bruno y Anna hablan sobre cosas extrañas que suceden en el edificio."
       },
       "turns": [
         {
           "speaker": "Bruno",
           "it": "Il signor Ferrari non è mai in casa. Tutti i pacchi arrivano dalla Svizzera.",
           "en": "Mr Ferrari is never at home. All the packages arrive from Switzerland.",
-          "ru": "Синьор Феррари никогда не бывает дома. Все посылки приходят из Швейцарии."
+          "ru": "Синьор Феррари никогда не бывает дома. Все посылки приходят из Швейцарии.",
+          "es": "El señor Ferrari nunca está en casa. Todos los paquetes llegan desde Suiza."
         },
         {
           "speaker": "Anna",
           "it": "Hai ragione... è strano. Ma forse c'è una spiegazione.",
           "en": "You're right... it's strange. But maybe there is an explanation.",
-          "ru": "Ты прав... это странно. Но, возможно, этому есть объяснение."
+          "ru": "Ты прав... это странно. Но, возможно, этому есть объяснение.",
+          "es": "Tienes razón... es extraño. Pero tal vez haya una explicación."
         },
         {
           "speaker": "Bruno",
           "it": "Che vuoi dire?",
           "en": "What do you mean?",
-          "ru": "Что ты имеешь в виду?"
+          "ru": "Что ты имеешь в виду?",
+          "es": "¿Qué quieres decir?"
         },
         {
           "speaker": "Anna",
           "it": "Forse è un medico o un ingegnere e lavora fuori città.",
           "en": "Maybe he is a doctor or an engineer and works outside the city.",
-          "ru": "Может быть, он врач или инженер и работает за пределами города."
+          "ru": "Может быть, он врач или инженер и работает за пределами города.",
+          "es": "Quizás sea médico o ingeniero y trabaje fuera de la ciudad."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Say that you agree",
-            "ru": "Сказать, что вы согласны"
+            "ru": "Сказать, что вы согласны",
+            "es": "Di que estás de acuerdo"
           },
           "expected_it": "Sono d'accordo."
         },
         {
           "cue": {
             "en": "Ask for an explanation",
-            "ru": "Попросить объяснение"
+            "ru": "Попросить объяснение",
+            "es": "Pide una explicación"
           },
           "expected_it": "Che vuoi dire?"
         }
@@ -517,7 +620,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -532,7 +636,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -547,7 +652,8 @@
       "infinitive": "abitare",
       "translation": {
         "en": "to live / to reside",
-        "ru": "жить / проживать"
+        "ru": "жить / проживать",
+        "es": "vivir / residir"
       },
       "forms": {
         "io": "abito",
@@ -562,7 +668,8 @@
       "infinitive": "parlare",
       "translation": {
         "en": "to speak",
-        "ru": "говорить"
+        "ru": "говорить",
+        "es": "hablar"
       },
       "forms": {
         "io": "parlo",
@@ -577,7 +684,8 @@
       "infinitive": "studiare",
       "translation": {
         "en": "to study",
-        "ru": "учиться / изучать"
+        "ru": "учиться / изучать",
+        "es": "estudiar"
       },
       "forms": {
         "io": "studio",
@@ -592,7 +700,8 @@
       "infinitive": "lavorare",
       "translation": {
         "en": "to work",
-        "ru": "работать"
+        "ru": "работать",
+        "es": "trabajar"
       },
       "forms": {
         "io": "lavoro",

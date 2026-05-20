@@ -21,6 +21,12 @@
         "Грамматика: глагол avere",
         "Лексика: числа от 10 до 100",
         "Коммуникативное задание: quanti anni hai?"
+      ],
+      "es": [
+        "Comprensión auditiva: ¿Tiene novio?",
+        "Gramática: verbo avere",
+        "Vocabulario: números del 10 al 100",
+        "Actividad comunicativa: ¿Cuántos años tienes?"
       ]
     }
   },
@@ -28,15 +34,18 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Present tense of avere",
-        "ru": "Настоящее время глагола avere"
+        "ru": "Настоящее время глагола avere",
+        "es": "Tiempo presente de avere"
       },
       "description": {
         "en": "The verb 'avere' is used to express possession and age.",
-        "ru": "Глагол «avere» используется для выражения обладания и возраста."
+        "ru": "Глагол «avere» используется для выражения обладания и возраста.",
+        "es": "El verbo 'avere' se utiliza para expresar posesión y edad."
       },
       "conjugations": {
         "io": "ho",
@@ -50,119 +59,141 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Essere vs avere",
-        "ru": "Essere и avere"
+        "ru": "Essere и avere",
+        "es": "Essere vs avere"
       },
       "description": {
         "en": "Italian uses 'essere' for identity and description, and 'avere' for possession and age.",
-        "ru": "В итальянском языке «essere» используется для описания тождества и характеристик, а «avere» — для обладания и возраста."
+        "ru": "В итальянском языке «essere» используется для описания тождества и характеристик, а «avere» — для обладания и возраста.",
+        "es": "El italiano utiliza \"essere\" para identidad y descripción, y \"avere\" para posesión y edad."
       },
       "examples": [
         {
           "it": "Carla è bella.",
           "en": "Carla is beautiful.",
-          "ru": "Карла красивая."
+          "ru": "Карла красивая.",
+          "es": "Carla es hermosa."
         },
         {
           "it": "Carla ha 27 anni.",
           "en": "Carla is 27 years old.",
-          "ru": "Карле 27 лет."
+          "ru": "Карле 27 лет.",
+          "es": "Carla tiene 27 años."
         },
         {
           "it": "Ho vent'anni.",
           "en": "I am twenty years old.",
-          "ru": "Мне двадцать лет."
+          "ru": "Мне двадцать лет.",
+          "es": "Tengo veinte años."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking and saying age: formal vs informal",
-        "ru": "Вопрос о возрасте и ответ на него: официально и неформально"
+        "ru": "Вопрос о возрасте и ответ на него: официально и неформально",
+        "es": "Preguntar y decir edad: formal vs informal"
       },
       "description": {
         "en": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking age.",
-        "ru": "В итальянском языке различаются неформальное «tu» и официальное «Lei» при вопросе о возрасте."
+        "ru": "В итальянском языке различаются неформальное «tu» и официальное «Lei» при вопросе о возрасте.",
+        "es": "El italiano distingue entre 'tu' informal y 'Lei' formal cuando se pregunta la edad."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Quanti anni hai?",
           "en": "How old are you?",
-          "ru": "Сколько тебе лет?"
+          "ru": "Сколько тебе лет?",
+          "es": "¿Cuántos años tiene?"
         },
         {
           "context": "informal",
           "it": "E tu?",
           "en": "And you?",
-          "ru": "А ты?"
+          "ru": "А ты?",
+          "es": "¿Y tú?"
         },
         {
           "context": "formal",
           "it": "Quanti anni ha?",
           "en": "How old are you? (formal)",
-          "ru": "Сколько вам лет? (официально)"
+          "ru": "Сколько вам лет? (официально)",
+          "es": "¿Cuántos años tiene? (formal)"
         },
         {
           "context": "formal",
           "it": "E Lei?",
           "en": "And you? (formal)",
-          "ru": "А вы? (официально)"
+          "ru": "А вы? (официально)",
+          "es": "¿Y tú? (formal)"
         },
         {
           "context": "answer",
           "it": "Ho ... anni.",
           "en": "I am ... years old.",
-          "ru": "Мне ... лет."
+          "ru": "Мне ... лет.",
+          "es": "Tengo... años."
         },
         {
           "context": "answer",
           "it": "Ne ho ...",
           "en": "I am ... years old.",
-          "ru": "Мне ... лет."
+          "ru": "Мне ... лет.",
+          "es": "Tengo... años."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Talking about same age and age groups",
-        "ru": "Выражения об одном возрасте и возрастных группах"
+        "ru": "Выражения об одном возрасте и возрастных группах",
+        "es": "Hablando de la misma edad y grupos de edad."
       },
       "description": {
         "en": "Italian has common expressions for being the same age and describing age.",
-        "ru": "В итальянском языке есть распространённые выражения для описания одинакового возраста и характеристики возраста."
+        "ru": "В итальянском языке есть распространённые выражения для описания одинакового возраста и характеристики возраста.",
+        "es": "El italiano tiene expresiones comunes para tener la misma edad y describir la edad."
       },
       "examples": [
         {
           "it": "coetaneo / coetanea",
           "en": "peer; person of the same age",
-          "ru": "ровесник / ровесница; человек одного возраста"
+          "ru": "ровесник / ровесница; человек одного возраста",
+          "es": "par; persona de la misma edad"
         },
         {
           "it": "Siamo coetanei.",
           "en": "We are the same age.",
-          "ru": "Мы ровесники."
+          "ru": "Мы ровесники.",
+          "es": "Tenemos la misma edad."
         },
         {
           "it": "Abbiamo la stessa età.",
           "en": "We are the same age.",
-          "ru": "Мы одного возраста."
+          "ru": "Мы одного возраста.",
+          "es": "Tenemos la misma edad."
         },
         {
           "it": "giovane / anziano",
           "en": "young / elderly",
-          "ru": "молодой / пожилой"
+          "ru": "молодой / пожилой",
+          "es": "joven / anciano"
         }
       ]
     }
@@ -174,8 +205,10 @@
       "ru": "иметь",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "tener"
     },
     {
       "term": "ho",
@@ -183,8 +216,10 @@
       "ru": "я имею",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "Tengo"
     },
     {
       "term": "hai",
@@ -192,8 +227,10 @@
       "ru": "ты имеешь",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "tienes"
     },
     {
       "term": "ha",
@@ -201,8 +238,10 @@
       "ru": "он/она имеет; вы имеете (официально)",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "él/ella tiene; tienes (formal)"
     },
     {
       "term": "abbiamo",
@@ -210,8 +249,10 @@
       "ru": "мы имеем",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "tenemos"
     },
     {
       "term": "avete",
@@ -219,8 +260,10 @@
       "ru": "вы (все) имеете",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "todos ustedes tienen"
     },
     {
       "term": "hanno",
@@ -228,8 +271,10 @@
       "ru": "они имеют",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "ellos tienen"
     },
     {
       "term": "quanti anni hai?",
@@ -237,8 +282,10 @@
       "ru": "сколько тебе лет?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿cuántos años tiene?"
     },
     {
       "term": "quanti anni ha?",
@@ -246,8 +293,10 @@
       "ru": "сколько вам лет? (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿cuántos años tiene? (formal)"
     },
     {
       "term": "ho ... anni",
@@ -255,8 +304,10 @@
       "ru": "мне ... лет",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tengo... años"
     },
     {
       "term": "ne ho ...",
@@ -264,8 +315,10 @@
       "ru": "мне ... лет",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tengo... años"
     },
     {
       "term": "coetaneo",
@@ -273,8 +326,10 @@
       "ru": "ровесник / человек одного возраста",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "par; persona de la misma edad"
     },
     {
       "term": "la stessa età",
@@ -282,8 +337,10 @@
       "ru": "одинаковый возраст",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "la misma edad"
     },
     {
       "term": "giovane",
@@ -291,8 +348,10 @@
       "ru": "молодой",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "joven"
     },
     {
       "term": "anziano",
@@ -300,8 +359,10 @@
       "ru": "пожилой",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "anciano"
     },
     {
       "term": "ragazzo",
@@ -309,8 +370,10 @@
       "ru": "мальчик; парень; молодой человек",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "chico; novio"
     },
     {
       "term": "bella",
@@ -318,8 +381,10 @@
       "ru": "красивая",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "hermoso"
     },
     {
       "term": "carina",
@@ -327,8 +392,10 @@
       "ru": "милая; симпатичная",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "lindo; bonito"
     },
     {
       "term": "età",
@@ -336,8 +403,10 @@
       "ru": "возраст",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "edad"
     },
     {
       "term": "dieci",
@@ -345,8 +414,10 @@
       "ru": "десять",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "diez"
     },
     {
       "term": "undici",
@@ -354,8 +425,10 @@
       "ru": "одиннадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "once"
     },
     {
       "term": "dodici",
@@ -363,8 +436,10 @@
       "ru": "двенадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "doce"
     },
     {
       "term": "tredici",
@@ -372,8 +447,10 @@
       "ru": "тринадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "trece"
     },
     {
       "term": "quattordici",
@@ -381,8 +458,10 @@
       "ru": "четырнадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "catorce"
     },
     {
       "term": "quindici",
@@ -390,8 +469,10 @@
       "ru": "пятнадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "quince"
     },
     {
       "term": "sedici",
@@ -399,8 +480,10 @@
       "ru": "шестнадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "dieciséis"
     },
     {
       "term": "diciassette",
@@ -408,8 +491,10 @@
       "ru": "семнадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "diecisiete"
     },
     {
       "term": "diciotto",
@@ -417,8 +502,10 @@
       "ru": "восемнадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "dieciocho"
     },
     {
       "term": "diciannove",
@@ -426,8 +513,10 @@
       "ru": "девятнадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "diecinueve"
     },
     {
       "term": "venti",
@@ -435,8 +524,10 @@
       "ru": "двадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "veinte"
     },
     {
       "term": "vent'anni",
@@ -444,8 +535,10 @@
       "ru": "двадцать лет",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "veinte años"
     },
     {
       "term": "ventun anni",
@@ -453,8 +546,10 @@
       "ru": "двадцать один год",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "veintiún años"
     },
     {
       "term": "ventott'anni",
@@ -462,8 +557,10 @@
       "ru": "двадцать восемь лет",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "veintiocho años"
     },
     {
       "term": "sono contento(a) di vederti",
@@ -471,8 +568,10 @@
       "ru": "я рад(а) тебя видеть",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "estoy feliz de verte"
     },
     {
       "term": "anch'io",
@@ -480,8 +579,10 @@
       "ru": "я тоже",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "yo también"
     },
     {
       "term": "altrettanto",
@@ -489,8 +590,10 @@
       "ru": "взаимно",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "asimismo"
     },
     {
       "term": "non c'è male",
@@ -498,8 +601,10 @@
       "ru": "неплохо",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "nada mal"
     },
     {
       "term": "così così",
@@ -507,8 +612,10 @@
       "ru": "так себе",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "más o menos"
     },
     {
       "term": "insomma",
@@ -516,8 +623,10 @@
       "ru": "так себе; в общем",
       "type": {
         "en": "adverb",
-        "ru": "наречие"
-      }
+        "ru": "наречие",
+        "es": "adverbio"
+      },
+      "es": "más o menos; considerándolo todo"
     },
     {
       "term": "week end",
@@ -525,8 +634,10 @@
       "ru": "выходные",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "fin de semana"
     },
     {
       "term": "fine settimana",
@@ -534,8 +645,10 @@
       "ru": "выходные",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "fin de semana"
     },
     {
       "term": "È quasi week end",
@@ -543,8 +656,10 @@
       "ru": "Почти выходные",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "ya casi es fin de semana"
     },
     {
       "term": "mah",
@@ -552,8 +667,10 @@
       "ru": "хм; ну (выражает неуверенность)",
       "type": {
         "en": "interjection",
-        "ru": "междометие"
-      }
+        "ru": "междометие",
+        "es": "interjección"
+      },
+      "es": "Mmm; bien (expresando incertidumbre)"
     },
     {
       "term": "boh",
@@ -561,8 +678,10 @@
       "ru": "не знаю; понятия не имею",
       "type": {
         "en": "interjection",
-        "ru": "междометие"
-      }
+        "ru": "междометие",
+        "es": "interjección"
+      },
+      "es": "No sé; me gana"
     },
     {
       "term": "troppo",
@@ -570,8 +689,10 @@
       "ru": "слишком; очень много",
       "type": {
         "en": "adverb",
-        "ru": "наречие"
-      }
+        "ru": "наречие",
+        "es": "adverbio"
+      },
+      "es": "también; demasiado"
     },
     {
       "term": "per",
@@ -579,8 +700,10 @@
       "ru": "для; ради",
       "type": {
         "en": "preposition",
-        "ru": "предлог"
-      }
+        "ru": "предлог",
+        "es": "preposición"
+      },
+      "es": "para"
     },
     {
       "term": "ma",
@@ -588,8 +711,10 @@
       "ru": "но",
       "type": {
         "en": "connector",
-        "ru": "союз"
-      }
+        "ru": "союз",
+        "es": "conector"
+      },
+      "es": "pero"
     },
     {
       "term": "ventidue",
@@ -597,8 +722,10 @@
       "ru": "двадцать два",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "Veintidós"
     },
     {
       "term": "trenta",
@@ -606,8 +733,10 @@
       "ru": "тридцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "treinta"
     },
     {
       "term": "quaranta",
@@ -615,8 +744,10 @@
       "ru": "сорок",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "cuarenta"
     },
     {
       "term": "cinquanta",
@@ -624,8 +755,10 @@
       "ru": "пятьдесят",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "cincuenta"
     },
     {
       "term": "sessanta",
@@ -633,8 +766,10 @@
       "ru": "шестьдесят",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "sesenta"
     },
     {
       "term": "settanta",
@@ -642,8 +777,10 @@
       "ru": "семьдесят",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "setenta"
     },
     {
       "term": "ottanta",
@@ -651,8 +788,10 @@
       "ru": "восемьдесят",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "ochenta"
     },
     {
       "term": "novanta",
@@ -660,8 +799,10 @@
       "ru": "девяносто",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "noventa"
     },
     {
       "term": "cento",
@@ -669,70 +810,84 @@
       "ru": "сто",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "ciento"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Chiudete il libro e ascoltate il dialogo.",
       "en": "Close the book and listen to the dialogue.",
-      "ru": "Закройте книгу и послушайте диалог."
+      "ru": "Закройте книгу и послушайте диалог.",
+      "es": "Cierra el libro y escucha el diálogo."
     },
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Отвечайте."
+      "ru": "Отвечайте.",
+      "es": "Respuesta."
     },
     {
       "it": "Di chi parlano i due ragazzi?",
       "en": "Who are the two boys talking about?",
-      "ru": "О ком говорят двое парней?"
+      "ru": "О ком говорят двое парней?",
+      "es": "¿De quién están hablando los dos chicos?"
     },
     {
       "it": "Quali aggettivi usano per descrivere questa persona?",
       "en": "Which adjectives do they use to describe this person?",
-      "ru": "Какие прилагательные они используют для описания этого человека?"
+      "ru": "Какие прилагательные они используют для описания этого человека?",
+      "es": "¿Qué adjetivos utilizan para describir a esta persona?"
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Сопоставьте."
+      "ru": "Сопоставьте.",
+      "es": "Fósforo."
     },
     {
       "it": "Leggete e verificate.",
       "en": "Read and check.",
-      "ru": "Прочитайте и проверьте."
+      "ru": "Прочитайте и проверьте.",
+      "es": "Lee y comprueba."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / дополните."
+      "ru": "Заполните / дополните.",
+      "es": "Completo."
     },
     {
       "it": "Completate con avere.",
       "en": "Complete with 'avere'.",
-      "ru": "Заполните с помощью «avere»."
+      "ru": "Заполните с помощью «avere».",
+      "es": "Completar con 'avere'."
     },
     {
       "it": "Completate con essere.",
       "en": "Complete with 'essere'.",
-      "ru": "Заполните с помощью «essere»."
+      "ru": "Заполните с помощью «essere».",
+      "es": "Completar con 'essere'."
     },
     {
       "it": "Rimettete in ordine.",
       "en": "Put in order.",
-      "ru": "Расставьте в правильном порядке."
+      "ru": "Расставьте в правильном порядке.",
+      "es": "Ordenar."
     },
     {
       "it": "Cancellate i numeri sulle schede.",
       "en": "Cross out the numbers on the cards.",
-      "ru": "Вычеркните числа на карточках."
+      "ru": "Вычеркните числа на карточках.",
+      "es": "Tacha los números de las tarjetas."
     },
     {
       "it": "Dove si completa una riga?",
       "en": "Where do you complete a row?",
-      "ru": "Где вы заполняете строку?"
+      "ru": "Где вы заполняете строку?",
+      "es": "¿Dónde completas una fila?"
     }
   ],
   "dialogues": [
@@ -742,53 +897,61 @@
       "register": "informal",
       "context": {
         "en": "Two students compare their ages during a class break",
-        "ru": "Два студента сравнивают возраст во время перерыва на уроке"
+        "ru": "Два студента сравнивают возраст во время перерыва на уроке",
+        "es": "Dos estudiantes comparan sus edades durante un receso de clase"
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Quanti anni hai?",
           "en": "How old are you?",
-          "ru": "Сколько тебе лет?"
+          "ru": "Сколько тебе лет?",
+          "es": "¿Cuántos años tiene?"
         },
         {
           "speaker": "B",
           "it": "Ho venticinque anni. E tu?",
           "en": "I am twenty-five. And you?",
-          "ru": "Мне двадцать пять. А тебе?"
+          "ru": "Мне двадцать пять. А тебе?",
+          "es": "Tengo veinticinco años. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Ho ventisei anni. Siamo quasi coetanei!",
           "en": "I am twenty-six. We are almost the same age!",
-          "ru": "Мне двадцать шесть. Мы почти ровесники!"
+          "ru": "Мне двадцать шесть. Мы почти ровесники!",
+          "es": "Tengo veintiséis años. ¡Tenemos casi la misma edad!"
         },
         {
           "speaker": "B",
           "it": "Sì, abbiamo quasi la stessa età!",
           "en": "Yes, we are almost the same age!",
-          "ru": "Да, мы почти одного возраста!"
+          "ru": "Да, мы почти одного возраста!",
+          "es": "¡Sí, tenemos casi la misma edad!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask how old someone is (informal)",
-            "ru": "Спросите, сколько кому-то лет (неформально)"
+            "ru": "Спросите, сколько кому-то лет (неформально)",
+            "es": "Preguntar cuántos años tiene alguien (informal)"
           },
           "expected_it": "Quanti anni hai?"
         },
         {
           "cue": {
             "en": "Say your age using 'ho'",
-            "ru": "Назовите свой возраст с помощью «ho»"
+            "ru": "Назовите свой возраст с помощью «ho»",
+            "es": "Di tu edad usando 'ho'"
           },
           "expected_it": "Ho [numero] anni."
         },
         {
           "cue": {
             "en": "Say you are (almost) the same age",
-            "ru": "Скажите, что вы (почти) ровесники"
+            "ru": "Скажите, что вы (почти) ровесники",
+            "es": "Di que tienes (casi) la misma edad"
           },
           "expected_it": "Siamo coetanei! / Abbiamo la stessa età."
         }
@@ -800,65 +963,75 @@
       "register": "informal",
       "context": {
         "en": "Two male friends talk about Carla — the listening dialogue from the lesson",
-        "ru": "Двое друзей-мужчин разговаривают о Карле — диалог для аудирования из урока"
+        "ru": "Двое друзей-мужчин разговаривают о Карле — диалог для аудирования из урока",
+        "es": "Dos amigos varones hablan sobre Carla: el diálogo de escucha de la lección."
       },
       "turns": [
         {
           "speaker": "Gianni",
           "it": "Bella Carla, no?",
           "en": "Carla is beautiful, isn't she?",
-          "ru": "Карла красивая, правда?"
+          "ru": "Карла красивая, правда?",
+          "es": "Carla es hermosa, ¿no?"
         },
         {
           "speaker": "Bruno",
           "it": "Sì, è molto bella e carina.",
           "en": "Yes, she is very beautiful and pretty.",
-          "ru": "Да, она очень красивая и милая."
+          "ru": "Да, она очень красивая и милая.",
+          "es": "Sí, ella es muy hermosa y bonita."
         },
         {
           "speaker": "Gianni",
           "it": "Quanti anni ha?",
           "en": "How old is she?",
-          "ru": "Сколько ей лет?"
+          "ru": "Сколько ей лет?",
+          "es": "¿Qué edad tiene ella?"
         },
         {
           "speaker": "Bruno",
           "it": "Mah... 26-27. Boh, perché?",
           "en": "Hmm... 26-27. I don't know, why?",
-          "ru": "Хм... 26–27. Не знаю, а почему?"
+          "ru": "Хм... 26–27. Не знаю, а почему?",
+          "es": "Mmm... 26-27. No lo sé, ¿por qué?"
         },
         {
           "speaker": "Gianni",
           "it": "Ha il ragazzo?",
           "en": "Does she have a boyfriend?",
-          "ru": "У неё есть парень?"
+          "ru": "У неё есть парень?",
+          "es": "¿Tiene novio?"
         },
         {
           "speaker": "Bruno",
           "it": "No. Ma è troppo bella per te!",
           "en": "No. But she is too beautiful for you!",
-          "ru": "Нет. Но она слишком красивая для тебя!"
+          "ru": "Нет. Но она слишком красивая для тебя!",
+          "es": "No. ¡Pero ella es demasiado hermosa para ti!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask how old a third person is",
-            "ru": "Спросите, сколько лет третьему лицу"
+            "ru": "Спросите, сколько лет третьему лицу",
+            "es": "Preguntar cuántos años tiene una tercera persona."
           },
           "expected_it": "Quanti anni ha?"
         },
         {
           "cue": {
             "en": "Ask if someone has a boyfriend/girlfriend",
-            "ru": "Спросите, есть ли у кого-то парень / девушка"
+            "ru": "Спросите, есть ли у кого-то парень / девушка",
+            "es": "Preguntar si alguien tiene novio/novia"
           },
           "expected_it": "Ha il ragazzo? / Ha la ragazza?"
         },
         {
           "cue": {
             "en": "Say someone is 27 years old",
-            "ru": "Скажите, что кому-то 27 лет"
+            "ru": "Скажите, что кому-то 27 лет",
+            "es": "Digamos que alguien tiene 27 años."
           },
           "expected_it": "Ha 27 anni."
         }
@@ -870,40 +1043,46 @@
       "register": "formal",
       "context": {
         "en": "A formal exchange about age",
-        "ru": "Официальный обмен репликами о возрасте"
+        "ru": "Официальный обмен репликами о возрасте",
+        "es": "Un intercambio formal sobre la edad."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Quanti anni ha, signora Rossi?",
           "en": "How old are you, Mrs. Rossi?",
-          "ru": "Сколько вам лет, госпожа Росси?"
+          "ru": "Сколько вам лет, госпожа Росси?",
+          "es": "¿Cuántos años tiene usted, señora Rossi?"
         },
         {
           "speaker": "B",
           "it": "Ho quarantadue anni. E Lei?",
           "en": "I am forty-two. And you?",
-          "ru": "Мне сорок два. А вам?"
+          "ru": "Мне сорок два. А вам?",
+          "es": "Tengo cuarenta y dos años. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Ne ho quarantacinque.",
           "en": "I am forty-five.",
-          "ru": "Мне сорок пять."
+          "ru": "Мне сорок пять.",
+          "es": "Tengo cuarenta y cinco años."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask age formally using a courtesy title",
-            "ru": "Официально спросите о возрасте, используя вежливое обращение"
+            "ru": "Официально спросите о возрасте, используя вежливое обращение",
+            "es": "Preguntar la edad formalmente usando un título de cortesía."
           },
           "expected_it": "Quanti anni ha, signor/signora [cognome]?"
         },
         {
           "cue": {
             "en": "Give your age using 'ne ho'",
-            "ru": "Назовите свой возраст с помощью «ne ho»"
+            "ru": "Назовите свой возраст с помощью «ne ho»",
+            "es": "Da tu edad usando 'ne ho'"
           },
           "expected_it": "Ne ho [numero]."
         }
@@ -915,176 +1094,205 @@
       "register": "informal",
       "context": {
         "en": "Two students talk about hunger, thirst, tiredness, fear, and study plans.",
-        "ru": "Два студента говорят о голоде, жажде, усталости, страхе и планах на учёбу."
+        "ru": "Два студента говорят о голоде, жажде, усталости, страхе и планах на учёбу.",
+        "es": "Dos estudiantes hablan sobre el hambre, la sed, el cansancio, el miedo y los planes de estudio."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, Elena. Come stai oggi?",
           "en": "Hi, Elena. How are you today?",
-          "ru": "Привет, Елена. Как ты сегодня?"
+          "ru": "Привет, Елена. Как ты сегодня?",
+          "es": "Hola elena. ¿Cómo estás hoy?"
         },
         {
           "speaker": "B",
           "it": "Così così. Ho sonno e ho fame.",
           "en": "So-so. I'm sleepy and hungry.",
-          "ru": "Так себе. Хочу спать и есть."
+          "ru": "Так себе. Хочу спать и есть.",
+          "es": "Más o menos. Tengo sueño y hambre."
         },
         {
           "speaker": "A",
           "it": "Anch'io ho fame. Hai anche sete?",
           "en": "I'm hungry too. Are you also thirsty?",
-          "ru": "Я тоже голодный. Ты ещё хочешь пить?"
+          "ru": "Я тоже голодный. Ты ещё хочешь пить?",
+          "es": "Yo también tengo hambre. ¿Tú también tienes sed?"
         },
         {
           "speaker": "B",
           "it": "Sì, ho molta sete.",
           "en": "Yes, I'm very thirsty.",
-          "ru": "Да, очень хочу пить."
+          "ru": "Да, очень хочу пить.",
+          "es": "Sí, tengo mucha sed."
         },
         {
           "speaker": "A",
           "it": "Ho una bottiglia d'acqua. Vuoi un po'?",
           "en": "I have a bottle of water. Do you want some?",
-          "ru": "У меня есть бутылка воды. Хочешь немного?"
+          "ru": "У меня есть бутылка воды. Хочешь немного?",
+          "es": "Tengo una botella de agua. ¿Quieres un poco?"
         },
         {
           "speaker": "B",
           "it": "Sì, grazie. Sei molto gentile.",
           "en": "Yes, thanks. You're very kind.",
-          "ru": "Да, спасибо. Ты очень добрый."
+          "ru": "Да, спасибо. Ты очень добрый.",
+          "es": "Sí, gracias. Es usted muy amable."
         },
         {
           "speaker": "A",
           "it": "Prego. Hai freddo?",
           "en": "You're welcome. Are you cold?",
-          "ru": "Пожалуйста. Тебе холодно?"
+          "ru": "Пожалуйста. Тебе холодно?",
+          "es": "De nada. ¿Tienes frío?"
         },
         {
           "speaker": "B",
           "it": "No, ho caldo. L'aula è calda.",
           "en": "No, I'm hot. The classroom is warm.",
-          "ru": "Нет, мне жарко. В аудитории тепло."
+          "ru": "Нет, мне жарко. В аудитории тепло.",
+          "es": "No, tengo calor. El aula es cálida."
         },
         {
           "speaker": "A",
           "it": "È vero. Io ho anche mal di testa.",
           "en": "That's true. I also have a headache.",
-          "ru": "Это правда. У меня ещё болит голова."
+          "ru": "Это правда. У меня ещё болит голова.",
+          "es": "Eso es cierto. A mí también me duele la cabeza."
         },
         {
           "speaker": "B",
           "it": "Mi dispiace. Hai un esame oggi?",
           "en": "I'm sorry. Do you have an exam today?",
-          "ru": "Мне жаль. У тебя сегодня экзамен?"
+          "ru": "Мне жаль. У тебя сегодня экзамен?",
+          "es": "Lo lamento. ¿Tienes un examen hoy?"
         },
         {
           "speaker": "A",
           "it": "Sì, ho l'esame di italiano.",
           "en": "Yes, I have the Italian exam.",
-          "ru": "Да, у меня экзамен по итальянскому."
+          "ru": "Да, у меня экзамен по итальянскому.",
+          "es": "Sí, tengo el examen de italiano."
         },
         {
           "speaker": "B",
           "it": "Hai paura?",
           "en": "Are you scared?",
-          "ru": "Ты боишься?"
+          "ru": "Ты боишься?",
+          "es": "¿Tienes miedo?"
         },
         {
           "speaker": "A",
           "it": "Un po'. Ho paura dei verbi.",
           "en": "A little. I'm afraid of the verbs.",
-          "ru": "Немного. Боюсь глаголов."
+          "ru": "Немного. Боюсь глаголов.",
+          "es": "Un poco. Tengo miedo de los verbos."
         },
         {
           "speaker": "B",
           "it": "Io ho paura dei numeri.",
           "en": "I'm afraid of the numbers.",
-          "ru": "Я боюсь чисел."
+          "ru": "Я боюсь чисел.",
+          "es": "Tengo miedo de los números."
         },
         {
           "speaker": "A",
           "it": "Possiamo studiare insieme.",
           "en": "We can study together.",
-          "ru": "Можем учиться вместе."
+          "ru": "Можем учиться вместе.",
+          "es": "Podemos estudiar juntos."
         },
         {
           "speaker": "B",
           "it": "Sì, volentieri. Quanti anni hai?",
           "en": "Yes, gladly. How old are you?",
-          "ru": "Да, с удовольствием. Сколько тебе лет?"
+          "ru": "Да, с удовольствием. Сколько тебе лет?",
+          "es": "Sí, con mucho gusto. ¿Cuántos años tiene?"
         },
         {
           "speaker": "A",
           "it": "Ho ventotto anni. E tu?",
           "en": "I'm twenty-eight. And you?",
-          "ru": "Мне двадцать восемь. А тебе?"
+          "ru": "Мне двадцать восемь. А тебе?",
+          "es": "Tengo veintiocho años. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Ho ventidue anni.",
           "en": "I'm twenty-two.",
-          "ru": "Мне двадцать два."
+          "ru": "Мне двадцать два.",
+          "es": "Tengo veintidós."
         },
         {
           "speaker": "A",
           "it": "Bene, cominciamo con domande facili.",
           "en": "Good, let's start with easy questions.",
-          "ru": "Хорошо, начнём с лёгких вопросов."
+          "ru": "Хорошо, начнём с лёгких вопросов.",
+          "es": "Bien, comencemos con preguntas fáciles."
         },
         {
           "speaker": "B",
           "it": "Va bene. Qual è il tuo numero di telefono?",
           "en": "Okay. What's your phone number?",
-          "ru": "Хорошо. Какой у тебя номер телефона?"
+          "ru": "Хорошо. Какой у тебя номер телефона?",
+          "es": "Bueno. ¿Cuál es tu número de teléfono?"
         },
         {
           "speaker": "A",
           "it": "Tre quattro cinque, due uno zero, nove otto sette.",
           "en": "Three four five, two one zero, nine eight seven.",
-          "ru": "Три четыре пять, два один ноль, девять восемь семь."
+          "ru": "Три четыре пять, два один ноль, девять восемь семь.",
+          "es": "Tres cuatro cinco, dos uno cero, nueve ocho siete."
         },
         {
           "speaker": "B",
           "it": "Perfetto. Io ti chiamo dopo.",
           "en": "Perfect. I'll call you later.",
-          "ru": "Отлично. Я тебе позвоню потом."
+          "ru": "Отлично. Я тебе позвоню потом.",
+          "es": "Perfecto. Te llamaré más tarde."
         },
         {
           "speaker": "A",
           "it": "Hai tempo alle cinque?",
           "en": "Do you have time at five?",
-          "ru": "У тебя есть время в пять?"
+          "ru": "У тебя есть время в пять?",
+          "es": "¿Tienes tiempo a las cinco?"
         },
         {
           "speaker": "B",
           "it": "Sì, ho tempo alle cinque.",
           "en": "Yes, I have time at five.",
-          "ru": "Да, у меня есть время в пять."
+          "ru": "Да, у меня есть время в пять.",
+          "es": "Sí, tengo tiempo a las cinco."
         },
         {
           "speaker": "A",
           "it": "Studiamo in biblioteca?",
           "en": "Shall we study in the library?",
-          "ru": "Будем заниматься в библиотеке?"
+          "ru": "Будем заниматься в библиотеке?",
+          "es": "¿Estudiamos en la biblioteca?"
         },
         {
           "speaker": "B",
           "it": "Sì, ma prima prendiamo un caffè.",
           "en": "Yes, but first let's get a coffee.",
-          "ru": "Да, но сначала выпьем кофе."
+          "ru": "Да, но сначала выпьем кофе.",
+          "es": "Sí, pero primero tomemos un café."
         },
         {
           "speaker": "A",
           "it": "Buona idea. Ho bisogno di energia.",
           "en": "Good idea. I need energy.",
-          "ru": "Хорошая идея. Мне нужна энергия."
+          "ru": "Хорошая идея. Мне нужна энергия.",
+          "es": "Buena idea. Necesito energía."
         },
         {
           "speaker": "B",
           "it": "Anch'io. Andiamo dopo la lezione.",
           "en": "Me too. Let's go after the lesson.",
-          "ru": "Мне тоже. Пойдём после урока."
+          "ru": "Мне тоже. Пойдём после урока.",
+          "es": "Yo también. Vayamos después de la lección."
         }
       ]
     }
@@ -1094,7 +1302,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -1109,7 +1318,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -1124,7 +1334,8 @@
       "infinitive": "stare",
       "translation": {
         "en": "to stay / to be (health)",
-        "ru": "находиться / чувствовать себя"
+        "ru": "находиться / чувствовать себя",
+        "es": "quedarse / estar (salud)"
       },
       "forms": {
         "io": "sto",

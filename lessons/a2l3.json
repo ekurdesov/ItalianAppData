@@ -24,6 +24,13 @@
         "Глагол stare",
         "Коммуникативное задание: come va?",
         "Фонетика: sc"
+      ],
+      "es": [
+        "Comprensión auditiva: reuniones",
+        "Presentando a una persona",
+        "verbo mirar fijamente",
+        "Actividad comunicativa: ¿cómo va?",
+        "Fonética: sc"
       ]
     }
   },
@@ -31,15 +38,18 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Present tense of stare",
-        "ru": "Настоящее время глагола stare"
+        "ru": "Настоящее время глагола stare",
+        "es": "Tiempo presente de mirar fijamente."
       },
       "description": {
         "en": "The verb 'stare' is used to ask and say how someone is, and in some contexts to indicate a state or location.",
-        "ru": "Глагол «stare» используется, чтобы спросить и сказать, как дела у кого-либо, а в некоторых контекстах — чтобы указать на состояние или местонахождение."
+        "ru": "Глагол «stare» используется, чтобы спросить и сказать, как дела у кого-либо, а в некоторых контекстах — чтобы указать на состояние или местонахождение.",
+        "es": "El verbo 'mirar' se usa para preguntar y decir cómo está alguien y, en algunos contextos, para indicar un estado o ubicación."
       },
       "conjugations": {
         "io": "sto",
@@ -53,204 +63,242 @@
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking how someone is: formal vs informal",
-        "ru": "Вопрос «как дела»: официально и неформально"
+        "ru": "Вопрос «как дела»: официально и неформально",
+        "es": "Preguntar cómo es alguien: formal versus informal"
       },
       "description": {
         "en": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking how someone is.",
-        "ru": "В итальянском языке различаются неформальное «tu» и официальное «Lei» при вопросе о самочувствии."
+        "ru": "В итальянском языке различаются неформальное «tu» и официальное «Lei» при вопросе о самочувствии.",
+        "es": "El italiano distingue entre 'tu' informal y 'Lei' formal cuando se pregunta cómo está alguien."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Come stai?",
           "en": "How are you?",
-          "ru": "Как дела?"
+          "ru": "Как дела?",
+          "es": "¿Cómo estás?"
         },
         {
           "context": "informal",
           "it": "E tu?",
           "en": "And you?",
-          "ru": "А ты?"
+          "ru": "А ты?",
+          "es": "¿Y tú?"
         },
         {
           "context": "formal",
           "it": "Come sta?",
           "en": "How are you?",
-          "ru": "Как дела? (официально)"
+          "ru": "Как дела? (официально)",
+          "es": "¿Cómo estás?"
         },
         {
           "context": "formal",
           "it": "E Lei?",
           "en": "And you?",
-          "ru": "А вы?"
+          "ru": "А вы?",
+          "es": "¿Y tú?"
         },
         {
           "context": "neutral",
           "it": "Come va?",
           "en": "How is it going?",
-          "ru": "Как дела?"
+          "ru": "Как дела?",
+          "es": "¿Cómo está yendo?"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Common responses to 'Come stai?' / 'Come va?'",
-        "ru": "Типичные ответы на «Come stai?» / «Come va?»"
+        "ru": "Типичные ответы на «Come stai?» / «Come va?»",
+        "es": "Respuestas comunes a '¿Come stai?' / '¿Vamos?'"
       },
       "description": {
         "en": "There are several fixed expressions for answering questions about well-being.",
-        "ru": "Существует несколько устойчивых выражений для ответа на вопросы о самочувствии."
+        "ru": "Существует несколько устойчивых выражений для ответа на вопросы о самочувствии.",
+        "es": "Existen varias expresiones fijas para responder preguntas sobre bienestar."
       },
       "examples": [
         {
           "it": "Benissimo / Molto bene, grazie.",
           "en": "Very well, thank you.",
-          "ru": "Очень хорошо, спасибо."
+          "ru": "Очень хорошо, спасибо.",
+          "es": "Muy bien, gracias."
         },
         {
           "it": "Abbastanza bene, grazie.",
           "en": "Quite well, thank you.",
-          "ru": "Довольно хорошо, спасибо."
+          "ru": "Довольно хорошо, спасибо.",
+          "es": "Muy bien, gracias."
         },
         {
           "it": "Va bene, grazie.",
           "en": "I'm fine, thank you.",
-          "ru": "Всё хорошо, спасибо."
+          "ru": "Всё хорошо, спасибо.",
+          "es": "Estoy bien gracias."
         },
         {
           "it": "Non c'è male, grazie.",
           "en": "Not bad, thank you.",
-          "ru": "Неплохо, спасибо."
+          "ru": "Неплохо, спасибо.",
+          "es": "No está mal, gracias."
         },
         {
           "it": "Così così. / Insomma.",
           "en": "So-so.",
-          "ru": "Так себе."
+          "ru": "Так себе.",
+          "es": "Más o menos."
         },
         {
           "it": "Non mi lamento, grazie.",
           "en": "I can't complain, thank you.",
-          "ru": "Не жалуюсь, спасибо."
+          "ru": "Не жалуюсь, спасибо.",
+          "es": "No me puedo quejar, gracias."
         },
         {
           "it": "Si vive, grazie.",
           "en": "Surviving, thanks.",
-          "ru": "Живём, спасибо."
+          "ru": "Живём, спасибо.",
+          "es": "Sobreviviendo, gracias."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Introducing someone: formal vs informal",
-        "ru": "Представление кого-либо: официально и неформально"
+        "ru": "Представление кого-либо: официально и неформально",
+        "es": "Presentar a alguien: formal versus informal"
       },
       "description": {
         "en": "Italian uses different introduction formulas depending on the level of formality.",
-        "ru": "В итальянском языке используются разные формулы представления в зависимости от степени формальности."
+        "ru": "В итальянском языке используются разные формулы представления в зависимости от степени формальности.",
+        "es": "El italiano utiliza diferentes fórmulas de introducción según el nivel de formalidad."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Ti presento Mario.",
           "en": "Let me introduce Mario to you.",
-          "ru": "Познакомься, это Марио."
+          "ru": "Познакомься, это Марио.",
+          "es": "Déjame presentarte a Mario."
         },
         {
           "context": "informal",
           "it": "Lui/Questo è Mario.",
           "en": "He/This is Mario.",
-          "ru": "Он / Это Марио."
+          "ru": "Он / Это Марио.",
+          "es": "Él/Este es Mario."
         },
         {
           "context": "informal",
           "it": "Lei/Questa è Maria.",
           "en": "She/This is Maria.",
-          "ru": "Она / Это Мария."
+          "ru": "Она / Это Мария.",
+          "es": "Ella/Esta es María."
         },
         {
           "context": "formal",
           "it": "Le presento il signor Bianchi.",
           "en": "Let me introduce Mr. Bianchi to you.",
-          "ru": "Позвольте представить господина Бьянки."
+          "ru": "Позвольте представить господина Бьянки.",
+          "es": "Déjame presentarte al Sr. Bianchi."
         },
         {
           "context": "formal",
           "it": "Lei/Questa è la signora Bianchi.",
           "en": "She/This is Mrs. Bianchi.",
-          "ru": "Она / Это госпожа Бьянки."
+          "ru": "Она / Это госпожа Бьянки.",
+          "es": "Ella/Esta es la señora Bianchi."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Reacting to an introduction",
-        "ru": "Реакция на представление"
+        "ru": "Реакция на представление",
+        "es": "Reaccionar a una introducción"
       },
       "description": {
         "en": "Typical polite formulas used after being introduced to someone.",
-        "ru": "Типичные вежливые фразы, используемые после представления."
+        "ru": "Типичные вежливые фразы, используемые после представления.",
+        "es": "Fórmulas de cortesía típicas que se utilizan después de ser presentado a alguien."
       },
       "examples": [
         {
           "it": "Piacere di conoscerti.",
           "en": "Nice to meet you. (informal)",
-          "ru": "Приятно познакомиться. (неформально)"
+          "ru": "Приятно познакомиться. (неформально)",
+          "es": "Encantado de conocerlo. (informal)"
         },
         {
           "it": "Piacere di conoscerla.",
           "en": "Nice to meet you. (formal)",
-          "ru": "Приятно познакомиться. (официально)"
+          "ru": "Приятно познакомиться. (официально)",
+          "es": "Encantado de conocerlo. (formal)"
         },
         {
           "it": "Molto lieto/a.",
           "en": "Very pleased.",
-          "ru": "Очень рад / очень рада."
+          "ru": "Очень рад / очень рада.",
+          "es": "Muy contento."
         },
         {
           "it": "Piacere.",
           "en": "Pleasure.",
-          "ru": "Приятно."
+          "ru": "Приятно.",
+          "es": "Placer."
         },
         {
           "it": "Piacere mio.",
           "en": "The pleasure is mine.",
-          "ru": "Мне тоже приятно."
+          "ru": "Мне тоже приятно.",
+          "es": "El placer es mío."
         },
         {
           "it": "Altrettanto.",
           "en": "Likewise.",
-          "ru": "Взаимно."
+          "ru": "Взаимно.",
+          "es": "Asimismo."
         }
       ]
     },
     {
       "category": {
         "en": "Phonetics",
-        "ru": "Фонетика"
+        "ru": "Фонетика",
+        "es": "Fonética"
       },
       "rule": {
         "en": "Pronunciation of 'sc'",
-        "ru": "Произношение «sc»"
+        "ru": "Произношение «sc»",
+        "es": "Pronunciación de 'sc'"
       },
       "description": {
         "en": "The sound of 'sc' changes depending on the letters that follow it.",
-        "ru": "Звук «sc» меняется в зависимости от следующих за ним букв."
+        "ru": "Звук «sc» меняется в зависимости от следующих за ним букв.",
+        "es": "El sonido de 'sc' cambia según las letras que le siguen."
       }
     }
   ],
@@ -261,8 +309,10 @@
       "ru": "оставаться; быть (чувствовать себя / находиться в состоянии)",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "quedarse; ser (sentir/estar)"
     },
     {
       "term": "sto",
@@ -270,8 +320,10 @@
       "ru": "я нахожусь / я чувствую себя",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "yo soy / siento"
     },
     {
       "term": "stai",
@@ -279,8 +331,10 @@
       "ru": "ты находишься / ты чувствуешь себя",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "eres / sientes"
     },
     {
       "term": "sta",
@@ -288,8 +342,10 @@
       "ru": "он/она находится / вы (официально)",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "él/ella es; eres (formal)"
     },
     {
       "term": "stiamo",
@@ -297,8 +353,10 @@
       "ru": "мы находимся",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "somos"
     },
     {
       "term": "state",
@@ -306,8 +364,10 @@
       "ru": "вы (все) находитесь",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "todos ustedes lo son"
     },
     {
       "term": "stanno",
@@ -315,8 +375,10 @@
       "ru": "они находятся",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "ellos son"
     },
     {
       "term": "come stai?",
@@ -324,8 +386,10 @@
       "ru": "как ты?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cómo estás?"
     },
     {
       "term": "come sta?",
@@ -333,8 +397,10 @@
       "ru": "как вы? (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cómo estás? (formal)"
     },
     {
       "term": "come va?",
@@ -342,8 +408,10 @@
       "ru": "как дела?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿cómo está yendo?"
     },
     {
       "term": "benissimo",
@@ -351,8 +419,10 @@
       "ru": "очень хорошо",
       "type": {
         "en": "adverb",
-        "ru": "наречие"
-      }
+        "ru": "наречие",
+        "es": "adverbio"
+      },
+      "es": "muy bien"
     },
     {
       "term": "molto bene",
@@ -360,8 +430,10 @@
       "ru": "очень хорошо",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "muy bien"
     },
     {
       "term": "abbastanza bene",
@@ -369,8 +441,10 @@
       "ru": "довольно хорошо",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "bastante bien"
     },
     {
       "term": "non c'è male",
@@ -378,8 +452,10 @@
       "ru": "неплохо",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "nada mal"
     },
     {
       "term": "così così",
@@ -387,8 +463,10 @@
       "ru": "так себе",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "más o menos"
     },
     {
       "term": "insomma",
@@ -396,8 +474,10 @@
       "ru": "так себе; в общем",
       "type": {
         "en": "adverb",
-        "ru": "наречие"
-      }
+        "ru": "наречие",
+        "es": "adverbio"
+      },
+      "es": "más o menos; considerándolo todo"
     },
     {
       "term": "non mi lamento",
@@ -405,8 +485,10 @@
       "ru": "не жалуюсь",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "no puedo quejarme"
     },
     {
       "term": "si vive",
@@ -414,8 +496,10 @@
       "ru": "живём; как-то справляемся",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "sobreviviente; arreglándoselas"
     },
     {
       "term": "ti presento...",
@@ -423,8 +507,10 @@
       "ru": "познакомься, это... / разреши представить...",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "déjame presentarte..."
     },
     {
       "term": "le presento...",
@@ -432,8 +518,10 @@
       "ru": "позвольте представить... (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "déjame presentarte... (formal)"
     },
     {
       "term": "questo è...",
@@ -441,8 +529,10 @@
       "ru": "это... (мужской род)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "esto es... (masculino)"
     },
     {
       "term": "questa è...",
@@ -450,8 +540,10 @@
       "ru": "это... (женский род)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "esto es... (femenino)"
     },
     {
       "term": "piacere di conoscerti",
@@ -459,8 +551,10 @@
       "ru": "приятно познакомиться (неформально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "encantado de conocerte (informal)"
     },
     {
       "term": "piacere di conoscerla",
@@ -468,8 +562,10 @@
       "ru": "приятно познакомиться (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "encantado de conocerte (formal)"
     },
     {
       "term": "molto lieto/a",
@@ -477,8 +573,10 @@
       "ru": "очень рад / очень рада",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "muy contento"
     },
     {
       "term": "piacere mio",
@@ -486,8 +584,10 @@
       "ru": "мне тоже приятно",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "el placer es mio"
     },
     {
       "term": "altrettanto",
@@ -495,8 +595,10 @@
       "ru": "взаимно",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "asimismo"
     },
     {
       "term": "buon viaggio",
@@ -504,8 +606,10 @@
       "ru": "счастливого пути",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "que tengas un buen viaje"
     },
     {
       "term": "buone vacanze",
@@ -513,8 +617,10 @@
       "ru": "хорошего отдыха / приятных каникул",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "que tengas unas buenas vacaciones"
     },
     {
       "term": "buona giornata",
@@ -522,8 +628,10 @@
       "ru": "хорошего дня",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "que tenga un lindo día"
     },
     {
       "term": "a presto",
@@ -531,8 +639,10 @@
       "ru": "до скорого",
       "type": {
         "en": "greeting",
-        "ru": "приветствие"
-      }
+        "ru": "приветствие",
+        "es": "saludo"
+      },
+      "es": "nos vemos pronto"
     },
     {
       "term": "a domani",
@@ -540,8 +650,10 @@
       "ru": "до завтра",
       "type": {
         "en": "greeting",
-        "ru": "приветствие"
-      }
+        "ru": "приветствие",
+        "es": "saludo"
+      },
+      "es": "nos vemos mañana"
     },
     {
       "term": "buona notte",
@@ -549,8 +661,10 @@
       "ru": "спокойной ночи",
       "type": {
         "en": "greeting",
-        "ru": "приветствие"
-      }
+        "ru": "приветствие",
+        "es": "saludo"
+      },
+      "es": "buenas noches"
     },
     {
       "term": "amica",
@@ -558,8 +672,10 @@
       "ru": "подруга",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "amiga"
     },
     {
       "term": "amiche",
@@ -567,8 +683,10 @@
       "ru": "подруги",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "amigas"
     },
     {
       "term": "via",
@@ -576,8 +694,10 @@
       "ru": "улица",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "calle"
     },
     {
       "term": "città",
@@ -585,70 +705,84 @@
       "ru": "город",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "ciudad"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Presentate.",
       "en": "Introduce people.",
-      "ru": "Познакомьте людей / Представьтесь."
+      "ru": "Познакомьте людей / Представьтесь.",
+      "es": "Presentar a las personas."
     },
     {
       "it": "Lavorate in coppia.",
       "en": "Work in pairs.",
-      "ru": "Работайте в парах."
+      "ru": "Работайте в парах.",
+      "es": "Trabajar en parejas."
     },
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Отвечайте."
+      "ru": "Отвечайте.",
+      "es": "Respuesta."
     },
     {
       "it": "Leggete e inserite tu e Lei.",
       "en": "Read and insert 'tu' and 'Lei'.",
-      "ru": "Прочитайте и вставьте «tu» и «Lei»."
+      "ru": "Прочитайте и вставьте «tu» и «Lei».",
+      "es": "Lea e inserte 'tu' y 'Lei'."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / дополните."
+      "ru": "Заполните / дополните.",
+      "es": "Completo."
     },
     {
       "it": "Completate alla forma negativa.",
       "en": "Complete in the negative form.",
-      "ru": "Заполните в отрицательной форме."
+      "ru": "Заполните в отрицательной форме.",
+      "es": "Completa en forma negativa."
     },
     {
       "it": "Associate.",
       "en": "Match / associate.",
-      "ru": "Сопоставьте."
+      "ru": "Сопоставьте.",
+      "es": "Partido/asociado."
     },
     {
       "it": "Costruite le frasi.",
       "en": "Build the sentences.",
-      "ru": "Составьте предложения."
+      "ru": "Составьте предложения.",
+      "es": "Construye las oraciones."
     },
     {
       "it": "Rimettete in ordine e abbinate.",
       "en": "Put in order and match.",
-      "ru": "Расставьте в правильном порядке и сопоставьте."
+      "ru": "Расставьте в правильном порядке и сопоставьте.",
+      "es": "Poner en orden y combinar."
     },
     {
       "it": "Leggete le parole.",
       "en": "Read the words.",
-      "ru": "Прочитайте слова."
+      "ru": "Прочитайте слова.",
+      "es": "Lee las palabras."
     },
     {
       "it": "Completate con il o la dove è necessario.",
       "en": "Complete with 'il' or 'la' where necessary.",
-      "ru": "Заполните «il» или «la» там, где необходимо."
+      "ru": "Заполните «il» или «la» там, где необходимо.",
+      "es": "Complete con 'il' o 'la' cuando sea necesario."
     },
     {
       "it": "Mettete in ordine.",
       "en": "Put in order.",
-      "ru": "Расставьте в правильном порядке."
+      "ru": "Расставьте в правильном порядке.",
+      "es": "Ordenar."
     }
   ],
   "dialogues": [
@@ -658,59 +792,68 @@
       "register": "informal",
       "context": {
         "en": "Two friends run into each other in the evening",
-        "ru": "Два друга случайно встречаются вечером"
+        "ru": "Два друга случайно встречаются вечером",
+        "es": "Dos amigos se encuentran por la noche."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, come stai?",
           "en": "Hi, how are you?",
-          "ru": "Привет, как ты?"
+          "ru": "Привет, как ты?",
+          "es": "¿Hola, cómo estás?"
         },
         {
           "speaker": "B",
           "it": "Bene, grazie, e tu?",
           "en": "Good, thanks, and you?",
-          "ru": "Хорошо, спасибо, а ты?"
+          "ru": "Хорошо, спасибо, а ты?",
+          "es": "Bueno, gracias y tu?"
         },
         {
           "speaker": "A",
           "it": "Insomma.",
           "en": "So-so.",
-          "ru": "Так себе."
+          "ru": "Так себе.",
+          "es": "Más o menos."
         },
         {
           "speaker": "B",
           "it": "Buona notte!",
           "en": "Good night!",
-          "ru": "Спокойной ночи!"
+          "ru": "Спокойной ночи!",
+          "es": "¡Buenas noches!"
         },
         {
           "speaker": "A",
           "it": "Buona notte a tutti!",
           "en": "Good night everyone!",
-          "ru": "Спокойной ночи всем!"
+          "ru": "Спокойной ночи всем!",
+          "es": "¡Buenas noches a todos!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask how your friend is (informal)",
-            "ru": "Спросите друга, как он себя чувствует (неформально)"
+            "ru": "Спросите друга, как он себя чувствует (неформально)",
+            "es": "Pregunta cómo está tu amigo (informal)"
           },
           "expected_it": "Come stai?"
         },
         {
           "cue": {
             "en": "Say you're fine and ask back",
-            "ru": "Скажите, что всё хорошо, и спросите в ответ"
+            "ru": "Скажите, что всё хорошо, и спросите в ответ",
+            "es": "Di que estás bien y vuelve a preguntar."
           },
           "expected_it": "Bene, grazie, e tu?"
         },
         {
           "cue": {
             "en": "Say it's so-so",
-            "ru": "Скажите «так себе»"
+            "ru": "Скажите «так себе»",
+            "es": "Di que es regular"
           },
           "expected_it": "Insomma."
         }
@@ -722,59 +865,68 @@
       "register": "formal",
       "context": {
         "en": "Two adults greet each other formally in the morning",
-        "ru": "Двое взрослых официально приветствуют друг друга утром"
+        "ru": "Двое взрослых официально приветствуют друг друга утром",
+        "es": "Dos adultos se saludan formalmente por la mañana."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Buongiorno, come sta?",
           "en": "Good morning, how are you?",
-          "ru": "Доброе утро, как вы?"
+          "ru": "Доброе утро, как вы?",
+          "es": "Buenos días, ¿cómo estás?"
         },
         {
           "speaker": "B",
           "it": "Abbastanza bene, e Lei?",
           "en": "Quite well, and you?",
-          "ru": "Довольно хорошо, а вы?"
+          "ru": "Довольно хорошо, а вы?",
+          "es": "Bastante bien ¿y tú?"
         },
         {
           "speaker": "A",
           "it": "Benissimo, grazie.",
           "en": "Very well, thank you.",
-          "ru": "Очень хорошо, спасибо."
+          "ru": "Очень хорошо, спасибо.",
+          "es": "Muy bien, gracias."
         },
         {
           "speaker": "B",
           "it": "Buone vacanze!",
           "en": "Have a good holiday!",
-          "ru": "Хорошего отдыха!"
+          "ru": "Хорошего отдыха!",
+          "es": "¡Que tengas unas buenas vacaciones!"
         },
         {
           "speaker": "A",
           "it": "Buona giornata a Lei!",
           "en": "Have a nice day!",
-          "ru": "Хорошего дня!"
+          "ru": "Хорошего дня!",
+          "es": "¡Que tenga un lindo día!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Greet and ask how they are (formal)",
-            "ru": "Поздоровайтесь и спросите, как дела (официально)"
+            "ru": "Поздоровайтесь и спросите, как дела (официально)",
+            "es": "Saludar y preguntar cómo están (formal)"
           },
           "expected_it": "Buongiorno, come sta?"
         },
         {
           "cue": {
             "en": "Reply 'quite well' and ask back (formal)",
-            "ru": "Ответьте «довольно хорошо» и спросите в ответ (официально)"
+            "ru": "Ответьте «довольно хорошо» и спросите в ответ (официально)",
+            "es": "Responde \"bastante bien\" y vuelve a preguntar (formal)"
           },
           "expected_it": "Abbastanza bene, e Lei?"
         },
         {
           "cue": {
             "en": "Wish them a good holiday",
-            "ru": "Пожелайте хорошего отдыха"
+            "ru": "Пожелайте хорошего отдыха",
+            "es": "Deséales unas buenas vacaciones"
           },
           "expected_it": "Buone vacanze!"
         }
@@ -786,59 +938,68 @@
       "register": "informal",
       "context": {
         "en": "Two colleagues part ways at the end of the day",
-        "ru": "Двое коллег прощаются в конце рабочего дня"
+        "ru": "Двое коллег прощаются в конце рабочего дня",
+        "es": "Dos colegas se separan al final del día."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, come stai?",
           "en": "Hi, how are you?",
-          "ru": "Привет, как ты?"
+          "ru": "Привет, как ты?",
+          "es": "¿Hola, cómo estás?"
         },
         {
           "speaker": "B",
           "it": "Bene, grazie, e tu?",
           "en": "Good, thanks, and you?",
-          "ru": "Хорошо, спасибо, а ты?"
+          "ru": "Хорошо, спасибо, а ты?",
+          "es": "Bueno, gracias y tu?"
         },
         {
           "speaker": "A",
           "it": "Benissimo!",
           "en": "Very well!",
-          "ru": "Отлично!"
+          "ru": "Отлично!",
+          "es": "¡Muy bien!"
         },
         {
           "speaker": "B",
           "it": "A domani!",
           "en": "See you tomorrow!",
-          "ru": "До завтра!"
+          "ru": "До завтра!",
+          "es": "¡Nos vemos mañana!"
         },
         {
           "speaker": "A",
           "it": "Buon lavoro!",
           "en": "Have a good day at work!",
-          "ru": "Удачи на работе!"
+          "ru": "Удачи на работе!",
+          "es": "¡Que tengas un buen día en el trabajo!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask how they are (informal)",
-            "ru": "Спросите, как дела (неформально)"
+            "ru": "Спросите, как дела (неформально)",
+            "es": "Preguntar cómo están (informal)"
           },
           "expected_it": "Come stai?"
         },
         {
           "cue": {
             "en": "Say see you tomorrow",
-            "ru": "Скажите «до завтра»"
+            "ru": "Скажите «до завтра»",
+            "es": "decir hasta mañana"
           },
           "expected_it": "A domani!"
         },
         {
           "cue": {
             "en": "Wish them good work",
-            "ru": "Пожелайте удачи на работе"
+            "ru": "Пожелайте удачи на работе",
+            "es": "Les deseo buen trabajo"
           },
           "expected_it": "Buon lavoro!"
         }
@@ -850,65 +1011,75 @@
       "register": "mixed",
       "context": {
         "en": "A chance meeting between colleagues; mixing informal and a third-person formal introduction",
-        "ru": "Случайная встреча коллег; неформальное общение сочетается с официальным представлением третьего лица"
+        "ru": "Случайная встреча коллег; неформальное общение сочетается с официальным представлением третьего лица",
+        "es": "Un encuentro casual entre colegas; mezclando una introducción informal y formal en tercera persona"
       },
       "turns": [
         {
           "speaker": "Matteo",
           "it": "Ciao, Giusi!",
           "en": "Hi, Giusi!",
-          "ru": "Привет, Джузи!"
+          "ru": "Привет, Джузи!",
+          "es": "Hola Giusi!"
         },
         {
           "speaker": "Giusi",
           "it": "Ciao, Matteo... Lei è una collega di Milano.",
           "en": "Hi, Matteo... She is a colleague from Milan.",
-          "ru": "Привет, Маттео... Она коллега из Милана."
+          "ru": "Привет, Маттео... Она коллега из Милана.",
+          "es": "Hola, Matteo... Ella es una colega de Milán."
         },
         {
           "speaker": "Anna",
           "it": "Piacere, sono Anna.",
           "en": "Pleased to meet you, I am Anna.",
-          "ru": "Приятно познакомиться, я Анна."
+          "ru": "Приятно познакомиться, я Анна.",
+          "es": "Encantado de conocerte, soy Anna."
         },
         {
           "speaker": "Matteo",
           "it": "Ciao, Anna.",
           "en": "Hi, Anna.",
-          "ru": "Привет, Анна."
+          "ru": "Привет, Анна.",
+          "es": "Hola Ana."
         },
         {
           "speaker": "Matteo",
           "it": "E tu, di dove sei?",
           "en": "And you, where are you from?",
-          "ru": "А ты, откуда ты?"
+          "ru": "А ты, откуда ты?",
+          "es": "Y tú, ¿de dónde eres?"
         },
         {
           "speaker": "Anna",
           "it": "Sono di Orvieto.",
           "en": "I am from Orvieto.",
-          "ru": "Я из Орвието."
+          "ru": "Я из Орвието.",
+          "es": "Soy de Orvieto."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Introduce yourself saying you are pleased to meet them",
-            "ru": "Представьтесь, сказав, что вам приятно познакомиться"
+            "ru": "Представьтесь, сказав, что вам приятно познакомиться",
+            "es": "Preséntese diciendo que está encantado de conocerlos."
           },
           "expected_it": "Piacere, sono [name]."
         },
         {
           "cue": {
             "en": "Ask where someone is from (informal)",
-            "ru": "Спросите, откуда кто-то (неформально)"
+            "ru": "Спросите, откуда кто-то (неформально)",
+            "es": "Preguntar de dónde es alguien (informal)"
           },
           "expected_it": "Di dove sei?"
         },
         {
           "cue": {
             "en": "Say you are from a city",
-            "ru": "Скажите, из какого вы города"
+            "ru": "Скажите, из какого вы города",
+            "es": "Di que eres de una ciudad"
           },
           "expected_it": "Sono di [città]."
         }
@@ -920,7 +1091,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -935,7 +1107,8 @@
       "infinitive": "chiamarsi",
       "translation": {
         "en": "to be called",
-        "ru": "называться / зваться"
+        "ru": "называться / зваться",
+        "es": "ser llamado"
       },
       "forms": {
         "io": "mi chiamo",
@@ -950,7 +1123,8 @@
       "infinitive": "stare",
       "translation": {
         "en": "to stay / to be (health)",
-        "ru": "находиться / чувствовать себя"
+        "ru": "находиться / чувствовать себя",
+        "es": "quedarse / estar (salud)"
       },
       "forms": {
         "io": "sto",

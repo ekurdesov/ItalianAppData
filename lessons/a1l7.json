@@ -21,6 +21,12 @@
         "Предлоги",
         "Коммуникативное задание: Qual è il tuo numero?",
         "Фонетика: буква Q"
+      ],
+      "es": [
+        "Comprensión auditiva: Por Italia",
+        "Preposiciones",
+        "Actividad comunicativa: ¿Cuál es tu número?",
+        "Fonética: letra Q"
       ]
     }
   },
@@ -28,179 +34,213 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Preposition 'di'",
-        "ru": "Предлог 'di'"
+        "ru": "Предлог 'di'",
+        "es": "Preposición 'di'"
       },
       "description": {
         "en": "The preposition 'di' is used for possession, belonging, and specification.",
-        "ru": "Предлог 'di' используется для выражения принадлежности, владения и уточнения."
+        "ru": "Предлог 'di' используется для выражения принадлежности, владения и уточнения.",
+        "es": "La preposición 'di' se utiliza para posesión, pertenencia y especificación."
       }
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Demonstratives: questo, questa, questi, queste",
-        "ru": "Указательные местоимения: questo, questa, questi, queste"
+        "ru": "Указательные местоимения: questo, questa, questi, queste",
+        "es": "Demostrativos: questo, questa, questi, queste"
       },
       "description": {
         "en": "Demonstratives agree with the gender and number of the noun they modify.",
-        "ru": "Указательные местоимения согласуются с родом и числом существительного, к которому относятся."
+        "ru": "Указательные местоимения согласуются с родом и числом существительного, к которому относятся.",
+        "es": "Los demostrativos concuerdan con el género y número del sustantivo que modifican."
       },
       "examples": [
         {
           "it": "questo libro",
           "en": "this book",
-          "ru": "эта книга"
+          "ru": "эта книга",
+          "es": "este libro"
         },
         {
           "it": "questa valigia",
           "en": "this suitcase",
-          "ru": "этот чемодан"
+          "ru": "этот чемодан",
+          "es": "esta maleta"
         },
         {
           "it": "questi ragazzi",
           "en": "these boys",
-          "ru": "эти мальчики"
+          "ru": "эти мальчики",
+          "es": "estos chicos"
         },
         {
           "it": "queste scarpe",
           "en": "these shoes",
-          "ru": "эти туфли"
+          "ru": "эти туфли",
+          "es": "estos zapatos"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Prepositions 'a' and 'in'",
-        "ru": "Предлоги 'a' и 'in'"
+        "ru": "Предлоги 'a' и 'in'",
+        "es": "Preposiciones 'a' y 'en'"
       },
       "description": {
         "en": "The lesson introduces the location prepositions 'a' and 'in', especially in talking about cities, regions, and places in Italy.",
-        "ru": "Урок знакомит с предлогами места 'a' и 'in', особенно в контексте разговора о городах, регионах и местах в Италии."
+        "ru": "Урок знакомит с предлогами места 'a' и 'in', особенно в контексте разговора о городах, регионах и местах в Италии.",
+        "es": "La lección presenta las preposiciones de ubicación 'a' y 'in', especialmente al hablar de ciudades, regiones y lugares de Italia."
       },
       "examples": [
         {
           "it": "a Roma",
           "en": "in/to Rome",
-          "ru": "в Риме / в Рим"
+          "ru": "в Риме / в Рим",
+          "es": "en/hacia Roma"
         },
         {
           "it": "in Italia",
           "en": "in Italy",
-          "ru": "в Италии"
+          "ru": "в Италии",
+          "es": "en italia"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking for a phone number: formal vs informal",
-        "ru": "Запрос номера телефона: официальная и неформальная формы"
+        "ru": "Запрос номера телефона: официальная и неформальная формы",
+        "es": "Pedir un número de teléfono: formal vs informal"
       },
       "description": {
         "en": "Italian distinguishes between informal 'tu' and formal 'Lei' when asking for a phone or cellphone number.",
-        "ru": "В итальянском языке различаются неформальная форма 'tu' и официальная форма 'Lei' при вопросе о номере телефона или мобильного."
+        "ru": "В итальянском языке различаются неформальная форма 'tu' и официальная форма 'Lei' при вопросе о номере телефона или мобильного.",
+        "es": "El italiano distingue entre 'tu' informal y 'Lei' formal cuando se pide un número de teléfono o de móvil."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Qual è il tuo numero di telefono?",
           "en": "What is your telephone number?",
-          "ru": "Какой у тебя номер телефона?"
+          "ru": "Какой у тебя номер телефона?",
+          "es": "¿Cuál es tu número de teléfono?"
         },
         {
           "context": "formal",
           "it": "Qual è il Suo numero di telefono?",
           "en": "What is your telephone number? (formal)",
-          "ru": "Какой у вас номер телефона? (формально)"
+          "ru": "Какой у вас номер телефона? (формально)",
+          "es": "¿Cuál es tu número de teléfono? (formal)"
         },
         {
           "context": "informal",
           "it": "Qual è il tuo numero di cellulare?",
           "en": "What is your cellphone number?",
-          "ru": "Какой у тебя номер мобильного?"
+          "ru": "Какой у тебя номер мобильного?",
+          "es": "¿Cuál es tu número de celular?"
         },
         {
           "context": "formal",
           "it": "Qual è il Suo numero di cellulare?",
           "en": "What is your cellphone number? (formal)",
-          "ru": "Какой у вас номер мобильного? (формально)"
+          "ru": "Какой у вас номер мобильного? (формально)",
+          "es": "¿Cuál es tu número de celular? (formal)"
         },
         {
           "context": "answer",
           "it": "Il mio numero di telefono è...",
           "en": "My telephone number is...",
-          "ru": "Мой номер телефона — ..."
+          "ru": "Мой номер телефона — ...",
+          "es": "Mi número de teléfono es..."
         },
         {
           "context": "answer",
           "it": "Il mio numero di cellulare è...",
           "en": "My cellphone number is...",
-          "ru": "Мой номер мобильного — ..."
+          "ru": "Мой номер мобильного — ...",
+          "es": "Mi número de celular es..."
         }
       ]
     },
     {
       "category": {
         "en": "Phonetics",
-        "ru": "Фонетика"
+        "ru": "Фонетика",
+        "es": "Fonética"
       },
       "rule": {
         "en": "Letter Q and related qu/gu combinations",
-        "ru": "Буква Q и сочетания qu/gu"
+        "ru": "Буква Q и сочетания qu/gu",
+        "es": "Letra Q y combinaciones relacionadas qu/gu"
       },
       "description": {
         "en": "In the lesson, 'qu' and some 'gu' combinations before vowels are practiced with a [kw] or [gw] sound.",
-        "ru": "На уроке отрабатываются сочетания 'qu' и некоторые сочетания 'gu' перед гласными, которые произносятся как [kw] или [gw]."
+        "ru": "На уроке отрабатываются сочетания 'qu' и некоторые сочетания 'gu' перед гласными, которые произносятся как [kw] или [gw].",
+        "es": "En la lección, se practican combinaciones de 'qu' y algunas combinaciones de 'gu' antes de las vocales con un sonido [kw] o [gw]."
       },
       "examples": [
         {
           "it": "questo",
           "en": "this",
-          "ru": "этот / эта"
+          "ru": "этот / эта",
+          "es": "este"
         },
         {
           "it": "quello",
           "en": "that",
-          "ru": "тот / та"
+          "ru": "тот / та",
+          "es": "eso"
         },
         {
           "it": "qui",
           "en": "here",
-          "ru": "здесь"
+          "ru": "здесь",
+          "es": "aquí"
         },
         {
           "it": "acqua",
           "en": "water",
-          "ru": "вода"
+          "ru": "вода",
+          "es": "agua"
         },
         {
           "it": "quartiere",
           "en": "neighborhood",
-          "ru": "район"
+          "ru": "район",
+          "es": "vecindario"
         },
         {
           "it": "guardare",
           "en": "to look",
-          "ru": "смотреть"
+          "ru": "смотреть",
+          "es": "mirar"
         },
         {
           "it": "guidare",
           "en": "to drive",
-          "ru": "водить машину"
+          "ru": "водить машину",
+          "es": "conducir"
         }
       ]
     }
@@ -212,8 +252,10 @@
       "ru": "телефон",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "teléfono"
     },
     {
       "term": "cellulare",
@@ -221,8 +263,10 @@
       "ru": "мобильный телефон",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "Teléfono móvil"
     },
     {
       "term": "numero di telefono",
@@ -230,8 +274,10 @@
       "ru": "номер телефона",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "número telefónico"
     },
     {
       "term": "numero di cellulare",
@@ -239,8 +285,10 @@
       "ru": "номер мобильного телефона",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "numero de celular"
     },
     {
       "term": "qual è il tuo numero di telefono?",
@@ -248,8 +296,10 @@
       "ru": "какой у тебя номер телефона?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "cual es tu numero de telefono?"
     },
     {
       "term": "qual è il Suo numero di telefono?",
@@ -257,8 +307,10 @@
       "ru": "какой у вас номер телефона? (формально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "cual es tu numero de telefono? (formal)"
     },
     {
       "term": "qual è il tuo numero di cellulare?",
@@ -266,8 +318,10 @@
       "ru": "какой у тебя номер мобильного?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "cual es tu numero de celular?"
     },
     {
       "term": "qual è il Suo numero di cellulare?",
@@ -275,8 +329,10 @@
       "ru": "какой у вас номер мобильного? (формально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "cual es tu numero de celular? (formal)"
     },
     {
       "term": "il mio numero di telefono è...",
@@ -284,8 +340,10 @@
       "ru": "мой номер телефона...",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "mi número de teléfono es..."
     },
     {
       "term": "il mio numero di cellulare è...",
@@ -293,8 +351,10 @@
       "ru": "мой номер мобильного...",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "mi número de celular es..."
     },
     {
       "term": "di",
@@ -302,8 +362,10 @@
       "ru": "из; от; о",
       "type": {
         "en": "preposition",
-        "ru": "предлог"
-      }
+        "ru": "предлог",
+        "es": "preposición"
+      },
+      "es": "de"
     },
     {
       "term": "a",
@@ -311,8 +373,10 @@
       "ru": "в; к; на",
       "type": {
         "en": "preposition",
-        "ru": "предлог"
-      }
+        "ru": "предлог",
+        "es": "preposición"
+      },
+      "es": "a; en; en"
     },
     {
       "term": "in",
@@ -320,8 +384,10 @@
       "ru": "в; на",
       "type": {
         "en": "preposition",
-        "ru": "предлог"
-      }
+        "ru": "предлог",
+        "es": "preposición"
+      },
+      "es": "en; a"
     },
     {
       "term": "questo",
@@ -329,8 +395,10 @@
       "ru": "этот (мужской род, единственное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное"
-      }
+        "ru": "указательное",
+        "es": "demostrativo"
+      },
+      "es": "esto (masculino singular)"
     },
     {
       "term": "questa",
@@ -338,8 +406,10 @@
       "ru": "эта (женский род, единственное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное"
-      }
+        "ru": "указательное",
+        "es": "demostrativo"
+      },
+      "es": "esto (femenino singular)"
     },
     {
       "term": "questi",
@@ -347,8 +417,10 @@
       "ru": "эти (мужской род, множественное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное"
-      }
+        "ru": "указательное",
+        "es": "demostrativo"
+      },
+      "es": "estos (plural masculino)"
     },
     {
       "term": "queste",
@@ -356,8 +428,10 @@
       "ru": "эти (женский род, множественное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное"
-      }
+        "ru": "указательное",
+        "es": "demostrativo"
+      },
+      "es": "estos (plural femenino)"
     },
     {
       "term": "libro",
@@ -365,8 +439,10 @@
       "ru": "книга",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "libro"
     },
     {
       "term": "valigia",
@@ -374,8 +450,10 @@
       "ru": "чемодан",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "maleta"
     },
     {
       "term": "ragazzi",
@@ -383,8 +461,10 @@
       "ru": "мальчики; ребята",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "chicos"
     },
     {
       "term": "scarpe",
@@ -392,8 +472,10 @@
       "ru": "туфли; обувь",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "zapatos"
     },
     {
       "term": "borsa",
@@ -401,8 +483,10 @@
       "ru": "сумка",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "bolsa"
     },
     {
       "term": "mare",
@@ -410,8 +494,10 @@
       "ru": "море",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "mar"
     },
     {
       "term": "isola",
@@ -419,8 +505,10 @@
       "ru": "остров",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "isla"
     },
     {
       "term": "cartina d'Italia",
@@ -428,8 +516,10 @@
       "ru": "карта Италии",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "mapa de italia"
     },
     {
       "term": "Nord",
@@ -437,8 +527,10 @@
       "ru": "север",
       "type": {
         "en": "geography",
-        "ru": "география"
-      }
+        "ru": "география",
+        "es": "geografía"
+      },
+      "es": "norte"
     },
     {
       "term": "Sud",
@@ -446,8 +538,10 @@
       "ru": "юг",
       "type": {
         "en": "geography",
-        "ru": "география"
-      }
+        "ru": "география",
+        "es": "geografía"
+      },
+      "es": "sur"
     },
     {
       "term": "regione",
@@ -455,8 +549,10 @@
       "ru": "регион",
       "type": {
         "en": "geography",
-        "ru": "география"
-      }
+        "ru": "география",
+        "es": "geografía"
+      },
+      "es": "región"
     },
     {
       "term": "capitale",
@@ -464,8 +560,10 @@
       "ru": "столица",
       "type": {
         "en": "geography",
-        "ru": "география"
-      }
+        "ru": "география",
+        "es": "geografía"
+      },
+      "es": "ciudad capital"
     },
     {
       "term": "Roma",
@@ -473,8 +571,10 @@
       "ru": "Рим",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Roma"
     },
     {
       "term": "Milano",
@@ -482,8 +582,10 @@
       "ru": "Милан",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Milán"
     },
     {
       "term": "Verona",
@@ -491,8 +593,10 @@
       "ru": "Верона",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Verona"
     },
     {
       "term": "Pisa",
@@ -500,8 +604,10 @@
       "ru": "Пиза",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Pisa"
     },
     {
       "term": "Torino",
@@ -509,8 +615,10 @@
       "ru": "Турин",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Turín"
     },
     {
       "term": "Agrigento",
@@ -518,8 +626,10 @@
       "ru": "Агридженто",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Agrigento"
     },
     {
       "term": "Caserta",
@@ -527,8 +637,10 @@
       "ru": "Казерта",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Caserta"
     },
     {
       "term": "L'Etna",
@@ -536,8 +648,10 @@
       "ru": "Этна",
       "type": {
         "en": "place",
-        "ru": "место"
-      }
+        "ru": "место",
+        "es": "lugar"
+      },
+      "es": "Monte Etna"
     },
     {
       "term": "venti",
@@ -545,8 +659,10 @@
       "ru": "двадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "veinte"
     },
     {
       "term": "quindici",
@@ -554,8 +670,10 @@
       "ru": "пятнадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "quince"
     },
     {
       "term": "quaderno",
@@ -563,8 +681,10 @@
       "ru": "тетрадь",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "computadora portátil"
     },
     {
       "term": "acqua",
@@ -572,8 +692,10 @@
       "ru": "вода",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "agua"
     },
     {
       "term": "quartiere",
@@ -581,8 +703,10 @@
       "ru": "район",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "vecindario"
     },
     {
       "term": "squadra",
@@ -590,8 +714,10 @@
       "ru": "команда",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "equipo"
     },
     {
       "term": "guanti",
@@ -599,8 +725,10 @@
       "ru": "перчатки",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "guantes"
     },
     {
       "term": "guida",
@@ -608,8 +736,10 @@
       "ru": "гид; путеводитель",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "guía"
     },
     {
       "term": "guardare",
@@ -617,8 +747,10 @@
       "ru": "смотреть; наблюдать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "mirar; mirar"
     },
     {
       "term": "guidare",
@@ -626,60 +758,72 @@
       "ru": "водить машину",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "conducir"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Lavorate in coppia.",
       "en": "Work in pairs.",
-      "ru": "Работайте в парах."
+      "ru": "Работайте в парах.",
+      "es": "Trabajar en parejas."
     },
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Ответьте."
+      "ru": "Ответьте.",
+      "es": "Respuesta."
     },
     {
       "it": "Leggete e rispondete.",
       "en": "Read and answer.",
-      "ru": "Прочитайте и ответьте."
+      "ru": "Прочитайте и ответьте.",
+      "es": "Lee y responde."
     },
     {
       "it": "Guardate e verificate.",
       "en": "Look and check.",
-      "ru": "Посмотрите и проверьте."
+      "ru": "Посмотрите и проверьте.",
+      "es": "Mira y comprueba."
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Сопоставьте."
+      "ru": "Сопоставьте.",
+      "es": "Fósforo."
     },
     {
       "it": "Leggete le parole.",
       "en": "Read the words.",
-      "ru": "Прочитайте слова."
+      "ru": "Прочитайте слова.",
+      "es": "Lee las palabras."
     },
     {
       "it": "Qual è il tuo numero di telefono?",
       "en": "What is your telephone number?",
-      "ru": "Какой у тебя номер телефона?"
+      "ru": "Какой у тебя номер телефона?",
+      "es": "¿Cuál es tu número de teléfono?"
     },
     {
       "it": "Qual è il Suo numero di telefono?",
       "en": "What is your telephone number? (formal)",
-      "ru": "Какой у вас номер телефона? (формально)"
+      "ru": "Какой у вас номер телефона? (формально)",
+      "es": "¿Cuál es tu número de teléfono? (formal)"
     },
     {
       "it": "Qual è il tuo numero di cellulare?",
       "en": "What is your cellphone number?",
-      "ru": "Какой у тебя номер мобильного?"
+      "ru": "Какой у тебя номер мобильного?",
+      "es": "¿Cuál es tu número de celular?"
     },
     {
       "it": "Qual è il Suo numero di cellulare?",
       "en": "What is your cellphone number? (formal)",
-      "ru": "Какой у вас номер мобильного? (формально)"
+      "ru": "Какой у вас номер мобильного? (формально)",
+      "es": "¿Cuál es tu número de celular? (formal)"
     }
   ],
   "dialogues": [
@@ -689,53 +833,61 @@
       "register": "informal",
       "context": {
         "en": "One student asks another for a third person's phone number",
-        "ru": "Один студент спрашивает другого о номере телефона третьего человека"
+        "ru": "Один студент спрашивает другого о номере телефона третьего человека",
+        "es": "Un estudiante le pide a otro el número de teléfono de una tercera persona"
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, Paola! Qual è il numero di telefono di Fabrizio?",
           "en": "Hi, Paola! What is Fabrizio's phone number?",
-          "ru": "Привет, Паола! Какой номер телефона у Фабрицио?"
+          "ru": "Привет, Паола! Какой номер телефона у Фабрицио?",
+          "es": "¡Hola Paola! ¿Cuál es el número de teléfono de Fabricio?"
         },
         {
           "speaker": "B",
           "it": "Ciao, Giorgio! Il numero di telefono di Fabrizio è zero tre due, cinque sei sette, otto nove uno.",
           "en": "Hi, Giorgio! Fabrizio's phone number is 032 567 891.",
-          "ru": "Привет, Джорджо! Номер телефона Фабрицио: 032 567 891."
+          "ru": "Привет, Джорджо! Номер телефона Фабрицио: 032 567 891.",
+          "es": "Hola Giorgio! El número de teléfono de Fabricio es 032 567 891."
         },
         {
           "speaker": "A",
           "it": "Grazie!",
           "en": "Thank you!",
-          "ru": "Спасибо!"
+          "ru": "Спасибо!",
+          "es": "¡Gracias!"
         },
         {
           "speaker": "B",
           "it": "Prego!",
           "en": "You're welcome!",
-          "ru": "Пожалуйста!"
+          "ru": "Пожалуйста!",
+          "es": "¡De nada!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask for someone's phone number (informal)",
-            "ru": "Спросите чей-то номер телефона (неформально)"
+            "ru": "Спросите чей-то номер телефона (неформально)",
+            "es": "Pedir el número de teléfono de alguien (informal)"
           },
           "expected_it": "Qual è il tuo numero di telefono?"
         },
         {
           "cue": {
             "en": "Ask for a third person's phone number",
-            "ru": "Спросите номер телефона третьего человека"
+            "ru": "Спросите номер телефона третьего человека",
+            "es": "Solicitar el número de teléfono de una tercera persona"
           },
           "expected_it": "Qual è il numero di telefono di [nome]?"
         },
         {
           "cue": {
             "en": "Give a phone number",
-            "ru": "Назовите номер телефона"
+            "ru": "Назовите номер телефона",
+            "es": "dar un numero de telefono"
           },
           "expected_it": "Il mio numero di telefono è [numero]."
         }
@@ -747,46 +899,53 @@
       "register": "formal",
       "context": {
         "en": "A formal exchange asking for a cellphone number",
-        "ru": "Официальный обмен с просьбой назвать номер мобильного телефона"
+        "ru": "Официальный обмен с просьбой назвать номер мобильного телефона",
+        "es": "Un intercambio formal pidiendo un número de teléfono celular."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Buongiorno. Qual è il Suo numero di cellulare?",
           "en": "Good morning. What is your cellphone number?",
-          "ru": "Доброе утро. Какой у вас номер мобильного телефона?"
+          "ru": "Доброе утро. Какой у вас номер мобильного телефона?",
+          "es": "Buen día. ¿Cuál es tu número de celular?"
         },
         {
           "speaker": "B",
           "it": "Il mio numero di cellulare è tre tre tre, uno due tre, quattro cinque sei.",
           "en": "My cellphone number is 333 123 456.",
-          "ru": "Мой номер мобильного: 333 123 456."
+          "ru": "Мой номер мобильного: 333 123 456.",
+          "es": "Mi número de celular es 333 123 456."
         },
         {
           "speaker": "A",
           "it": "Grazie mille.",
           "en": "Thank you very much.",
-          "ru": "Большое спасибо."
+          "ru": "Большое спасибо.",
+          "es": "Muchas gracias."
         },
         {
           "speaker": "B",
           "it": "Prego.",
           "en": "You're welcome.",
-          "ru": "Пожалуйста."
+          "ru": "Пожалуйста.",
+          "es": "De nada."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask for someone's cellphone number (formal)",
-            "ru": "Спросите номер мобильного телефона (официально)"
+            "ru": "Спросите номер мобильного телефона (официально)",
+            "es": "Pedir el número de celular de alguien (formal)"
           },
           "expected_it": "Qual è il Suo numero di cellulare?"
         },
         {
           "cue": {
             "en": "Give your cellphone number",
-            "ru": "Назовите свой номер мобильного"
+            "ru": "Назовите свой номер мобильного",
+            "es": "Da tu número de celular"
           },
           "expected_it": "Il mio numero di cellulare è [numero]."
         }
@@ -798,140 +957,163 @@
       "register": "informal",
       "context": {
         "en": "Two classmates exchange phone numbers and plan to share homework notes.",
-        "ru": "Два одноклассника обмениваются номерами телефонов и планируют поделиться конспектами."
+        "ru": "Два одноклассника обмениваются номерами телефонов и планируют поделиться конспектами.",
+        "es": "Dos compañeros de clase intercambian números de teléfono y planean compartir notas de tareas."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, Paola. Hai un minuto?",
           "en": "Hi, Paola. Do you have a minute?",
-          "ru": "Привет, Паола. У тебя есть минутка?"
+          "ru": "Привет, Паола. У тебя есть минутка?",
+          "es": "Hola paola. ¿Tienes un minuto?"
         },
         {
           "speaker": "B",
           "it": "Ciao, Giorgio. Sì, certo.",
           "en": "Hi, Giorgio. Yes, of course.",
-          "ru": "Привет, Джорджо. Да, конечно."
+          "ru": "Привет, Джорджо. Да, конечно.",
+          "es": "Hola Giorgio. Sí, claro."
         },
         {
           "speaker": "A",
           "it": "Qual è il tuo numero di telefono?",
           "en": "What's your phone number?",
-          "ru": "Какой у тебя номер телефона?"
+          "ru": "Какой у тебя номер телефона?",
+          "es": "¿Cuál es tu número de teléfono?"
         },
         {
           "speaker": "B",
           "it": "Il mio numero è tre tre tre, uno due tre, quattro cinque sei.",
           "en": "My number is three three three, one two three, four five six.",
-          "ru": "Мой номер — три три три, один два три, четыре пять шесть."
+          "ru": "Мой номер — три три три, один два три, четыре пять шесть.",
+          "es": "Mi número es tres tres tres, uno dos tres, cuatro cinco seis."
         },
         {
           "speaker": "A",
           "it": "Aspetta, ripeto: tre tre tre, uno due tre, quattro cinque sei?",
           "en": "Wait, I'll repeat: three three three, one two three, four five six?",
-          "ru": "Подожди, повторю: три три три, один два три, четыре пять шесть?"
+          "ru": "Подожди, повторю: три три три, один два три, четыре пять шесть?",
+          "es": "Espera, te repito: ¿tres tres tres, uno dos tres, cuatro cinco seis?"
         },
         {
           "speaker": "B",
           "it": "Sì, esatto. E il tuo numero?",
           "en": "Yes, exactly. And your number?",
-          "ru": "Да, точно. А твой номер?"
+          "ru": "Да, точно. А твой номер?",
+          "es": "Sí, exactamente. ¿Y tu número?"
         },
         {
           "speaker": "A",
           "it": "Zero tre due, cinque sei sette, otto nove uno.",
           "en": "Zero three two, five six seven, eight nine one.",
-          "ru": "Ноль три два, пять шесть семь, восемь девять один."
+          "ru": "Ноль три два, пять шесть семь, восемь девять один.",
+          "es": "Cero tres dos, cinco seis siete, ocho nueve uno."
         },
         {
           "speaker": "B",
           "it": "Perfetto. Come si scrive il tuo cognome?",
           "en": "Perfect. How do you spell your surname?",
-          "ru": "Отлично. Как пишется твоя фамилия?"
+          "ru": "Отлично. Как пишется твоя фамилия?",
+          "es": "Perfecto. ¿Cómo se escribe tu apellido?"
         },
         {
           "speaker": "A",
           "it": "Rossi: erre, o, esse, esse, i.",
           "en": "Rossi: R, O, S, S, I.",
-          "ru": "Росси: эрре, о, эссе, эссе, и."
+          "ru": "Росси: эрре, о, эссе, эссе, и.",
+          "es": "Rossi: R, O, S, S, I."
         },
         {
           "speaker": "B",
           "it": "Grazie. Io sono Bianchi: bi, i, a, enne, ci, acca, i.",
           "en": "Thanks. I'm Bianchi: B, I, A, N, C, H, I.",
-          "ru": "Спасибо. Я Бьянки: би, и, а, энне, чи, акка, и."
+          "ru": "Спасибо. Я Бьянки: би, и, а, энне, чи, акка, и.",
+          "es": "Gracias. Soy Bianchi: B, I, A, N, C, H, I."
         },
         {
           "speaker": "A",
           "it": "Ho capito. Quanti anni hai?",
           "en": "Got it. How old are you?",
-          "ru": "Понял. Сколько тебе лет?"
+          "ru": "Понял. Сколько тебе лет?",
+          "es": "Entiendo. ¿Cuántos años tiene?"
         },
         {
           "speaker": "B",
           "it": "Ho ventiquattro anni. E tu?",
           "en": "I'm twenty-four. And you?",
-          "ru": "Мне двадцать четыре. А тебе?"
+          "ru": "Мне двадцать четыре. А тебе?",
+          "es": "Tengo veinticuatro años. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Ho ventotto anni.",
           "en": "I'm twenty-eight.",
-          "ru": "Мне двадцать восемь."
+          "ru": "Мне двадцать восемь.",
+          "es": "Tengo veintiocho años."
         },
         {
           "speaker": "B",
           "it": "Hai gli appunti della lezione?",
           "en": "Do you have the lesson notes?",
-          "ru": "У тебя есть конспекты урока?"
+          "ru": "У тебя есть конспекты урока?",
+          "es": "¿Tienes los apuntes de la lección?"
         },
         {
           "speaker": "A",
           "it": "Sì, ho gli appunti sul verbo avere.",
           "en": "Yes, I have notes on the verb avere.",
-          "ru": "Да, у меня есть конспекты по глаголу avere."
+          "ru": "Да, у меня есть конспекты по глаголу avere.",
+          "es": "Sí, tengo notas sobre el verbo avere."
         },
         {
           "speaker": "B",
           "it": "Puoi mandarmi una foto?",
           "en": "Can you send me a photo?",
-          "ru": "Можешь прислать мне фото?"
+          "ru": "Можешь прислать мне фото?",
+          "es": "¿Puedes enviarme una foto?"
         },
         {
           "speaker": "A",
           "it": "Sì, ti mando una foto stasera.",
           "en": "Yes, I'll send you a photo tonight.",
-          "ru": "Да, пришлю тебе фото вечером."
+          "ru": "Да, пришлю тебе фото вечером.",
+          "es": "Sí, te enviaré una foto esta noche."
         },
         {
           "speaker": "B",
           "it": "Grazie. Io ti mando il compito.",
           "en": "Thanks. I'll send you the homework.",
-          "ru": "Спасибо. Я пришлю тебе домашнее задание."
+          "ru": "Спасибо. Я пришлю тебе домашнее задание.",
+          "es": "Gracias. Te enviaré la tarea."
         },
         {
           "speaker": "A",
           "it": "Ottimo. A che ora studi?",
           "en": "Great. What time do you study?",
-          "ru": "Отлично. Во сколько ты учишься?"
+          "ru": "Отлично. Во сколько ты учишься?",
+          "es": "Excelente. ¿A qué hora estudias?"
         },
         {
           "speaker": "B",
           "it": "Studio alle sette.",
           "en": "I study at seven.",
-          "ru": "Учусь в семь."
+          "ru": "Учусь в семь.",
+          "es": "Yo estudio a las siete."
         },
         {
           "speaker": "A",
           "it": "Allora ti scrivo alle sette.",
           "en": "Then I'll write to you at seven.",
-          "ru": "Тогда напишу тебе в семь."
+          "ru": "Тогда напишу тебе в семь.",
+          "es": "Entonces te escribiré a las siete."
         },
         {
           "speaker": "B",
           "it": "Va bene, a dopo.",
           "en": "Okay, see you later.",
-          "ru": "Хорошо, до встречи."
+          "ru": "Хорошо, до встречи.",
+          "es": "Vale, nos vemos luego."
         }
       ]
     },
@@ -941,188 +1123,219 @@
       "register": "informal",
       "context": {
         "en": "Two visitors navigate Rome using places, phone numbers, and c'è/ci sono.",
-        "ru": "Двое гостей ориентируются в Риме, используя названия мест, номера телефонов и c'è/ci sono."
+        "ru": "Двое гостей ориентируются в Риме, используя названия мест, номера телефонов и c'è/ci sono.",
+        "es": "Dos visitantes navegan por Roma utilizando lugares, números de teléfono y c'è/ci sono."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Siamo a Roma, ma non so dov'è il bar.",
           "en": "We're in Rome, but I don't know where the bar is.",
-          "ru": "Мы в Риме, но я не знаю, где бар."
+          "ru": "Мы в Риме, но я не знаю, где бар.",
+          "es": "Estamos en Roma, pero no sé dónde está el bar."
         },
         {
           "speaker": "B",
           "it": "C'è un bar vicino alla piazza.",
           "en": "There's a bar near the square.",
-          "ru": "Рядом с площадью есть бар."
+          "ru": "Рядом с площадью есть бар.",
+          "es": "Hay un bar cerca de la plaza."
         },
         {
           "speaker": "A",
           "it": "Dov'è la piazza?",
           "en": "Where's the square?",
-          "ru": "Где площадь?"
+          "ru": "Где площадь?",
+          "es": "¿Dónde está la plaza?"
         },
         {
           "speaker": "B",
           "it": "È a destra, dopo la farmacia.",
           "en": "It's to the right, past the pharmacy.",
-          "ru": "Направо, после аптеки."
+          "ru": "Направо, после аптеки.",
+          "es": "Está a la derecha, pasando la farmacia."
         },
         {
           "speaker": "A",
           "it": "C'è anche una libreria?",
           "en": "Is there also a bookshop?",
-          "ru": "Там ещё есть книжный магазин?"
+          "ru": "Там ещё есть книжный магазин?",
+          "es": "¿También hay una librería?"
         },
         {
           "speaker": "B",
           "it": "Sì, c'è una libreria piccola.",
           "en": "Yes, there's a small bookshop.",
-          "ru": "Да, есть маленький книжный."
+          "ru": "Да, есть маленький книжный.",
+          "es": "Sí, hay una pequeña librería."
         },
         {
           "speaker": "A",
           "it": "Ci sono molti negozi?",
           "en": "Are there many shops?",
-          "ru": "Там много магазинов?"
+          "ru": "Там много магазинов?",
+          "es": "¿Hay muchas tiendas?"
         },
         {
           "speaker": "B",
           "it": "Sì, ci sono negozi, una banca e un cinema.",
           "en": "Yes, there are shops, a bank, and a cinema.",
-          "ru": "Да, есть магазины, банк и кинотеатр."
+          "ru": "Да, есть магазины, банк и кинотеатр.",
+          "es": "Sí, hay tiendas, un banco y un cine."
         },
         {
           "speaker": "A",
           "it": "Andiamo prima in libreria?",
           "en": "Shall we go to the bookshop first?",
-          "ru": "Пойдём сначала в книжный?"
+          "ru": "Пойдём сначала в книжный?",
+          "es": "¿Vamos primero a la librería?"
         },
         {
           "speaker": "B",
           "it": "Sì, ma dopo prendiamo un caffè.",
           "en": "Yes, but then let's get a coffee.",
-          "ru": "Да, но потом выпьем кофе."
+          "ru": "Да, но потом выпьем кофе.",
+          "es": "Sí, pero luego tomemos un café."
         },
         {
           "speaker": "A",
           "it": "Va bene. Hai il telefono?",
           "en": "Okay. Do you have your phone?",
-          "ru": "Хорошо. У тебя есть телефон?"
+          "ru": "Хорошо. У тебя есть телефон?",
+          "es": "Bueno. ¿Tienes tu teléfono?"
         },
         {
           "speaker": "B",
           "it": "Sì, ho il cellulare.",
           "en": "Yes, I have my mobile.",
-          "ru": "Да, у меня есть мобильный."
+          "ru": "Да, у меня есть мобильный.",
+          "es": "Sí, tengo mi móvil."
         },
         {
           "speaker": "A",
           "it": "Qual è il tuo numero?",
           "en": "What's your number?",
-          "ru": "Какой у тебя номер?"
+          "ru": "Какой у тебя номер?",
+          "es": "¿Cuál es tu número?"
         },
         {
           "speaker": "B",
           "it": "Tre quattro cinque, otto sette sei, due uno zero.",
           "en": "Three four five, eight seven six, two one zero.",
-          "ru": "Три четыре пять, восемь семь шесть, два один ноль."
+          "ru": "Три четыре пять, восемь семь шесть, два один ноль.",
+          "es": "Tres cuatro cinco, ocho siete seis, dos uno cero."
         },
         {
           "speaker": "A",
           "it": "Ripeto: tre quattro cinque, otto sette sei, due uno zero?",
           "en": "I'll repeat: three four five, eight seven six, two one zero?",
-          "ru": "Повторю: три четыре пять, восемь семь шесть, два один ноль?"
+          "ru": "Повторю: три четыре пять, восемь семь шесть, два один ноль?",
+          "es": "Repito: ¿tres cuatro cinco, ocho siete seis, dos uno cero?"
         },
         {
           "speaker": "B",
           "it": "Esatto.",
           "en": "Exactly.",
-          "ru": "Точно."
+          "ru": "Точно.",
+          "es": "Exactamente."
         },
         {
           "speaker": "A",
           "it": "Ti chiamo se ci perdiamo.",
           "en": "I'll call you if we get lost.",
-          "ru": "Позвоню тебе, если потеряемся."
+          "ru": "Позвоню тебе, если потеряемся.",
+          "es": "Te llamaré si nos perdemos."
         },
         {
           "speaker": "B",
           "it": "Va bene. Hai il mio nome nel cellulare?",
           "en": "Okay. Do you have my name in your phone?",
-          "ru": "Хорошо. У тебя моё имя в телефоне?"
+          "ru": "Хорошо. У тебя моё имя в телефоне?",
+          "es": "Bueno. ¿Tienes mi nombre en tu teléfono?"
         },
         {
           "speaker": "A",
           "it": "Sì, sei \"Marco Roma\".",
           "en": "Yes, you're \"Marco Roma\".",
-          "ru": "Да, ты записан как «Марко Рим»."
+          "ru": "Да, ты записан как «Марко Рим».",
+          "es": "Sí, eres \"Marco Roma\"."
         },
         {
           "speaker": "B",
           "it": "Perfetto. Ora andiamo verso la piazza.",
           "en": "Perfect. Now let's head to the square.",
-          "ru": "Отлично. Теперь пойдём к площади."
+          "ru": "Отлично. Теперь пойдём к площади.",
+          "es": "Perfecto. Ahora vayamos a la plaza."
         },
         {
           "speaker": "A",
           "it": "La piazza è lontana?",
           "en": "Is the square far?",
-          "ru": "Площадь далеко?"
+          "ru": "Площадь далеко?",
+          "es": "¿Está lejos la plaza?"
         },
         {
           "speaker": "B",
           "it": "No, è vicina.",
           "en": "No, it's close.",
-          "ru": "Нет, близко."
+          "ru": "Нет, близко.",
+          "es": "No, está cerca."
         },
         {
           "speaker": "A",
           "it": "Dopo il bar, dove andiamo?",
           "en": "After the bar, where do we go?",
-          "ru": "После бара куда пойдём?"
+          "ru": "После бара куда пойдём?",
+          "es": "Después del bar, ¿adónde vamos?"
         },
         {
           "speaker": "B",
           "it": "Andiamo al cinema o al museo.",
           "en": "Let's go to the cinema or the museum.",
-          "ru": "Пойдём в кино или в музей."
+          "ru": "Пойдём в кино или в музей.",
+          "es": "Vayamos al cine o al museo."
         },
         {
           "speaker": "A",
           "it": "Preferisco il museo.",
           "en": "I prefer the museum.",
-          "ru": "Я предпочитаю музей."
+          "ru": "Я предпочитаю музей.",
+          "es": "Prefiero el museo."
         },
         {
           "speaker": "B",
           "it": "Anch'io. Il museo è vicino al bar.",
           "en": "Me too. The museum is near the bar.",
-          "ru": "Я тоже. Музей рядом с баром."
+          "ru": "Я тоже. Музей рядом с баром.",
+          "es": "Yo también. El museo está cerca del bar."
         },
         {
           "speaker": "A",
           "it": "Ottimo. Allora facciamo così.",
           "en": "Great. Then let's do that.",
-          "ru": "Отлично. Тогда так и сделаем."
+          "ru": "Отлично. Тогда так и сделаем.",
+          "es": "Excelente. Entonces hagamos eso."
         },
         {
           "speaker": "B",
           "it": "Prima libreria, poi bar, poi museo.",
           "en": "First bookshop, then bar, then museum.",
-          "ru": "Сначала книжный, потом бар, потом музей."
+          "ru": "Сначала книжный, потом бар, потом музей.",
+          "es": "Primero librería, luego bar, luego museo."
         },
         {
           "speaker": "A",
           "it": "Perfetto.",
           "en": "Perfect.",
-          "ru": "Отлично."
+          "ru": "Отлично.",
+          "es": "Perfecto."
         },
         {
           "speaker": "B",
           "it": "Andiamo!",
           "en": "Let's go!",
-          "ru": "Пойдём!"
+          "ru": "Пойдём!",
+          "es": "¡Vamos!"
         }
       ]
     }
@@ -1132,7 +1345,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -1147,7 +1361,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",

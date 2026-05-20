@@ -18,6 +18,11 @@
         "Аудирование: Alla festa di Chiara",
         "Грамматика: предлоги di, a, in",
         "Спрашивать и говорить о месте жительства"
+      ],
+      "es": [
+        "Comprensión auditiva: En la fiesta de Chiara",
+        "Gramática: preposiciones di, a, in",
+        "Preguntar y decir donde vives"
       ]
     }
   },
@@ -25,113 +30,135 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Origin with di + city",
-        "ru": "Происхождение с di + город"
+        "ru": "Происхождение с di + город",
+        "es": "Origen con di + ciudad"
       },
       "description": {
         "en": "To say where a person is from, Italian commonly uses 'essere di' followed by a city.",
-        "ru": "Чтобы сказать, откуда человек родом, в итальянском обычно используется конструкция 'essere di' с названием города."
+        "ru": "Чтобы сказать, откуда человек родом, в итальянском обычно используется конструкция 'essere di' с названием города.",
+        "es": "Para decir de dónde es una persona, el italiano suele utilizar \"essere di\" seguido de una ciudad."
       },
       "examples": [
         {
           "it": "Sono di Casinalbo.",
           "en": "I am from Casinalbo.",
-          "ru": "Я из Казинальбо."
+          "ru": "Я из Казинальбо.",
+          "es": "Soy de Casinalbo."
         },
         {
           "it": "Stefi è di Prato.",
           "en": "Stefi is from Prato.",
-          "ru": "Стефи из Прато."
+          "ru": "Стефи из Прато.",
+          "es": "Stefi es de Prato."
         },
         {
           "it": "Di dov'è Alexia?",
           "en": "Where is Alexia from?",
-          "ru": "Откуда Алексия?"
+          "ru": "Откуда Алексия?",
+          "es": "¿De dónde es Alexia?"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Residence with a + city",
-        "ru": "Место жительства с a + город"
+        "ru": "Место жительства с a + город",
+        "es": "Residencia con una + ciudad"
       },
       "description": {
         "en": "To say where someone lives, Italian uses 'abitare a' with cities.",
-        "ru": "Чтобы сказать, где кто-то живёт, в итальянском используется 'abitare a' с названиями городов."
+        "ru": "Чтобы сказать, где кто-то живёт, в итальянском используется 'abitare a' с названиями городов.",
+        "es": "Para decir dónde vive alguien, el italiano usa 'abitare a' con ciudades."
       },
       "examples": [
         {
           "it": "Abito a Firenze.",
           "en": "I live in Florence.",
-          "ru": "Я живу во Флоренции."
+          "ru": "Я живу во Флоренции.",
+          "es": "Vivo en Florencia."
         },
         {
           "it": "Paolo abita a Roma.",
           "en": "Paolo lives in Rome.",
-          "ru": "Паоло живёт в Риме."
+          "ru": "Паоло живёт в Риме.",
+          "es": "Paolo vive en Roma."
         },
         {
           "it": "Patrick e John abitano a Londra.",
           "en": "Patrick and John live in London.",
-          "ru": "Патрик и Джон живут в Лондоне."
+          "ru": "Патрик и Джон живут в Лондоне.",
+          "es": "Patrick y John viven en Londres."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Residence with in + country, region, continent",
-        "ru": "Место жительства с in + страна, регион, континент"
+        "ru": "Место жительства с in + страна, регион, континент",
+        "es": "Residencia con en + país, región, continente"
       },
       "description": {
         "en": "Use 'in' with countries, regions and continents.",
-        "ru": "Предлог 'in' употребляется со странами, регионами и континентами."
+        "ru": "Предлог 'in' употребляется со странами, регионами и континентами.",
+        "es": "Utilice 'in' con países, regiones y continentes."
       },
       "examples": [
         {
           "it": "Abito in Italia.",
           "en": "I live in Italy.",
-          "ru": "Я живу в Италии."
+          "ru": "Я живу в Италии.",
+          "es": "Vivo en Italia."
         },
         {
           "it": "Abito in Toscana.",
           "en": "I live in Tuscany.",
-          "ru": "Я живу в Тоскане."
+          "ru": "Я живу в Тоскане.",
+          "es": "Vivo en la Toscana."
         },
         {
           "it": "Vivo in Africa.",
           "en": "I live in Africa.",
-          "ru": "Я живу в Африке."
+          "ru": "Я живу в Африке.",
+          "es": "Vivo en África."
         },
         {
           "it": "In Inghilterra piove molto.",
           "en": "In England it rains a lot.",
-          "ru": "В Англии много дождей."
+          "ru": "В Англии много дождей.",
+          "es": "En Inglaterra llueve mucho."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Present tense of abitare",
-        "ru": "Настоящее время глагола abitare"
+        "ru": "Настоящее время глагола abitare",
+        "es": "Tiempo presente de abitare"
       },
       "description": {
         "en": "The verb 'abitare' means 'to live' or 'to reside'.",
-        "ru": "Глагол 'abitare' означает 'жить', 'проживать'."
+        "ru": "Глагол 'abitare' означает 'жить', 'проживать'.",
+        "es": "El verbo abitare significa vivir o residir."
       },
       "conjugations": {
         "io": "abito",
@@ -145,34 +172,40 @@
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking and stating residence",
-        "ru": "Как спросить и сказать, где человек живёт"
+        "ru": "Как спросить и сказать, где человек живёт",
+        "es": "Preguntar y declarar residencia"
       },
       "description": {
         "en": "Italian uses 'Dove abiti?' and related forms to ask where someone lives. Answers can include city, region and country.",
-        "ru": "В итальянском для вопроса о месте жительства используются формы 'Dove abiti?' и похожие конструкции. В ответ можно назвать город, регион и страну."
+        "ru": "В итальянском для вопроса о месте жительства используются формы 'Dove abiti?' и похожие конструкции. В ответ можно назвать город, регион и страну.",
+        "es": "El italiano utiliza 'Dove abiti?' y formularios relacionados para preguntar dónde vive alguien. Las respuestas pueden incluir ciudad, región y país."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Dove abiti?",
           "en": "Where do you live?",
-          "ru": "Где ты живёшь?"
+          "ru": "Где ты живёшь?",
+          "es": "¿Dónde vive?"
         },
         {
           "context": "formal",
           "it": "Dove abita?",
           "en": "Where do you live? (formal)",
-          "ru": "Где Вы живёте?"
+          "ru": "Где Вы живёте?",
+          "es": "¿Dónde vive? (formal)"
         },
         {
           "context": "answer",
           "it": "Abito a Pisa, in Toscana, in Italia.",
           "en": "I live in Pisa, in Tuscany, in Italy.",
-          "ru": "Я живу в Пизе, в Тоскане, в Италии."
+          "ru": "Я живу в Пизе, в Тоскане, в Италии.",
+          "es": "Vivo en Pisa, en Toscana, en Italia."
         }
       ]
     }
@@ -184,8 +217,10 @@
       "ru": "вечеринка",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "fiesta"
     },
     {
       "term": "facoltà",
@@ -193,8 +228,10 @@
       "ru": "факультет",
       "type": {
         "en": "education",
-        "ru": "образование"
-      }
+        "ru": "образование",
+        "es": "educación"
+      },
+      "es": "facultad universitaria, departamento"
     },
     {
       "term": "economia",
@@ -202,8 +239,10 @@
       "ru": "экономика",
       "type": {
         "en": "education",
-        "ru": "образование"
-      }
+        "ru": "образование",
+        "es": "educación"
+      },
+      "es": "ciencias económicas"
     },
     {
       "term": "matematica",
@@ -211,8 +250,10 @@
       "ru": "математика",
       "type": {
         "en": "education",
-        "ru": "образование"
-      }
+        "ru": "образование",
+        "es": "educación"
+      },
+      "es": "matemáticas"
     },
     {
       "term": "residenza",
@@ -220,8 +261,10 @@
       "ru": "место жительства",
       "type": {
         "en": "grammar vocabulary",
-        "ru": "грамматическая лексика"
-      }
+        "ru": "грамматическая лексика",
+        "es": "vocabulario de gramática"
+      },
+      "es": "residencia"
     },
     {
       "term": "provenienza",
@@ -229,8 +272,10 @@
       "ru": "происхождение; откуда родом",
       "type": {
         "en": "grammar vocabulary",
-        "ru": "грамматическая лексика"
-      }
+        "ru": "грамматическая лексика",
+        "es": "vocabulario de gramática"
+      },
+      "es": "origen"
     },
     {
       "term": "di",
@@ -238,8 +283,10 @@
       "ru": "из; от; о",
       "type": {
         "en": "preposition",
-        "ru": "предлог"
-      }
+        "ru": "предлог",
+        "es": "preposición"
+      },
+      "es": "de, de"
     },
     {
       "term": "a",
@@ -247,8 +294,10 @@
       "ru": "в; к; на",
       "type": {
         "en": "preposition",
-        "ru": "предлог"
-      }
+        "ru": "предлог",
+        "es": "preposición"
+      },
+      "es": "en, a, en"
     },
     {
       "term": "in",
@@ -256,8 +305,10 @@
       "ru": "в",
       "type": {
         "en": "preposition",
-        "ru": "предлог"
-      }
+        "ru": "предлог",
+        "es": "preposición"
+      },
+      "es": "en"
     },
     {
       "term": "abitare",
@@ -265,8 +316,10 @@
       "ru": "жить, проживать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "vivir, residir"
     },
     {
       "term": "vivere",
@@ -274,8 +327,10 @@
       "ru": "жить",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "vivir"
     },
     {
       "term": "studiare",
@@ -283,8 +338,10 @@
       "ru": "учиться, изучать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "estudiar"
     },
     {
       "term": "università",
@@ -292,8 +349,10 @@
       "ru": "университет",
       "type": {
         "en": "education",
-        "ru": "образование"
-      }
+        "ru": "образование",
+        "es": "educación"
+      },
+      "es": "universidad"
     },
     {
       "term": "vicino all'università",
@@ -301,8 +360,10 @@
       "ru": "рядом с университетом",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "cerca de la universidad"
     },
     {
       "term": "da un mese",
@@ -310,8 +371,10 @@
       "ru": "уже месяц",
       "type": {
         "en": "time expression",
-        "ru": "выражение времени"
-      }
+        "ru": "выражение времени",
+        "es": "expresión de tiempo"
+      },
+      "es": "por un mes"
     },
     {
       "term": "da un anno",
@@ -319,8 +382,10 @@
       "ru": "уже год",
       "type": {
         "en": "time expression",
-        "ru": "выражение времени"
-      }
+        "ru": "выражение времени",
+        "es": "expresión de tiempo"
+      },
+      "es": "por un año"
     },
     {
       "term": "qua",
@@ -328,8 +393,10 @@
       "ru": "здесь",
       "type": {
         "en": "adverb",
-        "ru": "наречие"
-      }
+        "ru": "наречие",
+        "es": "adverbio"
+      },
+      "es": "aquí"
     },
     {
       "term": "non proprio",
@@ -337,8 +404,10 @@
       "ru": "не совсем; не совсем так",
       "type": {
         "en": "expression",
-        "ru": "выражение"
-      }
+        "ru": "выражение",
+        "es": "expresión"
+      },
+      "es": "no exactamente, no realmente"
     },
     {
       "term": "anche tu?",
@@ -346,8 +415,10 @@
       "ru": "ты тоже?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿tú también?"
     },
     {
       "term": "Firenze",
@@ -355,8 +426,10 @@
       "ru": "Флоренция",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "Florencia"
     },
     {
       "term": "Prato",
@@ -364,8 +437,10 @@
       "ru": "Прато",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "Prato"
     },
     {
       "term": "Casinalbo",
@@ -373,8 +448,10 @@
       "ru": "Казинальбо",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "Casinalbo"
     },
     {
       "term": "Londra",
@@ -382,8 +459,10 @@
       "ru": "Лондон",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "Londres"
     },
     {
       "term": "Roma",
@@ -391,8 +470,10 @@
       "ru": "Рим",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "Roma"
     },
     {
       "term": "Parigi",
@@ -400,8 +481,10 @@
       "ru": "Париж",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "París"
     },
     {
       "term": "Berlino",
@@ -409,8 +492,10 @@
       "ru": "Берлин",
       "type": {
         "en": "city",
-        "ru": "город"
-      }
+        "ru": "город",
+        "es": "ciudad"
+      },
+      "es": "Berlina"
     },
     {
       "term": "Italia",
@@ -418,8 +503,10 @@
       "ru": "Италия",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Italia"
     },
     {
       "term": "Inghilterra",
@@ -427,8 +514,10 @@
       "ru": "Англия",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Inglaterra"
     },
     {
       "term": "Spagna",
@@ -436,8 +525,10 @@
       "ru": "Испания",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "España"
     },
     {
       "term": "Francia",
@@ -445,8 +536,10 @@
       "ru": "Франция",
       "type": {
         "en": "country",
-        "ru": "страна"
-      }
+        "ru": "страна",
+        "es": "país"
+      },
+      "es": "Francia"
     },
     {
       "term": "Toscana",
@@ -454,8 +547,10 @@
       "ru": "Тоскана",
       "type": {
         "en": "region",
-        "ru": "регион"
-      }
+        "ru": "регион",
+        "es": "región"
+      },
+      "es": "toscana"
     },
     {
       "term": "Europa",
@@ -463,8 +558,10 @@
       "ru": "Европа",
       "type": {
         "en": "continent",
-        "ru": "континент"
-      }
+        "ru": "континент",
+        "es": "continente"
+      },
+      "es": "Europa"
     },
     {
       "term": "Africa",
@@ -472,8 +569,10 @@
       "ru": "Африка",
       "type": {
         "en": "continent",
-        "ru": "континент"
-      }
+        "ru": "континент",
+        "es": "continente"
+      },
+      "es": "África"
     },
     {
       "term": "piove",
@@ -481,8 +580,10 @@
       "ru": "идёт дождь",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "Llueve"
     },
     {
       "term": "milione",
@@ -490,8 +591,10 @@
       "ru": "миллион",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "millón"
     },
     {
       "term": "mezzo",
@@ -499,45 +602,54 @@
       "ru": "половина",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "medio"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Ascoltate e completate.",
       "en": "Listen and complete.",
-      "ru": "Послушайте и дополните."
+      "ru": "Послушайте и дополните.",
+      "es": "Escucha y completa."
     },
     {
       "it": "Rimettete in ordine e verificate.",
       "en": "Put in order and check.",
-      "ru": "Расположите по порядку и проверьте."
+      "ru": "Расположите по порядку и проверьте.",
+      "es": "Poner en orden y comprobar."
     },
     {
       "it": "Completate con a o in.",
       "en": "Complete with 'a' or 'in'.",
-      "ru": "Дополните предлогами 'a' или 'in'."
+      "ru": "Дополните предлогами 'a' или 'in'.",
+      "es": "Complete con 'a' o 'in'."
     },
     {
       "it": "Completate con a o in e abbinate.",
       "en": "Complete with 'a' or 'in' and match.",
-      "ru": "Дополните предлогами 'a' или 'in' и сопоставьте."
+      "ru": "Дополните предлогами 'a' или 'in' и сопоставьте.",
+      "es": "Complete con 'a' o 'in' y combine."
     },
     {
       "it": "Costruite le frasi.",
       "en": "Build the sentences.",
-      "ru": "Составьте предложения."
+      "ru": "Составьте предложения.",
+      "es": "Construye las oraciones."
     },
     {
       "it": "Seguite il modello.",
       "en": "Follow the model.",
-      "ru": "Следуйте образцу."
+      "ru": "Следуйте образцу.",
+      "es": "Sigue el modelo."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     }
   ],
   "dialogues": [
@@ -547,71 +659,82 @@
       "register": "informal",
       "context": {
         "en": "Two students meet at Chiara's party and talk about origin, university subject and where they live.",
-        "ru": "Два студента знакомятся на вечеринке у Кьяры и говорят о происхождении, предмете учёбы и месте жительства."
+        "ru": "Два студента знакомятся на вечеринке у Кьяры и говорят о происхождении, предмете учёбы и месте жительства.",
+        "es": "Dos estudiantes se encuentran en la fiesta de Chiara y hablan sobre su origen, su carrera universitaria y el lugar donde viven."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, io sono Claudio. Tu come ti chiami?",
           "en": "Hi, I'm Claudio. What is your name?",
-          "ru": "Привет, я Клаудио. Как тебя зовут?"
+          "ru": "Привет, я Клаудио. Как тебя зовут?",
+          "es": "Hola soy Claudio. ¿Cómo te llamas?"
         },
         {
           "speaker": "B",
           "it": "Stefi. Piacere.",
           "en": "Stefi. Nice to meet you.",
-          "ru": "Стефи. Очень приятно."
+          "ru": "Стефи. Очень приятно.",
+          "es": "Estefi. Encantado de conocerlo."
         },
         {
           "speaker": "A",
           "it": "Che cosa studi?",
           "en": "What do you study?",
-          "ru": "Что ты изучаешь?"
+          "ru": "Что ты изучаешь?",
+          "es": "¿Qué estudias?"
         },
         {
           "speaker": "B",
           "it": "Economia. E tu?",
           "en": "Economics. And you?",
-          "ru": "Экономику. А ты?"
+          "ru": "Экономику. А ты?",
+          "es": "Ciencias económicas. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Matematica. Di dove sei?",
           "en": "Mathematics. Where are you from?",
-          "ru": "Математику. Откуда ты?"
+          "ru": "Математику. Откуда ты?",
+          "es": "Matemáticas. ¿De dónde eres?"
         },
         {
           "speaker": "B",
           "it": "Sono di Prato. E tu?",
           "en": "I am from Prato. And you?",
-          "ru": "Я из Прато. А ты?"
+          "ru": "Я из Прато. А ты?",
+          "es": "Soy de Prato. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Sono di Casinalbo, ma abito a Firenze, in Italia.",
           "en": "I am from Casinalbo, but I live in Florence, in Italy.",
-          "ru": "Я из Казинальбо, но живу во Флоренции, в Италии."
+          "ru": "Я из Казинальбо, но живу во Флоренции, в Италии.",
+          "es": "Soy de Casinalbo, pero vivo en Florencia, Italia."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask where someone is from",
-            "ru": "Спросить, откуда человек"
+            "ru": "Спросить, откуда человек",
+            "es": "Preguntar de dónde es alguien"
           },
           "expected_it": "Di dove sei?"
         },
         {
           "cue": {
             "en": "Say where you are from",
-            "ru": "Сказать, откуда вы"
+            "ru": "Сказать, откуда вы",
+            "es": "Di de donde eres"
           },
           "expected_it": "Sono di [città]."
         },
         {
           "cue": {
             "en": "Say where you live",
-            "ru": "Сказать, где вы живёте"
+            "ru": "Сказать, где вы живёте",
+            "es": "Di donde vives"
           },
           "expected_it": "Abito a [città], in [Paese/regione]."
         }
@@ -623,46 +746,53 @@
       "register": "neutral",
       "context": {
         "en": "Practising city, region and country in a short exchange.",
-        "ru": "Короткий диалог для практики города, региона и страны."
+        "ru": "Короткий диалог для практики города, региона и страны.",
+        "es": "Practicando ciudad, región y país en un corto intercambio."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Dove abiti?",
           "en": "Where do you live?",
-          "ru": "Где ты живёшь?"
+          "ru": "Где ты живёшь?",
+          "es": "¿Dónde vive?"
         },
         {
           "speaker": "B",
           "it": "Abito a Pisa, in Toscana, in Italia.",
           "en": "I live in Pisa, in Tuscany, in Italy.",
-          "ru": "Я живу в Пизе, в Тоскане, в Италии."
+          "ru": "Я живу в Пизе, в Тоскане, в Италии.",
+          "es": "Vivo en Pisa, en Toscana, en Italia."
         },
         {
           "speaker": "A",
           "it": "E di dove sei?",
           "en": "And where are you from?",
-          "ru": "А откуда ты?"
+          "ru": "А откуда ты?",
+          "es": "¿Y tú de dónde eres?"
         },
         {
           "speaker": "B",
           "it": "Sono di Lione, ma adesso abito a Firenze.",
           "en": "I am from Lyon, but now I live in Florence.",
-          "ru": "Я из Лиона, но сейчас живу во Флоренции."
+          "ru": "Я из Лиона, но сейчас живу во Флоренции.",
+          "es": "Soy de Lyon, pero ahora vivo en Florencia."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask where someone lives",
-            "ru": "Спросить, где человек живёт"
+            "ru": "Спросить, где человек живёт",
+            "es": "Preguntar dónde vive alguien"
           },
           "expected_it": "Dove abiti?"
         },
         {
           "cue": {
             "en": "Answer with city, region and country",
-            "ru": "Ответить с городом, регионом и страной"
+            "ru": "Ответить с городом, регионом и страной",
+            "es": "Responder con ciudad, región y país."
           },
           "expected_it": "Abito a [città], in [regione], in [Paese]."
         }
@@ -674,188 +804,219 @@
       "register": "informal",
       "context": {
         "en": "Two neighbors meet and exchange address, floor, and personal details.",
-        "ru": "Два соседа знакомятся и обмениваются адресами, этажами и личными данными."
+        "ru": "Два соседа знакомятся и обмениваются адресами, этажами и личными данными.",
+        "es": "Dos vecinos se encuentran e intercambian dirección, piso y datos personales."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, sei nuovo nel palazzo?",
           "en": "Hi, are you new in the building?",
-          "ru": "Привет, ты новенький в доме?"
+          "ru": "Привет, ты новенький в доме?",
+          "es": "Hola, ¿eres nuevo en el edificio?"
         },
         {
           "speaker": "B",
           "it": "Sì, mi chiamo Matteo.",
           "en": "Yes, my name is Matteo.",
-          "ru": "Да, меня зовут Маттео."
+          "ru": "Да, меня зовут Маттео.",
+          "es": "Sí, mi nombre es Matteo."
         },
         {
           "speaker": "A",
           "it": "Piacere, Matteo. Io sono Chiara.",
           "en": "Nice to meet you, Matteo. I'm Chiara.",
-          "ru": "Приятно познакомиться, Маттео. Я Кьяра."
+          "ru": "Приятно познакомиться, Маттео. Я Кьяра.",
+          "es": "Encantado de conocerte, Mateo. Soy Chiara."
         },
         {
           "speaker": "B",
           "it": "Piacere, Chiara. Tu abiti qui?",
           "en": "Nice to meet you, Chiara. Do you live here?",
-          "ru": "Приятно, Кьяра. Ты здесь живёшь?"
+          "ru": "Приятно, Кьяра. Ты здесь живёшь?",
+          "es": "Encantado de conocerte, Chiara. ¿Vives aquí?"
         },
         {
           "speaker": "A",
           "it": "Sì, abito al terzo piano.",
           "en": "Yes, I live on the third floor.",
-          "ru": "Да, живу на третьем этаже."
+          "ru": "Да, живу на третьем этаже.",
+          "es": "Sí, vivo en el tercer piso."
         },
         {
           "speaker": "B",
           "it": "Io abito al secondo piano.",
           "en": "I live on the second floor.",
-          "ru": "Я живу на втором этаже."
+          "ru": "Я живу на втором этаже.",
+          "es": "Vivo en el segundo piso."
         },
         {
           "speaker": "A",
           "it": "Qual è il tuo interno?",
           "en": "What's your apartment number?",
-          "ru": "Какой у тебя номер квартиры?"
+          "ru": "Какой у тебя номер квартиры?",
+          "es": "¿Cuál es el número de tu apartamento?"
         },
         {
           "speaker": "B",
           "it": "Interno quattro. E il tuo?",
           "en": "Apartment four. And yours?",
-          "ru": "Квартира четыре. А твой?"
+          "ru": "Квартира четыре. А твой?",
+          "es": "Apartamento cuatro. ¿Y el tuyo?"
         },
         {
           "speaker": "A",
           "it": "Interno sette.",
           "en": "Apartment seven.",
-          "ru": "Квартира семь."
+          "ru": "Квартира семь.",
+          "es": "Apartamento siete."
         },
         {
           "speaker": "B",
           "it": "Allora siamo vicini di casa.",
           "en": "Then we're neighbors.",
-          "ru": "Тогда мы соседи."
+          "ru": "Тогда мы соседи.",
+          "es": "Entonces somos vecinos."
         },
         {
           "speaker": "A",
           "it": "Sì. Qual è il tuo indirizzo completo?",
           "en": "Yes. What's your full address?",
-          "ru": "Да. Какой у тебя полный адрес?"
+          "ru": "Да. Какой у тебя полный адрес?",
+          "es": "Sí. ¿Cuál es tu dirección completa?"
         },
         {
           "speaker": "B",
           "it": "Via Garibaldi, numero quindici.",
           "en": "Via Garibaldi, number fifteen.",
-          "ru": "Улица Гарибальди, номер пятнадцать."
+          "ru": "Улица Гарибальди, номер пятнадцать.",
+          "es": "Via Garibaldi, número quince."
         },
         {
           "speaker": "A",
           "it": "Anche il mio. Da quanto tempo abiti qui?",
           "en": "Mine too. How long have you lived here?",
-          "ru": "У меня тоже. Как давно ты здесь живёшь?"
+          "ru": "У меня тоже. Как давно ты здесь живёшь?",
+          "es": "El mío también. ¿Cuánto tiempo llevas viviendo aquí?"
         },
         {
           "speaker": "B",
           "it": "Da una settimana.",
           "en": "For a week.",
-          "ru": "Неделю."
+          "ru": "Неделю.",
+          "es": "Por una semana."
         },
         {
           "speaker": "A",
           "it": "Ti piace il quartiere?",
           "en": "Do you like the neighborhood?",
-          "ru": "Тебе нравится район?"
+          "ru": "Тебе нравится район?",
+          "es": "¿Te gusta el barrio?"
         },
         {
           "speaker": "B",
           "it": "Sì, mi piace molto.",
           "en": "Yes, I like it a lot.",
-          "ru": "Да, мне очень нравится."
+          "ru": "Да, мне очень нравится.",
+          "es": "Sí, me gusta mucho."
         },
         {
           "speaker": "A",
           "it": "Qui vicino c'è un bar buono.",
           "en": "There's a good bar nearby.",
-          "ru": "Рядом есть хороший бар."
+          "ru": "Рядом есть хороший бар.",
+          "es": "Hay un buen bar cerca."
         },
         {
           "speaker": "B",
           "it": "Davvero? Dov'è?",
           "en": "Really? Where is it?",
-          "ru": "Правда? Где он?"
+          "ru": "Правда? Где он?",
+          "es": "¿En realidad? ¿Dónde está?"
         },
         {
           "speaker": "A",
           "it": "È in piazza, vicino alla farmacia.",
           "en": "It's in the square, near the pharmacy.",
-          "ru": "На площади, рядом с аптекой."
+          "ru": "На площади, рядом с аптекой.",
+          "es": "Está en la plaza, cerca de la farmacia."
         },
         {
           "speaker": "B",
           "it": "C'è anche una libreria?",
           "en": "Is there also a bookshop?",
-          "ru": "Там ещё есть книжный?"
+          "ru": "Там ещё есть книжный?",
+          "es": "¿También hay una librería?"
         },
         {
           "speaker": "A",
           "it": "Sì, c'è una libreria piccola.",
           "en": "Yes, there's a small bookshop.",
-          "ru": "Да, есть маленький книжный."
+          "ru": "Да, есть маленький книжный.",
+          "es": "Sí, hay una pequeña librería."
         },
         {
           "speaker": "B",
           "it": "Perfetto. Io studio italiano.",
           "en": "Perfect. I'm studying Italian.",
-          "ru": "Отлично. Я учу итальянский."
+          "ru": "Отлично. Я учу итальянский.",
+          "es": "Perfecto. Estoy estudiando italiano."
         },
         {
           "speaker": "A",
           "it": "Anch'io studio italiano.",
           "en": "I'm studying Italian too.",
-          "ru": "Я тоже учу итальянский."
+          "ru": "Я тоже учу итальянский.",
+          "es": "Yo también estoy estudiando italiano."
         },
         {
           "speaker": "B",
           "it": "Sei sposata?",
           "en": "Are you married?",
-          "ru": "Ты замужем?"
+          "ru": "Ты замужем?",
+          "es": "¿Está casado?"
         },
         {
           "speaker": "A",
           "it": "No, sono single. E tu?",
           "en": "No, I'm single. And you?",
-          "ru": "Нет, я не замужем. А ты?"
+          "ru": "Нет, я не замужем. А ты?",
+          "es": "No, estoy soltero. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Anch'io sono single.",
           "en": "I'm single too.",
-          "ru": "Я тоже не женат."
+          "ru": "Я тоже не женат.",
+          "es": "Yo también estoy soltera."
         },
         {
           "speaker": "A",
           "it": "Vuoi prendere un caffè domani?",
           "en": "Do you want to get a coffee tomorrow?",
-          "ru": "Хочешь выпить кофе завтра?"
+          "ru": "Хочешь выпить кофе завтра?",
+          "es": "¿Quieres tomar un café mañana?"
         },
         {
           "speaker": "B",
           "it": "Sì, volentieri.",
           "en": "Yes, gladly.",
-          "ru": "Да, с удовольствием."
+          "ru": "Да, с удовольствием.",
+          "es": "Sí, con mucho gusto."
         },
         {
           "speaker": "A",
           "it": "Allora ci vediamo alle dieci.",
           "en": "Then see you at ten.",
-          "ru": "Тогда увидимся в десять."
+          "ru": "Тогда увидимся в десять.",
+          "es": "Entonces nos vemos a las diez."
         },
         {
           "speaker": "B",
           "it": "Perfetto, a domani.",
           "en": "Perfect, see you tomorrow.",
-          "ru": "Отлично, до завтра."
+          "ru": "Отлично, до завтра.",
+          "es": "Perfecto, nos vemos mañana."
         }
       ]
     },
@@ -865,176 +1026,205 @@
       "register": "informal",
       "context": {
         "en": "Two guests meet at a party, identify people, and decide whom to greet.",
-        "ru": "Двое гостей знакомятся на вечеринке, определяют людей и решают, к кому подойти."
+        "ru": "Двое гостей знакомятся на вечеринке, определяют людей и решают, к кому подойти.",
+        "es": "Dos invitados se encuentran en una fiesta, identifican a las personas y deciden a quién saludar."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, sei alla festa di Chiara?",
           "en": "Hi, are you at Chiara's party?",
-          "ru": "Привет, ты на вечеринке Кьяры?"
+          "ru": "Привет, ты на вечеринке Кьяры?",
+          "es": "Hola, ¿estás en la fiesta de Chiara?"
         },
         {
           "speaker": "B",
           "it": "Sì, sono un amico di Chiara.",
           "en": "Yes, I'm a friend of Chiara's.",
-          "ru": "Да, я друг Кьяры."
+          "ru": "Да, я друг Кьяры.",
+          "es": "Sí, soy amiga de Chiara."
         },
         {
           "speaker": "A",
           "it": "Piacere, io sono Laura.",
           "en": "Nice to meet you, I'm Laura.",
-          "ru": "Приятно познакомиться, я Лаура."
+          "ru": "Приятно познакомиться, я Лаура.",
+          "es": "Encantado de conocerte, soy Laura."
         },
         {
           "speaker": "B",
           "it": "Piacere, Laura. Io sono Paolo.",
           "en": "Nice to meet you, Laura. I'm Paolo.",
-          "ru": "Приятно, Лаура. Я Паоло."
+          "ru": "Приятно, Лаура. Я Паоло.",
+          "es": "Encantado de conocerte, Laura. Soy Pablo."
         },
         {
           "speaker": "A",
           "it": "C'è molta gente qui.",
           "en": "There are a lot of people here.",
-          "ru": "Здесь много людей."
+          "ru": "Здесь много людей.",
+          "es": "Hay mucha gente aquí."
         },
         {
           "speaker": "B",
           "it": "Sì, ci sono molti studenti.",
           "en": "Yes, there are many students.",
-          "ru": "Да, много студентов."
+          "ru": "Да, много студентов.",
+          "es": "Sí, hay muchos estudiantes."
         },
         {
           "speaker": "A",
           "it": "Conosci Chiara?",
           "en": "Do you know Chiara?",
-          "ru": "Ты знаешь Кьяру?"
+          "ru": "Ты знаешь Кьяру?",
+          "es": "¿Conoces a Chiara?"
         },
         {
           "speaker": "B",
           "it": "Non ancora. Com'è?",
           "en": "Not yet. What does she look like?",
-          "ru": "Ещё нет. Как она выглядит?"
+          "ru": "Ещё нет. Как она выглядит?",
+          "es": "Aún no. ¿Cómo es ella?"
         },
         {
           "speaker": "A",
           "it": "È alta, mora e molto simpatica.",
           "en": "She's tall, dark-haired, and very nice.",
-          "ru": "Она высокая, тёмноволосая и очень приятная."
+          "ru": "Она высокая, тёмноволосая и очень приятная.",
+          "es": "Es alta, morena y muy simpática."
         },
         {
           "speaker": "B",
           "it": "Ha un vestito blu?",
           "en": "Is she wearing a blue dress?",
-          "ru": "На ней синее платье?"
+          "ru": "На ней синее платье?",
+          "es": "¿Lleva un vestido azul?"
         },
         {
           "speaker": "A",
           "it": "Sì, ha un vestito blu.",
           "en": "Yes, she's wearing a blue dress.",
-          "ru": "Да, на ней синее платье."
+          "ru": "Да, на ней синее платье.",
+          "es": "Sí, lleva un vestido azul."
         },
         {
           "speaker": "B",
           "it": "Allora è la ragazza vicino alla finestra?",
           "en": "Then is she the girl near the window?",
-          "ru": "Тогда это девушка у окна?"
+          "ru": "Тогда это девушка у окна?",
+          "es": "¿Entonces es ella la chica que está cerca de la ventana?"
         },
         {
           "speaker": "A",
           "it": "Sì, è lei.",
           "en": "Yes, that's her.",
-          "ru": "Да, это она."
+          "ru": "Да, это она.",
+          "es": "Sí, esa es ella."
         },
         {
           "speaker": "B",
           "it": "Andiamo a salutarla?",
           "en": "Shall we go say hi to her?",
-          "ru": "Пойдём поздороваемся?"
+          "ru": "Пойдём поздороваемся?",
+          "es": "¿Vamos a saludarla?"
         },
         {
           "speaker": "A",
           "it": "Certo, ma prima vuoi qualcosa da bere?",
           "en": "Sure, but first do you want something to drink?",
-          "ru": "Конечно, но сначала хочешь что-нибудь выпить?"
+          "ru": "Конечно, но сначала хочешь что-нибудь выпить?",
+          "es": "Claro, pero primero ¿quieres algo de beber?"
         },
         {
           "speaker": "B",
           "it": "Sì, grazie. C'è acqua?",
           "en": "Yes, thanks. Is there water?",
-          "ru": "Да, спасибо. Есть вода?"
+          "ru": "Да, спасибо. Есть вода?",
+          "es": "Sí, gracias. ¿Hay agua?"
         },
         {
           "speaker": "A",
           "it": "Sì, c'è acqua in cucina.",
           "en": "Yes, there's water in the kitchen.",
-          "ru": "Да, вода на кухне."
+          "ru": "Да, вода на кухне.",
+          "es": "Sí, hay agua en la cocina."
         },
         {
           "speaker": "B",
           "it": "Ci sono anche succhi?",
           "en": "Are there juices too?",
-          "ru": "Соки тоже есть?"
+          "ru": "Соки тоже есть?",
+          "es": "¿Hay jugos también?"
         },
         {
           "speaker": "A",
           "it": "Sì, ci sono succo d'arancia e succo di mela.",
           "en": "Yes, there's orange juice and apple juice.",
-          "ru": "Да, есть апельсиновый и яблочный сок."
+          "ru": "Да, есть апельсиновый и яблочный сок.",
+          "es": "Sí, hay jugo de naranja y jugo de manzana."
         },
         {
           "speaker": "B",
           "it": "Prendo un succo d'arancia.",
           "en": "I'll have an orange juice.",
-          "ru": "Возьму апельсиновый сок."
+          "ru": "Возьму апельсиновый сок.",
+          "es": "Tomaré un jugo de naranja."
         },
         {
           "speaker": "A",
           "it": "Io prendo acqua.",
           "en": "I'll have water.",
-          "ru": "Я возьму воду."
+          "ru": "Я возьму воду.",
+          "es": "Tomaré agua."
         },
         {
           "speaker": "B",
           "it": "Dopo parliamo con Chiara?",
           "en": "Then shall we talk to Chiara?",
-          "ru": "Потом поговорим с Кьярой?"
+          "ru": "Потом поговорим с Кьярой?",
+          "es": "¿Entonces hablamos con Chiara?"
         },
         {
           "speaker": "A",
           "it": "Sì. Lei studia italiano con noi.",
           "en": "Yes. She studies Italian with us.",
-          "ru": "Да. Она учит итальянский с нами."
+          "ru": "Да. Она учит итальянский с нами.",
+          "es": "Sí. Ella estudia italiano con nosotros."
         },
         {
           "speaker": "B",
           "it": "Perfetto. Voglio presentarmi.",
           "en": "Perfect. I want to introduce myself.",
-          "ru": "Отлично. Хочу представиться."
+          "ru": "Отлично. Хочу представиться.",
+          "es": "Perfecto. Quiero presentarme."
         },
         {
           "speaker": "A",
           "it": "Ti presento io.",
           "en": "I'll introduce you.",
-          "ru": "Я тебя представлю."
+          "ru": "Я тебя представлю.",
+          "es": "Te lo presentaré."
         },
         {
           "speaker": "B",
           "it": "Grazie, sei gentile.",
           "en": "Thanks, you're kind.",
-          "ru": "Спасибо, ты добрая."
+          "ru": "Спасибо, ты добрая.",
+          "es": "Gracias, eres amable."
         },
         {
           "speaker": "A",
           "it": "Andiamo in cucina?",
           "en": "Shall we go to the kitchen?",
-          "ru": "Пойдём на кухню?"
+          "ru": "Пойдём на кухню?",
+          "es": "¿Vamos a la cocina?"
         },
         {
           "speaker": "B",
           "it": "Sì, andiamo.",
           "en": "Yes, let's go.",
-          "ru": "Да, пойдём."
+          "ru": "Да, пойдём.",
+          "es": "Sí, vámonos."
         }
       ]
     }
@@ -1044,7 +1234,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -1059,7 +1250,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -1074,7 +1266,8 @@
       "infinitive": "abitare",
       "translation": {
         "en": "to live / to reside",
-        "ru": "жить / проживать"
+        "ru": "жить / проживать",
+        "es": "vivir / residir"
       },
       "forms": {
         "io": "abito",
@@ -1089,7 +1282,8 @@
       "infinitive": "chiamarsi",
       "translation": {
         "en": "to be called",
-        "ru": "называться / зваться"
+        "ru": "называться / зваться",
+        "es": "ser llamado"
       },
       "forms": {
         "io": "mi chiamo",
@@ -1104,7 +1298,8 @@
       "infinitive": "studiare",
       "translation": {
         "en": "to study",
-        "ru": "учиться / изучать"
+        "ru": "учиться / изучать",
+        "es": "estudiar"
       },
       "forms": {
         "io": "studio",

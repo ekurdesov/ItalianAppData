@@ -68,6 +68,11 @@ Verb rules
 - Rebuild verb tables with:
   `python3 extract_verb_tables.py`
 
+Flashcard image map rules
+- After processing a PDF, regenerate the image map:
+  `python3 extract_flashcard_image_map.py`
+- The script preserves existing `file` and `generated` values for terms already in the map.
+
 Extra verbs rules
 - `extra/verbs.json` is hand-maintained and stores standalone verb paradigms not tied to one lesson.
 - Keep its shape aligned with lesson `verb_tables` entries:

@@ -18,6 +18,7 @@ ItalianDataA1/
   PROCESSING_RULES.txt     condensed workflow rules
   VERB_EXTRACTION_RULES.md verb-table extraction rules
   extract_verb_tables.py   rebuilds verb tables in lessons/*.json
+  extract_flashcard_image_map.py  generates flashcard_image_map.json for Nano Banana
 ```
 
 ## Current lesson file model
@@ -84,6 +85,12 @@ If verb coverage changes:
 python3 extract_verb_tables.py
 ```
 
+After any flashcard changes:
+
+```bash
+python3 extract_flashcard_image_map.py
+```
+
 ### 5. Update index.json
 
 `index.json` must reference:
@@ -107,6 +114,40 @@ Important:
 - treat `(infinitive) ____` patterns as high-confidence evidence
 - avoid OCR false positives
 - only include verbs the lesson actually teaches or drills
+
+## Flashcard images
+
+Flashcards support an optional `image` field containing a filename (e.g. `"caffè.webp"`).
+Images are generated externally via Nano Banana and stored in the app's asset bundle.
+
+### Image map format (`flashcard_image_map.json`)
+
+```json
+{
+  "caffè": { "description": "a cup of espresso coffee", "file": "caffè.webp", "generated": true },
+  "libro": { "description": "a book", "file": "", "generated": false }
+}
+```
+
+- `description` — English prompt for Nano Banana image generation.
+- `file` — filename of the generated image (empty until generated).
+- `generated` — `true` once the image has been created.
+
+### When to regenerate
+
+Run after processing any PDF (new flashcards get added automatically):
+
+```bash
+python3 extract_flashcard_image_map.py
+```
+
+The script preserves existing `file` and `generated` values — only new terms are appended with defaults.
+
+### Rules
+
+- Descriptions should be concrete, visual, and unambiguous — suitable for image generation.
+- Abstract terms (grammar words, pronouns, conjunctions) may be skipped or given a symbolic description.
+- The `image` field in lesson JSON is optional; not every flashcard needs one.
 
 ## Quality checklist
 

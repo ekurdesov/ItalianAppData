@@ -27,6 +27,14 @@
         "Коммуникативное задание: Come ti chiami? / Quanti anni hai? / Che numero hai?",
         "Коммуникативное задание: Quante domande!",
         "Формальное и неформальное общение: повторение"
+      ],
+      "es": [
+        "Repaso: números del 10 al 100",
+        "Gramática: avere y essere - repaso y ampliación",
+        "Vocabulario: avere + sensaciones físicas y emocionales",
+        "Actividad comunicativa: ¿Cómo te llamas? / ¿Cuántos años tiene? / ¿Cuál es tu número?",
+        "Actividad comunicativa: ¡Tantas preguntas!",
+        "Formal e informal: revisión"
       ]
     }
   },
@@ -34,232 +42,276 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "avere + noun for physical/emotional states",
-        "ru": "avere + существительное для выражения физических и эмоциональных состояний"
+        "ru": "avere + существительное для выражения физических и эмоциональных состояний",
+        "es": "avere + sustantivo para estados físicos/emocionales"
       },
       "description": {
         "en": "Italian uses 'avere' (to have) + a noun to express physical sensations and emotions that English expresses with 'to be'. Literal translation: 'to have hunger', 'to have cold', etc.",
-        "ru": "В итальянском языке «avere» (иметь) + существительное используется для выражения физических ощущений и эмоций, которые в русском языке передаются глаголами состояния. Дословный перевод: «иметь голод», «иметь холод» и т. д."
+        "ru": "В итальянском языке «avere» (иметь) + существительное используется для выражения физических ощущений и эмоций, которые в русском языке передаются глаголами состояния. Дословный перевод: «иметь голод», «иметь холод» и т. д.",
+        "es": "El italiano usa 'avere' (tener) + un sustantivo para expresar sensaciones físicas y emociones que el inglés expresa con 'to be'. Traducción literal: 'tener hambre', 'tener frío', etc."
       },
       "examples": [
         {
           "it": "Ho fame.",
           "en": "I am hungry.",
-          "ru": "Я хочу есть. (дословно: у меня голод)"
+          "ru": "Я хочу есть. (дословно: у меня голод)",
+          "es": "Estoy hambriento."
         },
         {
           "it": "Hai sete?",
           "en": "Are you thirsty?",
-          "ru": "Ты хочешь пить?"
+          "ru": "Ты хочешь пить?",
+          "es": "¿Tienes sed?"
         },
         {
           "it": "Ha freddo?",
           "en": "Are you cold? (formal)",
-          "ru": "Вам холодно? (официально)"
+          "ru": "Вам холодно? (официально)",
+          "es": "¿Tienes frío? (formal)"
         },
         {
           "it": "Ho fretta!",
           "en": "I am in a hurry!",
-          "ru": "Я тороплюсь!"
+          "ru": "Я тороплюсь!",
+          "es": "¡Tengo prisa!"
         },
         {
           "it": "Ha paura.",
           "en": "She/he is afraid.",
-          "ru": "Она/он боится."
+          "ru": "Она/он боится.",
+          "es": "Él/ella tiene miedo."
         },
         {
           "it": "Ho sonno.",
           "en": "I am sleepy.",
-          "ru": "Я хочу спать."
+          "ru": "Я хочу спать.",
+          "es": "tengo sueño."
         },
         {
           "it": "Non ho tempo.",
           "en": "I don't have time.",
-          "ru": "У меня нет времени."
+          "ru": "У меня нет времени.",
+          "es": "No tengo tiempo."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "essere vs avere for states — adjective vs noun",
-        "ru": "essere и avere для состояний — прилагательное и существительное"
+        "ru": "essere и avere для состояний — прилагательное и существительное",
+        "es": "essere vs avere para estados - adjetivo vs sustantivo"
       },
       "description": {
         "en": "Use 'essere' with adjectives (sono stanco) and 'avere' with nouns for sensations (ho fame). Both express states but the structure differs.",
-        "ru": "«Essere» используется с прилагательными (sono stanco), а «avere» — с существительными для ощущений (ho fame). Оба выражают состояния, но структура различается."
+        "ru": "«Essere» используется с прилагательными (sono stanco), а «avere» — с существительными для ощущений (ho fame). Оба выражают состояния, но структура различается.",
+        "es": "Utilice 'essere' con adjetivos (sono stanco) y 'avere' con sustantivos para sensaciones (ho fama). Ambos expresan estados pero la estructura difiere."
       },
       "examples": [
         {
           "it": "Sono stanco.",
           "en": "I am tired.",
-          "ru": "Я устал."
+          "ru": "Я устал.",
+          "es": "Estoy cansado."
         },
         {
           "it": "Sei arrabbiata?",
           "en": "Are you angry?",
-          "ru": "Ты злишься?"
+          "ru": "Ты злишься?",
+          "es": "¿Estás enojado?"
         },
         {
           "it": "È annoiato.",
           "en": "He is bored.",
-          "ru": "Ему скучно."
+          "ru": "Ему скучно.",
+          "es": "Está aburrido."
         },
         {
           "it": "Siete contenti?",
           "en": "Are you (all) happy?",
-          "ru": "Вы (все) довольны?"
+          "ru": "Вы (все) довольны?",
+          "es": "¿Están (todos) felices?"
         },
         {
           "it": "Ho fame.",
           "en": "I am hungry. (lit. I have hunger)",
-          "ru": "Я хочу есть. (дословно: у меня голод)"
+          "ru": "Я хочу есть. (дословно: у меня голод)",
+          "es": "Estoy hambriento. (lit. tengo hambre)"
         },
         {
           "it": "Ha caldo.",
           "en": "He is hot. (lit. He has heat)",
-          "ru": "Ему жарко. (дословно: у него жара)"
+          "ru": "Ему жарко. (дословно: у него жара)",
+          "es": "Él está caliente. (lit. tiene calor)"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Possessive adjectives — singular (il mio, il tuo, il suo)",
-        "ru": "Притяжательные прилагательные — единственное число (il mio, il tuo, il suo)"
+        "ru": "Притяжательные прилагательные — единственное число (il mio, il tuo, il suo)",
+        "es": "Adjetivos posesivos - singular (il mio, il tuo, il suo)"
       },
       "description": {
         "en": "Italian possessive adjectives agree in gender and number with the noun they modify, not with the owner. They are preceded by the definite article.",
-        "ru": "Притяжательные прилагательные в итальянском языке согласуются в роде и числе с существительным, которое они определяют, а не с владельцем. Перед ними ставится определённый артикль."
+        "ru": "Притяжательные прилагательные в итальянском языке согласуются в роде и числе с существительным, которое они определяют, а не с владельцем. Перед ними ставится определённый артикль.",
+        "es": "Los adjetivos posesivos italianos concuerdan en género y número con el sustantivo al que modifican, no con el propietario. Van precedidos del artículo definido."
       },
       "examples": [
         {
           "it": "il mio numero",
           "en": "my number",
-          "ru": "мой номер"
+          "ru": "мой номер",
+          "es": "mi numero"
         },
         {
           "it": "il tuo cognome",
           "en": "your surname (informal)",
-          "ru": "твоя фамилия (неформально)"
+          "ru": "твоя фамилия (неформально)",
+          "es": "tu apellido (informal)"
         },
         {
           "it": "il suo numero",
           "en": "his/her number; your number (formal)",
-          "ru": "его/её номер; ваш номер (официально)"
+          "ru": "его/её номер; ваш номер (официально)",
+          "es": "su número; tu numero (formal)"
         },
         {
           "it": "la mia classe",
           "en": "my class",
-          "ru": "мой класс"
+          "ru": "мой класс",
+          "es": "mi clase"
         },
         {
           "it": "la tua professoressa",
           "en": "your professor (informal)",
-          "ru": "твоя преподавательница (неформально)"
+          "ru": "твоя преподавательница (неформально)",
+          "es": "tu profesor (informal)"
         },
         {
           "it": "la sua borsa",
           "en": "his/her bag; your bag (formal)",
-          "ru": "его/её сумка; ваша сумка (официально)"
+          "ru": "его/её сумка; ваша сумка (официально)",
+          "es": "su bolso; tu bolso (formal)"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Vorrei — polite desire",
-        "ru": "Vorrei — вежливое выражение желания"
+        "ru": "Vorrei — вежливое выражение желания",
+        "es": "Vorrei - deseo cortés"
       },
       "description": {
         "en": "'Vorrei' is the conditional form of 'volere' (to want), used to politely express desire. Equivalent to 'I would like'.",
-        "ru": "«Vorrei» — форма условного наклонения глагола «volere» (хотеть), используемая для вежливого выражения желания. Соответствует русскому «Я бы хотел(а)»."
+        "ru": "«Vorrei» — форма условного наклонения глагола «volere» (хотеть), используемая для вежливого выражения желания. Соответствует русскому «Я бы хотел(а)».",
+        "es": "'Vorrei' es la forma condicional de 'volere' (querer), utilizada para expresar cortésmente el deseo. Equivale a 'me gustaría'."
       },
       "examples": [
         {
           "it": "Vorrei una pizza.",
           "en": "I would like a pizza.",
-          "ru": "Я бы хотел(а) пиццу."
+          "ru": "Я бы хотел(а) пиццу.",
+          "es": "Me gustaría una pizza."
         },
         {
           "it": "Vorrei andare a letto.",
           "en": "I would like to go to bed.",
-          "ru": "Я бы хотел(а) лечь спать."
+          "ru": "Я бы хотел(а) лечь спать.",
+          "es": "Me gustaría irme a la cama."
         },
         {
           "it": "Vorrei un caffè caldo.",
           "en": "I would like a hot coffee.",
-          "ru": "Я бы хотел(а) горячий кофе."
+          "ru": "Я бы хотел(а) горячий кофе.",
+          "es": "Quisiera un café caliente."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking for personal details — formal vs informal",
-        "ru": "Запрос личных данных — официально и неформально"
+        "ru": "Запрос личных данных — официально и неформально",
+        "es": "Solicitar datos personales: formal versus informal"
       },
       "description": {
         "en": "Italian uses different question forms depending on register when asking for name, age, or phone number.",
-        "ru": "В итальянском языке используются разные формы вопроса в зависимости от регистра при запросе имени, возраста или номера телефона."
+        "ru": "В итальянском языке используются разные формы вопроса в зависимости от регистра при запросе имени, возраста или номера телефона.",
+        "es": "El italiano utiliza diferentes formas de preguntas según el registro cuando se solicita el nombre, la edad o el número de teléfono."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Come ti chiami?",
           "en": "What is your name?",
-          "ru": "Как тебя зовут?"
+          "ru": "Как тебя зовут?",
+          "es": "¿Cómo te llamas?"
         },
         {
           "context": "formal",
           "it": "Come si chiama?",
           "en": "What is your name? (formal)",
-          "ru": "Как вас зовут? (официально)"
+          "ru": "Как вас зовут? (официально)",
+          "es": "¿Cómo te llamas? (formal)"
         },
         {
           "context": "informal",
           "it": "E di cognome?",
           "en": "And your surname?",
-          "ru": "А фамилия?"
+          "ru": "А фамилия?",
+          "es": "¿Y tu apellido?"
         },
         {
           "context": "informal",
           "it": "Che numero di cellulare hai?",
           "en": "What is your mobile number?",
-          "ru": "Какой у тебя номер телефона?"
+          "ru": "Какой у тебя номер телефона?",
+          "es": "¿Cuál es tu número de móvil?"
         },
         {
           "context": "formal",
           "it": "Che numero di cellulare ha?",
           "en": "What is your mobile number? (formal)",
-          "ru": "Какой у вас номер телефона? (официально)"
+          "ru": "Какой у вас номер телефона? (официально)",
+          "es": "¿Cuál es tu número de móvil? (formal)"
         },
         {
           "context": "answer",
           "it": "Il mio numero è ...",
           "en": "My number is ...",
-          "ru": "Мой номер ..."
+          "ru": "Мой номер ...",
+          "es": "Mi número es..."
         },
         {
           "context": "answer (formal)",
           "it": "Il suo numero è ...",
           "en": "His/her/your number is ...",
-          "ru": "Его/её/ваш номер ..."
+          "ru": "Его/её/ваш номер ...",
+          "es": "Su/ella/tu número es..."
         }
       ]
     }
@@ -271,8 +323,10 @@
       "ru": "быть голодным / хотеть есть (дословно: иметь голод)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener hambre (lit. tener hambre)"
     },
     {
       "term": "avere sete",
@@ -280,8 +334,10 @@
       "ru": "хотеть пить / испытывать жажду (дословно: иметь жажду)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener sed (lit. tener sed)"
     },
     {
       "term": "avere sonno",
@@ -289,8 +345,10 @@
       "ru": "хотеть спать (дословно: иметь сонливость)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener sueño (lit. tener somnolencia)"
     },
     {
       "term": "avere caldo",
@@ -298,8 +356,10 @@
       "ru": "быть жарко (дословно: иметь жару)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "estar caliente (lit. tener calor)"
     },
     {
       "term": "avere freddo",
@@ -307,8 +367,10 @@
       "ru": "быть холодно (дословно: иметь холод)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener frío (lit. tener frío)"
     },
     {
       "term": "avere paura",
@@ -316,8 +378,10 @@
       "ru": "бояться (дословно: иметь страх)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener miedo (lit. tener miedo)"
     },
     {
       "term": "avere fretta",
@@ -325,8 +389,10 @@
       "ru": "торопиться / спешить (дословно: иметь спешку)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener prisa (lit. tener prisa)"
     },
     {
       "term": "avere tempo",
@@ -334,8 +400,10 @@
       "ru": "иметь время",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener tiempo"
     },
     {
       "term": "fame",
@@ -343,8 +411,10 @@
       "ru": "голод",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "hambre"
     },
     {
       "term": "sete",
@@ -352,8 +422,10 @@
       "ru": "жажда",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "sed"
     },
     {
       "term": "sonno",
@@ -361,8 +433,10 @@
       "ru": "сонливость; сон",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "somnolencia; dormir"
     },
     {
       "term": "caldo",
@@ -370,8 +444,10 @@
       "ru": "жара; тепло",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "calor; calor"
     },
     {
       "term": "freddo",
@@ -379,8 +455,10 @@
       "ru": "холод",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "frío"
     },
     {
       "term": "paura",
@@ -388,8 +466,10 @@
       "ru": "страх",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "miedo"
     },
     {
       "term": "fretta",
@@ -397,8 +477,10 @@
       "ru": "спешка; торопливость",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "apurarse; correr"
     },
     {
       "term": "tempo",
@@ -406,8 +488,10 @@
       "ru": "время; погода",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "tiempo; clima"
     },
     {
       "term": "che cos'hai?",
@@ -415,8 +499,10 @@
       "ru": "что случилось? / что с тобой?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿qué ocurre? /¿Qué tienes?"
     },
     {
       "term": "che cosa ha?",
@@ -424,8 +510,10 @@
       "ru": "что случилось? / что с ним/ней? (также официально: что с вами?)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿qué ocurre? / ¿qué tiene? (también formal: ¿qué te pasa?)"
     },
     {
       "term": "vorrei",
@@ -433,8 +521,10 @@
       "ru": "я бы хотел(а)",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "Me gustaría"
     },
     {
       "term": "stanco / stanca",
@@ -442,8 +532,10 @@
       "ru": "усталый / усталая",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "cansado"
     },
     {
       "term": "arrabbiato / arrabbiata",
@@ -451,8 +543,10 @@
       "ru": "злой / злая",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "enojado"
     },
     {
       "term": "annoiato / annoiata",
@@ -460,8 +554,10 @@
       "ru": "скучающий / скучающая",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "aburrido"
     },
     {
       "term": "contento / contenta",
@@ -469,8 +565,10 @@
       "ru": "довольный / довольная; счастливый / счастливая",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "feliz; complacido"
     },
     {
       "term": "il mio / la mia",
@@ -478,8 +576,10 @@
       "ru": "мой / моя",
       "type": {
         "en": "possessive",
-        "ru": "притяжательное местоимение"
-      }
+        "ru": "притяжательное местоимение",
+        "es": "posesivo"
+      },
+      "es": "mi"
     },
     {
       "term": "il tuo / la tua",
@@ -487,8 +587,10 @@
       "ru": "твой / твоя (неформально)",
       "type": {
         "en": "possessive",
-        "ru": "притяжательное местоимение"
-      }
+        "ru": "притяжательное местоимение",
+        "es": "posesivo"
+      },
+      "es": "tu (informal)"
     },
     {
       "term": "il suo / la sua",
@@ -496,8 +598,10 @@
       "ru": "его / её / ваш (официально)",
       "type": {
         "en": "possessive",
-        "ru": "притяжательное местоимение"
-      }
+        "ru": "притяжательное местоимение",
+        "es": "posesivo"
+      },
+      "es": "su/ella/tu (formal)"
     },
     {
       "term": "cognome",
@@ -505,8 +609,10 @@
       "ru": "фамилия",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "apellido; apellido"
     },
     {
       "term": "il numero di telefono",
@@ -514,8 +620,10 @@
       "ru": "номер телефона",
       "type": {
         "en": "noun phrase",
-        "ru": "именное словосочетание"
-      }
+        "ru": "именное словосочетание",
+        "es": "frase sustantiva"
+      },
+      "es": "número de teléfono"
     },
     {
       "term": "il numero di cellulare",
@@ -523,8 +631,10 @@
       "ru": "номер мобильного телефона",
       "type": {
         "en": "noun phrase",
-        "ru": "именное словосочетание"
-      }
+        "ru": "именное словосочетание",
+        "es": "frase sustantiva"
+      },
+      "es": "número de teléfono móvil"
     },
     {
       "term": "Che numero di cellulare hai?",
@@ -532,8 +642,10 @@
       "ru": "Какой у тебя номер мобильного? (неформально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cuál es tu número de móvil? (informal)"
     },
     {
       "term": "Che numero di cellulare ha?",
@@ -541,8 +653,10 @@
       "ru": "Какой у вас номер мобильного? (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cuál es tu número de móvil? (formal)"
     },
     {
       "term": "Il mio numero è...",
@@ -550,8 +664,10 @@
       "ru": "Мой номер...",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Mi número es..."
     },
     {
       "term": "Cosa desideri quando...?",
@@ -559,8 +675,10 @@
       "ru": "Что ты хочешь, когда...?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Qué quieres cuando...?"
     },
     {
       "term": "voglia",
@@ -568,8 +686,10 @@
       "ru": "желание; охота",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "deseo; desear"
     },
     {
       "term": "non ho voglia di...",
@@ -577,8 +697,10 @@
       "ru": "мне не хочется...",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "No tengo ganas..."
     },
     {
       "term": "secondo me",
@@ -586,8 +708,10 @@
       "ru": "по-моему; на мой взгляд",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "en mi opinión"
     },
     {
       "term": "facile",
@@ -595,8 +719,10 @@
       "ru": "лёгкий; простой",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "fácil"
     },
     {
       "term": "difficile",
@@ -604,45 +730,54 @@
       "ru": "трудный; сложный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "difícil"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Lavorate in coppia.",
       "en": "Work in pairs.",
-      "ru": "Работайте в парах."
+      "ru": "Работайте в парах.",
+      "es": "Trabajar en parejas."
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Сопоставьте."
+      "ru": "Сопоставьте.",
+      "es": "Fósforo."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / дополните."
+      "ru": "Заполните / дополните.",
+      "es": "Completo."
     },
     {
       "it": "Cosa desideri quando...?",
       "en": "What do you want/would you like when...?",
-      "ru": "Что ты хочешь / что бы ты хотел(а), когда...?"
+      "ru": "Что ты хочешь / что бы ты хотел(а), когда...?",
+      "es": "¿Qué quieres/te gustaría cuando...?"
     },
     {
       "it": "Secondo me...",
       "en": "In my opinion...",
-      "ru": "По-моему..."
+      "ru": "По-моему...",
+      "es": "En mi opinión..."
     },
     {
       "it": "È facile o difficile?",
       "en": "Is it easy or difficult?",
-      "ru": "Это легко или трудно?"
+      "ru": "Это легко или трудно?",
+      "es": "¿Es fácil o difícil?"
     },
     {
       "it": "Completate con avere o essere.",
       "en": "Complete with 'avere' or 'essere'.",
-      "ru": "Заполните с помощью «avere» или «essere»."
+      "ru": "Заполните с помощью «avere» или «essere».",
+      "es": "Completar con 'avere' o 'essere'."
     }
   ],
   "dialogues": [
@@ -652,84 +787,97 @@
       "register": "informal",
       "context": {
         "en": "Two people meet and exchange personal details directly — from the lesson's pair-work activity",
-        "ru": "Двое людей знакомятся и обмениваются личными данными — из парного задания урока"
+        "ru": "Двое людей знакомятся и обмениваются личными данными — из парного задания урока",
+        "es": "Dos personas se conocen e intercambian datos personales directamente (de la actividad de trabajo en parejas de la lección)."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Come ti chiami?",
           "en": "What is your name?",
-          "ru": "Как тебя зовут?"
+          "ru": "Как тебя зовут?",
+          "es": "¿Cómo te llamas?"
         },
         {
           "speaker": "B",
           "it": "Mi chiamo Paolo.",
           "en": "My name is Paolo.",
-          "ru": "Меня зовут Паоло."
+          "ru": "Меня зовут Паоло.",
+          "es": "Mi nombre es Pablo."
         },
         {
           "speaker": "A",
           "it": "E di cognome?",
           "en": "And your surname?",
-          "ru": "А фамилия?"
+          "ru": "А фамилия?",
+          "es": "¿Y tu apellido?"
         },
         {
           "speaker": "B",
           "it": "Il mio cognome è Rossi.",
           "en": "My surname is Rossi.",
-          "ru": "Моя фамилия Росси."
+          "ru": "Моя фамилия Росси.",
+          "es": "Mi apellido es Rossi."
         },
         {
           "speaker": "A",
           "it": "Quanti anni hai, Paolo?",
           "en": "How old are you, Paolo?",
-          "ru": "Сколько тебе лет, Паоло?"
+          "ru": "Сколько тебе лет, Паоло?",
+          "es": "¿Cuántos años tienes, Paolo?"
         },
         {
           "speaker": "B",
           "it": "Ho 15 anni.",
           "en": "I am 15 years old.",
-          "ru": "Мне 15 лет."
+          "ru": "Мне 15 лет.",
+          "es": "Tengo 15 años."
         },
         {
           "speaker": "A",
           "it": "Che numero di cellulare hai?",
           "en": "What is your mobile number?",
-          "ru": "Какой у тебя номер мобильного?"
+          "ru": "Какой у тебя номер мобильного?",
+          "es": "¿Cuál es tu número de móvil?"
         },
         {
           "speaker": "B",
           "it": "Il mio numero è 351 634 8756.",
           "en": "My number is 351 634 8756.",
-          "ru": "Мой номер 351 634 8756."
+          "ru": "Мой номер 351 634 8756.",
+          "es": "Mi número es 351 634 8756."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask someone's first name (informal)",
-            "ru": "Спросите чьё-то имя (неформально)"
+            "ru": "Спросите чьё-то имя (неформально)",
+            "es": "Preguntar el nombre de alguien (informal)"
           },
           "expected_it": "Come ti chiami?"
         },
         {
           "cue": {
             "en": "Say your surname using a possessive",
-            "ru": "Назовите свою фамилию, используя притяжательное местоимение"
+            "ru": "Назовите свою фамилию, используя притяжательное местоимение",
+            "es": "Di tu apellido usando un posesivo"
           },
           "expected_it": "Il mio cognome è [cognome]."
         },
         {
           "cue": {
             "en": "Ask for a mobile number (informal)",
-            "ru": "Спросите номер мобильного (неформально)"
+            "ru": "Спросите номер мобильного (неформально)",
+            "es": "Solicitar un número de móvil (informal)"
           },
           "expected_it": "Che numero di cellulare hai?"
         },
         {
           "cue": {
             "en": "Give your phone number",
-            "ru": "Назовите свой номер телефона"
+            "ru": "Назовите свой номер телефона",
+            "es": "Da tu número de teléfono"
           },
           "expected_it": "Il mio numero è [numero]."
         }
@@ -741,77 +889,89 @@
       "register": "formal",
       "context": {
         "en": "Asking about a third person's details, using third-person forms — formal register lesson activity",
-        "ru": "Вопрос о данных третьего лица, с использованием форм третьего лица — официальный вариант из задания урока"
+        "ru": "Вопрос о данных третьего лица, с использованием форм третьего лица — официальный вариант из задания урока",
+        "es": "Preguntar sobre los detalles de una tercera persona, utilizando formularios de tercera persona: actividad de lección de registro formal"
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Come si chiama questo ragazzo?",
           "en": "What is this boy's name?",
-          "ru": "Как зовут этого мальчика?"
+          "ru": "Как зовут этого мальчика?",
+          "es": "¿Cómo se llama este chico?"
         },
         {
           "speaker": "B",
           "it": "Si chiama Paolo.",
           "en": "His name is Paolo.",
-          "ru": "Его зовут Паоло."
+          "ru": "Его зовут Паоло.",
+          "es": "Su nombre es Pablo."
         },
         {
           "speaker": "A",
           "it": "E di cognome?",
           "en": "And his surname?",
-          "ru": "А фамилия?"
+          "ru": "А фамилия?",
+          "es": "¿Y su apellido?"
         },
         {
           "speaker": "B",
           "it": "Il suo cognome è Rossi.",
           "en": "His surname is Rossi.",
-          "ru": "Его фамилия Росси."
+          "ru": "Его фамилия Росси.",
+          "es": "Su apellido es Rossi."
         },
         {
           "speaker": "A",
           "it": "Quanti anni ha?",
           "en": "How old is he?",
-          "ru": "Сколько ему лет?"
+          "ru": "Сколько ему лет?",
+          "es": "¿Cuántos años tiene él?"
         },
         {
           "speaker": "B",
           "it": "Ha 15 anni.",
           "en": "He is 15 years old.",
-          "ru": "Ему 15 лет."
+          "ru": "Ему 15 лет.",
+          "es": "Tiene 15 años."
         },
         {
           "speaker": "A",
           "it": "Che numero di cellulare ha?",
           "en": "What is his mobile number?",
-          "ru": "Какой у него номер мобильного?"
+          "ru": "Какой у него номер мобильного?",
+          "es": "¿Cuál es su número de móvil?"
         },
         {
           "speaker": "B",
           "it": "Il suo numero è 351 634 8756.",
           "en": "His number is 351 634 8756.",
-          "ru": "Его номер 351 634 8756."
+          "ru": "Его номер 351 634 8756.",
+          "es": "Su número es 351 634 8756."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask someone's name (third person / formal)",
-            "ru": "Спросите чьё-то имя (третье лицо / официально)"
+            "ru": "Спросите чьё-то имя (третье лицо / официально)",
+            "es": "Preguntar el nombre de alguien (tercera persona/formal)"
           },
           "expected_it": "Come si chiama?"
         },
         {
           "cue": {
             "en": "Say someone's surname using 'il suo'",
-            "ru": "Назовите чью-то фамилию, используя «il suo»"
+            "ru": "Назовите чью-то фамилию, используя «il suo»",
+            "es": "Decir el apellido de alguien usando 'il suo'"
           },
           "expected_it": "Il suo cognome è [cognome]."
         },
         {
           "cue": {
             "en": "Ask for a third person's mobile number",
-            "ru": "Спросите номер мобильного третьего лица"
+            "ru": "Спросите номер мобильного третьего лица",
+            "es": "Solicitar el número de móvil de una tercera persona"
           },
           "expected_it": "Che numero di cellulare ha?"
         }
@@ -823,60 +983,69 @@
       "register": "informal",
       "context": {
         "en": "Short exchanges using 'avere' to express physical/emotional states — typical classroom practice",
-        "ru": "Короткие реплики с использованием «avere» для выражения физических и эмоциональных состояний — типичное задание на уроке"
+        "ru": "Короткие реплики с использованием «avere» для выражения физических и эмоциональных состояний — типичное задание на уроке",
+        "es": "Intercambios cortos usando 'avere' para expresar estados físicos/emocionales: práctica típica en el aula"
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Che cos'hai? Sei stanca?",
           "en": "What's wrong? Are you tired?",
-          "ru": "Что с тобой? Ты устала?"
+          "ru": "Что с тобой? Ты устала?",
+          "es": "¿Qué ocurre? ¿Estás cansado?"
         },
         {
           "speaker": "B",
           "it": "No, ho sonno e ho anche un po' di freddo.",
           "en": "No, I am sleepy and also a bit cold.",
-          "ru": "Нет, я хочу спать и ещё немного холодно."
+          "ru": "Нет, я хочу спать и ещё немного холодно.",
+          "es": "No, tengo sueño y también un poco de frío."
         },
         {
           "speaker": "A",
           "it": "Hai fame?",
           "en": "Are you hungry?",
-          "ru": "Ты хочешь есть?"
+          "ru": "Ты хочешь есть?",
+          "es": "¿Tienes hambre?"
         },
         {
           "speaker": "B",
           "it": "Sì! E ho anche fretta — ho lezione tra dieci minuti!",
           "en": "Yes! And I am also in a hurry — I have class in ten minutes!",
-          "ru": "Да! И ещё я тороплюсь — у меня занятие через десять минут!"
+          "ru": "Да! И ещё я тороплюсь — у меня занятие через десять минут!",
+          "es": "¡Sí! Y también tengo prisa: ¡tengo clase en diez minutos!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Say you are hungry",
-            "ru": "Скажите, что вы хотите есть"
+            "ru": "Скажите, что вы хотите есть",
+            "es": "Di que tienes hambre"
           },
           "expected_it": "Ho fame."
         },
         {
           "cue": {
             "en": "Say you are in a hurry",
-            "ru": "Скажите, что вы торопитесь"
+            "ru": "Скажите, что вы торопитесь",
+            "es": "Di que tienes prisa"
           },
           "expected_it": "Ho fretta."
         },
         {
           "cue": {
             "en": "Ask what's wrong with someone",
-            "ru": "Спросите, что случилось с кем-то"
+            "ru": "Спросите, что случилось с кем-то",
+            "es": "Preguntar qué le pasa a alguien"
           },
           "expected_it": "Che cos'hai?"
         },
         {
           "cue": {
             "en": "Say you are sleepy and cold",
-            "ru": "Скажите, что вы хотите спать и вам холодно"
+            "ru": "Скажите, что вы хотите спать и вам холодно",
+            "es": "Di que tienes sueño y frío."
           },
           "expected_it": "Ho sonno e ho freddo."
         }
@@ -888,65 +1057,75 @@
       "register": "informal",
       "context": {
         "en": "Pair work: expressing desires based on physical states — lesson activity page 34",
-        "ru": "Парная работа: выражение желаний в зависимости от физических состояний — задание урока, стр. 34"
+        "ru": "Парная работа: выражение желаний в зависимости от физических состояний — задание урока, стр. 34",
+        "es": "Trabajo en parejas: expresar deseos basados ​​en estados físicos — actividad lectiva página 34"
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Cosa desideri quando hai fame?",
           "en": "What do you want when you are hungry?",
-          "ru": "Что ты хочешь, когда голоден?"
+          "ru": "Что ты хочешь, когда голоден?",
+          "es": "¿Qué quieres cuando tienes hambre?"
         },
         {
           "speaker": "B",
           "it": "Vorrei una pizza!",
           "en": "I would like a pizza!",
-          "ru": "Я бы хотел(а) пиццу!"
+          "ru": "Я бы хотел(а) пиццу!",
+          "es": "¡Quiero una pizza!"
         },
         {
           "speaker": "A",
           "it": "E quando hai sete?",
           "en": "And when you are thirsty?",
-          "ru": "А когда тебе хочется пить?"
+          "ru": "А когда тебе хочется пить?",
+          "es": "¿Y cuando tienes sed?"
         },
         {
           "speaker": "B",
           "it": "Vorrei un'acqua minerale fresca.",
           "en": "I would like a fresh sparkling water.",
-          "ru": "Я бы хотел(а) свежей минеральной воды."
+          "ru": "Я бы хотел(а) свежей минеральной воды.",
+          "es": "Me gustaría agua fresca con gas."
         },
         {
           "speaker": "A",
           "it": "E quando hai paura?",
           "en": "And when you are afraid?",
-          "ru": "А когда тебе страшно?"
+          "ru": "А когда тебе страшно?",
+          "es": "¿Y cuando tienes miedo?"
         },
         {
           "speaker": "B",
           "it": "Vorrei parlare con gli amici!",
           "en": "I would like to talk with friends!",
-          "ru": "Я бы хотел(а) поговорить с друзьями!"
+          "ru": "Я бы хотел(а) поговорить с друзьями!",
+          "es": "¡Me gustaría hablar con amigos!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask what someone wants when they are sleepy",
-            "ru": "Спросите, что кто-то хочет, когда хочет спать"
+            "ru": "Спросите, что кто-то хочет, когда хочет спать",
+            "es": "Preguntar qué quiere alguien cuando tiene sueño."
           },
           "expected_it": "Cosa desideri quando hai sonno?"
         },
         {
           "cue": {
             "en": "Say you would like a coffee",
-            "ru": "Скажите, что хотели бы кофе"
+            "ru": "Скажите, что хотели бы кофе",
+            "es": "Di que te gustaría un café"
           },
           "expected_it": "Vorrei un caffè."
         },
         {
           "cue": {
             "en": "Say you would like to go to bed",
-            "ru": "Скажите, что хотели бы лечь спать"
+            "ru": "Скажите, что хотели бы лечь спать",
+            "es": "Di que te gustaría irte a la cama."
           },
           "expected_it": "Vorrei andare a letto."
         }
@@ -958,188 +1137,219 @@
       "register": "informal",
       "context": {
         "en": "Two classmates interview each other using names, age, phone, address, and feelings.",
-        "ru": "Два одноклассника берут друг у друга интервью: имя, возраст, телефон, адрес и самочувствие."
+        "ru": "Два одноклассника берут друг у друга интервью: имя, возраст, телефон, адрес и самочувствие.",
+        "es": "Dos compañeros se entrevistan utilizando nombres, edades, teléfonos, direcciones y sentimientos."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Facciamo l'intervista doppia?",
           "en": "Shall we do the double interview?",
-          "ru": "Сделаем двойное интервью?"
+          "ru": "Сделаем двойное интервью?",
+          "es": "¿Hacemos la doble entrevista?"
         },
         {
           "speaker": "B",
           "it": "Sì, cominciamo.",
           "en": "Yes, let's start.",
-          "ru": "Да, начнём."
+          "ru": "Да, начнём.",
+          "es": "Sí, comencemos."
         },
         {
           "speaker": "A",
           "it": "Come ti chiami?",
           "en": "What's your name?",
-          "ru": "Как тебя зовут?"
+          "ru": "Как тебя зовут?",
+          "es": "¿Cómo te llamas?"
         },
         {
           "speaker": "B",
           "it": "Mi chiamo Francesca. E tu?",
           "en": "My name is Francesca. And you?",
-          "ru": "Меня зовут Франческа. А тебя?"
+          "ru": "Меня зовут Франческа. А тебя?",
+          "es": "Mi nombre es Francesca. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Mi chiamo Roberto.",
           "en": "My name is Roberto.",
-          "ru": "Меня зовут Роберто."
+          "ru": "Меня зовут Роберто.",
+          "es": "Mi nombre es Roberto."
         },
         {
           "speaker": "B",
           "it": "Quanti anni hai?",
           "en": "How old are you?",
-          "ru": "Сколько тебе лет?"
+          "ru": "Сколько тебе лет?",
+          "es": "¿Cuántos años tiene?"
         },
         {
           "speaker": "A",
           "it": "Ho venticinque anni. E tu?",
           "en": "I'm twenty-five. And you?",
-          "ru": "Мне двадцать пять. А тебе?"
+          "ru": "Мне двадцать пять. А тебе?",
+          "es": "Tengo veinticinco años. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Ho ventitré anni.",
           "en": "I'm twenty-three.",
-          "ru": "Мне двадцать три."
+          "ru": "Мне двадцать три.",
+          "es": "Tengo veintitrés años."
         },
         {
           "speaker": "A",
           "it": "Di dove sei?",
           "en": "Where are you from?",
-          "ru": "Откуда ты?"
+          "ru": "Откуда ты?",
+          "es": "¿De dónde eres?"
         },
         {
           "speaker": "B",
           "it": "Sono di Torino.",
           "en": "I'm from Turin.",
-          "ru": "Я из Турина."
+          "ru": "Я из Турина.",
+          "es": "Soy de Turín."
         },
         {
           "speaker": "A",
           "it": "Io sono di Bari.",
           "en": "I'm from Bari.",
-          "ru": "Я из Бари."
+          "ru": "Я из Бари.",
+          "es": "Soy de Bari."
         },
         {
           "speaker": "B",
           "it": "Dove abiti adesso?",
           "en": "Where do you live now?",
-          "ru": "Где ты сейчас живёшь?"
+          "ru": "Где ты сейчас живёшь?",
+          "es": "¿Dónde vives ahora?"
         },
         {
           "speaker": "A",
           "it": "Abito a Roma, in via Verdi.",
           "en": "I live in Rome, on Via Verdi.",
-          "ru": "Живу в Риме, на улице Верди."
+          "ru": "Живу в Риме, на улице Верди.",
+          "es": "Vivo en Roma, en Via Verdi."
         },
         {
           "speaker": "B",
           "it": "Che numero?",
           "en": "What number?",
-          "ru": "Какой номер?"
+          "ru": "Какой номер?",
+          "es": "¿Qué número?"
         },
         {
           "speaker": "A",
           "it": "Numero otto. E tu?",
           "en": "Number eight. And you?",
-          "ru": "Номер восемь. А ты?"
+          "ru": "Номер восемь. А ты?",
+          "es": "Número ocho. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Abito in via Dante, numero dieci.",
           "en": "I live on Via Dante, number ten.",
-          "ru": "Живу на улице Данте, номер десять."
+          "ru": "Живу на улице Данте, номер десять.",
+          "es": "Vivo en Via Dante, número diez."
         },
         {
           "speaker": "A",
           "it": "Qual è il tuo numero di telefono?",
           "en": "What's your phone number?",
-          "ru": "Какой у тебя номер телефона?"
+          "ru": "Какой у тебя номер телефона?",
+          "es": "¿Cuál es tu número de teléfono?"
         },
         {
           "speaker": "B",
           "it": "Tre due zero, cinque cinque cinque, sei sei sei.",
           "en": "Three two zero, five five five, six six six.",
-          "ru": "Три два ноль, пять пять пять, шесть шесть шесть."
+          "ru": "Три два ноль, пять пять пять, шесть шесть шесть.",
+          "es": "Tres dos cero, cinco cinco cinco, seis seis seis."
         },
         {
           "speaker": "A",
           "it": "Grazie. Come stai oggi?",
           "en": "Thanks. How are you today?",
-          "ru": "Спасибо. Как ты сегодня?"
+          "ru": "Спасибо. Как ты сегодня?",
+          "es": "Gracias. ¿Cómo estás hoy?"
         },
         {
           "speaker": "B",
           "it": "Sto bene, ma ho sonno.",
           "en": "I'm fine, but I'm sleepy.",
-          "ru": "Хорошо, но хочу спать."
+          "ru": "Хорошо, но хочу спать.",
+          "es": "Estoy bien, pero tengo sueño."
         },
         {
           "speaker": "A",
           "it": "Anch'io ho sonno.",
           "en": "I'm sleepy too.",
-          "ru": "Я тоже хочу спать."
+          "ru": "Я тоже хочу спать.",
+          "es": "Yo también tengo sueño."
         },
         {
           "speaker": "B",
           "it": "Hai fame?",
           "en": "Are you hungry?",
-          "ru": "Ты голодный?"
+          "ru": "Ты голодный?",
+          "es": "¿Tienes hambre?"
         },
         {
           "speaker": "A",
           "it": "Sì, ho fame e sete.",
           "en": "Yes, I'm hungry and thirsty.",
-          "ru": "Да, хочу есть и пить."
+          "ru": "Да, хочу есть и пить.",
+          "es": "Sí, tengo hambre y sed."
         },
         {
           "speaker": "B",
           "it": "Dopo la lezione andiamo al bar?",
           "en": "After the lesson shall we go to the bar?",
-          "ru": "После урока пойдём в бар?"
+          "ru": "После урока пойдём в бар?",
+          "es": "Después de la lección ¿vamos al bar?"
         },
         {
           "speaker": "A",
           "it": "Sì, volentieri.",
           "en": "Yes, gladly.",
-          "ru": "Да, с удовольствием."
+          "ru": "Да, с удовольствием.",
+          "es": "Sí, con mucho gusto."
         },
         {
           "speaker": "B",
           "it": "Che cosa prendi?",
           "en": "What will you have?",
-          "ru": "Что ты возьмёшь?"
+          "ru": "Что ты возьмёшь?",
+          "es": "¿Qué tendrás?"
         },
         {
           "speaker": "A",
           "it": "Prendo un caffè e un panino.",
           "en": "I'll have a coffee and a sandwich.",
-          "ru": "Возьму кофе и панини."
+          "ru": "Возьму кофе и панини.",
+          "es": "Tomaré un café y un sándwich."
         },
         {
           "speaker": "B",
           "it": "Io prendo un tè.",
           "en": "I'll have a tea.",
-          "ru": "Я возьму чай."
+          "ru": "Я возьму чай.",
+          "es": "Tomaré un té."
         },
         {
           "speaker": "A",
           "it": "Perfetto. Intervista finita?",
           "en": "Perfect. Interview done?",
-          "ru": "Отлично. Интервью закончено?"
+          "ru": "Отлично. Интервью закончено?",
+          "es": "Perfecto. ¿Entrevista realizada?"
         },
         {
           "speaker": "B",
           "it": "Sì, grazie per le risposte.",
           "en": "Yes, thanks for the answers.",
-          "ru": "Да, спасибо за ответы."
+          "ru": "Да, спасибо за ответы.",
+          "es": "Sí, gracias por las respuestas."
         }
       ]
     }
@@ -1149,7 +1359,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -1164,7 +1375,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -1179,7 +1391,8 @@
       "infinitive": "stare",
       "translation": {
         "en": "to stay / to be (health)",
-        "ru": "находиться / чувствовать себя"
+        "ru": "находиться / чувствовать себя",
+        "es": "quedarse / estar (salud)"
       },
       "forms": {
         "io": "sto",

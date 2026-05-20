@@ -21,6 +21,12 @@
         "Чтение: Mi presento",
         "Грамматика: глаголы на -ere, -ire",
         "Спрашивать и сообщать адрес электронной почты"
+      ],
+      "es": [
+        "Reseña: ¿Dónde vives?",
+        "Comprensión lectora: Déjame presentarme.",
+        "Gramática: verbos en -ere, -ire",
+        "Solicitar y dar una dirección de correo electrónico"
       ]
     }
   },
@@ -28,15 +34,18 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Regular verbs in -ere",
-        "ru": "Правильные глаголы на -ere"
+        "ru": "Правильные глаголы на -ere",
+        "es": "Verbos regulares en -ere"
       },
       "description": {
         "en": "Many common Italian verbs ending in -ere follow the present-tense pattern -o, -i, -e, -iamo, -ete, -ono.",
-        "ru": "Многие распространённые итальянские глаголы на -ere в настоящем времени имеют окончания -o, -i, -e, -iamo, -ete, -ono."
+        "ru": "Многие распространённые итальянские глаголы на -ere в настоящем времени имеют окончания -o, -i, -e, -iamo, -ete, -ono.",
+        "es": "Muchos verbos italianos comunes que terminan en -ere siguen el patrón de tiempo presente -o, -i, -e, -iamo, -ete, -ono."
       },
       "conjugations": {
         "io": "scrivo",
@@ -50,32 +59,38 @@
         {
           "it": "Mario scrive una lettera d'amore.",
           "en": "Mario writes a love letter.",
-          "ru": "Марио пишет любовное письмо."
+          "ru": "Марио пишет любовное письмо.",
+          "es": "Mario escribe una carta de amor."
         },
         {
           "it": "Giorgio vende molti gelati.",
           "en": "Giorgio sells many ice creams.",
-          "ru": "Джорджо продаёт много мороженого."
+          "ru": "Джорджо продаёт много мороженого.",
+          "es": "Giorgio vende muchos helados."
         },
         {
           "it": "Noi prendiamo l'autobus delle 7.",
           "en": "We take the bus at seven.",
-          "ru": "Мы садимся на автобус в семь."
+          "ru": "Мы садимся на автобус в семь.",
+          "es": "Tomamos el autobús a las siete."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Regular verbs in -ire",
-        "ru": "Правильные глаголы на -ire"
+        "ru": "Правильные глаголы на -ire",
+        "es": "Verbos regulares en -ire"
       },
       "description": {
         "en": "Regular verbs in -ire commonly form the present with -o, -i, -e, -iamo, -ite, -ono.",
-        "ru": "Правильные глаголы на -ire обычно образуют настоящее время по модели -o, -i, -e, -iamo, -ite, -ono."
+        "ru": "Правильные глаголы на -ire обычно образуют настоящее время по модели -o, -i, -e, -iamo, -ite, -ono.",
+        "es": "Los verbos regulares en -ire comúnmente forman el presente con -o, -i, -e, -iamo, -ite, -ono."
       },
       "conjugations": {
         "io": "parto",
@@ -89,118 +104,140 @@
         {
           "it": "Luca presenta gli amici all'insegnante.",
           "en": "Luca introduces the friends to the teacher.",
-          "ru": "Лука представляет друзей преподавателю."
+          "ru": "Лука представляет друзей преподавателю.",
+          "es": "Luca les presenta a los amigos al profesor."
         },
         {
           "it": "Gli amici di Andrea arrivano alle 10.",
           "en": "Andrea's friends arrive at ten.",
-          "ru": "Друзья Андреа приходят к десяти."
+          "ru": "Друзья Андреа приходят к десяти.",
+          "es": "Los amigos de Andrea llegan a las diez."
         },
         {
           "it": "Io compio gli anni in America.",
           "en": "I celebrate my birthday in America.",
-          "ru": "Я праздную день рождения в Америке."
+          "ru": "Я праздную день рождения в Америке.",
+          "es": "Celebro mi cumpleaños en Estados Unidos."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking and giving an email address",
-        "ru": "Как спросить и назвать электронный адрес"
+        "ru": "Как спросить и назвать электронный адрес",
+        "es": "Preguntar y dar una dirección de correo electrónico"
       },
       "description": {
         "en": "Italian commonly asks for an email with 'Qual è il tuo indirizzo email?' and states it with 'Il mio indirizzo email è...'.",
-        "ru": "В итальянском адрес электронной почты обычно спрашивают через 'Qual è il tuo indirizzo email?' и сообщают через 'Il mio indirizzo email è...'."
+        "ru": "В итальянском адрес электронной почты обычно спрашивают через 'Qual è il tuo indirizzo email?' и сообщают через 'Il mio indirizzo email è...'.",
+        "es": "El italiano suele solicitar un correo electrónico con el mensaje '¿Qual è il tuo indirizzo email?' y lo dice con 'Il mio indirizzo email è...'."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Qual è il tuo indirizzo email?",
           "en": "What is your email address?",
-          "ru": "Какой у тебя адрес электронной почты?"
+          "ru": "Какой у тебя адрес электронной почты?",
+          "es": "¿Cuál es tu dirección de correo electrónico?"
         },
         {
           "context": "informal",
           "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
           "en": "My email address is mario.rossi@gmail.com.",
-          "ru": "Мой адрес электронной почты: mario.rossi@gmail.com."
+          "ru": "Мой адрес электронной почты: mario.rossi@gmail.com.",
+          "es": "Mi dirección de correo electrónico es mario.rossi@gmail.com."
         },
         {
           "context": "spelling",
           "it": "Chiocciola, punto, trattino basso.",
           "en": "At sign, dot, underscore.",
-          "ru": "Собачка, точка, нижнее подчёркивание."
+          "ru": "Собачка, точка, нижнее подчёркивание.",
+          "es": "Arroba, punto, guión bajo."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Symbols used in email addresses",
-        "ru": "Символы в электронном адресе"
+        "ru": "Символы в электронном адресе",
+        "es": "Símbolos utilizados en direcciones de correo electrónico."
       },
       "description": {
         "en": "This lesson teaches the Italian names of the most common symbols needed to spell an email address.",
-        "ru": "В уроке отрабатываются итальянские названия самых частых символов, нужных для диктовки e-mail."
+        "ru": "В уроке отрабатываются итальянские названия самых частых символов, нужных для диктовки e-mail.",
+        "es": "Esta lección enseña los nombres italianos de los símbolos más comunes necesarios para deletrear una dirección de correo electrónico."
       },
       "examples": [
         {
           "it": "chiocciola",
           "en": "at sign",
-          "ru": "собачка, знак @"
+          "ru": "собачка, знак @",
+          "es": "arroba"
         },
         {
           "it": "punto",
           "en": "dot",
-          "ru": "точка"
+          "ru": "точка",
+          "es": "punto"
         },
         {
           "it": "trattino",
           "en": "hyphen",
-          "ru": "дефис"
+          "ru": "дефис",
+          "es": "guión"
         },
         {
           "it": "trattino basso",
           "en": "underscore",
-          "ru": "нижнее подчёркивание"
+          "ru": "нижнее подчёркивание",
+          "es": "subrayar"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Introducing yourself in a short profile",
-        "ru": "Короткое представление о себе"
+        "ru": "Короткое представление о себе",
+        "es": "Presentarse en un perfil corto"
       },
       "description": {
         "en": "A simple self-introduction at A1 level often combines name, age, nationality, city, job or study, and interests.",
-        "ru": "На уровне A1 самопрезентация обычно объединяет имя, возраст, национальность, город, работу или учёбу и интересы."
+        "ru": "На уровне A1 самопрезентация обычно объединяет имя, возраст, национальность, город, работу или учёбу и интересы.",
+        "es": "Una simple presentación en el nivel A1 suele combinar nombre, edad, nacionalidad, ciudad, trabajo o estudio e intereses."
       },
       "examples": [
         {
           "it": "Mi chiamo Oscar Bellini, sono argentino e lavoro in un'agenzia immobiliare.",
           "en": "My name is Oscar Bellini, I am Argentinian and I work in an estate agency.",
-          "ru": "Меня зовут Оскар Беллини, я аргентинец и работаю в агентстве недвижимости."
+          "ru": "Меня зовут Оскар Беллини, я аргентинец и работаю в агентстве недвижимости.",
+          "es": "Mi nombre es Oscar Bellini, soy argentino y trabajo en una agencia inmobiliaria."
         },
         {
           "it": "Sono Lidia White, sono cuoca e il mio numero di cellulare è 349 5574634.",
           "en": "I am Lidia White, I am a cook and my mobile number is 349 5574634.",
-          "ru": "Я Лидия Уайт, я повар, и мой номер мобильного телефона 349 5574634."
+          "ru": "Я Лидия Уайт, я повар, и мой номер мобильного телефона 349 5574634.",
+          "es": "Soy Lidia White, soy cocinera y mi número de móvil es 349 5574634."
         },
         {
           "it": "Mi chiamo Li Fang, il mio paese è la Cina e il mio nome utente è Lili08.",
           "en": "My name is Li Fang, my country is China and my username is Lili08.",
-          "ru": "Меня зовут Ли Фан, моя страна Китай, а мой логин Lili08."
+          "ru": "Меня зовут Ли Фан, моя страна Китай, а мой логин Lili08.",
+          "es": "Mi nombre es Li Fang, mi país es China y mi nombre de usuario es Lili08."
         }
       ]
     }
@@ -212,8 +249,10 @@
       "ru": "писать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "escribir"
     },
     {
       "term": "vendere",
@@ -221,8 +260,10 @@
       "ru": "продавать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "vender"
     },
     {
       "term": "prendere",
@@ -230,8 +271,10 @@
       "ru": "брать; садиться на транспорт",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "tomar"
     },
     {
       "term": "partire",
@@ -239,8 +282,10 @@
       "ru": "уезжать, отправляться",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "dejar"
     },
     {
       "term": "sentire",
@@ -248,8 +293,10 @@
       "ru": "слышать; чувствовать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "escuchar, sentir"
     },
     {
       "term": "dormire",
@@ -257,8 +304,10 @@
       "ru": "спать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "dormir"
     },
     {
       "term": "preferire",
@@ -266,8 +315,10 @@
       "ru": "предпочитать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "preferir"
     },
     {
       "term": "aprire",
@@ -275,8 +326,10 @@
       "ru": "открывать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "abrir"
     },
     {
       "term": "indirizzo email",
@@ -284,8 +337,10 @@
       "ru": "адрес электронной почты",
       "type": {
         "en": "digital vocabulary",
-        "ru": "цифровая лексика"
-      }
+        "ru": "цифровая лексика",
+        "es": "vocabulario digital"
+      },
+      "es": "dirección de correo electrónico"
     },
     {
       "term": "chiocciola",
@@ -293,8 +348,10 @@
       "ru": "знак @, собачка",
       "type": {
         "en": "digital vocabulary",
-        "ru": "цифровая лексика"
-      }
+        "ru": "цифровая лексика",
+        "es": "vocabulario digital"
+      },
+      "es": "arroba"
     },
     {
       "term": "punto",
@@ -302,8 +359,10 @@
       "ru": "точка",
       "type": {
         "en": "digital vocabulary",
-        "ru": "цифровая лексика"
-      }
+        "ru": "цифровая лексика",
+        "es": "vocabulario digital"
+      },
+      "es": "punto"
     },
     {
       "term": "trattino",
@@ -311,8 +370,10 @@
       "ru": "дефис",
       "type": {
         "en": "digital vocabulary",
-        "ru": "цифровая лексика"
-      }
+        "ru": "цифровая лексика",
+        "es": "vocabulario digital"
+      },
+      "es": "guión"
     },
     {
       "term": "trattino basso",
@@ -320,8 +381,10 @@
       "ru": "нижнее подчёркивание",
       "type": {
         "en": "digital vocabulary",
-        "ru": "цифровая лексика"
-      }
+        "ru": "цифровая лексика",
+        "es": "vocabulario digital"
+      },
+      "es": "subrayar"
     },
     {
       "term": "nome utente",
@@ -329,8 +392,10 @@
       "ru": "имя пользователя, логин",
       "type": {
         "en": "digital vocabulary",
-        "ru": "цифровая лексика"
-      }
+        "ru": "цифровая лексика",
+        "es": "vocabulario digital"
+      },
+      "es": "nombre de usuario"
     },
     {
       "term": "cellulare",
@@ -338,8 +403,10 @@
       "ru": "мобильный телефон",
       "type": {
         "en": "technology",
-        "ru": "техника"
-      }
+        "ru": "техника",
+        "es": "tecnología"
+      },
+      "es": "teléfono móvil"
     },
     {
       "term": "agenzia immobiliare",
@@ -347,8 +414,10 @@
       "ru": "агентство недвижимости",
       "type": {
         "en": "work",
-        "ru": "работа"
-      }
+        "ru": "работа",
+        "es": "trabajar"
+      },
+      "es": "agencia inmobiliaria"
     },
     {
       "term": "cuoca",
@@ -356,8 +425,10 @@
       "ru": "повар",
       "type": {
         "en": "profession",
-        "ru": "профессия"
-      }
+        "ru": "профессия",
+        "es": "profesión"
+      },
+      "es": "cocinar"
     },
     {
       "term": "ingegnere",
@@ -365,8 +436,10 @@
       "ru": "инженер",
       "type": {
         "en": "profession",
-        "ru": "профессия"
-      }
+        "ru": "профессия",
+        "es": "profesión"
+      },
+      "es": "ingeniero"
     },
     {
       "term": "pacco",
@@ -374,8 +447,10 @@
       "ru": "посылка, пакет",
       "type": {
         "en": "everyday vocabulary",
-        "ru": "бытовая лексика"
-      }
+        "ru": "бытовая лексика",
+        "es": "vocabulario cotidiano"
+      },
+      "es": "paquete"
     },
     {
       "term": "giorno",
@@ -383,8 +458,10 @@
       "ru": "день",
       "type": {
         "en": "time",
-        "ru": "время"
-      }
+        "ru": "время",
+        "es": "tiempo"
+      },
+      "es": "día"
     },
     {
       "term": "vivere",
@@ -392,8 +469,10 @@
       "ru": "жить",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "vivir"
     },
     {
       "term": "chiedere",
@@ -401,8 +480,10 @@
       "ru": "спрашивать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "preguntar"
     },
     {
       "term": "rispondere",
@@ -410,8 +491,10 @@
       "ru": "отвечать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "responder"
     },
     {
       "term": "ricevere",
@@ -419,8 +502,10 @@
       "ru": "получать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "recibir"
     },
     {
       "term": "mettere",
@@ -428,8 +513,10 @@
       "ru": "класть / ставить",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "poner"
     },
     {
       "term": "correre",
@@ -437,8 +524,10 @@
       "ru": "бежать / бегать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "correr"
     },
     {
       "term": "perdere",
@@ -446,8 +535,10 @@
       "ru": "терять",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "perder"
     },
     {
       "term": "leggere",
@@ -455,40 +546,48 @@
       "ru": "читать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "leer"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Leggete e rispondete.",
       "en": "Read and answer.",
-      "ru": "Прочитайте и ответьте."
+      "ru": "Прочитайте и ответьте.",
+      "es": "Lee y responde."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     },
     {
       "it": "Comunicate in classe.",
       "en": "Communicate in class.",
-      "ru": "Поработайте устно в классе."
+      "ru": "Поработайте устно в классе.",
+      "es": "Comunicarse en clase."
     },
     {
       "it": "Chiedete l'indirizzo e-mail.",
       "en": "Ask for the email address.",
-      "ru": "Спросите адрес электронной почты."
+      "ru": "Спросите адрес электронной почты.",
+      "es": "Solicite la dirección de correo electrónico."
     },
     {
       "it": "Ascoltate e completate.",
       "en": "Listen and complete.",
-      "ru": "Послушайте и дополните."
+      "ru": "Послушайте и дополните.",
+      "es": "Escucha y completa."
     },
     {
       "it": "Ripetete.",
       "en": "Repeat.",
-      "ru": "Повторите."
+      "ru": "Повторите.",
+      "es": "Repetir."
     }
   ],
   "dialogues": [
@@ -498,46 +597,53 @@
       "register": "neutral",
       "context": {
         "en": "Two classmates exchange a short self-introduction.",
-        "ru": "Два однокурсника кратко представляются друг другу."
+        "ru": "Два однокурсника кратко представляются друг другу.",
+        "es": "Dos compañeros intercambian una breve presentación."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, mi chiamo Oscar Bellini. Sono argentino e lavoro in un'agenzia immobiliare.",
           "en": "Hi, my name is Oscar Bellini. I am Argentinian and I work in an estate agency.",
-          "ru": "Привет, меня зовут Оскар Беллини. Я аргентинец и работаю в агентстве недвижимости."
+          "ru": "Привет, меня зовут Оскар Беллини. Я аргентинец и работаю в агентстве недвижимости.",
+          "es": "Hola, mi nombre es Oscar Bellini. Soy argentino y trabajo en una agencia inmobiliaria."
         },
         {
           "speaker": "B",
           "it": "Piacere. Io sono Lidia White, sono cuoca e abito a Londra.",
           "en": "Nice to meet you. I am Lidia White, I am a cook and I live in London.",
-          "ru": "Очень приятно. Я Лидия Уайт, я повар и живу в Лондоне."
+          "ru": "Очень приятно. Я Лидия Уайт, я повар и живу в Лондоне.",
+          "es": "Encantado de conocerlo. Soy Lidia White, soy cocinera y vivo en Londres."
         },
         {
           "speaker": "A",
           "it": "Qual è il tuo numero di cellulare?",
           "en": "What is your mobile number?",
-          "ru": "Какой у тебя номер мобильного?"
+          "ru": "Какой у тебя номер мобильного?",
+          "es": "¿Cuál es tu número de móvil?"
         },
         {
           "speaker": "B",
           "it": "Il mio numero è 349 5574634.",
           "en": "My number is 349 5574634.",
-          "ru": "Мой номер 349 5574634."
+          "ru": "Мой номер 349 5574634.",
+          "es": "Mi número es 349 5574634."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Say your name and nationality",
-            "ru": "Сказать своё имя и национальность"
+            "ru": "Сказать своё имя и национальность",
+            "es": "Di tu nombre y nacionalidad"
           },
           "expected_it": "Mi chiamo ... Sono ..."
         },
         {
           "cue": {
             "en": "Say your job",
-            "ru": "Сказать, кем вы работаете"
+            "ru": "Сказать, кем вы работаете",
+            "es": "Di tu trabajo"
           },
           "expected_it": "Lavoro in ... / Sono ..."
         }
@@ -549,46 +655,53 @@
       "register": "informal",
       "context": {
         "en": "Two people exchange email details.",
-        "ru": "Два человека обмениваются адресами электронной почты."
+        "ru": "Два человека обмениваются адресами электронной почты.",
+        "es": "Dos personas intercambian datos de correo electrónico."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Qual è il tuo indirizzo email?",
           "en": "What is your email address?",
-          "ru": "Какой у тебя адрес электронной почты?"
+          "ru": "Какой у тебя адрес электронной почты?",
+          "es": "¿Cuál es tu dirección de correo electrónico?"
         },
         {
           "speaker": "B",
           "it": "Il mio indirizzo email è mario.rossi@gmail.com.",
           "en": "My email address is mario.rossi@gmail.com.",
-          "ru": "Мой адрес электронной почты mario.rossi@gmail.com."
+          "ru": "Мой адрес электронной почты mario.rossi@gmail.com.",
+          "es": "Mi dirección de correo electrónico es mario.rossi@gmail.com."
         },
         {
           "speaker": "A",
           "it": "Come si scrive?",
           "en": "How is it written?",
-          "ru": "Как это пишется?"
+          "ru": "Как это пишется?",
+          "es": "¿Cómo está escrito?"
         },
         {
           "speaker": "B",
           "it": "Mario punto rossi chiocciola gmail punto com.",
           "en": "Mario dot rossi at gmail dot com.",
-          "ru": "Mario точка rossi собачка gmail точка com."
+          "ru": "Mario точка rossi собачка gmail точка com.",
+          "es": "Mario punto rossi en gmail punto com."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask for an email address",
-            "ru": "Спросить адрес электронной почты"
+            "ru": "Спросить адрес электронной почты",
+            "es": "Solicite una dirección de correo electrónico"
           },
           "expected_it": "Qual è il tuo indirizzo email?"
         },
         {
           "cue": {
             "en": "Spell the at sign",
-            "ru": "Назвать знак @"
+            "ru": "Назвать знак @",
+            "es": "Deletrea el signo arroba"
           },
           "expected_it": "chiocciola"
         }
@@ -600,164 +713,191 @@
       "register": "informal",
       "context": {
         "en": "Two classmates exchange email addresses and plan homework together.",
-        "ru": "Два одноклассника обмениваются адресами электронной почты и планируют домашнее задание."
+        "ru": "Два одноклассника обмениваются адресами электронной почты и планируют домашнее задание.",
+        "es": "Dos compañeros intercambian direcciones de correo electrónico y planifican juntos los deberes."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, Sara. Hai l'indirizzo email della professoressa?",
           "en": "Hi, Sara. Do you have the professor's email address?",
-          "ru": "Привет, Сара. У тебя есть адрес электронной почты преподавательницы?"
+          "ru": "Привет, Сара. У тебя есть адрес электронной почты преподавательницы?",
+          "es": "Hola Sara. ¿Tienes la dirección de correo electrónico del profesor?"
         },
         {
           "speaker": "B",
           "it": "Sì, ce l'ho nel quaderno.",
           "en": "Yes, I have it in my notebook.",
-          "ru": "Да, он у меня в тетради."
+          "ru": "Да, он у меня в тетради.",
+          "es": "Sí, lo tengo en mi cuaderno."
         },
         {
           "speaker": "A",
           "it": "Puoi mandarmelo?",
           "en": "Can you send it to me?",
-          "ru": "Можешь мне его прислать?"
+          "ru": "Можешь мне его прислать?",
+          "es": "¿Puedes enviármelo?"
         },
         {
           "speaker": "B",
           "it": "Certo. Qual è il tuo indirizzo email?",
           "en": "Sure. What's your email address?",
-          "ru": "Конечно. Какой у тебя адрес электронной почты?"
+          "ru": "Конечно. Какой у тебя адрес электронной почты?",
+          "es": "Seguro. ¿Cuál es su dirección de correo electrónico?"
         },
         {
           "speaker": "A",
           "it": "È marco punto rossi chiocciola email punto it.",
           "en": "It's marco dot rossi at email dot it.",
-          "ru": "Это марко точка росси собака email точка it."
+          "ru": "Это марко точка росси собака email точка it.",
+          "es": "Soy marco dot rossi en el correo electrónico dot it."
         },
         {
           "speaker": "B",
           "it": "Puoi ripetere lentamente?",
           "en": "Can you repeat slowly?",
-          "ru": "Можешь повторить медленно?"
+          "ru": "Можешь повторить медленно?",
+          "es": "¿Puedes repetir lentamente?"
         },
         {
           "speaker": "A",
           "it": "Marco punto rossi chiocciola email punto it.",
           "en": "Marco dot rossi at email dot it.",
-          "ru": "Марко точка росси собака email точка it."
+          "ru": "Марко точка росси собака email точка it.",
+          "es": "Marco dot rossi en el correo electrónico dot it."
         },
         {
           "speaker": "B",
           "it": "Perfetto. Io sono sara punto bianchi chiocciola email punto it.",
           "en": "Perfect. I'm sara dot bianchi at email dot it.",
-          "ru": "Отлично. Я — сара точка бьянки собака email точка it."
+          "ru": "Отлично. Я — сара точка бьянки собака email точка it.",
+          "es": "Perfecto. Soy sara dot bianchi en email dot it."
         },
         {
           "speaker": "A",
           "it": "Grazie. Che cosa dobbiamo fare per domani?",
           "en": "Thanks. What do we have to do for tomorrow?",
-          "ru": "Спасибо. Что нам нужно сделать к завтра?"
+          "ru": "Спасибо. Что нам нужно сделать к завтра?",
+          "es": "Gracias. ¿Qué tenemos que hacer para mañana?"
         },
         {
           "speaker": "B",
           "it": "Dobbiamo leggere il testo e scrivere cinque frasi.",
           "en": "We have to read the text and write five sentences.",
-          "ru": "Нам нужно прочитать текст и написать пять предложений."
+          "ru": "Нам нужно прочитать текст и написать пять предложений.",
+          "es": "Tenemos que leer el texto y escribir cinco frases."
         },
         {
           "speaker": "A",
           "it": "Io leggo il testo stasera.",
           "en": "I'll read the text tonight.",
-          "ru": "Я прочитаю текст вечером."
+          "ru": "Я прочитаю текст вечером.",
+          "es": "Leeré el texto esta noche."
         },
         {
           "speaker": "B",
           "it": "Io scrivo le frasi in biblioteca.",
           "en": "I'll write the sentences in the library.",
-          "ru": "Я напишу предложения в библиотеке."
+          "ru": "Я напишу предложения в библиотеке.",
+          "es": "Escribiré las frases en la biblioteca."
         },
         {
           "speaker": "A",
           "it": "Prendi appunti quando leggi?",
           "en": "Do you take notes when you read?",
-          "ru": "Ты делаешь заметки, когда читаешь?"
+          "ru": "Ты делаешь заметки, когда читаешь?",
+          "es": "¿Tomas notas cuando lees?"
         },
         {
           "speaker": "B",
           "it": "Sì, prendo sempre appunti.",
           "en": "Yes, I always take notes.",
-          "ru": "Да, я всегда делаю заметки."
+          "ru": "Да, я всегда делаю заметки.",
+          "es": "Sí, siempre tomo notas."
         },
         {
           "speaker": "A",
           "it": "Io non prendo molti appunti.",
           "en": "I don't take many notes.",
-          "ru": "Я не делаю много заметок."
+          "ru": "Я не делаю много заметок.",
+          "es": "No tomo muchas notas."
         },
         {
           "speaker": "B",
           "it": "Allora studiamo insieme.",
           "en": "Then let's study together.",
-          "ru": "Тогда давай учиться вместе."
+          "ru": "Тогда давай учиться вместе.",
+          "es": "Entonces estudiemos juntos."
         },
         {
           "speaker": "A",
           "it": "Va bene. A che ora vai in biblioteca?",
           "en": "Okay. What time do you go to the library?",
-          "ru": "Хорошо. Во сколько ты идёшь в библиотеку?"
+          "ru": "Хорошо. Во сколько ты идёшь в библиотеку?",
+          "es": "Bueno. ¿A qué hora vas a la biblioteca?"
         },
         {
           "speaker": "B",
           "it": "Alle cinque.",
           "en": "At five.",
-          "ru": "В пять."
+          "ru": "В пять.",
+          "es": "A las cinco."
         },
         {
           "speaker": "A",
           "it": "Posso venire con te?",
           "en": "Can I come with you?",
-          "ru": "Можно мне пойти с тобой?"
+          "ru": "Можно мне пойти с тобой?",
+          "es": "¿Puedo ir contigo?"
         },
         {
           "speaker": "B",
           "it": "Certo. Porti il libro?",
           "en": "Sure. Will you bring the book?",
-          "ru": "Конечно. Возьмёшь учебник?"
+          "ru": "Конечно. Возьмёшь учебник?",
+          "es": "Seguro. ¿Traerás el libro?"
         },
         {
           "speaker": "A",
           "it": "Sì, porto il libro e il dizionario.",
           "en": "Yes, I'll bring the book and the dictionary.",
-          "ru": "Да, возьму учебник и словарь."
+          "ru": "Да, возьму учебник и словарь.",
+          "es": "Sí, traeré el libro y el diccionario."
         },
         {
           "speaker": "B",
           "it": "Io porto il quaderno e una penna.",
           "en": "I'll bring the notebook and a pen.",
-          "ru": "Я возьму тетрадь и ручку."
+          "ru": "Я возьму тетрадь и ручку.",
+          "es": "Traeré la libreta y un bolígrafo."
         },
         {
           "speaker": "A",
           "it": "Dopo scriviamo alla professoressa?",
           "en": "Then shall we write to the professor?",
-          "ru": "Потом напишем преподавательнице?"
+          "ru": "Потом напишем преподавательнице?",
+          "es": "¿Entonces le escribimos al profesor?"
         },
         {
           "speaker": "B",
           "it": "Sì, le mandiamo il compito.",
           "en": "Yes, we'll send her the homework.",
-          "ru": "Да, отправим ей задание."
+          "ru": "Да, отправим ей задание.",
+          "es": "Sí, le enviaremos la tarea."
         },
         {
           "speaker": "A",
           "it": "Ottimo. Ci vediamo alle cinque.",
           "en": "Great. See you at five.",
-          "ru": "Отлично. Увидимся в пять."
+          "ru": "Отлично. Увидимся в пять.",
+          "es": "Excelente. Nos vemos a las cinco."
         },
         {
           "speaker": "B",
           "it": "A dopo, Marco.",
           "en": "See you later, Marco.",
-          "ru": "До встречи, Марко."
+          "ru": "До встречи, Марко.",
+          "es": "Hasta luego Marco."
         }
       ]
     },
@@ -767,152 +907,177 @@
       "register": "informal",
       "context": {
         "en": "Two students discuss why they go places and what they do there.",
-        "ru": "Два студента обсуждают, куда они ходят и что там делают."
+        "ru": "Два студента обсуждают, куда они ходят и что там делают.",
+        "es": "Dos estudiantes discuten por qué van a lugares y qué hacen allí."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Dove vai adesso?",
           "en": "Where are you going now?",
-          "ru": "Куда ты сейчас идёшь?"
+          "ru": "Куда ты сейчас идёшь?",
+          "es": "¿Adónde vas ahora?"
         },
         {
           "speaker": "B",
           "it": "Vado in biblioteca.",
           "en": "I'm going to the library.",
-          "ru": "Иду в библиотеку."
+          "ru": "Иду в библиотеку.",
+          "es": "Voy a la biblioteca."
         },
         {
           "speaker": "A",
           "it": "Perché vai in biblioteca?",
           "en": "Why are you going to the library?",
-          "ru": "Почему ты идёшь в библиотеку?"
+          "ru": "Почему ты идёшь в библиотеку?",
+          "es": "¿Por qué vas a la biblioteca?"
         },
         {
           "speaker": "B",
           "it": "Perché studio italiano.",
           "en": "Because I'm studying Italian.",
-          "ru": "Потому что учу итальянский."
+          "ru": "Потому что учу итальянский.",
+          "es": "Porque estoy estudiando italiano."
         },
         {
           "speaker": "A",
           "it": "Che cosa fai lì?",
           "en": "What do you do there?",
-          "ru": "Что ты там делаешь?"
+          "ru": "Что ты там делаешь?",
+          "es": "¿Qué haces ahí?"
         },
         {
           "speaker": "B",
           "it": "Leggo, scrivo e prendo appunti.",
           "en": "I read, write, and take notes.",
-          "ru": "Читаю, пишу и делаю заметки."
+          "ru": "Читаю, пишу и делаю заметки.",
+          "es": "Leo, escribo y tomo notas."
         },
         {
           "speaker": "A",
           "it": "Io vado al bar.",
           "en": "I'm going to the bar.",
-          "ru": "Я иду в бар."
+          "ru": "Я иду в бар.",
+          "es": "Voy al bar."
         },
         {
           "speaker": "B",
           "it": "Perché vai al bar?",
           "en": "Why are you going to the bar?",
-          "ru": "Почему ты идёшь в бар?"
+          "ru": "Почему ты идёшь в бар?",
+          "es": "¿Por qué vas al bar?"
         },
         {
           "speaker": "A",
           "it": "Perché prendo un caffè e faccio i compiti.",
           "en": "Because I get a coffee and do homework.",
-          "ru": "Потому что беру кофе и делаю домашнее задание."
+          "ru": "Потому что беру кофе и делаю домашнее задание.",
+          "es": "Porque tomo un café y hago los deberes."
         },
         {
           "speaker": "B",
           "it": "Il bar è tranquillo?",
           "en": "Is the bar quiet?",
-          "ru": "В баре тихо?"
+          "ru": "В баре тихо?",
+          "es": "¿El bar está tranquilo?"
         },
         {
           "speaker": "A",
           "it": "A volte sì, a volte no.",
           "en": "Sometimes yes, sometimes no.",
-          "ru": "Иногда да, иногда нет."
+          "ru": "Иногда да, иногда нет.",
+          "es": "A veces sí, a veces no."
         },
         {
           "speaker": "B",
           "it": "Allora forse la biblioteca è meglio.",
           "en": "Then maybe the library is better.",
-          "ru": "Тогда, может, библиотека лучше."
+          "ru": "Тогда, может, библиотека лучше.",
+          "es": "Entonces tal vez la biblioteca sea mejor."
         },
         {
           "speaker": "A",
           "it": "Hai ragione.",
           "en": "You're right.",
-          "ru": "Ты прав."
+          "ru": "Ты прав.",
+          "es": "Tienes razón."
         },
         {
           "speaker": "B",
           "it": "Vieni con me?",
           "en": "Come with me?",
-          "ru": "Пойдёшь со мной?"
+          "ru": "Пойдёшь со мной?",
+          "es": "¿Venga conmigo?"
         },
         {
           "speaker": "A",
           "it": "Sì, ma prima prendo un caffè.",
           "en": "Yes, but first I'll get a coffee.",
-          "ru": "Да, но сначала возьму кофе."
+          "ru": "Да, но сначала возьму кофе.",
+          "es": "Sí, pero primero tomaré un café."
         },
         {
           "speaker": "B",
           "it": "Va bene. Io ti aspetto.",
           "en": "Okay. I'll wait for you.",
-          "ru": "Хорошо. Я тебя подожду."
+          "ru": "Хорошо. Я тебя подожду.",
+          "es": "Bueno. Te esperaré."
         },
         {
           "speaker": "A",
           "it": "Dove mi aspetti?",
           "en": "Where will you wait for me?",
-          "ru": "Где ты меня подождёшь?"
+          "ru": "Где ты меня подождёшь?",
+          "es": "¿Dónde me esperarás?"
         },
         {
           "speaker": "B",
           "it": "Davanti alla biblioteca.",
           "en": "In front of the library.",
-          "ru": "Перед библиотекой."
+          "ru": "Перед библиотекой.",
+          "es": "Frente a la biblioteca."
         },
         {
           "speaker": "A",
           "it": "A che ora?",
           "en": "At what time?",
-          "ru": "Во сколько?"
+          "ru": "Во сколько?",
+          "es": "¿A qué hora?"
         },
         {
           "speaker": "B",
           "it": "Alle quattro.",
           "en": "At four.",
-          "ru": "В четыре."
+          "ru": "В четыре.",
+          "es": "A las cuatro."
         },
         {
           "speaker": "A",
           "it": "Perfetto. Porto il libro.",
           "en": "Perfect. I'll bring the book.",
-          "ru": "Отлично. Возьму учебник."
+          "ru": "Отлично. Возьму учебник.",
+          "es": "Perfecto. Traeré el libro."
         },
         {
           "speaker": "B",
           "it": "Io porto il dizionario.",
           "en": "I'll bring the dictionary.",
-          "ru": "Я возьму словарь."
+          "ru": "Я возьму словарь.",
+          "es": "Traeré el diccionario."
         },
         {
           "speaker": "A",
           "it": "Studiamo i verbi?",
           "en": "Shall we study the verbs?",
-          "ru": "Будем учить глаголы?"
+          "ru": "Будем учить глаголы?",
+          "es": "¿Estudiamos los verbos?"
         },
         {
           "speaker": "B",
           "it": "Sì, soprattutto andare e fare.",
           "en": "Yes, especially andare and fare.",
-          "ru": "Да, особенно andare и fare."
+          "ru": "Да, особенно andare и fare.",
+          "es": "Sí, especialmente andare y fare."
         }
       ]
     }
@@ -922,7 +1087,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -937,7 +1103,8 @@
       "infinitive": "abitare",
       "translation": {
         "en": "to live / to reside",
-        "ru": "жить / проживать"
+        "ru": "жить / проживать",
+        "es": "vivir / residir"
       },
       "forms": {
         "io": "abito",
@@ -952,7 +1119,8 @@
       "infinitive": "chiamarsi",
       "translation": {
         "en": "to be called",
-        "ru": "называться / зваться"
+        "ru": "называться / зваться",
+        "es": "ser llamado"
       },
       "forms": {
         "io": "mi chiamo",
@@ -967,7 +1135,8 @@
       "infinitive": "scrivere",
       "translation": {
         "en": "to write",
-        "ru": "писать"
+        "ru": "писать",
+        "es": "escribir"
       },
       "forms": {
         "io": "scrivo",
@@ -982,7 +1151,8 @@
       "infinitive": "leggere",
       "translation": {
         "en": "to read",
-        "ru": "читать"
+        "ru": "читать",
+        "es": "leer"
       },
       "forms": {
         "io": "leggo",
@@ -997,7 +1167,8 @@
       "infinitive": "prendere",
       "translation": {
         "en": "to take",
-        "ru": "брать / заказывать / садиться на транспорт"
+        "ru": "брать / заказывать / садиться на транспорт",
+        "es": "tomar"
       },
       "forms": {
         "io": "prendo",
@@ -1012,7 +1183,8 @@
       "infinitive": "partire",
       "translation": {
         "en": "to leave / to depart",
-        "ru": "уезжать / отправляться"
+        "ru": "уезжать / отправляться",
+        "es": "salir/partir"
       },
       "forms": {
         "io": "parto",
@@ -1027,7 +1199,8 @@
       "infinitive": "sentire",
       "translation": {
         "en": "to hear / to feel",
-        "ru": "слышать / чувствовать"
+        "ru": "слышать / чувствовать",
+        "es": "escuchar / sentir"
       },
       "forms": {
         "io": "sento",
@@ -1042,7 +1215,8 @@
       "infinitive": "dormire",
       "translation": {
         "en": "to sleep",
-        "ru": "спать"
+        "ru": "спать",
+        "es": "dormir"
       },
       "forms": {
         "io": "dormo",
@@ -1057,7 +1231,8 @@
       "infinitive": "aprire",
       "translation": {
         "en": "to open",
-        "ru": "открывать"
+        "ru": "открывать",
+        "es": "abrir"
       },
       "forms": {
         "io": "apro",
@@ -1072,7 +1247,8 @@
       "infinitive": "preferire",
       "translation": {
         "en": "to prefer",
-        "ru": "предпочитать"
+        "ru": "предпочитать",
+        "es": "preferir"
       },
       "forms": {
         "io": "preferisco",
@@ -1087,7 +1263,8 @@
       "infinitive": "vivere",
       "translation": {
         "en": "to live",
-        "ru": "жить"
+        "ru": "жить",
+        "es": "vivir"
       },
       "forms": {
         "io": "vivo",
@@ -1102,7 +1279,8 @@
       "infinitive": "vendere",
       "translation": {
         "en": "to sell",
-        "ru": "продавать"
+        "ru": "продавать",
+        "es": "vender"
       },
       "forms": {
         "io": "vendo",
@@ -1117,7 +1295,8 @@
       "infinitive": "mettere",
       "translation": {
         "en": "to put",
-        "ru": "класть / ставить"
+        "ru": "класть / ставить",
+        "es": "poner"
       },
       "forms": {
         "io": "metto",
@@ -1132,7 +1311,8 @@
       "infinitive": "chiedere",
       "translation": {
         "en": "to ask",
-        "ru": "спрашивать"
+        "ru": "спрашивать",
+        "es": "preguntar"
       },
       "forms": {
         "io": "chiedo",
@@ -1147,7 +1327,8 @@
       "infinitive": "perdere",
       "translation": {
         "en": "to lose",
-        "ru": "терять"
+        "ru": "терять",
+        "es": "perder"
       },
       "forms": {
         "io": "perdo",
@@ -1162,7 +1343,8 @@
       "infinitive": "ricevere",
       "translation": {
         "en": "to receive",
-        "ru": "получать"
+        "ru": "получать",
+        "es": "recibir"
       },
       "forms": {
         "io": "ricevo",
@@ -1177,7 +1359,8 @@
       "infinitive": "arrivare",
       "translation": {
         "en": "to arrive",
-        "ru": "приходить / приезжать"
+        "ru": "приходить / приезжать",
+        "es": "llegar"
       },
       "forms": {
         "io": "arrivo",
@@ -1192,7 +1375,8 @@
       "infinitive": "comprare",
       "translation": {
         "en": "to buy",
-        "ru": "покупать"
+        "ru": "покупать",
+        "es": "comprar"
       },
       "forms": {
         "io": "compro",
@@ -1207,7 +1391,8 @@
       "infinitive": "indicare",
       "translation": {
         "en": "to indicate / to show",
-        "ru": "указывать / показывать"
+        "ru": "указывать / показывать",
+        "es": "indicar / mostrar"
       },
       "forms": {
         "io": "indico",
@@ -1222,7 +1407,8 @@
       "infinitive": "portare",
       "translation": {
         "en": "to bring / to carry",
-        "ru": "приносить / носить"
+        "ru": "приносить / носить",
+        "es": "traer / llevar"
       },
       "forms": {
         "io": "porto",
@@ -1237,7 +1423,8 @@
       "infinitive": "preparare",
       "translation": {
         "en": "to prepare",
-        "ru": "готовить / подготавливать"
+        "ru": "готовить / подготавливать",
+        "es": "preparar"
       },
       "forms": {
         "io": "preparo",
@@ -1252,7 +1439,8 @@
       "infinitive": "presentare",
       "translation": {
         "en": "to introduce / to present",
-        "ru": "представлять"
+        "ru": "представлять",
+        "es": "presentar / presentar"
       },
       "forms": {
         "io": "presento",
@@ -1267,7 +1455,8 @@
       "infinitive": "regalare",
       "translation": {
         "en": "to give as a gift",
-        "ru": "дарить"
+        "ru": "дарить",
+        "es": "para dar como regalo"
       },
       "forms": {
         "io": "regalo",
@@ -1282,7 +1471,8 @@
       "infinitive": "stirare",
       "translation": {
         "en": "to iron",
-        "ru": "гладить"
+        "ru": "гладить",
+        "es": "planchar"
       },
       "forms": {
         "io": "stiro",
@@ -1297,7 +1487,8 @@
       "infinitive": "cambiare",
       "translation": {
         "en": "to change",
-        "ru": "менять / изменять"
+        "ru": "менять / изменять",
+        "es": "cambiar"
       },
       "forms": {
         "io": "cambio",
@@ -1312,7 +1503,8 @@
       "infinitive": "guardare",
       "translation": {
         "en": "to look / to watch",
-        "ru": "смотреть"
+        "ru": "смотреть",
+        "es": "mirar / mirar"
       },
       "forms": {
         "io": "guardo",
@@ -1327,7 +1519,8 @@
       "infinitive": "guidare",
       "translation": {
         "en": "to drive",
-        "ru": "водить машину"
+        "ru": "водить машину",
+        "es": "conducir"
       },
       "forms": {
         "io": "guido",
@@ -1342,7 +1535,8 @@
       "infinitive": "imparare",
       "translation": {
         "en": "to learn",
-        "ru": "учить / осваивать"
+        "ru": "учить / осваивать",
+        "es": "aprender"
       },
       "forms": {
         "io": "imparo",
@@ -1357,7 +1551,8 @@
       "infinitive": "lavorare",
       "translation": {
         "en": "to work",
-        "ru": "работать"
+        "ru": "работать",
+        "es": "trabajar"
       },
       "forms": {
         "io": "lavoro",
@@ -1372,7 +1567,8 @@
       "infinitive": "passare",
       "translation": {
         "en": "to spend / to pass",
-        "ru": "проводить / проходить"
+        "ru": "проводить / проходить",
+        "es": "gastar / pasar"
       },
       "forms": {
         "io": "passo",
@@ -1387,7 +1583,8 @@
       "infinitive": "chiudere",
       "translation": {
         "en": "to close",
-        "ru": "закрывать"
+        "ru": "закрывать",
+        "es": "cerrar"
       },
       "forms": {
         "io": "chiudo",
@@ -1402,7 +1599,8 @@
       "infinitive": "correre",
       "translation": {
         "en": "to run",
-        "ru": "бежать / бегать"
+        "ru": "бежать / бегать",
+        "es": "correr"
       },
       "forms": {
         "io": "corro",
@@ -1417,7 +1615,8 @@
       "infinitive": "rispondere",
       "translation": {
         "en": "to answer",
-        "ru": "отвечать"
+        "ru": "отвечать",
+        "es": "responder"
       },
       "forms": {
         "io": "rispondo",

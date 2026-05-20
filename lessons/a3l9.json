@@ -21,6 +21,12 @@
         "Повторение грамматики: A lezione",
         "Повторение фонетики: Che confusione!",
         "Повторение уроков 1-3: In giro per Roma"
+      ],
+      "es": [
+        "Repaso de vocabulario: Palabras, palabras...",
+        "Repaso de gramática: en clase",
+        "Repaso de fonética: ¡Qué lío!",
+        "Repaso de las lecciones 1-3: Alrededor de Roma"
       ]
     }
   },
@@ -28,170 +34,203 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Review: question words",
-        "ru": "Повторение: вопросительные слова"
+        "ru": "Повторение: вопросительные слова",
+        "es": "Revisión: palabras interrogativas"
       },
       "description": {
         "en": "Consolidation of all question words covered in lessons 1–3.",
-        "ru": "Закрепление всех вопросительных слов, изученных в уроках 1–3."
+        "ru": "Закрепление всех вопросительных слов, изученных в уроках 1–3.",
+        "es": "Consolidación de todas las palabras interrogativas cubiertas en las lecciones 1 a 3."
       },
       "examples": [
         {
           "it": "Dove abiti? — Abito a Roma.",
           "en": "Where do you live? — I live in Rome.",
-          "ru": "Где ты живёшь? — Я живу в Риме."
+          "ru": "Где ты живёшь? — Я живу в Риме.",
+          "es": "¿Dónde vive? — Vivo en Roma."
         },
         {
           "it": "Come ti chiami? — Mi chiamo Francesco.",
           "en": "What is your name? — My name is Francesco.",
-          "ru": "Как тебя зовут? — Меня зовут Франческо."
+          "ru": "Как тебя зовут? — Меня зовут Франческо.",
+          "es": "¿Cómo te llamas? — Mi nombre es Francisco."
         },
         {
           "it": "Perché studi l'italiano? — Perché è una lingua bellissima.",
           "en": "Why do you study Italian? — Because it is a beautiful language.",
-          "ru": "Почему ты изучаешь итальянский? — Потому что это очень красивый язык."
+          "ru": "Почему ты изучаешь итальянский? — Потому что это очень красивый язык.",
+          "es": "¿Por qué estudias italiano? — Porque es un idioma hermoso."
         },
         {
           "it": "Che lingue parli? — Parlo inglese, russo e italiano.",
           "en": "What languages do you speak? — I speak English, Russian and Italian.",
-          "ru": "На каких языках ты говоришь? — Я говорю по-английски, по-русски и по-итальянски."
+          "ru": "На каких языках ты говоришь? — Я говорю по-английски, по-русски и по-итальянски.",
+          "es": "¿Qué idiomas hablas? — Hablo inglés, ruso e italiano."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Review: essere, avere, c'è/ci sono",
-        "ru": "Повторение: essere, avere, c'è/ci sono"
+        "ru": "Повторение: essere, avere, c'è/ci sono",
+        "es": "Reseña: essere, avere, c'è/ci sono"
       },
       "description": {
         "en": "Revision of the three core structures: essere for identity/description, avere for possession/age, c'è/ci sono for existence.",
-        "ru": "Повторение трёх ключевых конструкций: essere для идентификации/описания, avere для обладания/возраста, c'è/ci sono для существования."
+        "ru": "Повторение трёх ключевых конструкций: essere для идентификации/описания, avere для обладания/возраста, c'è/ci sono для существования.",
+        "es": "Revisión de las tres estructuras centrales: essere para identidad/descripción, avere para posesión/edad, c'è/ci sono para existencia."
       },
       "examples": [
         {
           "it": "Ha 23 anni.",
           "en": "He/She is 23 years old.",
-          "ru": "Ему/ей 23 года."
+          "ru": "Ему/ей 23 года.",
+          "es": "Tiene 23 años."
         },
         {
           "it": "Sono italiano.",
           "en": "I am Italian.",
-          "ru": "Я итальянец."
+          "ru": "Я итальянец.",
+          "es": "Soy italiano."
         },
         {
           "it": "C'è un libro sul tavolo.",
           "en": "There is a book on the table.",
-          "ru": "На столе лежит книга."
+          "ru": "На столе лежит книга.",
+          "es": "Hay un libro sobre la mesa."
         },
         {
           "it": "Ci sono molti studenti in classe.",
           "en": "There are many students in class.",
-          "ru": "В классе много студентов."
+          "ru": "В классе много студентов.",
+          "es": "Hay muchos estudiantes en clase."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Vocabulary categories: school, nationalities, descriptions",
-        "ru": "Тематические группы: школа, национальности, описания"
+        "ru": "Тематические группы: школа, национальности, описания",
+        "es": "Categorías de vocabulario: escuela, nacionalidades, descripciones."
       },
       "description": {
         "en": "Review of three vocabulary groups: school-related words, nationality adjectives, and physical/personality descriptions.",
-        "ru": "Повторение трёх лексических групп: слова, связанные со школой, прилагательные национальности, описание внешности и характера."
+        "ru": "Повторение трёх лексических групп: слова, связанные со школой, прилагательные национальности, описание внешности и характера.",
+        "es": "Revisión de tres grupos de vocabulario: palabras relacionadas con la escuela, adjetivos de nacionalidad y descripciones físicas/de personalidad."
       },
       "examples": [
         {
           "it": "la classe, il banco, la lavagna, il quaderno",
           "en": "classroom, desk, blackboard, notebook",
-          "ru": "класс, парта, доска, тетрадь"
+          "ru": "класс, парта, доска, тетрадь",
+          "es": "aula, escritorio, pizarra, cuaderno"
         },
         {
           "it": "italiano, tedesco, francese, russo, cinese",
           "en": "Italian, German, French, Russian, Chinese",
-          "ru": "итальянский, немецкий, французский, русский, китайский"
+          "ru": "итальянский, немецкий, французский, русский, китайский",
+          "es": "Italiano, Alemán, Francés, Ruso, Chino"
         },
         {
           "it": "alto, magro, biondo, simpatico",
           "en": "tall, thin, blond, nice",
-          "ru": "высокий, худой, светловолосый, симпатичный"
+          "ru": "высокий, худой, светловолосый, симпатичный",
+          "es": "alto, delgado, rubio, agradable"
         }
       ]
     },
     {
       "category": {
         "en": "Phonetics",
-        "ru": "Фонетика"
+        "ru": "Фонетика",
+        "es": "Fonética"
       },
       "rule": {
         "en": "Elision: com'è, dov'è, quant'è vs qual è",
-        "ru": "Элизия: com'è, dov'è, quant'è vs qual è"
+        "ru": "Элизия: com'è, dov'è, quant'è vs qual è",
+        "es": "Elision: com'è, dov'è, quant'è vs qual è"
       },
       "description": {
         "en": "Some Italian question words drop the final vowel before 'è' (elision), but 'qual' never takes an apostrophe before 'è'.",
-        "ru": "Некоторые вопросительные слова теряют конечную гласную перед «è» (элизия), но «qual» никогда не пишется с апострофом перед «è»."
+        "ru": "Некоторые вопросительные слова теряют конечную гласную перед «è» (элизия), но «qual» никогда не пишется с апострофом перед «è».",
+        "es": "Algunas palabras interrogativas italianas eliminan la vocal final antes de 'è' (elisión), pero 'qual' nunca lleva un apóstrofo antes de 'è'."
       },
       "examples": [
         {
           "it": "Com'è? (come + è)",
           "en": "What is it like?",
-          "ru": "Какой он/она/оно?"
+          "ru": "Какой он/она/оно?",
+          "es": "¿Cómo es?"
         },
         {
           "it": "Dov'è? (dove + è)",
           "en": "Where is it?",
-          "ru": "Где это?"
+          "ru": "Где это?",
+          "es": "¿Dónde está?"
         },
         {
           "it": "Quant'è? (quanto + è)",
           "en": "How much is it?",
-          "ru": "Сколько стоит?"
+          "ru": "Сколько стоит?",
+          "es": "¿Cuánto cuesta?"
         },
         {
           "it": "Qual è? (no apostrophe)",
           "en": "Which is? / What is?",
-          "ru": "Какой? / Что это?"
+          "ru": "Какой? / Что это?",
+          "es": "¿Cuál es? / ¿Qué es?"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Talking about plans and preferences",
-        "ru": "Планы и предпочтения"
+        "ru": "Планы и предпочтения",
+        "es": "Hablando de planes y preferencias"
       },
       "description": {
         "en": "Expressing what you plan to do or prefer using 'penso di + infinitive' and 'preferisco + infinitive'.",
-        "ru": "Выражение планов и предпочтений с помощью «penso di + инфинитив» и «preferisco + инфинитив»."
+        "ru": "Выражение планов и предпочтений с помощью «penso di + инфинитив» и «preferisco + инфинитив».",
+        "es": "Expresar lo que planeas hacer o prefieres usando 'penso di + infinitivo' y 'preferisco + infinitivo'."
       },
       "examples": [
         {
           "it": "Penso di dormire molto nel week-end.",
           "en": "I plan to sleep a lot at the weekend.",
-          "ru": "Я планирую много спать на выходных."
+          "ru": "Я планирую много спать на выходных.",
+          "es": "Planeo dormir mucho el fin de semana."
         },
         {
           "it": "Una serata rilassante per me è…",
           "en": "A relaxing evening for me is…",
-          "ru": "Расслабляющий вечер для меня — это…"
+          "ru": "Расслабляющий вечер для меня — это…",
+          "es": "Una velada relajante para mí es..."
         },
         {
           "it": "Avete cose in comune?",
           "en": "Do you have things in common?",
-          "ru": "У вас есть что-то общее?"
+          "ru": "У вас есть что-то общее?",
+          "es": "¿Tienes cosas en común?"
         }
       ]
     }
@@ -203,8 +242,10 @@
       "ru": "повторение",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "revisión, revisión"
     },
     {
       "term": "la lavagna",
@@ -212,8 +253,10 @@
       "ru": "доска",
       "type": {
         "en": "school",
-        "ru": "школа"
-      }
+        "ru": "школа",
+        "es": "escuela"
+      },
+      "es": "pizarra"
     },
     {
       "term": "il quaderno",
@@ -221,8 +264,10 @@
       "ru": "тетрадь",
       "type": {
         "en": "school",
-        "ru": "школа"
-      }
+        "ru": "школа",
+        "es": "escuela"
+      },
+      "es": "computadora portátil"
     },
     {
       "term": "il banco",
@@ -230,8 +275,10 @@
       "ru": "парта",
       "type": {
         "en": "school",
-        "ru": "школа"
-      }
+        "ru": "школа",
+        "es": "escuela"
+      },
+      "es": "pupitre de la escuela"
     },
     {
       "term": "la matita",
@@ -239,8 +286,10 @@
       "ru": "карандаш",
       "type": {
         "en": "school",
-        "ru": "школа"
-      }
+        "ru": "школа",
+        "es": "escuela"
+      },
+      "es": "lápiz"
     },
     {
       "term": "la penna",
@@ -248,8 +297,10 @@
       "ru": "ручка",
       "type": {
         "en": "school",
-        "ru": "школа"
-      }
+        "ru": "школа",
+        "es": "escuela"
+      },
+      "es": "bolígrafo"
     },
     {
       "term": "il libro",
@@ -257,8 +308,10 @@
       "ru": "книга",
       "type": {
         "en": "school",
-        "ru": "школа"
-      }
+        "ru": "школа",
+        "es": "escuela"
+      },
+      "es": "libro"
     },
     {
       "term": "russo",
@@ -266,8 +319,10 @@
       "ru": "русский",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "ruso"
     },
     {
       "term": "tedesco",
@@ -275,8 +330,10 @@
       "ru": "немецкий",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Alemán"
     },
     {
       "term": "francese",
@@ -284,8 +341,10 @@
       "ru": "французский",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Francés"
     },
     {
       "term": "cinese",
@@ -293,8 +352,10 @@
       "ru": "китайский",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Chino"
     },
     {
       "term": "spagnolo",
@@ -302,8 +363,10 @@
       "ru": "испанский",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Español"
     },
     {
       "term": "Com'è?",
@@ -311,8 +374,10 @@
       "ru": "Какой он/она/оно?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cómo es?"
     },
     {
       "term": "Dov'è?",
@@ -320,8 +385,10 @@
       "ru": "Где это?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Dónde está?"
     },
     {
       "term": "Quant'è?",
@@ -329,8 +396,10 @@
       "ru": "Сколько стоит?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cuánto cuesta?"
     },
     {
       "term": "Qual è?",
@@ -338,8 +407,10 @@
       "ru": "Какой? / Что это?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cuál es? / ¿Qué es?"
     },
     {
       "term": "penso di + infinito",
@@ -347,8 +418,10 @@
       "ru": "я планирую / думаю",
       "type": {
         "en": "grammar structure",
-        "ru": "грамматическая конструкция"
-      }
+        "ru": "грамматическая конструкция",
+        "es": "estructura gramatical"
+      },
+      "es": "planeo / creo que lo haré"
     },
     {
       "term": "rilassante",
@@ -356,8 +429,10 @@
       "ru": "расслабляющий",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "relajante"
     },
     {
       "term": "in comune",
@@ -365,8 +440,10 @@
       "ru": "общего",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "en común"
     },
     {
       "term": "in giro per",
@@ -374,35 +451,42 @@
       "ru": "по (городу), путешествуя по",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "alrededor, girando"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Trovate le parole.",
       "en": "Find the words.",
-      "ru": "Найдите слова."
+      "ru": "Найдите слова.",
+      "es": "Encuentra las palabras."
     },
     {
       "it": "Scrivete le parole nel pacco giusto.",
       "en": "Write the words in the right box.",
-      "ru": "Запишите слова в нужную колонку."
+      "ru": "Запишите слова в нужную колонку.",
+      "es": "Escribe las palabras en el cuadro de la derecha."
     },
     {
       "it": "Trovate i sette errori.",
       "en": "Find the seven mistakes.",
-      "ru": "Найдите семь ошибок."
+      "ru": "Найдите семь ошибок.",
+      "es": "Encuentra los siete errores."
     },
     {
       "it": "Completate come nell'esempio.",
       "en": "Complete as in the example.",
-      "ru": "Дополните по образцу."
+      "ru": "Дополните по образцу.",
+      "es": "Completar como en el ejemplo."
     },
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Ответьте."
+      "ru": "Ответьте.",
+      "es": "Respuesta."
     }
   ],
   "dialogues": [
@@ -412,188 +496,219 @@
       "register": "informal",
       "context": {
         "en": "Two students review greetings, personal information, descriptions, residence, and bar vocabulary before an exam.",
-        "ru": "Два студента повторяют приветствия, личную информацию, описания, место жительства и лексику бара перед экзаменом."
+        "ru": "Два студента повторяют приветствия, личную информацию, описания, место жительства и лексику бара перед экзаменом.",
+        "es": "Dos estudiantes revisan saludos, información personal, descripciones, residencia y vocabulario de barras antes de un examen."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, sei pronto per l'esame?",
           "en": "Hi, are you ready for the exam?",
-          "ru": "Привет, ты готов к экзамену?"
+          "ru": "Привет, ты готов к экзамену?",
+          "es": "Hola, ¿estás listo para el examen?"
         },
         {
           "speaker": "B",
           "it": "No, ho un po' paura.",
           "en": "No, I'm a bit scared.",
-          "ru": "Нет, немного боюсь."
+          "ru": "Нет, немного боюсь.",
+          "es": "No, estoy un poco asustado."
         },
         {
           "speaker": "A",
           "it": "Anch'io. Facciamo ripasso insieme?",
           "en": "Me too. Shall we review together?",
-          "ru": "Я тоже. Повторим вместе?"
+          "ru": "Я тоже. Повторим вместе?",
+          "es": "Yo también. ¿Repasamos juntos?"
         },
         {
           "speaker": "B",
           "it": "Sì, volentieri.",
           "en": "Yes, gladly.",
-          "ru": "Да, с удовольствием."
+          "ru": "Да, с удовольствием.",
+          "es": "Sí, con mucho gusto."
         },
         {
           "speaker": "A",
           "it": "Prima domanda: come ti chiami?",
           "en": "First question: what's your name?",
-          "ru": "Первый вопрос: как тебя зовут?"
+          "ru": "Первый вопрос: как тебя зовут?",
+          "es": "Primera pregunta: ¿cómo te llamas?"
         },
         {
           "speaker": "B",
           "it": "Mi chiamo Davide. E tu?",
           "en": "My name is Davide. And you?",
-          "ru": "Меня зовут Давиде. А тебя?"
+          "ru": "Меня зовут Давиде. А тебя?",
+          "es": "Mi nombre es Davide. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Mi chiamo Elena.",
           "en": "My name is Elena.",
-          "ru": "Меня зовут Елена."
+          "ru": "Меня зовут Елена.",
+          "es": "Mi nombre es elena."
         },
         {
           "speaker": "B",
           "it": "Di dove sei?",
           "en": "Where are you from?",
-          "ru": "Откуда ты?"
+          "ru": "Откуда ты?",
+          "es": "¿De dónde eres?"
         },
         {
           "speaker": "A",
           "it": "Sono italiana, di Firenze. E tu?",
           "en": "I'm Italian, from Florence. And you?",
-          "ru": "Я итальянка, из Флоренции. А ты?"
+          "ru": "Я итальянка, из Флоренции. А ты?",
+          "es": "Soy italiana, de Florencia. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Sono argentino, di Buenos Aires.",
           "en": "I'm Argentinian, from Buenos Aires.",
-          "ru": "Я аргентинец, из Буэнос-Айреса."
+          "ru": "Я аргентинец, из Буэнос-Айреса.",
+          "es": "Soy argentino, de Buenos Aires."
         },
         {
           "speaker": "A",
           "it": "Quanti anni hai?",
           "en": "How old are you?",
-          "ru": "Сколько тебе лет?"
+          "ru": "Сколько тебе лет?",
+          "es": "¿Cuántos años tiene?"
         },
         {
           "speaker": "B",
           "it": "Ho ventisei anni. E tu?",
           "en": "I'm twenty-six. And you?",
-          "ru": "Мне двадцать шесть. А тебе?"
+          "ru": "Мне двадцать шесть. А тебе?",
+          "es": "Tengo veintiséis años. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Ho ventiquattro anni.",
           "en": "I'm twenty-four.",
-          "ru": "Мне двадцать четыре."
+          "ru": "Мне двадцать четыре.",
+          "es": "Tengo veinticuatro años."
         },
         {
           "speaker": "B",
           "it": "Dove abiti?",
           "en": "Where do you live?",
-          "ru": "Где ты живёшь?"
+          "ru": "Где ты живёшь?",
+          "es": "¿Dónde vive?"
         },
         {
           "speaker": "A",
           "it": "Abito a Roma, in via Garibaldi.",
           "en": "I live in Rome, on Via Garibaldi.",
-          "ru": "Живу в Риме, на улице Гарибальди."
+          "ru": "Живу в Риме, на улице Гарибальди.",
+          "es": "Vivo en Roma, en Via Garibaldi."
         },
         {
           "speaker": "B",
           "it": "Io abito vicino all'università.",
           "en": "I live near the university.",
-          "ru": "Я живу рядом с университетом."
+          "ru": "Я живу рядом с университетом.",
+          "es": "Vivo cerca de la universidad."
         },
         {
           "speaker": "A",
           "it": "Com'è il tuo compagno di casa?",
           "en": "What's your housemate like?",
-          "ru": "Какой у тебя сосед по квартире?"
+          "ru": "Какой у тебя сосед по квартире?",
+          "es": "¿Cómo es tu compañero de casa?"
         },
         {
           "speaker": "B",
           "it": "È alto, simpatico e parla inglese.",
           "en": "He's tall, nice, and speaks English.",
-          "ru": "Он высокий, приятный и говорит по-английски."
+          "ru": "Он высокий, приятный и говорит по-английски.",
+          "es": "Es alto, agradable y habla inglés."
         },
         {
           "speaker": "A",
           "it": "Ha gli occhiali?",
           "en": "Does he wear glasses?",
-          "ru": "Он носит очки?"
+          "ru": "Он носит очки?",
+          "es": "¿Usa gafas?"
         },
         {
           "speaker": "B",
           "it": "Sì, ha gli occhiali e i capelli scuri.",
           "en": "Yes, he wears glasses and has dark hair.",
-          "ru": "Да, носит очки и у него тёмные волосы."
+          "ru": "Да, носит очки и у него тёмные волосы.",
+          "es": "Sí, usa gafas y tiene el pelo oscuro."
         },
         {
           "speaker": "A",
           "it": "Bene. Ora facciamo i verbi.",
           "en": "Good. Now let's do the verbs.",
-          "ru": "Хорошо. Теперь давай глаголы."
+          "ru": "Хорошо. Теперь давай глаголы.",
+          "es": "Bien. Ahora hagamos los verbos."
         },
         {
           "speaker": "B",
           "it": "Va bene. Io vado, tu vai, lui va.",
           "en": "Okay. I go, you go, he goes.",
-          "ru": "Хорошо. Io vado, tu vai, lui va."
+          "ru": "Хорошо. Io vado, tu vai, lui va.",
+          "es": "Bueno. Yo voy, tú vas, él va."
         },
         {
           "speaker": "A",
           "it": "Noi andiamo, voi andate, loro vanno.",
           "en": "We go, you all go, they go.",
-          "ru": "Noi andiamo, voi andate, loro vanno."
+          "ru": "Noi andiamo, voi andate, loro vanno.",
+          "es": "Nosotros vamos, ustedes van, ellos van."
         },
         {
           "speaker": "B",
           "it": "Perfetto. E prendere?",
           "en": "Perfect. And prendere?",
-          "ru": "Отлично. А prendere?"
+          "ru": "Отлично. А prendere?",
+          "es": "Perfecto. ¿Y prenderé?"
         },
         {
           "speaker": "A",
           "it": "Io prendo, tu prendi, lui prende.",
           "en": "I take, you take, he takes.",
-          "ru": "Io prendo, tu prendi, lui prende."
+          "ru": "Io prendo, tu prendi, lui prende.",
+          "es": "Yo tomo, tú tomas, él toma."
         },
         {
           "speaker": "B",
           "it": "Dopo l'esame che cosa prendi al bar?",
           "en": "After the exam, what will you have at the bar?",
-          "ru": "После экзамена что возьмёшь в баре?"
+          "ru": "После экзамена что возьмёшь в баре?",
+          "es": "Después del examen, ¿qué tomarás en el bar?"
         },
         {
           "speaker": "A",
           "it": "Prendo un cappuccino e una brioche.",
           "en": "I'll have a cappuccino and a brioche.",
-          "ru": "Возьму капучино и бриошь."
+          "ru": "Возьму капучино и бриошь.",
+          "es": "Tomaré un capuchino y un brioche."
         },
         {
           "speaker": "B",
           "it": "Io prendo un caffè e un cornetto.",
           "en": "I'll have a coffee and a croissant.",
-          "ru": "Я возьму кофе и круассан."
+          "ru": "Я возьму кофе и круассан.",
+          "es": "Tomaré un café y un croissant."
         },
         {
           "speaker": "A",
           "it": "Se passiamo l'esame, offro io.",
           "en": "If we pass the exam, it's my treat.",
-          "ru": "Если сдадим экзамен, угощаю я."
+          "ru": "Если сдадим экзамен, угощаю я.",
+          "es": "Si aprobamos el examen, invito yo."
         },
         {
           "speaker": "B",
           "it": "D'accordo, allora dobbiamo passarlo!",
           "en": "Deal, then we have to pass it!",
-          "ru": "Договорились, тогда мы должны его сдать!"
+          "ru": "Договорились, тогда мы должны его сдать!",
+          "es": "¡Trato, entonces tenemos que pasarlo!"
         }
       ]
     }
@@ -603,7 +718,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -618,7 +734,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -633,7 +750,8 @@
       "infinitive": "stare",
       "translation": {
         "en": "to stay / to be (health)",
-        "ru": "находиться / чувствовать себя"
+        "ru": "находиться / чувствовать себя",
+        "es": "quedarse / estar (salud)"
       },
       "forms": {
         "io": "sto",
@@ -648,7 +766,8 @@
       "infinitive": "parlare",
       "translation": {
         "en": "to speak",
-        "ru": "говорить"
+        "ru": "говорить",
+        "es": "hablar"
       },
       "forms": {
         "io": "parlo",
@@ -663,7 +782,8 @@
       "infinitive": "chiamarsi",
       "translation": {
         "en": "to be called",
-        "ru": "называться / зваться"
+        "ru": "называться / зваться",
+        "es": "ser llamado"
       },
       "forms": {
         "io": "mi chiamo",
@@ -678,7 +798,8 @@
       "infinitive": "abitare",
       "translation": {
         "en": "to live / to reside",
-        "ru": "жить / проживать"
+        "ru": "жить / проживать",
+        "es": "vivir / residir"
       },
       "forms": {
         "io": "abito",
@@ -693,7 +814,8 @@
       "infinitive": "andare",
       "translation": {
         "en": "to go",
-        "ru": "идти / ехать"
+        "ru": "идти / ехать",
+        "es": "ir"
       },
       "forms": {
         "io": "vado",

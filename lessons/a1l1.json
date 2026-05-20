@@ -18,6 +18,11 @@
         "Знакомство",
         "Слова и буквы",
         "Фонетика: гласные"
+      ],
+      "es": [
+        "Conociendo",
+        "Palabras y letras",
+        "Fonética: vocales"
       ]
     }
   },
@@ -25,114 +30,136 @@
     {
       "category": {
         "en": "Phonetics",
-        "ru": "Фонетика"
+        "ru": "Фонетика",
+        "es": "Fonética"
       },
       "rule": {
         "en": "Italian vowel contrast",
-        "ru": "Различение итальянских гласных"
+        "ru": "Различение итальянских гласных",
+        "es": "Contraste de vocales italianas"
       },
       "description": {
         "en": "Italian vowels must be pronounced clearly because small vowel changes can change meaning or even gender.",
-        "ru": "Итальянские гласные необходимо произносить чётко, поскольку небольшие изменения в звучании гласной могут менять смысл слова или даже его род."
+        "ru": "Итальянские гласные необходимо произносить чётко, поскольку небольшие изменения в звучании гласной могут менять смысл слова или даже его род.",
+        "es": "Las vocales italianas deben pronunciarse con claridad porque pequeños cambios vocales pueden cambiar de significado o incluso de género."
       },
       "examples": [
         {
           "it": "colore / calore",
           "en": "color / heat",
-          "ru": "цвет / тепло"
+          "ru": "цвет / тепло",
+          "es": "color / calor"
         },
         {
           "it": "Paolo / Paola",
           "en": "male name / female name",
-          "ru": "мужское имя / женское имя"
+          "ru": "мужское имя / женское имя",
+          "es": "nombre masculino / nombre femenino"
         }
       ]
     },
     {
       "category": {
         "en": "Phonetics",
-        "ru": "Фонетика"
+        "ru": "Фонетика",
+        "es": "Fonética"
       },
       "rule": {
         "en": "Stressed final vowels with accents",
-        "ru": "Ударные конечные гласные с акцентом"
+        "ru": "Ударные конечные гласные с акцентом",
+        "es": "Vocales finales acentuadas con tildes"
       },
       "description": {
         "en": "Some Italian words carry a written accent on the final vowel, which signals the stressed syllable.",
-        "ru": "Некоторые итальянские слова имеют письменный акцент на последней гласной, который указывает на ударный слог."
+        "ru": "Некоторые итальянские слова имеют письменный акцент на последней гласной, который указывает на ударный слог.",
+        "es": "Algunas palabras italianas llevan un acento escrito en la vocal final, que señala la sílaba acentuada."
       },
       "examples": [
         {
           "it": "caffè",
           "en": "coffee",
-          "ru": "кофе"
+          "ru": "кофе",
+          "es": "café"
         },
         {
           "it": "città",
           "en": "city",
-          "ru": "город"
+          "ru": "город",
+          "es": "ciudad"
         }
       ]
     },
     {
       "category": {
         "en": "Orthography",
-        "ru": "Орфография"
+        "ru": "Орфография",
+        "es": "Ortografía"
       },
       "rule": {
         "en": "Italian spelling names letters and double consonants explicitly",
-        "ru": "Итальянское написание: буквы и двойные согласные"
+        "ru": "Итальянское написание: буквы и двойные согласные",
+        "es": "La ortografía italiana nombra explícitamente letras y consonantes dobles"
       },
       "description": {
         "en": "When spelling aloud, Italian uses letter names and marks double consonants with 'doppia' plus the consonant name.",
-        "ru": "При произнесении по буквам в итальянском используются названия букв, а двойные согласные обозначаются словом «doppia» и названием согласной."
+        "ru": "При произнесении по буквам в итальянском используются названия букв, а двойные согласные обозначаются словом «doppia» и названием согласной.",
+        "es": "Al deletrear en voz alta, el italiano utiliza nombres de letras y marca consonantes dobles con 'doppia' más el nombre de la consonante."
       },
       "examples": [
         {
           "it": "cappuccino",
           "en": "cappuccino",
-          "ru": "капучино"
+          "ru": "капучино",
+          "es": "capuchino"
         },
         {
           "it": "Bologna",
           "en": "Bologna",
-          "ru": "Болонья"
+          "ru": "Болонья",
+          "es": "Bolonia"
         }
       ]
     },
     {
       "category": {
         "en": "Orthography",
-        "ru": "Орфография"
+        "ru": "Орфография",
+        "es": "Ortografía"
       },
       "rule": {
         "en": "The sound of 'ci' in number words",
-        "ru": "Звучание «ci» в числительных"
+        "ru": "Звучание «ci» в числительных",
+        "es": "El sonido de 'ci' en palabras numéricas"
       },
       "description": {
         "en": "In words like 'cinque', 'dieci', 'undici' and 'dodici', 'ci' is pronounced with the [tʃ] sound.",
-        "ru": "В словах «cinque», «dieci», «undici» и «dodici» сочетание «ci» произносится как звук [tʃ]."
+        "ru": "В словах «cinque», «dieci», «undici» и «dodici» сочетание «ci» произносится как звук [tʃ].",
+        "es": "En palabras como 'cinque', 'dieci', 'undici' y 'dodici', 'ci' se pronuncia con el sonido [tʃ]."
       },
       "examples": [
         {
           "it": "cinque",
           "en": "five",
-          "ru": "пять"
+          "ru": "пять",
+          "es": "cinco"
         },
         {
           "it": "dieci",
           "en": "ten",
-          "ru": "десять"
+          "ru": "десять",
+          "es": "diez"
         },
         {
           "it": "undici",
           "en": "eleven",
-          "ru": "одиннадцать"
+          "ru": "одиннадцать",
+          "es": "once"
         },
         {
           "it": "dodici",
           "en": "twelve",
-          "ru": "двенадцать"
+          "ru": "двенадцать",
+          "es": "doce"
         }
       ]
     }
@@ -144,8 +171,10 @@
       "ru": "один",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "uno"
     },
     {
       "term": "due",
@@ -153,8 +182,10 @@
       "ru": "два",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "dos"
     },
     {
       "term": "tre",
@@ -162,8 +193,10 @@
       "ru": "три",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "tres"
     },
     {
       "term": "quattro",
@@ -171,8 +204,10 @@
       "ru": "четыре",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "cuatro"
     },
     {
       "term": "cinque",
@@ -180,8 +215,10 @@
       "ru": "пять",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "cinco"
     },
     {
       "term": "sei",
@@ -189,8 +226,10 @@
       "ru": "шесть",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "seis"
     },
     {
       "term": "sette",
@@ -198,8 +237,10 @@
       "ru": "семь",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "Siete"
     },
     {
       "term": "otto",
@@ -207,8 +248,10 @@
       "ru": "восемь",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "ocho"
     },
     {
       "term": "nove",
@@ -216,8 +259,10 @@
       "ru": "девять",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "nueve"
     },
     {
       "term": "dieci",
@@ -225,8 +270,10 @@
       "ru": "десять",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "diez"
     },
     {
       "term": "undici",
@@ -234,8 +281,10 @@
       "ru": "одиннадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "once"
     },
     {
       "term": "dodici",
@@ -243,8 +292,10 @@
       "ru": "двенадцать",
       "type": {
         "en": "number",
-        "ru": "числительное"
-      }
+        "ru": "числительное",
+        "es": "número"
+      },
+      "es": "doce"
     },
     {
       "term": "stazione",
@@ -252,8 +303,10 @@
       "ru": "станция, вокзал",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "estación"
     },
     {
       "term": "mare",
@@ -261,8 +314,10 @@
       "ru": "море",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "mar"
     },
     {
       "term": "gelato",
@@ -270,8 +325,10 @@
       "ru": "мороженое",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "helado"
     },
     {
       "term": "museo",
@@ -279,8 +336,10 @@
       "ru": "музей",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "museo"
     },
     {
       "term": "pasta",
@@ -288,8 +347,10 @@
       "ru": "паста",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "pastas"
     },
     {
       "term": "albergo",
@@ -297,8 +358,10 @@
       "ru": "гостиница",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "hotel"
     },
     {
       "term": "piazza",
@@ -306,8 +369,10 @@
       "ru": "площадь",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "cuadrado"
     },
     {
       "term": "vino",
@@ -315,8 +380,10 @@
       "ru": "вино",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "vino"
     },
     {
       "term": "mercato",
@@ -324,8 +391,10 @@
       "ru": "рынок",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "mercado"
     },
     {
       "term": "macchina",
@@ -333,8 +402,10 @@
       "ru": "машина, автомобиль",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "auto"
     },
     {
       "term": "opera",
@@ -342,8 +413,10 @@
       "ru": "опера",
       "type": {
         "en": "culture",
-        "ru": "культура"
-      }
+        "ru": "культура",
+        "es": "cultura"
+      },
+      "es": "ópera"
     },
     {
       "term": "treno",
@@ -351,8 +424,10 @@
       "ru": "поезд",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "tren"
     },
     {
       "term": "studente",
@@ -360,8 +435,10 @@
       "ru": "студент",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "alumno"
     },
     {
       "term": "insegnante",
@@ -369,8 +446,10 @@
       "ru": "учитель, преподаватель",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "maestro"
     },
     {
       "term": "leggere",
@@ -378,8 +457,10 @@
       "ru": "читать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "leer"
     },
     {
       "term": "parlare",
@@ -387,8 +468,10 @@
       "ru": "говорить, разговаривать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "hablar"
     },
     {
       "term": "ascoltare",
@@ -396,8 +479,10 @@
       "ru": "слушать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "escuchar"
     },
     {
       "term": "scrivere",
@@ -405,8 +490,10 @@
       "ru": "писать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "escribir"
     },
     {
       "term": "guardare",
@@ -414,8 +501,10 @@
       "ru": "смотреть, глядеть на",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "mirar, mirar"
     },
     {
       "term": "abbinare",
@@ -423,8 +512,10 @@
       "ru": "соединять, сопоставлять",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "para igualar"
     },
     {
       "term": "completare",
@@ -432,8 +523,10 @@
       "ru": "дополнять, заполнять",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "completar"
     },
     {
       "term": "sottolineare",
@@ -441,8 +534,10 @@
       "ru": "подчёркивать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "subrayar"
     },
     {
       "term": "pagina",
@@ -450,8 +545,10 @@
       "ru": "страница",
       "type": {
         "en": "classroom vocabulary",
-        "ru": "учебная лексика"
-      }
+        "ru": "учебная лексика",
+        "es": "vocabulario del aula"
+      },
+      "es": "página"
     },
     {
       "term": "esercizio",
@@ -459,70 +556,84 @@
       "ru": "упражнение",
       "type": {
         "en": "classroom vocabulary",
-        "ru": "учебная лексика"
-      }
+        "ru": "учебная лексика",
+        "es": "vocabulario del aula"
+      },
+      "es": "ejercicio"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Associate le parole alle immagini.",
       "en": "Match the words to the pictures.",
-      "ru": "Соедините слова с картинками."
+      "ru": "Соедините слова с картинками.",
+      "es": "Relaciona las palabras con las imágenes."
     },
     {
       "it": "Verificate i risultati.",
       "en": "Check the results.",
-      "ru": "Проверьте результаты."
+      "ru": "Проверьте результаты.",
+      "es": "Comprueba los resultados."
     },
     {
       "it": "Ordinate.",
       "en": "Put in order.",
-      "ru": "Упорядочьте."
+      "ru": "Упорядочьте.",
+      "es": "Ordenar."
     },
     {
       "it": "Ascoltate e ripetete.",
       "en": "Listen and repeat.",
-      "ru": "Слушайте и повторяйте."
+      "ru": "Слушайте и повторяйте.",
+      "es": "Escuche y repita."
     },
     {
       "it": "Leggete queste sigle in italiano.",
       "en": "Read these abbreviations in Italian.",
-      "ru": "Читайте эти аббревиатуры по-итальянски."
+      "ru": "Читайте эти аббревиатуры по-итальянски.",
+      "es": "Lea estas abreviaturas en italiano."
     },
     {
       "it": "Lavorate in coppia.",
       "en": "Work in pairs.",
-      "ru": "Работайте в парах."
+      "ru": "Работайте в парах.",
+      "es": "Trabajar en parejas."
     },
     {
       "it": "Fate lo spelling.",
       "en": "Spell it out.",
-      "ru": "Произносите по буквам."
+      "ru": "Произносите по буквам.",
+      "es": "Deletréelo."
     },
     {
       "it": "Seguite l'esempio.",
       "en": "Follow the example.",
-      "ru": "Следуйте примеру."
+      "ru": "Следуйте примеру.",
+      "es": "Sigue el ejemplo."
     },
     {
       "it": "Leggete le parole.",
       "en": "Read the words.",
-      "ru": "Читайте слова."
+      "ru": "Читайте слова.",
+      "es": "Lee las palabras."
     },
     {
       "it": "Occhio alle vocali!",
       "en": "Watch the vowels!",
-      "ru": "Следите за гласными!"
+      "ru": "Следите за гласными!",
+      "es": "¡Cuidado con las vocales!"
     },
     {
       "it": "Leggete.",
       "en": "Read.",
-      "ru": "Читайте."
+      "ru": "Читайте.",
+      "es": "Leer."
     },
     {
       "it": "Abbinate le parole alle immagini.",
       "en": "Match the words to the pictures.",
-      "ru": "Соедините слова с картинками."
+      "ru": "Соедините слова с картинками.",
+      "es": "Relaciona las palabras con las imágenes."
     }
   ],
   "dialogues": [
@@ -532,65 +643,75 @@
       "register": "informal",
       "context": {
         "en": "Two people meet for the first time and introduce themselves.",
-        "ru": "Двое людей встречаются впервые и знакомятся."
+        "ru": "Двое людей встречаются впервые и знакомятся.",
+        "es": "Dos personas se conocen por primera vez y se presentan."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao! Mi chiamo Luca. E tu?",
           "en": "Hi! My name is Luca. And you?",
-          "ru": "Привет! Меня зовут Лука. А тебя?"
+          "ru": "Привет! Меня зовут Лука. А тебя?",
+          "es": "¡Hola! Mi nombre es Lucas. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Ciao! Io sono Sofia. Piacere!",
           "en": "Hi! I am Sofia. Nice to meet you!",
-          "ru": "Привет! Я Софья. Приятно познакомиться!"
+          "ru": "Привет! Я Софья. Приятно познакомиться!",
+          "es": "¡Hola! Soy Sofía. ¡Encantado de conocerlo!"
         },
         {
           "speaker": "A",
           "it": "Piacere mio!",
           "en": "The pleasure is mine!",
-          "ru": "Мне тоже приятно!"
+          "ru": "Мне тоже приятно!",
+          "es": "¡El placer es mío!"
         },
         {
           "speaker": "B",
           "it": "Di dove sei, Luca?",
           "en": "Where are you from, Luca?",
-          "ru": "Откуда ты, Лука?"
+          "ru": "Откуда ты, Лука?",
+          "es": "¿De dónde eres, Lucas?"
         },
         {
           "speaker": "A",
           "it": "Sono italiano, di Roma. E tu?",
           "en": "I am Italian, from Rome. And you?",
-          "ru": "Я итальянец, из Рима. А ты?"
+          "ru": "Я итальянец, из Рима. А ты?",
+          "es": "Soy italiana, de Roma. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Sono spagnola, di Madrid.",
           "en": "I am Spanish, from Madrid.",
-          "ru": "Я испанка, из Мадрида."
+          "ru": "Я испанка, из Мадрида.",
+          "es": "Soy española, de Madrid."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Introduce yourself",
-            "ru": "Представиться"
+            "ru": "Представиться",
+            "es": "Preséntate"
           },
           "expected_it": "Mi chiamo … / Sono …"
         },
         {
           "cue": {
             "en": "Say nice to meet you",
-            "ru": "Сказать «приятно познакомиться»"
+            "ru": "Сказать «приятно познакомиться»",
+            "es": "decir encantado de conocerte"
           },
           "expected_it": "Piacere!"
         },
         {
           "cue": {
             "en": "Say where you are from",
-            "ru": "Сказать, откуда ты"
+            "ru": "Сказать, откуда ты",
+            "es": "Di de donde eres"
           },
           "expected_it": "Sono di …"
         }
@@ -602,188 +723,219 @@
       "register": "informal",
       "context": {
         "en": "Two students meet on the first day of Italian class, introduce themselves, and talk about origin and language level.",
-        "ru": "Два студента знакомятся в первый день курса итальянского, представляются и говорят о происхождении и уровне языка."
+        "ru": "Два студента знакомятся в первый день курса итальянского, представляются и говорят о происхождении и уровне языка.",
+        "es": "Dos estudiantes se reúnen el primer día de clase de italiano, se presentan y hablan sobre el origen y el nivel del idioma."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, buongiorno! Sei nella classe di italiano?",
           "en": "Hi, good morning! Are you in the Italian class?",
-          "ru": "Привет, доброе утро! Ты в классе итальянского?"
+          "ru": "Привет, доброе утро! Ты в классе итальянского?",
+          "es": "Hola buenos dias! ¿Estás en la clase de italiano?"
         },
         {
           "speaker": "B",
           "it": "Sì, sono nella classe A1. E tu?",
           "en": "Yes, I'm in the A1 class. And you?",
-          "ru": "Да, я в классе A1. А ты?"
+          "ru": "Да, я в классе A1. А ты?",
+          "es": "Sí, estoy en la clase A1. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Anch'io. Mi chiamo Luca.",
           "en": "Me too. My name is Luca.",
-          "ru": "Я тоже. Меня зовут Лука."
+          "ru": "Я тоже. Меня зовут Лука.",
+          "es": "Yo también. Mi nombre es Lucas."
         },
         {
           "speaker": "B",
           "it": "Piacere, Luca. Io mi chiamo Anna.",
           "en": "Nice to meet you, Luca. My name is Anna.",
-          "ru": "Приятно познакомиться, Лука. Меня зовут Анна."
+          "ru": "Приятно познакомиться, Лука. Меня зовут Анна.",
+          "es": "Encantado de conocerte, Lucas. Mi nombre es Ana."
         },
         {
           "speaker": "A",
           "it": "Piacere mio, Anna. Sei nuova qui?",
           "en": "My pleasure, Anna. Are you new here?",
-          "ru": "Мне тоже приятно, Анна. Ты здесь новенькая?"
+          "ru": "Мне тоже приятно, Анна. Ты здесь новенькая?",
+          "es": "Un placer, Ana. ¿Eres nuevo aquí?"
         },
         {
           "speaker": "B",
           "it": "Sì, sono nuova. E tu?",
           "en": "Yes, I'm new. And you?",
-          "ru": "Да, я новенькая. А ты?"
+          "ru": "Да, я новенькая. А ты?",
+          "es": "Sí, soy nuevo. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Sì, anche io sono nuovo.",
           "en": "Yes, I'm new too.",
-          "ru": "Да, я тоже новенький."
+          "ru": "Да, я тоже новенький.",
+          "es": "Sí, yo también soy nuevo."
         },
         {
           "speaker": "B",
           "it": "Di dove sei?",
           "en": "Where are you from?",
-          "ru": "Откуда ты?"
+          "ru": "Откуда ты?",
+          "es": "¿De dónde eres?"
         },
         {
           "speaker": "A",
           "it": "Sono italiano, di Roma. E tu?",
           "en": "I'm Italian, from Rome. And you?",
-          "ru": "Я итальянец, из Рима. А ты?"
+          "ru": "Я итальянец, из Рима. А ты?",
+          "es": "Soy italiano, de Roma. ¿Y tú?"
         },
         {
           "speaker": "B",
           "it": "Sono russa, di Mosca.",
           "en": "I'm Russian, from Moscow.",
-          "ru": "Я русская, из Москвы."
+          "ru": "Я русская, из Москвы.",
+          "es": "Soy rusa, de Moscú."
         },
         {
           "speaker": "A",
           "it": "Mosca è una città molto grande, vero?",
           "en": "Moscow is a very big city, right?",
-          "ru": "Москва — очень большой город, правда?"
+          "ru": "Москва — очень большой город, правда?",
+          "es": "Moscú es una ciudad muy grande, ¿verdad?"
         },
         {
           "speaker": "B",
           "it": "Sì, è grande e interessante. Roma è bella?",
           "en": "Yes, it's big and interesting. Is Rome beautiful?",
-          "ru": "Да, большой и интересный. Рим красивый?"
+          "ru": "Да, большой и интересный. Рим красивый?",
+          "es": "Sí, es grande e interesante. ¿Es hermosa Roma?"
         },
         {
           "speaker": "A",
           "it": "Sì, Roma è bellissima, ma è anche caotica.",
           "en": "Yes, Rome is very beautiful, but also chaotic.",
-          "ru": "Да, Рим очень красивый, но и хаотичный."
+          "ru": "Да, Рим очень красивый, но и хаотичный.",
+          "es": "Sí, Roma es muy hermosa, pero también caótica."
         },
         {
           "speaker": "B",
           "it": "Capisco. Parli inglese?",
           "en": "I see. Do you speak English?",
-          "ru": "Понятно. Ты говоришь по-английски?"
+          "ru": "Понятно. Ты говоришь по-английски?",
+          "es": "Veo. ¿Hablas inglés?"
         },
         {
           "speaker": "A",
           "it": "Sì, parlo inglese e un po' spagnolo.",
           "en": "Yes, I speak English and a little Spanish.",
-          "ru": "Да, говорю по-английски и немного по-испански."
+          "ru": "Да, говорю по-английски и немного по-испански.",
+          "es": "Sí, hablo inglés y un poco de español."
         },
         {
           "speaker": "B",
           "it": "Io parlo russo, inglese e poco italiano.",
           "en": "I speak Russian, English, and a little Italian.",
-          "ru": "Я говорю по-русски, по-английски и немного по-итальянски."
+          "ru": "Я говорю по-русски, по-английски и немного по-итальянски.",
+          "es": "Hablo ruso, inglés y un poco de italiano."
         },
         {
           "speaker": "A",
           "it": "Studi italiano da molto tempo?",
           "en": "Have you been studying Italian for a long time?",
-          "ru": "Ты давно учишь итальянский?"
+          "ru": "Ты давно учишь итальянский?",
+          "es": "¿Llevas mucho tiempo estudiando italiano?"
         },
         {
           "speaker": "B",
           "it": "No, studio italiano da due settimane.",
           "en": "No, I've been studying Italian for two weeks.",
-          "ru": "Нет, я учу итальянский две недели."
+          "ru": "Нет, я учу итальянский две недели.",
+          "es": "No, llevo dos semanas estudiando italiano."
         },
         {
           "speaker": "A",
           "it": "Allora parli già bene.",
           "en": "Then you already speak well.",
-          "ru": "Тогда ты уже хорошо говоришь."
+          "ru": "Тогда ты уже хорошо говоришь.",
+          "es": "Entonces ya hablas bien."
         },
         {
           "speaker": "B",
           "it": "Grazie, ma faccio molti errori.",
           "en": "Thanks, but I make many mistakes.",
-          "ru": "Спасибо, но я делаю много ошибок."
+          "ru": "Спасибо, но я делаю много ошибок.",
+          "es": "Gracias, pero cometo muchos errores."
         },
         {
           "speaker": "A",
           "it": "Anch'io. Gli errori sono normali.",
           "en": "Me too. Mistakes are normal.",
-          "ru": "Я тоже. Ошибки — это нормально."
+          "ru": "Я тоже. Ошибки — это нормально.",
+          "es": "Yo también. Los errores son normales."
         },
         {
           "speaker": "B",
           "it": "Hai il libro?",
           "en": "Do you have the book?",
-          "ru": "У тебя есть учебник?"
+          "ru": "У тебя есть учебник?",
+          "es": "Tienes el libro?"
         },
         {
           "speaker": "A",
           "it": "Sì, ho il libro e il quaderno.",
           "en": "Yes, I have the book and the notebook.",
-          "ru": "Да, у меня есть учебник и тетрадь."
+          "ru": "Да, у меня есть учебник и тетрадь.",
+          "es": "Sí, tengo el libro y el cuaderno."
         },
         {
           "speaker": "B",
           "it": "Io ho il libro, ma non ho una penna.",
           "en": "I have the book, but I don't have a pen.",
-          "ru": "У меня есть учебник, но нет ручки."
+          "ru": "У меня есть учебник, но нет ручки.",
+          "es": "Tengo el libro, pero no tengo bolígrafo."
         },
         {
           "speaker": "A",
           "it": "Vuoi una penna?",
           "en": "Do you want a pen?",
-          "ru": "Хочешь ручку?"
+          "ru": "Хочешь ручку?",
+          "es": "¿Quieres un bolígrafo?"
         },
         {
           "speaker": "B",
           "it": "Sì, grazie mille.",
           "en": "Yes, thank you very much.",
-          "ru": "Да, большое спасибо."
+          "ru": "Да, большое спасибо.",
+          "es": "Sí, muchas gracias."
         },
         {
           "speaker": "A",
           "it": "Prego. Vuoi sederti qui?",
           "en": "You're welcome. Do you want to sit here?",
-          "ru": "Пожалуйста. Хочешь сесть здесь?"
+          "ru": "Пожалуйста. Хочешь сесть здесь?",
+          "es": "De nada. ¿Quieres sentarte aquí?"
         },
         {
           "speaker": "B",
           "it": "Sì, volentieri.",
           "en": "Yes, gladly.",
-          "ru": "Да, с удовольствием."
+          "ru": "Да, с удовольствием.",
+          "es": "Sí, con mucho gusto."
         },
         {
           "speaker": "A",
           "it": "Bene, comincia la lezione.",
           "en": "Good, the lesson is starting.",
-          "ru": "Хорошо, урок начинается."
+          "ru": "Хорошо, урок начинается.",
+          "es": "Bien, la lección está comenzando."
         },
         {
           "speaker": "B",
           "it": "Buona lezione, Luca!",
           "en": "Have a good lesson, Luca!",
-          "ru": "Хорошего урока, Лука!"
+          "ru": "Хорошего урока, Лука!",
+          "es": "¡Que tengas una buena lección, Luca!"
         }
       ]
     },
@@ -793,152 +945,177 @@
       "register": "informal",
       "context": {
         "en": "Two students prepare for class and review classroom objects and numbers.",
-        "ru": "Два студента готовятся к уроку и повторяют предметы в классе и числа."
+        "ru": "Два студента готовятся к уроку и повторяют предметы в классе и числа.",
+        "es": "Dos estudiantes se preparan para la clase y revisan los objetos y números del aula."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, hai il libro?",
           "en": "Hi, do you have the book?",
-          "ru": "Привет, у тебя есть учебник?"
+          "ru": "Привет, у тебя есть учебник?",
+          "es": "Hola, tienes el libro?"
         },
         {
           "speaker": "B",
           "it": "Sì, ho il libro. E tu?",
           "en": "Yes, I have the book. And you?",
-          "ru": "Да, есть. А у тебя?"
+          "ru": "Да, есть. А у тебя?",
+          "es": "Sí, tengo el libro. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Ho il libro, ma non ho il quaderno.",
           "en": "I have the book, but I don't have the notebook.",
-          "ru": "У меня есть учебник, но нет тетради."
+          "ru": "У меня есть учебник, но нет тетради.",
+          "es": "Tengo el libro, pero no tengo el cuaderno."
         },
         {
           "speaker": "B",
           "it": "Vuoi un foglio?",
           "en": "Do you want a sheet of paper?",
-          "ru": "Хочешь листок?"
+          "ru": "Хочешь листок?",
+          "es": "¿Quieres una hoja de papel?"
         },
         {
           "speaker": "A",
           "it": "Sì, grazie.",
           "en": "Yes, thanks.",
-          "ru": "Да, спасибо."
+          "ru": "Да, спасибо.",
+          "es": "Sí, gracias."
         },
         {
           "speaker": "B",
           "it": "Hai una penna?",
           "en": "Do you have a pen?",
-          "ru": "У тебя есть ручка?"
+          "ru": "У тебя есть ручка?",
+          "es": "¿Tienes un bolígrafo?"
         },
         {
           "speaker": "A",
           "it": "No, ho solo una matita.",
           "en": "No, I only have a pencil.",
-          "ru": "Нет, у меня только карандаш."
+          "ru": "Нет, у меня только карандаш.",
+          "es": "No, sólo tengo un lápiz."
         },
         {
           "speaker": "B",
           "it": "Ho una penna in più.",
           "en": "I have an extra pen.",
-          "ru": "У меня есть лишняя ручка."
+          "ru": "У меня есть лишняя ручка.",
+          "es": "Tengo un bolígrafo extra."
         },
         {
           "speaker": "A",
           "it": "Grazie mille.",
           "en": "Thank you very much.",
-          "ru": "Большое спасибо."
+          "ru": "Большое спасибо.",
+          "es": "Muchas gracias."
         },
         {
           "speaker": "B",
           "it": "Di nulla.",
           "en": "You're welcome.",
-          "ru": "Не за что."
+          "ru": "Не за что.",
+          "es": "De nada."
         },
         {
           "speaker": "A",
           "it": "Qual è il numero dell'aula?",
           "en": "What's the classroom number?",
-          "ru": "Какой номер аудитории?"
+          "ru": "Какой номер аудитории?",
+          "es": "¿Cuál es el número del salón de clases?"
         },
         {
           "speaker": "B",
           "it": "È l'aula ventitré.",
           "en": "It's classroom twenty-three.",
-          "ru": "Аудитория двадцать три."
+          "ru": "Аудитория двадцать три.",
+          "es": "Es el aula veintitrés."
         },
         {
           "speaker": "A",
           "it": "Ventitré? Io pensavo aula tredici.",
           "en": "Twenty-three? I thought it was classroom thirteen.",
-          "ru": "Двадцать три? Я думал, аудитория тринадцать."
+          "ru": "Двадцать три? Я думал, аудитория тринадцать.",
+          "es": "¿Veintitrés? Pensé que era el aula trece."
         },
         {
           "speaker": "B",
           "it": "No, oggi siamo nell'aula ventitré.",
           "en": "No, today we're in classroom twenty-three.",
-          "ru": "Нет, сегодня мы в аудитории двадцать три."
+          "ru": "Нет, сегодня мы в аудитории двадцать три.",
+          "es": "No, hoy estamos en el aula veintitrés."
         },
         {
           "speaker": "A",
           "it": "Quanti studenti ci sono?",
           "en": "How many students are there?",
-          "ru": "Сколько студентов?"
+          "ru": "Сколько студентов?",
+          "es": "¿Cuantos estudiantes hay?"
         },
         {
           "speaker": "B",
           "it": "Ci sono dodici studenti.",
           "en": "There are twelve students.",
-          "ru": "Двенадцать студентов."
+          "ru": "Двенадцать студентов.",
+          "es": "Hay doce estudiantes."
         },
         {
           "speaker": "A",
           "it": "La professoressa è già qui?",
           "en": "Is the professor already here?",
-          "ru": "Преподавательница уже здесь?"
+          "ru": "Преподавательница уже здесь?",
+          "es": "¿El profesor ya está aquí?"
         },
         {
           "speaker": "B",
           "it": "Sì, è vicino alla lavagna.",
           "en": "Yes, she's near the whiteboard.",
-          "ru": "Да, она у доски."
+          "ru": "Да, она у доски.",
+          "es": "Sí, está cerca de la pizarra."
         },
         {
           "speaker": "A",
           "it": "Hai il dizionario?",
           "en": "Do you have the dictionary?",
-          "ru": "У тебя есть словарь?"
+          "ru": "У тебя есть словарь?",
+          "es": "¿Tienes el diccionario?"
         },
         {
           "speaker": "B",
           "it": "Sì, ma uso anche il cellulare.",
           "en": "Yes, but I also use my phone.",
-          "ru": "Да, но я ещё пользуюсь телефоном."
+          "ru": "Да, но я ещё пользуюсь телефоном.",
+          "es": "Sí, pero también uso mi teléfono."
         },
         {
           "speaker": "A",
           "it": "Io preferisco il libro.",
           "en": "I prefer the book.",
-          "ru": "Я предпочитаю книгу."
+          "ru": "Я предпочитаю книгу.",
+          "es": "Prefiero el libro."
         },
         {
           "speaker": "B",
           "it": "Va bene. La lezione comincia.",
           "en": "Okay. The lesson is starting.",
-          "ru": "Хорошо. Урок начинается."
+          "ru": "Хорошо. Урок начинается.",
+          "es": "Bueno. La lección está comenzando."
         },
         {
           "speaker": "A",
           "it": "Allora sediamoci.",
           "en": "Then let's sit down.",
-          "ru": "Тогда давай сядем."
+          "ru": "Тогда давай сядем.",
+          "es": "Entonces sentémonos."
         },
         {
           "speaker": "B",
           "it": "Sì, buona lezione.",
           "en": "Yes, have a good lesson.",
-          "ru": "Да, хорошего урока."
+          "ru": "Да, хорошего урока.",
+          "es": "Sí, que tengas una buena lección."
         }
       ]
     }
@@ -948,7 +1125,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -963,7 +1141,8 @@
       "infinitive": "chiamarsi",
       "translation": {
         "en": "to be called",
-        "ru": "называться / зваться"
+        "ru": "называться / зваться",
+        "es": "ser llamado"
       },
       "forms": {
         "io": "mi chiamo",

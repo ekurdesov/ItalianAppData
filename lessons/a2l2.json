@@ -21,6 +21,12 @@
         "Прилагательные национальности во множественном числе",
         "Коммуникативное задание: представить кого-то",
         "Фонетика: gli - gn, sc"
+      ],
+      "es": [
+        "Comprensión auditiva: Hola, soy Alice.",
+        "Adjetivos de nacionalidad plural",
+        "Actividad comunicativa: presentar a alguien.",
+        "Fonética: gli - gn, sc"
       ]
     }
   },
@@ -28,220 +34,261 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Nationality adjectives in the plural",
-        "ru": "Прилагательные национальности во множественном числе"
+        "ru": "Прилагательные национальности во множественном числе",
+        "es": "Adjetivos de nacionalidad en plural"
       },
       "description": {
         "en": "Nationality adjectives agree with the noun in gender and number, including plural forms.",
-        "ru": "Прилагательные национальности согласуются с существительным по роду и числу, в том числе во множественном числе."
+        "ru": "Прилагательные национальности согласуются с существительным по роду и числу, в том числе во множественном числе.",
+        "es": "Los adjetivos de nacionalidad concuerdan con el sustantivo en género y número, incluidas las formas plurales."
       },
       "examples": [
         {
           "it": "tedeschi / tedesche",
           "en": "German men / German women",
-          "ru": "немцы / немки"
+          "ru": "немцы / немки",
+          "es": "Hombres alemanes / mujeres alemanas"
         },
         {
           "it": "italiani / italiane",
           "en": "Italian men / Italian women",
-          "ru": "итальянцы / итальянки"
+          "ru": "итальянцы / итальянки",
+          "es": "Hombres italianos / mujeres italianas"
         },
         {
           "it": "francesi",
           "en": "French (plural)",
-          "ru": "французы / француженки (множественное число)"
+          "ru": "французы / француженки (множественное число)",
+          "es": "francés (plural)"
         },
         {
           "it": "inglesi",
           "en": "English (plural)",
-          "ru": "англичане / англичанки (множественное число)"
+          "ru": "англичане / англичанки (множественное число)",
+          "es": "Inglés (plural)"
         },
         {
           "it": "americani / americane",
           "en": "American men / American women",
-          "ru": "американцы / американки"
+          "ru": "американцы / американки",
+          "es": "Hombres americanos/mujeres americanas"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Asking and stating origin",
-        "ru": "Вопрос о происхождении и ответ на него"
+        "ru": "Вопрос о происхождении и ответ на него",
+        "es": "Preguntar y declarar origen"
       },
       "description": {
         "en": "Italian distinguishes informal 'tu' and formal 'Lei' when asking where someone is from.",
-        "ru": "В итальянском языке различаются неформальное обращение «tu» и формальное «Lei» при вопросе о происхождении."
+        "ru": "В итальянском языке различаются неформальное обращение «tu» и формальное «Lei» при вопросе о происхождении.",
+        "es": "El italiano distingue el 'tu' informal y el 'Lei' formal cuando se pregunta de dónde es alguien."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Di dove sei?",
           "en": "Where are you from?",
-          "ru": "Откуда ты?"
+          "ru": "Откуда ты?",
+          "es": "¿De dónde eres?"
         },
         {
           "context": "formal",
           "it": "Di dov'è?",
           "en": "Where are you from? (formal)",
-          "ru": "Откуда вы? (официально)"
+          "ru": "Откуда вы? (официально)",
+          "es": "¿De dónde eres? (formal)"
         },
         {
           "context": "answer",
           "it": "Sono italiano.",
           "en": "I am Italian.",
-          "ru": "Я итальянец."
+          "ru": "Я итальянец.",
+          "es": "Soy italiano."
         },
         {
           "context": "answer",
           "it": "Sono di Milano.",
           "en": "I am from Milan.",
-          "ru": "Я из Милана."
+          "ru": "Я из Милана.",
+          "es": "Soy de Milán."
         },
         {
           "context": "answer",
           "it": "Sono italiano, di Milano.",
           "en": "I am Italian, from Milan.",
-          "ru": "Я итальянец, из Милана."
+          "ru": "Я итальянец, из Милана.",
+          "es": "Soy italiana, de Milán."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Demonstratives: questo, questa, questi, queste",
-        "ru": "Указательные местоимения: questo, questa, questi, queste"
+        "ru": "Указательные местоимения: questo, questa, questi, queste",
+        "es": "Demostrativos: questo, questa, questi, queste"
       },
       "description": {
         "en": "Italian demonstratives agree in gender and number with the noun they refer to.",
-        "ru": "Указательные местоимения в итальянском языке согласуются с существительным по роду и числу."
+        "ru": "Указательные местоимения в итальянском языке согласуются с существительным по роду и числу.",
+        "es": "Los demostrativos italianos concuerdan en género y número con el sustantivo al que se refieren."
       },
       "examples": [
         {
           "it": "Questo è Mario.",
           "en": "This is Mario.",
-          "ru": "Это Марио."
+          "ru": "Это Марио.",
+          "es": "Este es Mario."
         },
         {
           "it": "Questi sono Mario e Valerio.",
           "en": "These are Mario and Valerio.",
-          "ru": "Это Марио и Валерио."
+          "ru": "Это Марио и Валерио.",
+          "es": "Estos son Mario y Valerio."
         },
         {
           "it": "Questa è Stefania.",
           "en": "This is Stefania.",
-          "ru": "Это Стефания."
+          "ru": "Это Стефания.",
+          "es": "Esta es Stefanía."
         },
         {
           "it": "Queste sono Stefania e Sofia.",
           "en": "These are Stefania and Sofia.",
-          "ru": "Это Стефания и София."
+          "ru": "Это Стефания и София.",
+          "es": "Estas son Stefania y Sofía."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Introducing people: formal vs informal",
-        "ru": "Представление людей: официально и неформально"
+        "ru": "Представление людей: официально и неформально",
+        "es": "Presentación de personas: formal versus informal"
       },
       "description": {
         "en": "Italian uses different formulas for presenting someone in informal and formal situations.",
-        "ru": "В итальянском языке используются разные формулы представления в неформальных и официальных ситуациях."
+        "ru": "В итальянском языке используются разные формулы представления в неформальных и официальных ситуациях.",
+        "es": "El italiano utiliza diferentes fórmulas para presentar a alguien en situaciones formales e informales."
       },
       "examples": [
         {
           "context": "informal",
           "it": "Ti presento Mario.",
           "en": "Let me introduce Mario to you.",
-          "ru": "Познакомься, это Марио."
+          "ru": "Познакомься, это Марио.",
+          "es": "Déjame presentarte a Mario."
         },
         {
           "context": "informal",
           "it": "Lui/Questo è Mario.",
           "en": "He/This is Mario.",
-          "ru": "Он / Это Марио."
+          "ru": "Он / Это Марио.",
+          "es": "Él/Este es Mario."
         },
         {
           "context": "informal",
           "it": "Lei/Questa è Maria.",
           "en": "She/This is Maria.",
-          "ru": "Она / Это Мария."
+          "ru": "Она / Это Мария.",
+          "es": "Ella/Esta es María."
         },
         {
           "context": "formal",
           "it": "Le presento il signor Bianchi.",
           "en": "Let me introduce Mr. Bianchi to you.",
-          "ru": "Позвольте представить господина Бьянки."
+          "ru": "Позвольте представить господина Бьянки.",
+          "es": "Déjame presentarte al Sr. Bianchi."
         },
         {
           "context": "formal",
           "it": "Lei/Questa è la signora Bianchi.",
           "en": "She/This is Mrs. Bianchi.",
-          "ru": "Она / Это госпожа Бьянки."
+          "ru": "Она / Это госпожа Бьянки.",
+          "es": "Ella/Esta es la señora Bianchi."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Titles of courtesy",
-        "ru": "Вежливые обращения"
+        "ru": "Вежливые обращения",
+        "es": "Títulos de cortesía"
       },
       "description": {
         "en": "Use 'signor' and 'signora' as polite titles before surnames or in formal address.",
-        "ru": "«Signor» и «signora» используются как вежливые обращения перед фамилией или при официальном обращении."
+        "ru": "«Signor» и «signora» используются как вежливые обращения перед фамилией или при официальном обращении.",
+        "es": "Utilice 'signor' y 'signora' como títulos corteses antes de los apellidos o en un discurso formal."
       },
       "examples": [
         {
           "it": "Questo è il signor Rossi.",
           "en": "This is Mr. Rossi.",
-          "ru": "Это господин Росси."
+          "ru": "Это господин Росси.",
+          "es": "Este es el señor Rossi."
         },
         {
           "it": "Questa è la signora Rossi.",
           "en": "This is Mrs. Rossi.",
-          "ru": "Это госпожа Росси."
+          "ru": "Это госпожа Росси.",
+          "es": "Esta es la señora Rossi."
         },
         {
           "it": "Buonasera, signor Rossi!",
           "en": "Good evening, Mr. Rossi!",
-          "ru": "Добрый вечер, господин Росси!"
+          "ru": "Добрый вечер, господин Росси!",
+          "es": "¡Buenas noches, señor Rossi!"
         },
         {
           "it": "Buonasera, signora Rossi!",
           "en": "Good evening, Mrs. Rossi!",
-          "ru": "Добрый вечер, госпожа Росси!"
+          "ru": "Добрый вечер, госпожа Росси!",
+          "es": "¡Buenas noches señora Rossi!"
         }
       ]
     },
     {
       "category": {
         "en": "Phonetics",
-        "ru": "Фонетика"
+        "ru": "Фонетика",
+        "es": "Fonética"
       },
       "rule": {
         "en": "Sounds of l, gli, gn, and nasal n before c/q/g",
-        "ru": "Звуки l, gli, gn и носовой n перед c/q/g"
+        "ru": "Звуки l, gli, gn и носовой n перед c/q/g",
+        "es": "Sonidos de l, gli, gn y n nasal antes de c/q/g"
       },
       "description": {
         "en": "The lesson contrasts plain 'l', palatal 'gli', palatal nasal 'gn', and nasal assimilation before certain consonants.",
-        "ru": "На занятии сравниваются обычный звук «l», палатальный «gli», палатальный носовой «gn» и носовая ассимиляция перед определёнными согласными."
+        "ru": "На занятии сравниваются обычный звук «l», палатальный «gli», палатальный носовой «gn» и носовая ассимиляция перед определёнными согласными.",
+        "es": "La lección contrasta la 'l' simple, la 'gli' palatina, la 'gn' nasal palatina y la asimilación nasal antes de ciertas consonantes."
       }
     }
   ],
@@ -252,8 +299,10 @@
       "ru": "любимое мороженое",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "helado favorito"
     },
     {
       "term": "di dove sei?",
@@ -261,8 +310,10 @@
       "ru": "откуда ты?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿de dónde eres?"
     },
     {
       "term": "di dov'è?",
@@ -270,8 +321,10 @@
       "ru": "откуда вы? (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿de dónde eres? (formal)"
     },
     {
       "term": "italiano/a",
@@ -279,8 +332,10 @@
       "ru": "итальянец / итальянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "italiano"
     },
     {
       "term": "francese",
@@ -288,8 +343,10 @@
       "ru": "французский / французская",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Francés"
     },
     {
       "term": "tedesco/a",
@@ -297,8 +354,10 @@
       "ru": "немец / немка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Alemán"
     },
     {
       "term": "inglese",
@@ -306,8 +365,10 @@
       "ru": "английский / английская",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Inglés"
     },
     {
       "term": "americano/a",
@@ -315,8 +376,10 @@
       "ru": "американец / американка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Americano"
     },
     {
       "term": "statunitense",
@@ -324,8 +387,10 @@
       "ru": "гражданин / гражданка США",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "estadounidense"
     },
     {
       "term": "russo/a",
@@ -333,8 +398,10 @@
       "ru": "русский / русская",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "ruso"
     },
     {
       "term": "brasiliano/a",
@@ -342,8 +409,10 @@
       "ru": "бразилец / бразильянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "brasileño"
     },
     {
       "term": "polacco/a",
@@ -351,8 +420,10 @@
       "ru": "поляк / полячка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Polaco"
     },
     {
       "term": "argentino/a",
@@ -360,8 +431,10 @@
       "ru": "аргентинец / аргентинка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "argentino"
     },
     {
       "term": "spagnolo/a",
@@ -369,8 +442,10 @@
       "ru": "испанец / испанка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Español"
     },
     {
       "term": "greco/a",
@@ -378,8 +453,10 @@
       "ru": "грек / гречанка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Griego"
     },
     {
       "term": "romeno/a",
@@ -387,8 +464,10 @@
       "ru": "румын / румынка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "rumano"
     },
     {
       "term": "filippino/a",
@@ -396,8 +475,10 @@
       "ru": "филиппинец / филиппинка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "filipino"
     },
     {
       "term": "canadese",
@@ -405,8 +486,10 @@
       "ru": "канадец / канадка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "canadiense"
     },
     {
       "term": "turco/a",
@@ -414,8 +497,10 @@
       "ru": "турок / турчанка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "turco"
     },
     {
       "term": "svedese",
@@ -423,8 +508,10 @@
       "ru": "швед / шведка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "sueco"
     },
     {
       "term": "svizzero/a",
@@ -432,8 +519,10 @@
       "ru": "швейцарец / швейцарка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "suizo"
     },
     {
       "term": "cinese",
@@ -441,8 +530,10 @@
       "ru": "китаец / китаянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "Chino"
     },
     {
       "term": "indiano/a",
@@ -450,8 +541,10 @@
       "ru": "индиец / индианка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "indio"
     },
     {
       "term": "arabo/a",
@@ -459,8 +552,10 @@
       "ru": "араб / арабка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "árabe"
     },
     {
       "term": "giapponese",
@@ -468,8 +563,10 @@
       "ru": "японец / японка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "japonés"
     },
     {
       "term": "austriaco/a",
@@ -477,8 +574,10 @@
       "ru": "австриец / австрийка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "austriaco"
     },
     {
       "term": "portoghese",
@@ -486,8 +585,10 @@
       "ru": "португалец / португалка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "portugués"
     },
     {
       "term": "messicano/a",
@@ -495,8 +596,10 @@
       "ru": "мексиканец / мексиканка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "mexicano"
     },
     {
       "term": "coreano/a",
@@ -504,8 +607,10 @@
       "ru": "кореец / кореянка",
       "type": {
         "en": "nationality",
-        "ru": "национальность"
-      }
+        "ru": "национальность",
+        "es": "nacionalidad"
+      },
+      "es": "coreano"
     },
     {
       "term": "questo",
@@ -513,8 +618,10 @@
       "ru": "этот (мужской род, единственное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное местоимение"
-      }
+        "ru": "указательное местоимение",
+        "es": "demostrativo"
+      },
+      "es": "esto (masculino singular)"
     },
     {
       "term": "questa",
@@ -522,8 +629,10 @@
       "ru": "эта (женский род, единственное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное местоимение"
-      }
+        "ru": "указательное местоимение",
+        "es": "demostrativo"
+      },
+      "es": "esto (femenino singular)"
     },
     {
       "term": "questi",
@@ -531,8 +640,10 @@
       "ru": "эти (мужской род, множественное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное местоимение"
-      }
+        "ru": "указательное местоимение",
+        "es": "demostrativo"
+      },
+      "es": "estos (plural masculino)"
     },
     {
       "term": "queste",
@@ -540,8 +651,10 @@
       "ru": "эти (женский род, множественное число)",
       "type": {
         "en": "demonstrative",
-        "ru": "указательное местоимение"
-      }
+        "ru": "указательное местоимение",
+        "es": "demostrativo"
+      },
+      "es": "estos (plural femenino)"
     },
     {
       "term": "signor",
@@ -549,8 +662,10 @@
       "ru": "господин (г-н)",
       "type": {
         "en": "courtesy title",
-        "ru": "вежливое обращение"
-      }
+        "ru": "вежливое обращение",
+        "es": "título de cortesía"
+      },
+      "es": "Señor."
     },
     {
       "term": "signora",
@@ -558,8 +673,10 @@
       "ru": "госпожа (г-жа)",
       "type": {
         "en": "courtesy title",
-        "ru": "вежливое обращение"
-      }
+        "ru": "вежливое обращение",
+        "es": "título de cortesía"
+      },
+      "es": "Señora.; EM."
     },
     {
       "term": "ti presento",
@@ -567,8 +684,10 @@
       "ru": "познакомься, это... / разреши представить...",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "déjame presentarte..."
     },
     {
       "term": "le presento",
@@ -576,8 +695,10 @@
       "ru": "позвольте представить... (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "déjame presentarte... (formal)"
     },
     {
       "term": "piacere di conoscerti",
@@ -585,8 +706,10 @@
       "ru": "приятно познакомиться (неформально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "encantado de conocerte (informal)"
     },
     {
       "term": "piacere di conoscerla",
@@ -594,8 +717,10 @@
       "ru": "приятно познакомиться (официально)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "encantado de conocerte (formal)"
     },
     {
       "term": "molto lieto/a",
@@ -603,8 +728,10 @@
       "ru": "очень рад / очень рада",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "muy contento"
     },
     {
       "term": "famiglia",
@@ -612,8 +739,10 @@
       "ru": "семья",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "familia"
     },
     {
       "term": "figlio",
@@ -621,8 +750,10 @@
       "ru": "сын",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "hijo"
     },
     {
       "term": "figlia",
@@ -630,8 +761,10 @@
       "ru": "дочь",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "hija"
     },
     {
       "term": "bottiglia",
@@ -639,8 +772,10 @@
       "ru": "бутылка",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "botella"
     },
     {
       "term": "signora",
@@ -648,8 +783,10 @@
       "ru": "госпожа",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "señora; Señora."
     },
     {
       "term": "bagno",
@@ -657,8 +794,10 @@
       "ru": "ванная комната",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "baño"
     },
     {
       "term": "sogno",
@@ -666,8 +805,10 @@
       "ru": "сон; мечта",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "sueño"
     },
     {
       "term": "insegnante",
@@ -675,8 +816,10 @@
       "ru": "учитель",
       "type": {
         "en": "people",
-        "ru": "люди"
-      }
+        "ru": "люди",
+        "es": "gente"
+      },
+      "es": "maestro"
     },
     {
       "term": "lingua",
@@ -684,8 +827,10 @@
       "ru": "язык",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "idioma"
     },
     {
       "term": "banca",
@@ -693,8 +838,10 @@
       "ru": "банк",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "banco"
     },
     {
       "term": "non sei [nazionalità], vero?",
@@ -702,8 +849,10 @@
       "ru": "ты ведь не [национальность], правда? (разделительный вопрос)",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "no eres [nacionalidad], ¿verdad? (pregunta de etiqueta)"
     },
     {
       "term": "bellissimo/a",
@@ -711,8 +860,10 @@
       "ru": "очень красивый / очень красивая",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "muy hermoso; espléndido"
     },
     {
       "term": "È una città bellissima!",
@@ -720,8 +871,10 @@
       "ru": "Это очень красивый город!",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¡Es una ciudad hermosa!"
     },
     {
       "term": "livornese",
@@ -729,8 +882,10 @@
       "ru": "из Ливорно",
       "type": {
         "en": "vocabulary",
-        "ru": "лексика"
-      }
+        "ru": "лексика",
+        "es": "vocabulario"
+      },
+      "es": "desde Livorno"
     },
     {
       "term": "di dove sei? non sei ..., vero?",
@@ -738,60 +893,72 @@
       "ru": "модель разделительного вопроса о национальности",
       "type": {
         "en": "grammar note",
-        "ru": "грамматическая заметка"
-      }
+        "ru": "грамматическая заметка",
+        "es": "nota de gramática"
+      },
+      "es": "patrón de pregunta de etiqueta para la nacionalidad"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Заполните / дополните."
+      "ru": "Заполните / дополните.",
+      "es": "Completo."
     },
     {
       "it": "Usate il dialogo come modello.",
       "en": "Use the dialogue as a model.",
-      "ru": "Используйте диалог как образец."
+      "ru": "Используйте диалог как образец.",
+      "es": "Utilice el diálogo como modelo."
     },
     {
       "it": "Ascoltate.",
       "en": "Listen.",
-      "ru": "Слушайте."
+      "ru": "Слушайте.",
+      "es": "Escuchar."
     },
     {
       "it": "Ascoltate la nazionalità di alcuni studenti di Carla.",
       "en": "Listen to the nationality of some of Carla's students.",
-      "ru": "Послушайте, какой национальности некоторые студенты Карлы."
+      "ru": "Послушайте, какой национальности некоторые студенты Карлы.",
+      "es": "Escuche la nacionalidad de algunos de los alumnos de Carla."
     },
     {
       "it": "Trovate gli aggettivi che sentite nel parolone sotto.",
       "en": "Find the adjectives you hear in the big word below.",
-      "ru": "Найдите прилагательные, которые вы слышите, в длинном слове ниже."
+      "ru": "Найдите прилагательные, которые вы слышите, в длинном слове ниже.",
+      "es": "Encuentra los adjetivos que escuchas en la palabra grande a continuación."
     },
     {
       "it": "Separateli con una barra (/).",
       "en": "Separate them with a slash (/).",
-      "ru": "Разделите их косой чертой (/)."
+      "ru": "Разделите их косой чертой (/).",
+      "es": "Sepárelos con una barra (/)."
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Сопоставьте."
+      "ru": "Сопоставьте.",
+      "es": "Fósforo."
     },
     {
       "it": "Completate con il o la dove è necessario.",
       "en": "Complete with 'il' or 'la' where necessary.",
-      "ru": "Заполните «il» или «la» там, где необходимо."
+      "ru": "Заполните «il» или «la» там, где необходимо.",
+      "es": "Complete con 'il' o 'la' cuando sea necesario."
     },
     {
       "it": "Mettete in ordine.",
       "en": "Put in order.",
-      "ru": "Расставьте в правильном порядке."
+      "ru": "Расставьте в правильном порядке.",
+      "es": "Ordenar."
     },
     {
       "it": "Leggete le parole.",
       "en": "Read the words.",
-      "ru": "Прочитайте слова."
+      "ru": "Прочитайте слова.",
+      "es": "Lee las palabras."
     }
   ],
   "dialogues": [
@@ -801,65 +968,75 @@
       "register": "informal",
       "context": {
         "en": "Two students meet for the first time and talk about their origins — the key model dialogue from the lesson",
-        "ru": "Два студента встречаются впервые и говорят о своём происхождении — ключевой диалог-образец из урока"
+        "ru": "Два студента встречаются впервые и говорят о своём происхождении — ключевой диалог-образец из урока",
+        "es": "Dos estudiantes se encuentran por primera vez y hablan sobre sus orígenes: el diálogo modelo clave de la lección."
       },
       "turns": [
         {
           "speaker": "Pierre",
           "it": "Ciao, mi chiamo Pierre. E tu, come ti chiami?",
           "en": "Hi, my name is Pierre. And you, what's your name?",
-          "ru": "Привет, меня зовут Пьер. А тебя как зовут?"
+          "ru": "Привет, меня зовут Пьер. А тебя как зовут?",
+          "es": "Hola, mi nombre es Pierre. Y tú, ¿cómo te llamas?"
         },
         {
           "speaker": "Mariana",
           "it": "Io sono Mariana. Piacere.",
           "en": "I am Mariana. Pleased to meet you.",
-          "ru": "Я Мариана. Приятно познакомиться."
+          "ru": "Я Мариана. Приятно познакомиться.",
+          "es": "Soy mariana. Encantado de conocerte."
         },
         {
           "speaker": "Pierre",
           "it": "Di dove sei?",
           "en": "Where are you from?",
-          "ru": "Откуда ты?"
+          "ru": "Откуда ты?",
+          "es": "¿De dónde eres?"
         },
         {
           "speaker": "Mariana",
           "it": "Sono italiana, di Livorno. E tu? Non sei italiano, vero?",
           "en": "I am Italian, from Livorno. And you? You're not Italian, right?",
-          "ru": "Я итальянка, из Ливорно. А ты? Ты ведь не итальянец, правда?"
+          "ru": "Я итальянка, из Ливорно. А ты? Ты ведь не итальянец, правда?",
+          "es": "Soy italiana, de Livorno. ¿Y tú? No eres italiano, ¿verdad?"
         },
         {
           "speaker": "Pierre",
           "it": "No, sono francese, di Parigi.",
           "en": "No, I am French, from Paris.",
-          "ru": "Нет, я француз, из Парижа."
+          "ru": "Нет, я француз, из Парижа.",
+          "es": "No, soy francesa, de París."
         },
         {
           "speaker": "Mariana",
           "it": "Parigi?! È una città bellissima!",
           "en": "Paris?! It is a beautiful city!",
-          "ru": "Париж?! Это очень красивый город!"
+          "ru": "Париж?! Это очень красивый город!",
+          "es": "¡¿París?! ¡Es una ciudad hermosa!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask where they are from using a negative tag question",
-            "ru": "Спросите, откуда человек, используя разделительный вопрос с отрицанием"
+            "ru": "Спросите, откуда человек, используя разделительный вопрос с отрицанием",
+            "es": "Pregunte de dónde son utilizando una pregunta de etiqueta negativa."
           },
           "expected_it": "Non sei [nazionalità], vero?"
         },
         {
           "cue": {
             "en": "Confirm your nationality and city",
-            "ru": "Подтвердите свою национальность и город"
+            "ru": "Подтвердите свою национальность и город",
+            "es": "Confirma tu nacionalidad y ciudad"
           },
           "expected_it": "No, sono [nazionalità], di [città]."
         },
         {
           "cue": {
             "en": "Exclaim that a city is beautiful",
-            "ru": "Воскликните, что какой-то город очень красивый"
+            "ru": "Воскликните, что какой-то город очень красивый",
+            "es": "Exclamar que una ciudad es hermosa"
           },
           "expected_it": "[Città]?! È una città bellissima!"
         }
@@ -871,40 +1048,46 @@
       "register": "informal",
       "context": {
         "en": "A friend introduces a third person informally",
-        "ru": "Друг неформально представляет третьего человека"
+        "ru": "Друг неформально представляет третьего человека",
+        "es": "Un amigo presenta a una tercera persona de manera informal."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Ciao, Vittoria! Ti presento Giorgio. È italiano, di Milano.",
           "en": "Hi, Vittoria! Let me introduce Giorgio. He is Italian, from Milan.",
-          "ru": "Привет, Витториа! Познакомься, это Джорджо. Он итальянец, из Милана."
+          "ru": "Привет, Витториа! Познакомься, это Джорджо. Он итальянец, из Милана.",
+          "es": "Hola Vitoria! Déjame presentarte a Giorgio. Es italiano, de Milán."
         },
         {
           "speaker": "Vittoria",
           "it": "Ciao, Giorgio! Piacere di conoscerti!",
           "en": "Hi, Giorgio! Nice to meet you!",
-          "ru": "Привет, Джорджо! Приятно познакомиться!"
+          "ru": "Привет, Джорджо! Приятно познакомиться!",
+          "es": "Hola Giorgio! ¡Encantado de conocerlo!"
         },
         {
           "speaker": "Giorgio",
           "it": "Piacere mio!",
           "en": "The pleasure is mine!",
-          "ru": "Мне тоже приятно!"
+          "ru": "Мне тоже приятно!",
+          "es": "¡El placer es mío!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Introduce a third person informally with their nationality",
-            "ru": "Неформально представьте третьего человека, указав его национальность"
+            "ru": "Неформально представьте третьего человека, указав его национальность",
+            "es": "Presentar a una tercera persona de manera informal con su nacionalidad"
           },
           "expected_it": "Ti presento [nome]. È [nazionalità], di [città]."
         },
         {
           "cue": {
             "en": "React to the introduction (informal)",
-            "ru": "Отреагируйте на представление (неформально)"
+            "ru": "Отреагируйте на представление (неформально)",
+            "es": "Reaccionar a la introducción (informal)"
           },
           "expected_it": "Piacere di conoscerti!"
         }
@@ -916,47 +1099,54 @@
       "register": "formal",
       "context": {
         "en": "A formal introduction at a professional event",
-        "ru": "Официальное представление на профессиональном мероприятии"
+        "ru": "Официальное представление на профессиональном мероприятии",
+        "es": "Una presentación formal en un evento profesional."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Buongiorno, signor Eugenio! Le presento il signor Bocelli. È italiano, di Lajatico.",
           "en": "Good morning, Mr. Eugenio! Let me introduce Mr. Bocelli. He is Italian, from Lajatico.",
-          "ru": "Доброе утро, господин Эудженио! Позвольте представить господина Бочелли. Он итальянец, из Лаятико."
+          "ru": "Доброе утро, господин Эудженио! Позвольте представить господина Бочелли. Он итальянец, из Лаятико.",
+          "es": "¡Buenos días, señor Eugenio! Permítanme presentarles al Sr. Bocelli. Es italiano, de Lajatico."
         },
         {
           "speaker": "Eugenio",
           "it": "Buongiorno, signor Bocelli! Molto lieto!",
           "en": "Good morning, Mr. Bocelli! Very pleased!",
-          "ru": "Доброе утро, господин Бочелли! Очень рад!"
+          "ru": "Доброе утро, господин Бочелли! Очень рад!",
+          "es": "¡Buenos días, señor Bocelli! ¡Muy contento!"
         },
         {
           "speaker": "Bocelli",
           "it": "Piacere di conoscerla.",
           "en": "Nice to meet you.",
-          "ru": "Приятно познакомиться."
+          "ru": "Приятно познакомиться.",
+          "es": "Encantado de conocerlo."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Introduce someone formally with a courtesy title",
-            "ru": "Официально представьте кого-либо, используя вежливое обращение"
+            "ru": "Официально представьте кого-либо, используя вежливое обращение",
+            "es": "Presentar a alguien formalmente con un título de cortesía."
           },
           "expected_it": "Le presento il signor/la signora [cognome]."
         },
         {
           "cue": {
             "en": "React to a formal introduction",
-            "ru": "Отреагируйте на официальное представление"
+            "ru": "Отреагируйте на официальное представление",
+            "es": "Reaccionar a una presentación formal"
           },
           "expected_it": "Molto lieto/a!"
         },
         {
           "cue": {
             "en": "Express pleasure formally",
-            "ru": "Выразите удовольствие официально"
+            "ru": "Выразите удовольствие официально",
+            "es": "Expresar placer formalmente"
           },
           "expected_it": "Piacere di conoscerla."
         }
@@ -968,7 +1158,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -983,7 +1174,8 @@
       "infinitive": "chiamarsi",
       "translation": {
         "en": "to be called",
-        "ru": "называться / зваться"
+        "ru": "называться / зваться",
+        "es": "ser llamado"
       },
       "forms": {
         "io": "mi chiamo",
@@ -998,7 +1190,8 @@
       "infinitive": "parlare",
       "translation": {
         "en": "to speak",
-        "ru": "говорить"
+        "ru": "говорить",
+        "es": "hablar"
       },
       "forms": {
         "io": "parlo",

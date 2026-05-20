@@ -21,6 +21,12 @@
         "Аудирование: Indovina chi...",
         "Грамматика: существительное + прилагательное",
         "Описывать внешность: Com'è?"
+      ],
+      "es": [
+        "Reseña: ¡Presentémonos!",
+        "Comprensión auditiva: Adivina quién...",
+        "Gramática: sustantivo + adjetivo",
+        "Describiendo la apariencia física: ¿cómo es?"
       ]
     }
   },
@@ -28,188 +34,224 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Noun + adjective agreement",
-        "ru": "Согласование существительного и прилагательного"
+        "ru": "Согласование существительного и прилагательного",
+        "es": "Concordancia sustantivo + adjetivo"
       },
       "description": {
         "en": "In Italian, adjectives agree in gender and number with the noun they describe. Masculine adjectives typically end in -o (singular) / -i (plural); feminine in -a (singular) / -e (plural).",
-        "ru": "В итальянском прилагательные согласуются с существительным в роде и числе. Мужской род: -o (ед.ч.) / -i (мн.ч.); женский: -a (ед.ч.) / -e (мн.ч.)."
+        "ru": "В итальянском прилагательные согласуются с существительным в роде и числе. Мужской род: -o (ед.ч.) / -i (мн.ч.); женский: -a (ед.ч.) / -e (мн.ч.).",
+        "es": "En italiano, los adjetivos concuerdan en género y número con el sustantivo que describen. Los adjetivos masculinos suelen terminar en -o (singular) / -i (plural); femenino en -a (singular) / -e (plural)."
       },
       "examples": [
         {
           "it": "un ragazzo alto",
           "en": "a tall boy",
-          "ru": "высокий парень"
+          "ru": "высокий парень",
+          "es": "un chico alto"
         },
         {
           "it": "una ragazza alta",
           "en": "a tall girl",
-          "ru": "высокая девушка"
+          "ru": "высокая девушка",
+          "es": "una chica alta"
         },
         {
           "it": "i capelli lunghi",
           "en": "long hair",
-          "ru": "длинные волосы"
+          "ru": "длинные волосы",
+          "es": "pelo largo"
         },
         {
           "it": "gli occhi neri",
           "en": "black eyes",
-          "ru": "чёрные глаза"
+          "ru": "чёрные глаза",
+          "es": "ojos negros"
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Physical appearance adjectives",
-        "ru": "Прилагательные для описания внешности"
+        "ru": "Прилагательные для описания внешности",
+        "es": "Adjetivos de apariencia fisica"
       },
       "description": {
         "en": "Key adjectives for describing a person's build, height, and general appearance.",
-        "ru": "Основные прилагательные для описания телосложения, роста и общего вида человека."
+        "ru": "Основные прилагательные для описания телосложения, роста и общего вида человека.",
+        "es": "Adjetivos clave para describir la constitución, la altura y la apariencia general de una persona."
       },
       "examples": [
         {
           "it": "alto / basso",
           "en": "tall / short",
-          "ru": "высокий / низкий"
+          "ru": "высокий / низкий",
+          "es": "alto / bajo"
         },
         {
           "it": "magro / grasso",
           "en": "thin / fat",
-          "ru": "худой / толстый"
+          "ru": "худой / толстый",
+          "es": "delgado / gordo"
         },
         {
           "it": "giovane / anziano",
           "en": "young / elderly",
-          "ru": "молодой / пожилой"
+          "ru": "молодой / пожилой",
+          "es": "joven / anciano"
         },
         {
           "it": "calvo",
           "en": "bald",
-          "ru": "лысый"
+          "ru": "лысый",
+          "es": "calvo"
         },
         {
           "it": "di media statura",
           "en": "of medium height",
-          "ru": "среднего роста"
+          "ru": "среднего роста",
+          "es": "de mediana estatura"
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Hair and eye descriptions",
-        "ru": "Описание волос и глаз"
+        "ru": "Описание волос и глаз",
+        "es": "Descripciones de cabello y ojos."
       },
       "description": {
         "en": "Italian uses 'avere' to describe hair and eyes, and adjectives must agree with the noun.",
-        "ru": "Для описания волос и глаз используется глагол avere, прилагательные согласуются с существительным."
+        "ru": "Для описания волос и глаз используется глагол avere, прилагательные согласуются с существительным.",
+        "es": "El italiano usa 'avere' para describir el cabello y los ojos, y los adjetivos deben concordar con el sustantivo."
       },
       "examples": [
         {
           "it": "Ha i capelli biondi / castani / neri / rossi.",
           "en": "He/She has blond / brown / black / red hair.",
-          "ru": "У него/неё светлые / каштановые / чёрные / рыжие волосы."
+          "ru": "У него/неё светлые / каштановые / чёрные / рыжие волосы.",
+          "es": "Tiene el pelo rubio/castaño/negro/rojo."
         },
         {
           "it": "Ha i capelli ricci / lisci / corti / lunghi.",
           "en": "He/She has curly / straight / short / long hair.",
-          "ru": "У него/неё кудрявые / прямые / короткие / длинные волосы."
+          "ru": "У него/неё кудрявые / прямые / короткие / длинные волосы.",
+          "es": "Tiene el pelo rizado/liso/corto/largo."
         },
         {
           "it": "Ha gli occhi azzurri / verdi / marroni / castani.",
           "en": "He/She has blue / green / brown / hazel eyes.",
-          "ru": "У него/неё голубые / зелёные / карие / каштановые глаза."
+          "ru": "У него/неё голубые / зелёные / карие / каштановые глаза.",
+          "es": "Él/Ella tiene ojos azules/verdes/marrones/avellana."
         },
         {
           "it": "Ha i baffi.",
           "en": "He has a moustache.",
-          "ru": "У него усы."
+          "ru": "У него усы.",
+          "es": "Tiene bigote."
         },
         {
           "it": "Ha il pizzetto.",
           "en": "He has a goatee.",
-          "ru": "У него козлиная бородка."
+          "ru": "У него козлиная бородка.",
+          "es": "Tiene perilla."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Asking and describing appearance: Com'è?",
-        "ru": "Как спросить и описать внешность: Com'è?"
+        "ru": "Как спросить и описать внешность: Com'è?",
+        "es": "Preguntar y describir la apariencia: Com'è?"
       },
       "description": {
         "en": "Use 'Com'è?' to ask what someone looks like. Answers combine essere + adjective and avere + body feature.",
-        "ru": "Вопрос «Com'è?» означает «Как он/она выглядит?». Ответ строится через essere + прилагательное и avere + часть тела."
+        "ru": "Вопрос «Com'è?» означает «Как он/она выглядит?». Ответ строится через essere + прилагательное и avere + часть тела.",
+        "es": "Utilice 'Com'è?' preguntar cómo es alguien. Las respuestas combinan essere + adjetivo y avere + característica corporal."
       },
       "examples": [
         {
           "context": "question",
           "it": "Com'è?",
           "en": "What does he/she look like?",
-          "ru": "Как он/она выглядит?"
+          "ru": "Как он/она выглядит?",
+          "es": "¿Cómo es él/ella?"
         },
         {
           "context": "answer",
           "it": "È alto, magro, ha i capelli corti e il pizzetto.",
           "en": "He is tall, thin, has short hair and a goatee.",
-          "ru": "Он высокий, худой, с короткими волосами и козлиной бородкой."
+          "ru": "Он высокий, худой, с короткими волосами и козлиной бородкой.",
+          "es": "Es alto, delgado, tiene el pelo corto y perilla."
         },
         {
           "context": "answer",
           "it": "È una ragazza giovane, di media statura con gli occhi neri e i capelli neri e corti.",
           "en": "She is a young girl, of medium height with black eyes and short black hair.",
-          "ru": "Это молодая девушка среднего роста с чёрными глазами и короткими чёрными волосами."
+          "ru": "Это молодая девушка среднего роста с чёрными глазами и короткими чёрными волосами.",
+          "es": "Es una chica joven, de mediana estatura con ojos negros y cabello corto y negro."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Guessing game: Indovina chi",
-        "ru": "Игра «Угадай кто»: Indovina chi"
+        "ru": "Игра «Угадай кто»: Indovina chi",
+        "es": "Juego de adivinanzas: Indovina chi"
       },
       "description": {
         "en": "A common classroom activity where students describe a person and others guess who it is, using yes/no questions.",
-        "ru": "Распространённое упражнение: один студент описывает человека, другие угадывают, кто это, задавая вопросы «да/нет»."
+        "ru": "Распространённое упражнение: один студент описывает человека, другие угадывают, кто это, задавая вопросы «да/нет».",
+        "es": "Una actividad común en el aula en la que los estudiantes describen a una persona y otros adivinan quién es mediante preguntas de sí o no."
       },
       "examples": [
         {
           "it": "È alto? — Sì.",
           "en": "Is he tall? — Yes.",
-          "ru": "Он высокий? — Да."
+          "ru": "Он высокий? — Да.",
+          "es": "¿Es alto? - Sí."
         },
         {
           "it": "È grasso? — No.",
           "en": "Is he fat? — No.",
-          "ru": "Он толстый? — Нет."
+          "ru": "Он толстый? — Нет.",
+          "es": "¿Está gordo? - No."
         },
         {
           "it": "Ha i capelli corti? — Sì.",
           "en": "Does he have short hair? — Yes.",
-          "ru": "У него короткие волосы? — Да."
+          "ru": "У него короткие волосы? — Да.",
+          "es": "¿Tiene el pelo corto? - Sí."
         },
         {
           "it": "È Marco? — Sì, hai indovinato!",
           "en": "Is it Marco? — Yes, you guessed it!",
-          "ru": "Это Марко? — Да, ты угадал!"
+          "ru": "Это Марко? — Да, ты угадал!",
+          "es": "¿Es Marco? — ¡Sí, lo has adivinado!"
         }
       ]
     }
@@ -221,8 +263,10 @@
       "ru": "высокий",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "alto"
     },
     {
       "term": "basso",
@@ -230,8 +274,10 @@
       "ru": "низкий",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "corto (altura)"
     },
     {
       "term": "magro",
@@ -239,8 +285,10 @@
       "ru": "худой",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "delgado, delgado"
     },
     {
       "term": "grasso",
@@ -248,8 +296,10 @@
       "ru": "толстый",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "gordo"
     },
     {
       "term": "giovane",
@@ -257,8 +307,10 @@
       "ru": "молодой",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "joven"
     },
     {
       "term": "anziano",
@@ -266,8 +318,10 @@
       "ru": "пожилой",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "anciano"
     },
     {
       "term": "calvo",
@@ -275,8 +329,10 @@
       "ru": "лысый",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "calvo"
     },
     {
       "term": "di media statura",
@@ -284,8 +340,10 @@
       "ru": "среднего роста",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "de mediana estatura"
     },
     {
       "term": "i capelli",
@@ -293,8 +351,10 @@
       "ru": "волосы",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "cabello"
     },
     {
       "term": "gli occhi",
@@ -302,8 +362,10 @@
       "ru": "глаза",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "ojos"
     },
     {
       "term": "i baffi",
@@ -311,8 +373,10 @@
       "ru": "усы",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "bigote"
     },
     {
       "term": "il pizzetto",
@@ -320,8 +384,10 @@
       "ru": "козлиная бородка",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "barbas de chivo"
     },
     {
       "term": "gli occhiali",
@@ -329,8 +395,10 @@
       "ru": "очки",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "anteojos"
     },
     {
       "term": "la pelle",
@@ -338,8 +406,10 @@
       "ru": "кожа",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "piel"
     },
     {
       "term": "biondo",
@@ -347,8 +417,10 @@
       "ru": "светловолосый, блондин",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "rubio"
     },
     {
       "term": "castano",
@@ -356,8 +428,10 @@
       "ru": "каштановый (волосы/глаза)",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "marrón (pelo/ojos)"
     },
     {
       "term": "nero",
@@ -365,8 +439,10 @@
       "ru": "чёрный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "negro"
     },
     {
       "term": "rosso",
@@ -374,8 +450,10 @@
       "ru": "рыжий / красный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "rojo"
     },
     {
       "term": "azzurro",
@@ -383,8 +461,10 @@
       "ru": "голубой (глаза)",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "azul (ojos)"
     },
     {
       "term": "verde",
@@ -392,8 +472,10 @@
       "ru": "зелёный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "verde"
     },
     {
       "term": "riccio",
@@ -401,8 +483,10 @@
       "ru": "кудрявый",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "ondulado"
     },
     {
       "term": "liscio",
@@ -410,8 +494,10 @@
       "ru": "прямой (волосы)",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "liso (cabello)"
     },
     {
       "term": "corto",
@@ -419,8 +505,10 @@
       "ru": "короткий",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "corto (longitud)"
     },
     {
       "term": "lungo",
@@ -428,8 +516,10 @@
       "ru": "длинный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "largo"
     },
     {
       "term": "robusto",
@@ -437,8 +527,10 @@
       "ru": "крепкий, коренастый",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "fornido, robusto"
     },
     {
       "term": "porta gli occhiali",
@@ -446,8 +538,10 @@
       "ru": "носит очки",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "usa lentes"
     },
     {
       "term": "Com'è?",
@@ -455,8 +549,10 @@
       "ru": "Как он/она выглядит?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cómo es él/ella?"
     },
     {
       "term": "Hai indovinato!",
@@ -464,8 +560,10 @@
       "ru": "Ты угадал!",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¡Lo has adivinado!"
     },
     {
       "term": "antipatico",
@@ -473,8 +571,10 @@
       "ru": "неприятный, несимпатичный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "desagradable, antipático"
     },
     {
       "term": "simpatico",
@@ -482,40 +582,48 @@
       "ru": "симпатичный, приятный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "agradable, simpático"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Ascoltate e completate.",
       "en": "Listen and complete.",
-      "ru": "Послушайте и дополните."
+      "ru": "Послушайте и дополните.",
+      "es": "Escucha y completa."
     },
     {
       "it": "Ascoltate e indicate.",
       "en": "Listen and point.",
-      "ru": "Послушайте и укажите."
+      "ru": "Послушайте и укажите.",
+      "es": "Escuche y señale."
     },
     {
       "it": "Riascoltate e completate.",
       "en": "Listen again and complete.",
-      "ru": "Послушайте ещё раз и дополните."
+      "ru": "Послушайте ещё раз и дополните.",
+      "es": "Escuche nuevamente y complete."
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Соедините."
+      "ru": "Соедините.",
+      "es": "Fósforo."
     },
     {
       "it": "Lavorate a coppie.",
       "en": "Work in pairs.",
-      "ru": "Работайте в парах."
+      "ru": "Работайте в парах.",
+      "es": "Trabajar en parejas."
     },
     {
       "it": "Mi descrivo: sono …",
       "en": "I describe myself: I am …",
-      "ru": "Я описываю себя: я …"
+      "ru": "Я описываю себя: я …",
+      "es": "Me describo: soy…"
     }
   ],
   "dialogues": [
@@ -525,89 +633,103 @@
       "register": "informal",
       "context": {
         "en": "Two students play a guessing game describing a person in the class.",
-        "ru": "Два студента играют в игру «Угадай кто», описывая кого-то из класса."
+        "ru": "Два студента играют в игру «Угадай кто», описывая кого-то из класса.",
+        "es": "Dos estudiantes juegan un juego de adivinanzas que describe a una persona de la clase."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "È alto?",
           "en": "Is he tall?",
-          "ru": "Он высокий?"
+          "ru": "Он высокий?",
+          "es": "¿Es alto?"
         },
         {
           "speaker": "B",
           "it": "Sì.",
           "en": "Yes.",
-          "ru": "Да."
+          "ru": "Да.",
+          "es": "Sí."
         },
         {
           "speaker": "A",
           "it": "È grasso?",
           "en": "Is he fat?",
-          "ru": "Он толстый?"
+          "ru": "Он толстый?",
+          "es": "¿Está gordo?"
         },
         {
           "speaker": "B",
           "it": "No.",
           "en": "No.",
-          "ru": "Нет."
+          "ru": "Нет.",
+          "es": "No."
         },
         {
           "speaker": "A",
           "it": "È biondo?",
           "en": "Is he blond?",
-          "ru": "Он блондин?"
+          "ru": "Он блондин?",
+          "es": "¿Es rubio?"
         },
         {
           "speaker": "B",
           "it": "No.",
           "en": "No.",
-          "ru": "Нет."
+          "ru": "Нет.",
+          "es": "No."
         },
         {
           "speaker": "A",
           "it": "Ha i capelli corti?",
           "en": "Does he have short hair?",
-          "ru": "У него короткие волосы?"
+          "ru": "У него короткие волосы?",
+          "es": "¿Tiene el pelo corto?"
         },
         {
           "speaker": "B",
           "it": "Sì.",
           "en": "Yes.",
-          "ru": "Да."
+          "ru": "Да.",
+          "es": "Sí."
         },
         {
           "speaker": "A",
           "it": "È Marco?",
           "en": "Is it Marco?",
-          "ru": "Это Марко?"
+          "ru": "Это Марко?",
+          "es": "¿Es Marco?"
         },
         {
           "speaker": "B",
           "it": "Sì, hai indovinato!",
           "en": "Yes, you guessed it!",
-          "ru": "Да, ты угадал!"
+          "ru": "Да, ты угадал!",
+          "es": "¡Sí, lo has adivinado!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask if someone is tall",
-            "ru": "Спросить, высокий ли человек"
+            "ru": "Спросить, высокий ли человек",
+            "es": "Preguntar si alguien es alto"
           },
           "expected_it": "È alto/a?"
         },
         {
           "cue": {
             "en": "Ask about hair colour",
-            "ru": "Спросить о цвете волос"
+            "ru": "Спросить о цвете волос",
+            "es": "Pregunta por el color del cabello."
           },
           "expected_it": "Ha i capelli biondi/castani/neri?"
         },
         {
           "cue": {
             "en": "Describe yourself",
-            "ru": "Описать себя"
+            "ru": "Описать себя",
+            "es": "Descríbete a ti mismo"
           },
           "expected_it": "Sono … Ho i capelli … e gli occhi …"
         }
@@ -619,188 +741,219 @@
       "register": "informal",
       "context": {
         "en": "Two classmates describe people in class and guess who they are.",
-        "ru": "Два одноклассника описывают людей в классе и угадывают, кто это."
+        "ru": "Два одноклассника описывают людей в классе и угадывают, кто это.",
+        "es": "Dos compañeros describen a personas de clase y adivinan quiénes son."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Facciamo un gioco: indovina chi è.",
           "en": "Let's play a game: guess who it is.",
-          "ru": "Давай поиграем: угадай, кто это."
+          "ru": "Давай поиграем: угадай, кто это.",
+          "es": "Juguemos a un juego: adivina quién es."
         },
         {
           "speaker": "B",
           "it": "Va bene. È uno studente o una studentessa?",
           "en": "Okay. Is it a male or female student?",
-          "ru": "Хорошо. Это студент или студентка?"
+          "ru": "Хорошо. Это студент или студентка?",
+          "es": "Bueno. ¿Es un estudiante hombre o mujer?"
         },
         {
           "speaker": "A",
           "it": "È uno studente.",
           "en": "It's a male student.",
-          "ru": "Это студент."
+          "ru": "Это студент.",
+          "es": "Es un estudiante varón."
         },
         {
           "speaker": "B",
           "it": "È alto?",
           "en": "Is he tall?",
-          "ru": "Он высокий?"
+          "ru": "Он высокий?",
+          "es": "¿Es alto?"
         },
         {
           "speaker": "A",
           "it": "Sì, è alto.",
           "en": "Yes, he's tall.",
-          "ru": "Да, высокий."
+          "ru": "Да, высокий.",
+          "es": "Sí, es alto."
         },
         {
           "speaker": "B",
           "it": "È magro?",
           "en": "Is he thin?",
-          "ru": "Он худой?"
+          "ru": "Он худой?",
+          "es": "¿Es delgado?"
         },
         {
           "speaker": "A",
           "it": "Sì, è alto e magro.",
           "en": "Yes, he's tall and thin.",
-          "ru": "Да, высокий и худой."
+          "ru": "Да, высокий и худой.",
+          "es": "Sí, es alto y delgado."
         },
         {
           "speaker": "B",
           "it": "Ha i capelli scuri?",
           "en": "Does he have dark hair?",
-          "ru": "У него тёмные волосы?"
+          "ru": "У него тёмные волосы?",
+          "es": "¿Tiene el pelo oscuro?"
         },
         {
           "speaker": "A",
           "it": "Sì, ha i capelli scuri e corti.",
           "en": "Yes, he has short dark hair.",
-          "ru": "Да, у него тёмные короткие волосы."
+          "ru": "Да, у него тёмные короткие волосы.",
+          "es": "Sí, tiene el pelo corto y oscuro."
         },
         {
           "speaker": "B",
           "it": "Ha gli occhiali?",
           "en": "Does he wear glasses?",
-          "ru": "Он носит очки?"
+          "ru": "Он носит очки?",
+          "es": "¿Usa gafas?"
         },
         {
           "speaker": "A",
           "it": "No, non ha gli occhiali.",
           "en": "No, he doesn't wear glasses.",
-          "ru": "Нет, он не носит очки."
+          "ru": "Нет, он не носит очки.",
+          "es": "No, no usa gafas."
         },
         {
           "speaker": "B",
           "it": "Parla spagnolo?",
           "en": "Does he speak Spanish?",
-          "ru": "Он говорит по-испански?"
+          "ru": "Он говорит по-испански?",
+          "es": "¿Habla español?"
         },
         {
           "speaker": "A",
           "it": "Sì, parla spagnolo e italiano.",
           "en": "Yes, he speaks Spanish and Italian.",
-          "ru": "Да, говорит по-испански и по-итальянски."
+          "ru": "Да, говорит по-испански и по-итальянски.",
+          "es": "Sí, habla español e italiano."
         },
         {
           "speaker": "B",
           "it": "Allora è Marco?",
           "en": "Then is it Marco?",
-          "ru": "Тогда это Марко?"
+          "ru": "Тогда это Марко?",
+          "es": "¿Entonces es Marco?"
         },
         {
           "speaker": "A",
           "it": "Sì, bravo! È Marco.",
           "en": "Yes, well done! It's Marco.",
-          "ru": "Да, молодец! Это Марко."
+          "ru": "Да, молодец! Это Марко.",
+          "es": "¡Sí, bien hecho! Es Marco."
         },
         {
           "speaker": "B",
           "it": "Ora tocca a me.",
           "en": "Now it's my turn.",
-          "ru": "Теперь моя очередь."
+          "ru": "Теперь моя очередь.",
+          "es": "Ahora es mi turno."
         },
         {
           "speaker": "A",
           "it": "Va bene. È una studentessa?",
           "en": "Okay. Is it a female student?",
-          "ru": "Хорошо. Это студентка?"
+          "ru": "Хорошо. Это студентка?",
+          "es": "Bueno. ¿Es una estudiante?"
         },
         {
           "speaker": "B",
           "it": "Sì, è una studentessa.",
           "en": "Yes, it's a female student.",
-          "ru": "Да, это студентка."
+          "ru": "Да, это студентка.",
+          "es": "Sí, es una estudiante."
         },
         {
           "speaker": "A",
           "it": "È bionda?",
           "en": "Is she blonde?",
-          "ru": "Она блондинка?"
+          "ru": "Она блондинка?",
+          "es": "¿Es rubia?"
         },
         {
           "speaker": "B",
           "it": "No, è mora.",
           "en": "No, she's dark-haired.",
-          "ru": "Нет, она тёмноволосая."
+          "ru": "Нет, она тёмноволосая.",
+          "es": "No, ella es morena."
         },
         {
           "speaker": "A",
           "it": "Ha gli occhi verdi?",
           "en": "Does she have green eyes?",
-          "ru": "У неё зелёные глаза?"
+          "ru": "У неё зелёные глаза?",
+          "es": "¿Tiene ojos verdes?"
         },
         {
           "speaker": "B",
           "it": "Sì, ha gli occhi verdi.",
           "en": "Yes, she has green eyes.",
-          "ru": "Да, у неё зелёные глаза."
+          "ru": "Да, у неё зелёные глаза.",
+          "es": "Sí, tiene ojos verdes."
         },
         {
           "speaker": "A",
           "it": "Porta gli occhiali?",
           "en": "Does she wear glasses?",
-          "ru": "Она носит очки?"
+          "ru": "Она носит очки?",
+          "es": "¿Usa gafas?"
         },
         {
           "speaker": "B",
           "it": "Sì, porta gli occhiali.",
           "en": "Yes, she wears glasses.",
-          "ru": "Да, она носит очки."
+          "ru": "Да, она носит очки.",
+          "es": "Sí, ella usa gafas."
         },
         {
           "speaker": "A",
           "it": "Nella classe ci sono due ragazze così.",
           "en": "There are two girls like that in the class.",
-          "ru": "В классе две такие девушки."
+          "ru": "В классе две такие девушки.",
+          "es": "Hay dos chicas así en la clase."
         },
         {
           "speaker": "B",
           "it": "Questa ragazza abita vicino all'università.",
           "en": "This girl lives near the university.",
-          "ru": "Эта девушка живёт рядом с университетом."
+          "ru": "Эта девушка живёт рядом с университетом.",
+          "es": "Esta chica vive cerca de la universidad."
         },
         {
           "speaker": "A",
           "it": "È Sara?",
           "en": "Is it Sara?",
-          "ru": "Это Сара?"
+          "ru": "Это Сара?",
+          "es": "¿Es Sara?"
         },
         {
           "speaker": "B",
           "it": "Sì, è Sara.",
           "en": "Yes, it's Sara.",
-          "ru": "Да, это Сара."
+          "ru": "Да, это Сара.",
+          "es": "Sí, es Sara."
         },
         {
           "speaker": "A",
           "it": "Bello questo gioco.",
           "en": "This game is fun.",
-          "ru": "Классная игра."
+          "ru": "Классная игра.",
+          "es": "Este juego es divertido."
         },
         {
           "speaker": "B",
           "it": "Sì, aiuta a ripassare il lessico.",
           "en": "Yes, it helps review vocabulary.",
-          "ru": "Да, помогает повторить лексику."
+          "ru": "Да, помогает повторить лексику.",
+          "es": "Sí, ayuda a repasar el vocabulario."
         }
       ]
     }
@@ -810,7 +963,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -825,7 +979,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -840,7 +995,8 @@
       "infinitive": "abitare",
       "translation": {
         "en": "to live / to reside",
-        "ru": "жить / проживать"
+        "ru": "жить / проживать",
+        "es": "vivir / residir"
       },
       "forms": {
         "io": "abito",
@@ -855,7 +1011,8 @@
       "infinitive": "parlare",
       "translation": {
         "en": "to speak",
-        "ru": "говорить"
+        "ru": "говорить",
+        "es": "hablar"
       },
       "forms": {
         "io": "parlo",
@@ -870,7 +1027,8 @@
       "infinitive": "studiare",
       "translation": {
         "en": "to study",
-        "ru": "учиться / изучать"
+        "ru": "учиться / изучать",
+        "es": "estudiar"
       },
       "forms": {
         "io": "studio",
@@ -885,7 +1043,8 @@
       "infinitive": "lavorare",
       "translation": {
         "en": "to work",
-        "ru": "работать"
+        "ru": "работать",
+        "es": "trabajar"
       },
       "forms": {
         "io": "lavoro",

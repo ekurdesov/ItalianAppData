@@ -100,10 +100,11 @@ All locales are in a single file. Access translated fields with the locale key `
 
 ```json
 {
-  "term": "string",                  // always Italian
-  "en":   "string",
-  "ru":   "string",
-  "type": { "en": "verb", "ru": "глагол" }
+  "term":  "string",                 // always Italian
+  "en":    "string",
+  "ru":    "string",
+  "type":  { "en": "verb", "ru": "глагол" },
+  "image": "string"                  // optional — filename in images/flashcards/
 }
 ```
 
@@ -165,6 +166,7 @@ All locales are in a single file. Access translated fields with the locale key `
 
 | Field | Required |
 |---|---|
+| `flashcards[].image` | optional |
 | `language_rules[].conjugations` | only on verb-pattern rules |
 | `language_rules[].examples[].context` | optional |
 | `dialogues` | always present, may be `[]` |
@@ -182,6 +184,7 @@ All locales are in a single file. Access translated fields with the locale key `
 card.term          // Italian question
 card[locale]       // answer in user's locale
 card.type[locale]  // localised type label
+card.image         // optional image filename (e.g. "caffè.webp")
 ```
 
 **Verb practice mode**

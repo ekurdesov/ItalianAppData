@@ -24,6 +24,13 @@
         "Прагматика: Offro io!",
         "Грамматика: неправильные глаголы (bere, volere)",
         "Коммуникативное задание: Per me... / Tu che cosa prendi?"
+      ],
+      "es": [
+        "Vocabulario: bebidas y snacks.",
+        "Comprensión auditiva: en el bar",
+        "Pragmática: ¡Yo invito!",
+        "Gramática: verbos irregulares (bere, volere)",
+        "Actividad comunicativa: Para mí... / ¿Qué estás tomando?"
       ]
     }
   },
@@ -31,15 +38,18 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Irregular verb: bere",
-        "ru": "Неправильный глагол: bere"
+        "ru": "Неправильный глагол: bere",
+        "es": "Verbo irregular: bere"
       },
       "description": {
         "en": "The verb 'bere' (to drink) is irregular. Its present-tense stem is 'bev-'.",
-        "ru": "Глагол «bere» (пить) неправильный. Основа в настоящем времени — «bev-»."
+        "ru": "Глагол «bere» (пить) неправильный. Основа в настоящем времени — «bev-».",
+        "es": "El verbo 'bere' (beber) es irregular. Su raíz en tiempo presente es 'bev-'."
       },
       "conjugations": {
         "io": "bevo",
@@ -53,201 +63,240 @@
         {
           "it": "Io bevo il caffè, e tu che cosa bevi?",
           "en": "I drink coffee, and what do you drink?",
-          "ru": "Я пью кофе, а ты что пьёшь?"
+          "ru": "Я пью кофе, а ты что пьёшь?",
+          "es": "Yo tomo café y ¿tú qué bebes?"
         },
         {
           "it": "Noi beviamo delle bibite fresche.",
           "en": "We drink cold drinks.",
-          "ru": "Мы пьём холодные напитки."
+          "ru": "Мы пьём холодные напитки.",
+          "es": "Bebemos bebidas frías."
         },
         {
           "it": "Marisa a colazione beve solo tè e mai latte.",
           "en": "Marisa only drinks tea for breakfast and never milk.",
-          "ru": "Мариса на завтрак пьёт только чай и никогда молоко."
+          "ru": "Мариса на завтрак пьёт только чай и никогда молоко.",
+          "es": "Marisa solo toma té en el desayuno y nunca leche."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Review: -isc- verbs (preferire, capire)",
-        "ru": "Повторение: глаголы с -isc- (preferire, capire)"
+        "ru": "Повторение: глаголы с -isc- (preferire, capire)",
+        "es": "Repaso: verbos -isc- (preferire, capire)"
       },
       "description": {
         "en": "Consolidation of -ire verbs with the -isc- infix.",
-        "ru": "Закрепление глаголов на -ire с суффиксом -isc-."
+        "ru": "Закрепление глаголов на -ire с суффиксом -isc-.",
+        "es": "Consolidación de verbos -ire con el infijo -isc-."
       },
       "examples": [
         {
           "it": "Preferisci viaggiare in aereo o in treno?",
           "en": "Do you prefer to travel by plane or by train?",
-          "ru": "Ты предпочитаешь путешествовать на самолёте или на поезде?"
+          "ru": "Ты предпочитаешь путешествовать на самолёте или на поезде?",
+          "es": "¿Prefieres viajar en avión o en tren?"
         },
         {
           "it": "Capite il cinese?",
           "en": "Do you understand Chinese?",
-          "ru": "Вы понимаете китайский?"
+          "ru": "Вы понимаете китайский?",
+          "es": "¿Entiendes chino?"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Treating someone: Offro io!",
-        "ru": "Угощать: Offro io!"
+        "ru": "Угощать: Offro io!",
+        "es": "Tratar a alguien: Offro io!"
       },
       "description": {
         "en": "Expressions for offering to pay at the bar.",
-        "ru": "Выражения для предложения заплатить в баре."
+        "ru": "Выражения для предложения заплатить в баре.",
+        "es": "Expresiones para ofrecer pagar en el bar."
       },
       "examples": [
         {
           "it": "Oggi offro io.",
           "en": "Today it's my treat.",
-          "ru": "Сегодня угощаю я."
+          "ru": "Сегодня угощаю я.",
+          "es": "Hoy es mi regalo."
         },
         {
           "it": "La prossima volta offri tu.",
           "en": "Next time it's your treat.",
-          "ru": "В следующий раз угощаешь ты."
+          "ru": "В следующий раз угощаешь ты.",
+          "es": "La próxima vez será tu regalo."
         },
         {
           "it": "Che cosa prende Paola?",
           "en": "What will Paola have?",
-          "ru": "Что будет Паола?"
+          "ru": "Что будет Паола?",
+          "es": "¿Qué tendrá Paola?"
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Ordering at the bar",
-        "ru": "Заказ в баре"
+        "ru": "Заказ в баре",
+        "es": "ordenar en el bar"
       },
       "description": {
         "en": "Useful phrases for ordering, asking the price, and paying at the bar.",
-        "ru": "Полезные фразы для заказа, вопроса о цене и оплаты в баре."
+        "ru": "Полезные фразы для заказа, вопроса о цене и оплаты в баре.",
+        "es": "Frases útiles para pedir, preguntar precio y pagar en barra."
       },
       "examples": [
         {
           "it": "Per me un cappuccino, per favore.",
           "en": "A cappuccino for me, please.",
-          "ru": "Мне капучино, пожалуйста."
+          "ru": "Мне капучино, пожалуйста.",
+          "es": "Un capuchino para mí, por favor."
         },
         {
           "it": "Vorrei pagare subito.",
           "en": "I'd like to pay right away.",
-          "ru": "Я бы хотел(а) заплатить сразу."
+          "ru": "Я бы хотел(а) заплатить сразу.",
+          "es": "Me gustaría pagar de inmediato."
         },
         {
           "it": "Quant'è?",
           "en": "How much is it?",
-          "ru": "Сколько с меня?"
+          "ru": "Сколько с меня?",
+          "es": "¿Cuánto cuesta?"
         },
         {
           "it": "Ecco a Lei.",
           "en": "Here you are.",
-          "ru": "Вот, пожалуйста."
+          "ru": "Вот, пожалуйста.",
+          "es": "Aquí tiene."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Types of coffee and bar food",
-        "ru": "Виды кофе и еда в баре"
+        "ru": "Виды кофе и еда в баре",
+        "es": "Tipos de café y comida de bar"
       },
       "description": {
         "en": "More specific bar vocabulary for types of coffee and food combinations.",
-        "ru": "Более конкретная лексика бара: виды кофе и сочетания блюд."
+        "ru": "Более конкретная лексика бара: виды кофе и сочетания блюд.",
+        "es": "Vocabulario de barra más específico para tipos de café y combinaciones de alimentos."
       },
       "examples": [
         {
           "it": "un caffè macchiato",
           "en": "espresso with a dash of milk",
-          "ru": "эспрессо с каплей молока"
+          "ru": "эспрессо с каплей молока",
+          "es": "espresso con un chorrito de leche"
         },
         {
           "it": "un caffè doppio",
           "en": "double espresso",
-          "ru": "двойной эспрессо"
+          "ru": "двойной эспрессо",
+          "es": "expreso doble"
         },
         {
           "it": "un caffè americano",
           "en": "Americano (long black)",
-          "ru": "американо"
+          "ru": "американо",
+          "es": "Americano (largo negro)"
         },
         {
           "it": "un tè freddo con limone",
           "en": "iced tea with lemon",
-          "ru": "холодный чай с лимоном"
+          "ru": "холодный чай с лимоном",
+          "es": "té helado con limón"
         },
         {
           "it": "un cappuccino",
           "en": "cappuccino",
-          "ru": "капучино"
+          "ru": "капучино",
+          "es": "capuchino"
         },
         {
           "it": "un'aranciata",
           "en": "orange soda",
-          "ru": "апельсиновая газировка"
+          "ru": "апельсиновая газировка",
+          "es": "refresco de naranja"
         },
         {
           "it": "un bicchiere di acqua minerale",
           "en": "a glass of mineral water",
-          "ru": "стакан минеральной воды"
+          "ru": "стакан минеральной воды",
+          "es": "un vaso de agua mineral"
         },
         {
           "it": "un succo di frutta con ghiaccio",
           "en": "fruit juice with ice",
-          "ru": "фруктовый сок со льдом"
+          "ru": "фруктовый сок со льдом",
+          "es": "jugo de frutas con hielo"
         },
         {
           "it": "un tramezzino al tonno",
           "en": "tuna sandwich",
-          "ru": "бутерброд с тунцом"
+          "ru": "бутерброд с тунцом",
+          "es": "sándwich de atún"
         },
         {
           "it": "un panino al prosciutto",
           "en": "ham roll",
-          "ru": "булочка с ветчиной"
+          "ru": "булочка с ветчиной",
+          "es": "rollo de jamón"
         },
         {
           "it": "un cornetto",
           "en": "croissant",
-          "ru": "круассан"
+          "ru": "круассан",
+          "es": "cuerno"
         },
         {
           "it": "un aperitivo",
           "en": "aperitif / pre-dinner drink",
-          "ru": "аперитив"
+          "ru": "аперитив",
+          "es": "aperitivo / bebida antes de cenar"
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Irregular verb: volere",
-        "ru": "Неправильный глагол: volere"
+        "ru": "Неправильный глагол: volere",
+        "es": "Verbo irregular: volere"
       },
       "description": {
         "en": "The verb 'volere' (to want) is irregular and is often used to order or express what someone wants to do.",
-        "ru": "Глагол «volere» (хотеть) неправильный и часто используется, чтобы сделать заказ или сказать, что кто-то хочет сделать."
+        "ru": "Глагол «volere» (хотеть) неправильный и часто используется, чтобы сделать заказ или сказать, что кто-то хочет сделать.",
+        "es": "El verbo 'volere' (querer) es irregular y suele usarse para ordenar o expresar lo que alguien quiere hacer."
       },
       "conjugations": {
         "io": "voglio",
@@ -261,51 +310,60 @@
         {
           "it": "Vuoi bere un caffè o un tè?",
           "en": "Do you want to drink a coffee or a tea?",
-          "ru": "Ты хочешь выпить кофе или чай?"
+          "ru": "Ты хочешь выпить кофе или чай?",
+          "es": "¿Quieres tomar un café o un té?"
         },
         {
           "it": "Noi vogliamo andare in pizzeria stasera.",
           "en": "We want to go to a pizzeria tonight.",
-          "ru": "Мы хотим сегодня вечером пойти в пиццерию."
+          "ru": "Мы хотим сегодня вечером пойти в пиццерию.",
+          "es": "Queremos ir a una pizzería esta noche."
         },
         {
           "it": "I signori Rossi vogliono comprare un monolocale in centro.",
           "en": "Mr. and Mrs. Rossi want to buy a studio apartment in the city center.",
-          "ru": "Супруги Росси хотят купить квартиру-студию в центре."
+          "ru": "Супруги Росси хотят купить квартиру-студию в центре.",
+          "es": "El señor y la señora Rossi quieren comprar un estudio en el centro de la ciudad."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Expressing preferences: Preferisci…?",
-        "ru": "Выражение предпочтений: Preferisci…?"
+        "ru": "Выражение предпочтений: Preferisci…?",
+        "es": "Expresar preferencias: Preferisci…?"
       },
       "description": {
         "en": "Using preferire to ask and state preferences between two options.",
-        "ru": "Глагол «preferire» для вопросов и ответов о предпочтениях."
+        "ru": "Глагол «preferire» для вопросов и ответов о предпочтениях.",
+        "es": "Usar preferire para preguntar y expresar preferencias entre dos opciones."
       },
       "examples": [
         {
           "context": "question",
           "it": "Preferisci il mare o la montagna?",
           "en": "Do you prefer the sea or the mountains?",
-          "ru": "Ты предпочитаешь море или горы?"
+          "ru": "Ты предпочитаешь море или горы?",
+          "es": "¿Prefieres el mar o la montaña?"
         },
         {
           "context": "answer",
           "it": "Preferisco il mare.",
           "en": "I prefer the sea.",
-          "ru": "Я предпочитаю море."
+          "ru": "Я предпочитаю море.",
+          "es": "Prefiero el mar."
         },
         {
           "context": "formal",
           "it": "Preferisce il mare o la montagna?",
           "en": "Do you prefer the sea or the mountains? (formal)",
-          "ru": "Вы предпочитаете море или горы?"
+          "ru": "Вы предпочитаете море или горы?",
+          "es": "¿Prefieres el mar o la montaña? (formal)"
         }
       ]
     }
@@ -317,8 +375,10 @@
       "ru": "пить",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "beber"
     },
     {
       "term": "bevo",
@@ -326,8 +386,10 @@
       "ru": "я пью",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "Bebo"
     },
     {
       "term": "bevi",
@@ -335,8 +397,10 @@
       "ru": "ты пьёшь",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "tu bebes"
     },
     {
       "term": "beve",
@@ -344,8 +408,10 @@
       "ru": "он/она пьёт",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "él/ella bebe"
     },
     {
       "term": "beviamo",
@@ -353,8 +419,10 @@
       "ru": "мы пьём",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "bebemos"
     },
     {
       "term": "bevete",
@@ -362,8 +430,10 @@
       "ru": "вы пьёте",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "todos ustedes beben"
     },
     {
       "term": "bevono",
@@ -371,8 +441,10 @@
       "ru": "они пьют",
       "type": {
         "en": "verb form",
-        "ru": "форма глагола"
-      }
+        "ru": "форма глагола",
+        "es": "forma verbal"
+      },
+      "es": "ellos beben"
     },
     {
       "term": "Offro io!",
@@ -380,8 +452,10 @@
       "ru": "Угощаю я! / Я плачу!",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¡Es mi regalo! / ¡Estoy pagando!"
     },
     {
       "term": "la prossima volta",
@@ -389,8 +463,10 @@
       "ru": "в следующий раз",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "La próxima vez"
     },
     {
       "term": "un caffè macchiato",
@@ -398,8 +474,10 @@
       "ru": "эспрессо с каплей молока",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "espresso con un chorrito de leche"
     },
     {
       "term": "un caffè doppio",
@@ -407,8 +485,10 @@
       "ru": "двойной эспрессо",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "expreso doble"
     },
     {
       "term": "un caffè americano",
@@ -416,8 +496,10 @@
       "ru": "американо",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "americano"
     },
     {
       "term": "un tè freddo con limone",
@@ -425,8 +507,10 @@
       "ru": "холодный чай с лимоном",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "té helado con limón"
     },
     {
       "term": "un cappuccino",
@@ -434,8 +518,10 @@
       "ru": "капучино",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "capuchino"
     },
     {
       "term": "un'aranciata",
@@ -443,8 +529,10 @@
       "ru": "апельсиновая газировка",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "refresco de naranja"
     },
     {
       "term": "un bicchiere di acqua minerale",
@@ -452,8 +540,10 @@
       "ru": "стакан минеральной воды",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "un vaso de agua mineral"
     },
     {
       "term": "un succo di frutta con ghiaccio",
@@ -461,8 +551,10 @@
       "ru": "фруктовый сок со льдом",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "jugo de frutas con hielo"
     },
     {
       "term": "un panino al prosciutto",
@@ -470,8 +562,10 @@
       "ru": "булочка с ветчиной",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "rollo de jamón"
     },
     {
       "term": "un tramezzino al tonno",
@@ -479,8 +573,10 @@
       "ru": "бутерброд с тунцом",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "sándwich de atún"
     },
     {
       "term": "un cornetto",
@@ -488,8 +584,10 @@
       "ru": "круассан",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "cuerno"
     },
     {
       "term": "un aperitivo",
@@ -497,8 +595,10 @@
       "ru": "аперитив",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "aperitivo / bebida antes de cenar"
     },
     {
       "term": "il prosciutto cotto",
@@ -506,8 +606,10 @@
       "ru": "варёная ветчина",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "jamon cocido"
     },
     {
       "term": "il prosciutto crudo",
@@ -515,8 +617,10 @@
       "ru": "сыровяленая ветчина",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "jamon curado"
     },
     {
       "term": "la mozzarella",
@@ -524,8 +628,10 @@
       "ru": "моцарелла",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "queso Mozzarella"
     },
     {
       "term": "avere fame",
@@ -533,8 +639,10 @@
       "ru": "быть голодным",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener hambre"
     },
     {
       "term": "avere sete",
@@ -542,8 +650,10 @@
       "ru": "хотеть пить",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener sed"
     },
     {
       "term": "avere fretta",
@@ -551,8 +661,10 @@
       "ru": "торопиться",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "tener prisa"
     },
     {
       "term": "al banco",
@@ -560,8 +672,10 @@
       "ru": "у стойки",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "en el mostrador"
     },
     {
       "term": "al tavolo",
@@ -569,8 +683,10 @@
       "ru": "за столиком",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "a la mesa"
     },
     {
       "term": "Per me...",
@@ -578,8 +694,10 @@
       "ru": "Мне... / Я буду...",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Para mí... / Tendré..."
     },
     {
       "term": "Vorrei pagare subito.",
@@ -587,8 +705,10 @@
       "ru": "Я бы хотел(а) заплатить сразу.",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Me gustaría pagar de inmediato."
     },
     {
       "term": "Quant'è?",
@@ -596,8 +716,10 @@
       "ru": "Сколько с меня?",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¿Cuánto cuesta?"
     },
     {
       "term": "Ecco a Lei.",
@@ -605,50 +727,60 @@
       "ru": "Вот, пожалуйста.",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Aquí tiene."
     }
   ],
   "classroom_instructions": [
     {
       "it": "Mettete in ordine.",
       "en": "Put in order.",
-      "ru": "Расставьте в правильном порядке."
+      "ru": "Расставьте в правильном порядке.",
+      "es": "Ordenar."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     },
     {
       "it": "Leggete e verificate.",
       "en": "Read and check.",
-      "ru": "Прочитайте и проверьте."
+      "ru": "Прочитайте и проверьте.",
+      "es": "Lee y comprueba."
     },
     {
       "it": "Formate le frasi.",
       "en": "Form the sentences.",
-      "ru": "Составьте предложения."
+      "ru": "Составьте предложения.",
+      "es": "Forma las oraciones."
     },
     {
       "it": "Abbinate.",
       "en": "Match.",
-      "ru": "Соедините."
+      "ru": "Соедините.",
+      "es": "Fósforo."
     },
     {
       "it": "Rispondete.",
       "en": "Answer.",
-      "ru": "Ответьте."
+      "ru": "Ответьте.",
+      "es": "Respuesta."
     },
     {
       "it": "Osservate e rispondete.",
       "en": "Observe and answer.",
-      "ru": "Посмотрите и ответьте."
+      "ru": "Посмотрите и ответьте.",
+      "es": "Observa y responde."
     },
     {
       "it": "Ascoltate e completate.",
       "en": "Listen and complete.",
-      "ru": "Послушайте и дополните."
+      "ru": "Послушайте и дополните.",
+      "es": "Escucha y completa."
     }
   ],
   "dialogues": [
@@ -658,65 +790,75 @@
       "register": "informal",
       "context": {
         "en": "Two friends at the bar order drinks and food; one offers to pay.",
-        "ru": "Двое друзей в баре заказывают напитки и еду; один предлагает заплатить."
+        "ru": "Двое друзей в баре заказывают напитки и еду; один предлагает заплатить.",
+        "es": "Dos amigos en el bar piden bebidas y comida; uno se ofrece a pagar."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Allora, che cosa prendi?",
           "en": "So, what will you have?",
-          "ru": "Ну что, что ты будешь?"
+          "ru": "Ну что, что ты будешь?",
+          "es": "Entonces, ¿qué tendrás?"
         },
         {
           "speaker": "B",
           "it": "Prendo un tramezzino con prosciutto cotto e un caffè macchiato.",
           "en": "I'll have a ham sandwich and a macchiato.",
-          "ru": "Возьму бутерброд с варёной ветчиной и маккиато."
+          "ru": "Возьму бутерброд с варёной ветчиной и маккиато.",
+          "es": "Tomaré un sándwich de jamón y un macchiato."
         },
         {
           "speaker": "A",
           "it": "Io prendo una piadina al formaggio e un succo di frutta.",
           "en": "I'll have a cheese flatbread and a fruit juice.",
-          "ru": "Я возьму лепёшку с сыром и фруктовый сок."
+          "ru": "Я возьму лепёшку с сыром и фруктовый сок.",
+          "es": "Tomaré un pan plano de queso y un jugo de frutas."
         },
         {
           "speaker": "B",
           "it": "Quanto costa tutto?",
           "en": "How much does it all cost?",
-          "ru": "Сколько всё стоит?"
+          "ru": "Сколько всё стоит?",
+          "es": "¿Cuánto cuesta todo?"
         },
         {
           "speaker": "A",
           "it": "6,90 euro. Oggi offro io!",
           "en": "6.90 euros. Today it's my treat!",
-          "ru": "6,90 евро. Сегодня угощаю я!"
+          "ru": "6,90 евро. Сегодня угощаю я!",
+          "es": "6,90€. ¡Hoy es mi regalo!"
         },
         {
           "speaker": "B",
           "it": "Grazie! La prossima volta offro io.",
           "en": "Thank you! Next time it's my treat.",
-          "ru": "Спасибо! В следующий раз угощаю я."
+          "ru": "Спасибо! В следующий раз угощаю я.",
+          "es": "¡Gracias! La próxima vez te invito yo."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Say you drink coffee",
-            "ru": "Сказать, что пьёшь кофе"
+            "ru": "Сказать, что пьёшь кофе",
+            "es": "Di que bebes café"
           },
           "expected_it": "Bevo un caffè."
         },
         {
           "cue": {
             "en": "Offer to pay",
-            "ru": "Предложить заплатить"
+            "ru": "Предложить заплатить",
+            "es": "oferta para pagar"
           },
           "expected_it": "Offro io!"
         },
         {
           "cue": {
             "en": "Ask what someone prefers",
-            "ru": "Спросить, что кто-то предпочитает"
+            "ru": "Спросить, что кто-то предпочитает",
+            "es": "Preguntar qué prefiere alguien"
           },
           "expected_it": "Preferisci …?"
         }
@@ -728,59 +870,68 @@
       "register": "informal",
       "context": {
         "en": "Two customers order at the bar and ask to pay immediately.",
-        "ru": "Двое посетителей делают заказ в баре и просят сразу рассчитаться."
+        "ru": "Двое посетителей делают заказ в баре и просят сразу рассчитаться.",
+        "es": "Dos clientes hacen un pedido en la barra y piden pagar inmediatamente."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Buongiorno. Tu che cosa prendi?",
           "en": "Good morning. What are you having?",
-          "ru": "Доброе утро. Что ты будешь?"
+          "ru": "Доброе утро. Что ты будешь?",
+          "es": "Buen día. ¿Qué estás tomando?"
         },
         {
           "speaker": "B",
           "it": "Per me un caffè macchiato, per favore.",
           "en": "A macchiato for me, please.",
-          "ru": "Мне маккиато, пожалуйста."
+          "ru": "Мне маккиато, пожалуйста.",
+          "es": "Un macchiato para mí, por favor."
         },
         {
           "speaker": "A",
           "it": "E per me un cappuccino e un cornetto.",
           "en": "And for me a cappuccino and a croissant.",
-          "ru": "А мне капучино и круассан."
+          "ru": "А мне капучино и круассан.",
+          "es": "Y para mí un capuchino y un croissant."
         },
         {
           "speaker": "B",
           "it": "Vorrei pagare subito. Quant'è?",
           "en": "I'd like to pay right away. How much is it?",
-          "ru": "Я бы хотел(а) заплатить сразу. Сколько с меня?"
+          "ru": "Я бы хотел(а) заплатить сразу. Сколько с меня?",
+          "es": "Me gustaría pagar de inmediato. ¿Cuánto cuesta?"
         },
         {
           "speaker": "C",
           "it": "Sono quattro euro. Ecco a Lei.",
           "en": "It's four euros. Here you are.",
-          "ru": "С вас четыре евро. Вот, пожалуйста."
+          "ru": "С вас четыре евро. Вот, пожалуйста.",
+          "es": "Son cuatro euros. Aquí tiene."
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Order a cappuccino",
-            "ru": "Заказать капучино"
+            "ru": "Заказать капучино",
+            "es": "pedir un capuchino"
           },
           "expected_it": "Per me un cappuccino, per favore."
         },
         {
           "cue": {
             "en": "Ask the price",
-            "ru": "Спросить цену"
+            "ru": "Спросить цену",
+            "es": "Pregunta el precio"
           },
           "expected_it": "Quant'è?"
         },
         {
           "cue": {
             "en": "Say you want to pay right away",
-            "ru": "Сказать, что хочешь сразу заплатить"
+            "ru": "Сказать, что хочешь сразу заплатить",
+            "es": "Di que quieres pagar de inmediato"
           },
           "expected_it": "Vorrei pagare subito."
         }
@@ -792,140 +943,163 @@
       "register": "informal",
       "context": {
         "en": "Two friends politely argue about who pays at the bar.",
-        "ru": "Двое друзей вежливо спорят, кто платит в баре."
+        "ru": "Двое друзей вежливо спорят, кто платит в баре.",
+        "es": "Dos amigos discuten educadamente sobre quién paga en el bar."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Per me un caffè e una brioche.",
           "en": "For me a coffee and a brioche.",
-          "ru": "Мне кофе и бриошь."
+          "ru": "Мне кофе и бриошь.",
+          "es": "Para mí un café y un brioche."
         },
         {
           "speaker": "B",
           "it": "Io prendo un tè e un cornetto.",
           "en": "I'll have a tea and a croissant.",
-          "ru": "Я возьму чай и круассан."
+          "ru": "Я возьму чай и круассан.",
+          "es": "Tomaré un té y un croissant."
         },
         {
           "speaker": "A",
           "it": "Vuoi anche acqua?",
           "en": "Do you also want water?",
-          "ru": "Хочешь ещё воду?"
+          "ru": "Хочешь ещё воду?",
+          "es": "¿También quieres agua?"
         },
         {
           "speaker": "B",
           "it": "Sì, grazie. Acqua naturale.",
           "en": "Yes, thanks. Still water.",
-          "ru": "Да, спасибо. Негазированную."
+          "ru": "Да, спасибо. Негазированную.",
+          "es": "Sí, gracias. Agua sin gas."
         },
         {
           "speaker": "A",
           "it": "Bene. Pago io.",
           "en": "Good. I'll pay.",
-          "ru": "Хорошо. Я плачу."
+          "ru": "Хорошо. Я плачу.",
+          "es": "Bien. Yo pagaré."
         },
         {
           "speaker": "B",
           "it": "No, no, pago io.",
           "en": "No, no, I'll pay.",
-          "ru": "Нет, нет, я плачу."
+          "ru": "Нет, нет, я плачу.",
+          "es": "No, no, yo pagaré."
         },
         {
           "speaker": "A",
           "it": "Dai, oggi offro io.",
           "en": "Come on, today it's my treat.",
-          "ru": "Давай, сегодня угощаю я."
+          "ru": "Давай, сегодня угощаю я.",
+          "es": "Vamos, hoy te invito yo."
         },
         {
           "speaker": "B",
           "it": "Sei sicuro?",
           "en": "Are you sure?",
-          "ru": "Ты уверен?"
+          "ru": "Ты уверен?",
+          "es": "¿Está seguro?"
         },
         {
           "speaker": "A",
           "it": "Sì, certo.",
           "en": "Yes, of course.",
-          "ru": "Да, конечно."
+          "ru": "Да, конечно.",
+          "es": "Sí, claro."
         },
         {
           "speaker": "B",
           "it": "Allora grazie.",
           "en": "Then thanks.",
-          "ru": "Тогда спасибо."
+          "ru": "Тогда спасибо.",
+          "es": "Entonces gracias."
         },
         {
           "speaker": "A",
           "it": "Prego. La prossima volta offri tu.",
           "en": "You're welcome. Next time it's your treat.",
-          "ru": "Пожалуйста. В следующий раз угощаешь ты."
+          "ru": "Пожалуйста. В следующий раз угощаешь ты.",
+          "es": "De nada. La próxima vez será tu regalo."
         },
         {
           "speaker": "B",
           "it": "Va bene, la prossima volta offro io.",
           "en": "Okay, next time it's my treat.",
-          "ru": "Хорошо, в следующий раз угощаю я."
+          "ru": "Хорошо, в следующий раз угощаю я.",
+          "es": "Vale, la próxima vez invito yo."
         },
         {
           "speaker": "A",
           "it": "Dopo il bar torni a casa?",
           "en": "After the bar are you going home?",
-          "ru": "После бара ты идёшь домой?"
+          "ru": "После бара ты идёшь домой?",
+          "es": "¿Después del bar te vas a casa?"
         },
         {
           "speaker": "B",
           "it": "No, vado in biblioteca.",
           "en": "No, I'm going to the library.",
-          "ru": "Нет, иду в библиотеку."
+          "ru": "Нет, иду в библиотеку.",
+          "es": "No, voy a la biblioteca."
         },
         {
           "speaker": "A",
           "it": "Perché?",
           "en": "Why?",
-          "ru": "Почему?"
+          "ru": "Почему?",
+          "es": "¿Por qué?"
         },
         {
           "speaker": "B",
           "it": "Perché devo studiare italiano.",
           "en": "Because I have to study Italian.",
-          "ru": "Потому что мне нужно учить итальянский."
+          "ru": "Потому что мне нужно учить итальянский.",
+          "es": "Porque tengo que estudiar italiano."
         },
         {
           "speaker": "A",
           "it": "Posso venire con te?",
           "en": "Can I come with you?",
-          "ru": "Можно мне пойти с тобой?"
+          "ru": "Можно мне пойти с тобой?",
+          "es": "¿Puedo ir contigo?"
         },
         {
           "speaker": "B",
           "it": "Certo, studiamo insieme.",
           "en": "Sure, let's study together.",
-          "ru": "Конечно, будем учиться вместе."
+          "ru": "Конечно, будем учиться вместе.",
+          "es": "Claro, estudiemos juntos."
         },
         {
           "speaker": "A",
           "it": "Perfetto. Hai il libro?",
           "en": "Perfect. Do you have the book?",
-          "ru": "Отлично. У тебя есть учебник?"
+          "ru": "Отлично. У тебя есть учебник?",
+          "es": "Perfecto. Tienes el libro?"
         },
         {
           "speaker": "B",
           "it": "Sì, ho il libro e gli appunti.",
           "en": "Yes, I have the book and the notes.",
-          "ru": "Да, у меня есть учебник и конспекты."
+          "ru": "Да, у меня есть учебник и конспекты.",
+          "es": "Sí, tengo el libro y las notas."
         },
         {
           "speaker": "A",
           "it": "Bene, allora finiamo il caffè.",
           "en": "Good, then let's finish the coffee.",
-          "ru": "Хорошо, тогда допьём кофе."
+          "ru": "Хорошо, тогда допьём кофе.",
+          "es": "Bien, entonces terminemos el café."
         },
         {
           "speaker": "B",
           "it": "Sì, poi andiamo.",
           "en": "Yes, then let's go.",
-          "ru": "Да, потом пойдём."
+          "ru": "Да, потом пойдём.",
+          "es": "Sí, entonces vámonos."
         }
       ]
     }
@@ -935,7 +1109,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -950,7 +1125,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -965,7 +1141,8 @@
       "infinitive": "andare",
       "translation": {
         "en": "to go",
-        "ru": "идти / ехать"
+        "ru": "идти / ехать",
+        "es": "ir"
       },
       "forms": {
         "io": "vado",
@@ -980,7 +1157,8 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать / совершать"
+        "ru": "делать / совершать",
+        "es": "hacer / hacer"
       },
       "forms": {
         "io": "faccio",
@@ -995,7 +1173,8 @@
       "infinitive": "bere",
       "translation": {
         "en": "to drink",
-        "ru": "пить"
+        "ru": "пить",
+        "es": "beber"
       },
       "forms": {
         "io": "bevo",
@@ -1010,7 +1189,8 @@
       "infinitive": "venire",
       "translation": {
         "en": "to come",
-        "ru": "приходить / приезжать"
+        "ru": "приходить / приезжать",
+        "es": "venir"
       },
       "forms": {
         "io": "vengo",
@@ -1025,7 +1205,8 @@
       "infinitive": "potere",
       "translation": {
         "en": "to be able to / can",
-        "ru": "мочь"
+        "ru": "мочь",
+        "es": "poder / poder"
       },
       "forms": {
         "io": "posso",
@@ -1040,7 +1221,8 @@
       "infinitive": "volere",
       "translation": {
         "en": "to want",
-        "ru": "хотеть"
+        "ru": "хотеть",
+        "es": "querer"
       },
       "forms": {
         "io": "voglio",
@@ -1055,7 +1237,8 @@
       "infinitive": "preferire",
       "translation": {
         "en": "to prefer",
-        "ru": "предпочитать"
+        "ru": "предпочитать",
+        "es": "preferir"
       },
       "forms": {
         "io": "preferisco",
@@ -1070,7 +1253,8 @@
       "infinitive": "capire",
       "translation": {
         "en": "to understand",
-        "ru": "понимать"
+        "ru": "понимать",
+        "es": "entender"
       },
       "forms": {
         "io": "capisco",

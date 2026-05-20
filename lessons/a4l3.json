@@ -21,6 +21,12 @@
         "Лексика: bevande e spuntini",
         "Аудирование: Al bar",
         "Коммуникативное задание: E tu che cosa prendi?"
+      ],
+      "es": [
+        "Reseña: ¿Por qué vas al bar?",
+        "Vocabulario: bebidas y snacks.",
+        "Comprensión auditiva: en el bar",
+        "Actividad comunicativa: ¿Y tú qué estás tomando?"
       ]
     }
   },
@@ -28,15 +34,18 @@
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Verbs in -ire with -isc- infix",
-        "ru": "Глаголы на -ire с суффиксом -isc-"
+        "ru": "Глаголы на -ire с суффиксом -isc-",
+        "es": "Verbos en -ire con -isc- infijo"
       },
       "description": {
         "en": "Some -ire verbs insert -isc- between the stem and the ending in all singular forms and the 3rd person plural. Common examples: preferire, capire, finire, pulire.",
-        "ru": "Некоторые глаголы на -ire вставляют -isc- между основой и окончанием во всех формах единственного числа и в 3-м лице множественного. Примеры: preferire, capire, finire, pulire."
+        "ru": "Некоторые глаголы на -ire вставляют -isc- между основой и окончанием во всех формах единственного числа и в 3-м лице множественного. Примеры: preferire, capire, finire, pulire.",
+        "es": "Algunos verbos -ire insertan -isc- entre la raíz y la terminación en todas las formas singulares y en la tercera persona del plural. Ejemplos comunes: preferire, capire, finire, pulire."
       },
       "conjugations": {
         "io": "preferisco",
@@ -50,37 +59,44 @@
         {
           "it": "Preferisci un succo di frutta o una spremuta d'arancia?",
           "en": "Do you prefer a fruit juice or a fresh orange juice?",
-          "ru": "Ты предпочитаешь фруктовый сок или свежевыжатый апельсиновый?"
+          "ru": "Ты предпочитаешь фруктовый сок или свежевыжатый апельсиновый?",
+          "es": "¿Prefieres un zumo de frutas o un zumo de naranja natural?"
         },
         {
           "it": "I miei amici preferiscono andare in discoteca.",
           "en": "My friends prefer going to the disco.",
-          "ru": "Мои друзья предпочитают ходить на дискотеку."
+          "ru": "Мои друзья предпочитают ходить на дискотеку.",
+          "es": "Mis amigos prefieren ir a la discoteca."
         },
         {
           "it": "A che ora finisce la lezione?",
           "en": "What time does the lesson finish?",
-          "ru": "В котором часу заканчивается урок?"
+          "ru": "В котором часу заканчивается урок?",
+          "es": "¿A qué hora termina la lección?"
         },
         {
           "it": "Non capisco questa parola.",
           "en": "I don't understand this word.",
-          "ru": "Я не понимаю это слово."
+          "ru": "Я не понимаю это слово.",
+          "es": "No entiendo esta palabra."
         }
       ]
     },
     {
       "category": {
         "en": "Grammar",
-        "ru": "Грамматика"
+        "ru": "Грамматика",
+        "es": "Gramática"
       },
       "rule": {
         "en": "Review: prendere at the bar",
-        "ru": "Повторение: prendere в баре"
+        "ru": "Повторение: prendere в баре",
+        "es": "Reseña: prendere en el bar"
       },
       "description": {
         "en": "The verb 'prendere' is the standard way to order at a bar in Italian.",
-        "ru": "Глагол «prendere» — стандартный способ сделать заказ в итальянском баре."
+        "ru": "Глагол «prendere» — стандартный способ сделать заказ в итальянском баре.",
+        "es": "El verbo 'prendere' es la forma estándar de pedir en un bar en italiano."
       },
       "conjugations": {
         "io": "prendo",
@@ -94,104 +110,123 @@
         {
           "it": "Allora ragazzi, che cosa prendete?",
           "en": "So, what will you all have?",
-          "ru": "Ну что, ребята, что будете?"
+          "ru": "Ну что, ребята, что будете?",
+          "es": "Entonces, ¿qué tendrán todos ustedes?"
         },
         {
           "it": "Io prendo un tramezzino.",
           "en": "I'll have a triangular sandwich.",
-          "ru": "Я возьму треугольный бутерброд."
+          "ru": "Я возьму треугольный бутерброд.",
+          "es": "Tomaré un sándwich triangular."
         },
         {
           "it": "Tu, Stefano, che cosa prendi?",
           "en": "Stefano, what will you have?",
-          "ru": "Стефано, что ты будешь?"
+          "ru": "Стефано, что ты будешь?",
+          "es": "Stefano, ¿qué quieres?"
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Identifying the odd one out: l'intruso",
-        "ru": "Найди лишнее: l'intruso"
+        "ru": "Найди лишнее: l'intruso",
+        "es": "Identificar al extraño: l'intruso"
       },
       "description": {
         "en": "A vocabulary exercise where students identify which word does not belong to a category and explain why.",
-        "ru": "Лексическое упражнение: студенты определяют, какое слово не подходит к группе, и объясняют почему."
+        "ru": "Лексическое упражнение: студенты определяют, какое слово не подходит к группе, и объясняют почему.",
+        "es": "Un ejercicio de vocabulario donde los estudiantes identifican qué palabra no pertenece a una categoría y explican por qué."
       },
       "examples": [
         {
           "it": "caffè - tè - panino - acqua - coca-cola - cappuccino",
           "en": "L'intruso è panino perché è uno spuntino, non una bevanda.",
-          "ru": "Лишнее — panino, потому что это закуска, а не напиток."
+          "ru": "Лишнее — panino, потому что это закуска, а не напиток.",
+          "es": "L'intruso è panino perché è uno spuntino, non una bevanda."
         },
         {
           "it": "tè - panino - piadina - tramezzino - toast",
           "en": "L'intruso è tè perché è una bevanda, non uno spuntino.",
-          "ru": "Лишнее — tè, потому что это напиток, а не закуска."
+          "ru": "Лишнее — tè, потому что это напиток, а не закуска.",
+          "es": "L'intruso è tè perché è una bevanda, non uno spuntino."
         }
       ]
     },
     {
       "category": {
         "en": "Pragmatics",
-        "ru": "Прагматика"
+        "ru": "Прагматика",
+        "es": "Pragmática"
       },
       "rule": {
         "en": "Expressing preferences: Preferisci…?",
-        "ru": "Выражение предпочтений: Preferisci…?"
+        "ru": "Выражение предпочтений: Preferisci…?",
+        "es": "Expresar preferencias: Preferisci…?"
       },
       "description": {
         "en": "Use 'preferire' to ask and state preferences between two options.",
-        "ru": "Глагол «preferire» используется для вопросов и ответов о предпочтениях между двумя вариантами."
+        "ru": "Глагол «preferire» используется для вопросов и ответов о предпочтениях между двумя вариантами.",
+        "es": "Utilice 'preferire' para preguntar e indicar preferencias entre dos opciones."
       },
       "examples": [
         {
           "context": "question",
           "it": "Preferisci il mare o la montagna?",
           "en": "Do you prefer the sea or the mountains?",
-          "ru": "Ты предпочитаешь море или горы?"
+          "ru": "Ты предпочитаешь море или горы?",
+          "es": "¿Prefieres el mar o la montaña?"
         },
         {
           "context": "answer",
           "it": "Preferisco il mare.",
           "en": "I prefer the sea.",
-          "ru": "Я предпочитаю море."
+          "ru": "Я предпочитаю море.",
+          "es": "Prefiero el mar."
         },
         {
           "context": "agreement",
           "it": "Anch'io!",
           "en": "Me too!",
-          "ru": "Я тоже!"
+          "ru": "Я тоже!",
+          "es": "¡Yo también!"
         },
         {
           "context": "disagreement",
           "it": "Io invece preferisco la montagna.",
           "en": "I on the other hand prefer the mountains.",
-          "ru": "А я, наоборот, предпочитаю горы."
+          "ru": "А я, наоборот, предпочитаю горы.",
+          "es": "Yo en cambio prefiero la montaña."
         }
       ]
     },
     {
       "category": {
         "en": "Vocabulary",
-        "ru": "Лексика"
+        "ru": "Лексика",
+        "es": "Vocabulario"
       },
       "rule": {
         "en": "Daily routine verbs",
-        "ru": "Глаголы повседневной жизни"
+        "ru": "Глаголы повседневной жизни",
+        "es": "Verbos de rutina diaria"
       },
       "description": {
         "en": "Common verbs used to describe a daily routine, from the homework solutions slide.",
-        "ru": "Распространённые глаголы для описания распорядка дня."
+        "ru": "Распространённые глаголы для описания распорядка дня.",
+        "es": "Verbos comunes utilizados para describir una rutina diaria, de la diapositiva de soluciones a las tareas."
       },
       "examples": [
         {
           "it": "Lavoro, torno, dormo, guardo, leggo, navigo, mangio, viaggio.",
           "en": "I work, I return, I sleep, I watch, I read, I browse, I eat, I travel.",
-          "ru": "Я работаю, возвращаюсь, сплю, смотрю, читаю, сижу в интернете, ем, путешествую."
+          "ru": "Я работаю, возвращаюсь, сплю, смотрю, читаю, сижу в интернете, ем, путешествую.",
+          "es": "Trabajo, regreso, duermo, miro, leo, navego, como, viajo."
         }
       ]
     }
@@ -203,8 +238,10 @@
       "ru": "предпочитать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "preferir"
     },
     {
       "term": "capire",
@@ -212,8 +249,10 @@
       "ru": "понимать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "entender"
     },
     {
       "term": "finire",
@@ -221,8 +260,10 @@
       "ru": "заканчивать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "terminar"
     },
     {
       "term": "pulire",
@@ -230,8 +271,10 @@
       "ru": "убирать, чистить",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "limpiar"
     },
     {
       "term": "la spremuta d'arancia",
@@ -239,8 +282,10 @@
       "ru": "свежевыжатый апельсиновый сок",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "jugo de naranja fresco"
     },
     {
       "term": "la cioccolata",
@@ -248,8 +293,10 @@
       "ru": "горячий шоколад",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "chocolate caliente"
     },
     {
       "term": "il latte caldo",
@@ -257,8 +304,10 @@
       "ru": "тёплое молоко",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "leche tibia"
     },
     {
       "term": "alcolico",
@@ -266,8 +315,10 @@
       "ru": "алкогольный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "alcohólico"
     },
     {
       "term": "analcolico",
@@ -275,8 +326,10 @@
       "ru": "безалкогольный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "no alcohólico"
     },
     {
       "term": "l'intruso",
@@ -284,8 +337,10 @@
       "ru": "лишнее слово",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "el extraño"
     },
     {
       "term": "offrire",
@@ -293,8 +348,10 @@
       "ru": "предлагать / угощать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "ofrecer / tratar"
     },
     {
       "term": "aprire",
@@ -302,8 +359,10 @@
       "ru": "открывать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "abrir"
     },
     {
       "term": "navigare in Internet",
@@ -311,8 +370,10 @@
       "ru": "сидеть в интернете",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "para navegar por internet"
     },
     {
       "term": "riposare",
@@ -320,8 +381,10 @@
       "ru": "отдыхать",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "descansar"
     },
     {
       "term": "Anch'io!",
@@ -329,8 +392,10 @@
       "ru": "Я тоже!",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "¡Yo también!"
     },
     {
       "term": "Io invece…",
@@ -338,8 +403,10 @@
       "ru": "А я, наоборот…",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "Yo por otra parte..."
     },
     {
       "term": "abbastanza bene",
@@ -347,8 +414,10 @@
       "ru": "довольно хорошо",
       "type": {
         "en": "phrase",
-        "ru": "фраза"
-      }
+        "ru": "фраза",
+        "es": "frase"
+      },
+      "es": "bastante bien"
     },
     {
       "term": "il latte macchiato",
@@ -356,8 +425,10 @@
       "ru": "кофе с каплей молока",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "cafe con un chorrito de leche"
     },
     {
       "term": "la cioccolata calda",
@@ -365,8 +436,10 @@
       "ru": "горячий шоколад",
       "type": {
         "en": "drink",
-        "ru": "напиток"
-      }
+        "ru": "напиток",
+        "es": "beber"
+      },
+      "es": "chocolate caliente"
     },
     {
       "term": "il cornetto alla crema",
@@ -374,8 +447,10 @@
       "ru": "круассан с кремом",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "croissant relleno de crema"
     },
     {
       "term": "il cornetto al cioccolato",
@@ -383,8 +458,10 @@
       "ru": "шоколадный круассан",
       "type": {
         "en": "food",
-        "ru": "еда"
-      }
+        "ru": "еда",
+        "es": "alimento"
+      },
+      "es": "croissant de chocolate"
     },
     {
       "term": "uscire",
@@ -392,8 +469,10 @@
       "ru": "выходить",
       "type": {
         "en": "verb",
-        "ru": "глагол"
-      }
+        "ru": "глагол",
+        "es": "verbo"
+      },
+      "es": "salir"
     },
     {
       "term": "il quartiere",
@@ -401,8 +480,10 @@
       "ru": "квартал, район",
       "type": {
         "en": "noun",
-        "ru": "существительное"
-      }
+        "ru": "существительное",
+        "es": "sustantivo"
+      },
+      "es": "vecindario"
     },
     {
       "term": "sporco",
@@ -410,35 +491,42 @@
       "ru": "грязный",
       "type": {
         "en": "adjective",
-        "ru": "прилагательное"
-      }
+        "ru": "прилагательное",
+        "es": "adjetivo"
+      },
+      "es": "sucio"
     }
   ],
   "classroom_instructions": [
     {
       "it": "Trovate l'intruso.",
       "en": "Find the odd one out.",
-      "ru": "Найдите лишнее слово."
+      "ru": "Найдите лишнее слово.",
+      "es": "Encuentra el extraño."
     },
     {
       "it": "Ascoltate.",
       "en": "Listen.",
-      "ru": "Послушайте."
+      "ru": "Послушайте.",
+      "es": "Escuchar."
     },
     {
       "it": "Completate.",
       "en": "Complete.",
-      "ru": "Дополните."
+      "ru": "Дополните.",
+      "es": "Completo."
     },
     {
       "it": "Lavorate in coppia.",
       "en": "Work in pairs.",
-      "ru": "Работайте в парах."
+      "ru": "Работайте в парах.",
+      "es": "Trabajar en parejas."
     },
     {
       "it": "Siete al bar con gli amici.",
       "en": "You are at the bar with friends.",
-      "ru": "Вы в баре с друзьями."
+      "ru": "Вы в баре с друзьями.",
+      "es": "Estás en el bar con amigos."
     }
   ],
   "dialogues": [
@@ -448,59 +536,68 @@
       "register": "informal",
       "context": {
         "en": "Two students practise expressing preferences using preferire.",
-        "ru": "Два студента тренируются выражать предпочтения с помощью глагола preferire."
+        "ru": "Два студента тренируются выражать предпочтения с помощью глагола preferire.",
+        "es": "Dos estudiantes practican expresar preferencias usando preferire."
       },
       "turns": [
         {
           "speaker": "A",
           "it": "Preferisci il mare o la montagna?",
           "en": "Do you prefer the sea or the mountains?",
-          "ru": "Ты предпочитаешь море или горы?"
+          "ru": "Ты предпочитаешь море или горы?",
+          "es": "¿Prefieres el mar o la montaña?"
         },
         {
           "speaker": "B",
           "it": "Preferisco il mare. E tu?",
           "en": "I prefer the sea. And you?",
-          "ru": "Я предпочитаю море. А ты?"
+          "ru": "Я предпочитаю море. А ты?",
+          "es": "Prefiero el mar. ¿Y tú?"
         },
         {
           "speaker": "A",
           "it": "Anch'io!",
           "en": "Me too!",
-          "ru": "Я тоже!"
+          "ru": "Я тоже!",
+          "es": "¡Yo también!"
         },
         {
           "speaker": "A",
           "it": "E al bar, preferisci il caffè o il tè?",
           "en": "And at the bar, do you prefer coffee or tea?",
-          "ru": "А в баре ты предпочитаешь кофе или чай?"
+          "ru": "А в баре ты предпочитаешь кофе или чай?",
+          "es": "Y en la barra, ¿prefieres café o té?"
         },
         {
           "speaker": "B",
           "it": "Preferisco il caffè. Non capisco come le persone bevono il tè la mattina!",
           "en": "I prefer coffee. I don't understand how people drink tea in the morning!",
-          "ru": "Я предпочитаю кофе. Не понимаю, как люди пьют чай по утрам!"
+          "ru": "Я предпочитаю кофе. Не понимаю, как люди пьют чай по утрам!",
+          "es": "Prefiero el café. ¡No entiendo cómo la gente bebe té por la mañana!"
         }
       ],
       "practice_prompts": [
         {
           "cue": {
             "en": "Ask if someone prefers the sea or the mountains",
-            "ru": "Спросить, что кто-то предпочитает: море или горы"
+            "ru": "Спросить, что кто-то предпочитает: море или горы",
+            "es": "Pregunta si alguien prefiere el mar o la montaña."
           },
           "expected_it": "Preferisci il mare o la montagna?"
         },
         {
           "cue": {
             "en": "Say you prefer something",
-            "ru": "Сказать, что предпочитаешь"
+            "ru": "Сказать, что предпочитаешь",
+            "es": "Di que prefieres algo"
           },
           "expected_it": "Preferisco …"
         },
         {
           "cue": {
             "en": "Say you don't understand a word",
-            "ru": "Сказать, что не понимаешь слово"
+            "ru": "Сказать, что не понимаешь слово",
+            "es": "Di que no entiendes una palabra"
           },
           "expected_it": "Non capisco questa parola."
         }
@@ -512,7 +609,8 @@
       "infinitive": "essere",
       "translation": {
         "en": "to be",
-        "ru": "быть"
+        "ru": "быть",
+        "es": "ser"
       },
       "forms": {
         "io": "sono",
@@ -527,7 +625,8 @@
       "infinitive": "avere",
       "translation": {
         "en": "to have",
-        "ru": "иметь"
+        "ru": "иметь",
+        "es": "tener"
       },
       "forms": {
         "io": "ho",
@@ -542,7 +641,8 @@
       "infinitive": "andare",
       "translation": {
         "en": "to go",
-        "ru": "идти / ехать"
+        "ru": "идти / ехать",
+        "es": "ir"
       },
       "forms": {
         "io": "vado",
@@ -557,7 +657,8 @@
       "infinitive": "fare",
       "translation": {
         "en": "to do / to make",
-        "ru": "делать / совершать"
+        "ru": "делать / совершать",
+        "es": "hacer / hacer"
       },
       "forms": {
         "io": "faccio",
@@ -572,7 +673,8 @@
       "infinitive": "bere",
       "translation": {
         "en": "to drink",
-        "ru": "пить"
+        "ru": "пить",
+        "es": "beber"
       },
       "forms": {
         "io": "bevo",
@@ -587,7 +689,8 @@
       "infinitive": "prendere",
       "translation": {
         "en": "to take",
-        "ru": "брать / заказывать / садиться на транспорт"
+        "ru": "брать / заказывать / садиться на транспорт",
+        "es": "tomar"
       },
       "forms": {
         "io": "prendo",
@@ -602,7 +705,8 @@
       "infinitive": "venire",
       "translation": {
         "en": "to come",
-        "ru": "приходить / приезжать"
+        "ru": "приходить / приезжать",
+        "es": "venir"
       },
       "forms": {
         "io": "vengo",
@@ -617,7 +721,8 @@
       "infinitive": "preferire",
       "translation": {
         "en": "to prefer",
-        "ru": "предпочитать"
+        "ru": "предпочитать",
+        "es": "preferir"
       },
       "forms": {
         "io": "preferisco",
@@ -632,7 +737,8 @@
       "infinitive": "capire",
       "translation": {
         "en": "to understand",
-        "ru": "понимать"
+        "ru": "понимать",
+        "es": "entender"
       },
       "forms": {
         "io": "capisco",
@@ -647,7 +753,8 @@
       "infinitive": "finire",
       "translation": {
         "en": "to finish",
-        "ru": "заканчивать"
+        "ru": "заканчивать",
+        "es": "terminar"
       },
       "forms": {
         "io": "finisco",
@@ -662,7 +769,8 @@
       "infinitive": "mangiare",
       "translation": {
         "en": "to eat",
-        "ru": "есть / кушать"
+        "ru": "есть / кушать",
+        "es": "comer"
       },
       "forms": {
         "io": "mangio",
@@ -677,7 +785,8 @@
       "infinitive": "pulire",
       "translation": {
         "en": "to clean",
-        "ru": "чистить / убирать"
+        "ru": "чистить / убирать",
+        "es": "limpiar"
       },
       "forms": {
         "io": "pulisco",
@@ -692,7 +801,8 @@
       "infinitive": "restare",
       "translation": {
         "en": "to stay / to remain",
-        "ru": "оставаться"
+        "ru": "оставаться",
+        "es": "quedarse / permanecer"
       },
       "forms": {
         "io": "resto",
@@ -707,7 +817,8 @@
       "infinitive": "viaggiare",
       "translation": {
         "en": "to travel",
-        "ru": "путешествовать"
+        "ru": "путешествовать",
+        "es": "viajar"
       },
       "forms": {
         "io": "viaggio",
