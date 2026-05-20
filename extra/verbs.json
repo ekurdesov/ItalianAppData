@@ -3,7 +3,8 @@
     "infinitive": "abitare",
     "translation": {
       "en": "to live / to reside",
-      "ru": "жить / проживать"
+      "ru": "жить / проживать",
+      "es": "vivir / residir"
     },
     "forms": {
       "io": "abito",
@@ -18,7 +19,8 @@
     "infinitive": "ballare",
     "translation": {
       "en": "to dance",
-      "ru": "танцевать"
+      "ru": "танцевать",
+      "es": "bailar"
     },
     "forms": {
       "io": "ballo",
@@ -33,7 +35,8 @@
     "infinitive": "cantare",
     "translation": {
       "en": "to sing",
-      "ru": "петь"
+      "ru": "петь",
+      "es": "cantar"
     },
     "forms": {
       "io": "canto",
@@ -48,7 +51,8 @@
     "infinitive": "dormire",
     "translation": {
       "en": "to sleep",
-      "ru": "спать"
+      "ru": "спать",
+      "es": "dormir"
     },
     "forms": {
       "io": "dormo",
@@ -63,7 +67,8 @@
     "infinitive": "scrivere",
     "translation": {
       "en": "to write",
-      "ru": "писать"
+      "ru": "писать",
+      "es": "escribir"
     },
     "forms": {
       "io": "scrivo",
@@ -78,7 +83,8 @@
     "infinitive": "vedere",
     "translation": {
       "en": "to see",
-      "ru": "видеть"
+      "ru": "видеть",
+      "es": "ver"
     },
     "forms": {
       "io": "vedo",
